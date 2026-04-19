@@ -1,0 +1,85 @@
+{
+  "last_updated": "2026-04-19T12:57:27.117Z",
+  "files": [
+    {
+      "name": "global_business.json",
+      "last_updated": "2026-04-19T12:57:27.104Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_crime.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_entertainment.json",
+      "last_updated": "2026-04-19T12:57:27.105Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_environment.json",
+      "last_updated": "2026-04-19T12:57:27.105Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_health.json",
+      "last_updated": "2026-04-19T12:57:27.105Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_politics.json",
+      "last_updated": "2026-04-19T12:57:27.105Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_science.json",
+      "last_updated": "2026-04-19T12:57:27.104Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_sports.json",
+      "last_updated": "2026-04-19T12:57:27.104Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_technology.json",
+      "last_updated": "2026-04-19T12:57:27.104Z",
+      "article_count": 10
+    },
+    {
+      "name": "global_world.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_business.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_entertainment.json",
+      "last_updated": "2026-04-19T12:57:27.107Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_politics.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_sports.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_technology.json",
+      "last_updated": "2026-04-19T12:57:27.107Z",
+      "article_count": 10
+    },
+    {
+      "name": "india_top.json",
+      "last_updated": "2026-04-19T12:57:27.106Z",
+      "article_count": 10
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "category": "global_health",
+  "last_updated": "2026-04-19T12:57:27.105Z",
+  "article_count": 10,
+  "articles": [
+    {
+      "id": "72375e483d54d8351688f4fec6c10418",
+      "title": "Loneliness may be silently eroding your memory, new research reveals",
+      "description": "New research suggests loneliness affects older adults' baseline memory performance but may not directly accelerate cognitive decline over time.",
+      "url": "https://www.foxnews.com/health/loneliness-may-silently-eroding-memory-new-research-reveals",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/elderly-man-sitting-alone-fox-news-001.jpeg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-04-19 00:33:20",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "43c6afb013e4c750aa66f82f3abac06b",
+      "title": "HPV: A blame game no one wins",
+      "description": "Human papillomavirus (HPV) is one of the most common sexually transmitted infections worldwide, and a complex interaction of biological, anatomical, and behavioural factors shapes its transmission dynamics.",
+      "url": "https://www.thestar.com.my/opinion/columnists/putting-dr-g-on-the-spot/2026/04/19/hpv-a-blame-game-no-one-wins",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/04/18/3866100.jpg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-04-19 00:28:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "adfc7bbbdfef73c938e0a055bacdfe7e",
+      "title": "Poor mental health care 'is forcing GPs in certain parts of the country to dish out pills'",
+      "description": "Experts claim that a lack of NHS resources in poorer parts of the country mean that, increasingly, GPs are relying on antidepressants to treat patients.",
+      "url": "https://www.dailymail.co.uk/health/article-15745673/Poor-mental-health-care-forcing-GPs-certain-parts-country-dish-pills.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/19/01/107996053-0-image-a-67_1776558374079.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-19 00:26:33",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "981082f682373855f2903cac421d8f59",
+      "title": "Eating too much salt may permanently damage men's memories - while abstaining could help delay the onset of dementia",
+      "description": "A study found those consuming too much sodium saw a decline in their memory over a six-year period - particularly when trying to recall events.",
+      "url": "https://www.dailymail.co.uk/news/article-15745655/Eating-salt-permanently-damage-mens-memories.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/19/01/107996029-0-image-a-3_1776558136705.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-19 00:23:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "10a011890fa42644ba8daddb44c40768",
+      "title": "How to beat the athlete's foot epidemic. Cases of this embarrassing problem are soaring - here's how to avoid it, and the one common mistake so many women are making",
+      "description": "It often begins with something so minor you barely register it - a faint itch between the toes. But experts warn these signs can be the first hint of a condition that is becoming increasingly hard to treat.",
+      "url": "https://www.dailymail.co.uk/health/article-15745105/beat-athletes-foot-epidemic-avoid-common-mistake-women.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/18/19/107991707-0-image-a-103_1776535695188.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-19 00:17:16",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "aec5a18b73d9250db863c694d18815d7",
+      "title": "We lost stones on Mounjaro, but gained this life-changing problem. Meet the women who say that their weight-loss jabs have resulted in a shocking side-effect you've never heard before...",
+      "description": "Research has suggested that, in addition to changes in digestion, GLP-1 drugs may influence brain pathways. One weight-loss jab user said: 'I feel like Mounjaro has stolen one of my pleasures in life.'",
+      "url": "https://www.dailymail.co.uk/health/article-15744861/lost-stones-Mounjaro-problem-women-weight-loss-jabs-shocking-effect.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/18/17/107989961-0-image-a-45_1776528829137.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-19 00:16:34",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "aeeb083bdc56c5fb4f432b938af42e2a",
+      "title": "Hospital visits for migraine treatment spike when air pollution is at its highest",
+      "description": "Hot and humid weather conditions are also associated with increased likelihood of the debilitating headaches, a study of sufferers reveals.",
+      "url": "https://www.dailymail.co.uk/health/article-15745663/Hospital-migraine-treatment-spike-air-pollution.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/19/01/73999733-0-image-a-58_1776557031469.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-19 00:04:45",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "52d51c292362581627345fd3a5807088",
+      "title": "One man’s obsessive quest to weigh the human soul",
+      "description": "The 21 grams experiment continues to fascinate us a century later. The post One man’s obsessive quest to weigh the human soul appeared first on Popular Science .",
+      "url": "https://www.popsci.com/health/21-grams-experiment-video/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/04/21-grams-experiment.jpg",
+      "source_icon": "https://n.bytvi.com/popsci.png",
+      "source": "Popular Science",
+      "published_at": "2026-04-19 00:04:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "8d89425ca67e8cb8a25f4238b526f53a",
+      "title": "Blood test may be more effective and cost-efficient than standard cholesterol tests",
+      "description": "A new study adds to growing research that apoB testing may be more effective for guiding cholesterol treatment than the current guidelines, and also highlights the cost-effectiveness of the test.",
+      "url": "https://www.medicalnewstoday.com/articles/blood-test-more-effective-cost-effective-than-standard-cholesterol-tests",
+      "image_url": "https://media.post.rvohealth.io/wp-content/uploads/sites/3/2026/04/cholesterol-test-GettyImages-2263125137-Thumb.jpg",
+      "source_icon": "https://n.bytvi.com/medicalnewstoday.png",
+      "source": "Medicalnewstoday",
+      "published_at": "2026-04-19 00:00:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "4ec73c3db5178f8118ecc401a0c2c080",
+      "title": "Bickering with your partner could be the secret to a lasting relationship - as long as you make up afterwards",
+      "description": "Couples who argue openly then resolve their differences grow closer over time, according to researchers who tracked brain activity during disagreements.",
+      "url": "https://www.dailymail.co.uk/health/article-15745631/Bickering-partner-relationship-make-up.html",
+      "image_url": "https://i.dailymail.co.uk/1s/2026/04/19/00/27231922-0-image-a-110_1776556329974.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-04-18 23:59:14",
+      "language": "english",
+      "category": "health"
+    }
+  ]
+}
