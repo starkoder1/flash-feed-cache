@@ -1,0 +1,53 @@
+name: Fetch News Cache
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch news from NewsData.io
+        env:
+          NEWSDATA_KEY_GLOBAL: ${{ secrets.NEWSDATA_KEY_GLOBAL }}
+          NEWSDATA_KEY_INDIA: ${{ secrets.NEWSDATA_KEY_INDIA }}
+        run: node scripts/fetch-news.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add news-cache/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in news-cache/"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in news-cache/"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update news cache [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push

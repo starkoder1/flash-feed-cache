@@ -1,0 +1,12 @@
+Copyright (c) 2024 starkoder1
+
+All rights reserved.
+
+The software and associated documentation files (the "Software") are proprietary
+and confidential. No part of this Software may be copied, modified, merged,
+published, distributed, sublicensed, or sold without the express written
+permission of the copyright holder.
+
+The JSON data files stored in the news-cache/ directory are generated
+automatically and are provided for public read-access only. They may not be
+redistributed or used to build competing services.
