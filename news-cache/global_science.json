@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-19T16:27:22.307Z",
-  "article_count": 11,
+  "last_updated": "2026-04-19T20:25:48.453Z",
+  "article_count": 15,
   "articles": [
+    {
+      "id": "b52bcd3d1768ca2f0c1c8ec950378cee",
+      "title": "Stephen Hawking was stumped by it – but a 7 dimension universe could explain all",
+      "description": "A paradox that has stumped scientists for decades may now have an explanation.",
+      "url": "https://www.express.co.uk/news/science/2195740/new-dimensions-theory-solve-everything",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2195740_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-04-19 06:49:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2195565f1bca36eb406b6cce4f0143c9",
+      "title": "'It would break my heart' - wind farm plans leave people divided",
+      "description": "People have contacted BBC Your Voice about plans for onshore wind farms across Wales.",
+      "url": "https://www.bbc.com/news/articles/cx2663lxw00o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6d97/live/3851ceb0-3bb9-11f1-b909-5fca5a802d88.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-19 06:44:50",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3a1fb6d166649e5cffc80a3e05930f46",
+      "title": "How the battle for Bempton's birds was won",
+      "description": "Campaigners fought to stop day-trippers shooting thousands of birds at a time on Yorkshire's coast.",
+      "url": "https://www.bbc.com/news/articles/c1j77014l77o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/295a/live/83f1e370-37fc-11f1-9200-b31cdeb07b99.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-19 06:21:34",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a9985be473bcf5ce4c661cb30a9edf67",
+      "title": "The Little Probe That Could: Why Voyager 1 Matters, and Why NASA Just Switched Part of It Off",
+      "description": "This week, NASA announced it had shut down one of that spacecraft's remaining science instruments — not because the mission has failed, but to keep it alive a little longer.",
+      "url": "https://www.npr.org/2026/04/19/nx-s1-5789935/voyager-1-probe-nasa",
+      "image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+0/resize/6000x3375!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2F6c%2F501243ac4fe7968d6fb99d606cb1%2Fap24166550210190.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-04-19 05:40:28",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "7100d7c9374455b669aa5c0cf6d9208b",
       "title": "What Happens When Light Goes Boom? Part 4: What Brad Bradington Is Good For",
