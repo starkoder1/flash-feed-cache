@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-19T12:57:27.104Z",
-  "article_count": 10,
+  "last_updated": "2026-04-19T16:27:22.307Z",
+  "article_count": 11,
   "articles": [
+    {
+      "id": "7100d7c9374455b669aa5c0cf6d9208b",
+      "title": "What Happens When Light Goes Boom? Part 4: What Brad Bradington Is Good For",
+      "description": "Cherenkov radiation isn't just a beautiful phenomenon. It turns up in nuclear reactors, in the upper atmosphere, in gamma ray telescopes on three continents, in a cubic kilometer of Antarctic ice, and in hospital imaging suites. Here's what a light boom is actually good for.",
+      "url": "https://www.universetoday.com/articles/what-happens-when-light-goes-boom-part-4-what-brad-bradington-is-good-for",
+      "image_url": "https://www.universetoday.com/article_images/icecube_neutrino_observatory_20260412_014733.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-19 02:20:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "aa6ffc68a59682b21ad7436b0a4642d8",
       "title": "Four Boston-area researchers honored with 2026 Breakthrough Prize, the ‘Oscars of Science’",
