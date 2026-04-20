@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-20T06:09:13.395Z",
-  "article_count": 34,
+  "last_updated": "2026-04-20T09:48:04.430Z",
+  "article_count": 38,
   "articles": [
+    {
+      "id": "38718886e6b3833d2a6fd952df3da157",
+      "title": "The Vera C. Rubin Observatory has Discovered 11,000 New Asteroids, and It's Barely Even Started!",
+      "description": "Rubin’s largest asteroid haul yet, gathered before the Legacy Survey of Space and Time even begins, is just the “tip of the iceberg”",
+      "url": "https://www.universetoday.com/articles/the-vera-c-rubin-observatory-has-discovered-11000-new-asteroids-and-its-barely-even-started",
+      "image_url": "https://www.universetoday.com/article_images/noirlab2608a_20260419_203702.jpeg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-19 20:37:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "10ed4757ccfc9552f8a3d8a4a33b0eab",
+      "title": "San Francisco still hasnt recovered since pandemic exodus: report",
+      "description": "San Francisco's metro area still has 2.6% fewer residents than in 2020, The San Francisco Chronicle reported, even as an AI boom fails to reverse the trend.",
+      "url": "https://www.foxnews.com/media/san-francisco-still-hasnt-recovered-since-pandemic-exodus-report",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/03/931/523/SanFrancisco.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-04-19 20:00:50",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f63c88d34ff14fdc8a29c032ffd6055d",
+      "title": "Blue Origin New Glenn rocket puts satellite payload into wrong orbit",
+      "description": "The launching appeared to go off without a hitch, but a problem prevented the rocket's upper stage from putting its payload into the correct orbit.",
+      "url": "https://www.cbsnews.com/news/blue-origin-new-glenn-rocket-satellite-wrong-orbit/",
+      "image_url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/19/187cf495-d30a-4193-8f21-1109d26d0ce8/thumbnail/1200x630/52b975d91a0cbe895dba7424172e1bb4/041926-launch.jpg",
+      "source_icon": "https://n.bytvi.com/cbsnews.png",
+      "source": "Cbs News",
+      "published_at": "2026-04-19 18:33:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d18529a3f788e3f57143795f32168b37",
+      "title": "Moroccan dinosaur's fearsome tail spikes evolved much earlier than we thought—new discovery",
+      "description": "In the heart of the Middle Atlas Mountains in central Morocco, a global team of paleontologists and geologists has discovered new remains of a very unusual dinosaur. It belonged to the group called ankylosaurs, plant eaters whose bodies were covered in bony plates.",
+      "url": "https://phys.org/news/2026-04-moroccan-dinosaur-fearsome-tail-spikes.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/moroccan-dinosaurs-fea-1.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-04-19 18:30:03",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "ad4be435aceb2ae0b9e0bcd96a191bb4",
       "title": "How tiny voids could make fusion targets more stable under powerful shockwaves",
