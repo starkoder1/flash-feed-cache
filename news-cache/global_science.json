@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-21T12:57:41.520Z",
+  "last_updated": "2026-04-21T16:48:13.901Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1c10d82d46082bcd7cb55429de50b51a",
+      "title": "I got next",
+      "description": "A subtle bass line pulsates from inside my headphones, most likely loud enough to be heard by any passerby as I lace up my green and beige New Balances before heading to the Rec for an hour of pickup basketball. Despite my limited previous experience, which came from a brief tenure on the first-year high school basketball team, I have come to find 'hoops' as my go-to weeknight ritual over the last few months. Standing in stark contrast to the pastel Kobes, Kyries and KDs that are typically on display, my 'old-reliables' have sustained continually middling performances in five-on-five play. On the court, one could loosely describe my role as a 'facilitator' - doing just about anything to get the ball into the hands of those capable enough to score (namely, anyone but myself). Instinctually, I stray away from creating plays or shooting out of fear of embarrassment. When I am given the ball at the top of the key, I'm usually waved off by familiar faces who know that I won't be taking a chance. The few shots that I do take are a mere foot away from the hoop, or the result of a rebound of someone else's missed shot. Consequently, I am generally perceived as a non-threat in most basketball contexts. Yet recently, I have found those initially unfamiliar faces to be a comfort. Beyond the stereotypical freshman fears of not fitting in or finding a friend group, the bar to get into a pickup game is extraordinarily low. The general criteria is to rely on three simple words, \"I got next.\" You don't have to be a superstar, and you certainly don't have to be six feet tall, but if you want to play, that's enough. It doesn't take long to find your people, even if you don't manage to get to sixteen points first. Further, the common courtesy of pickup extends beyond a handshake at the conclusion of each game. You'd have to look very hard to find someone who doesn't admit if they last touched the ball before going out of bounds, or if they fouled you on the follow-through of a layup. I understand that for most people, I'm getting in the weeds with basketball jargon, but my point is that generally people won't cheat, lie or take special effort to cheapen the sacred nature of the sport. In fact, clever plays or flashy passes will generally result in clapping from the opposing team, or at worst generate a look of disbelief accompanied by an under-the-breath mumble of how did he make that? With finals season upon us, I think it's important to give ourselves a little bit of grace, or, more importantly, a bit of fun. While I know many of us are tempted by the allure of a solitary day spent studying, it seems unbelievably essential to do things that are not tied to any measure of success, academic or otherwise. Thank goodness my effectiveness from the three-point range and my average of two rebounds aren't tied to my GPA, or else I would be on academic probation. What that could look like for you might be baking, watching a movie with your friends or simply taking time to be. For me, it feels like squeaky hardwood floors accompanied by the standard Wilson ball beating a steady heartbeat into the ground. I wouldn't call every person I've shared the court with a friend for life. Hell, I can't even remember half their names. But then again, I don't need to. Because each time I step on the court, the subtly upturned heads of familiar faces are all the greeting that I need. That's a feeling of family in and of itself. One that isn't contingent upon blood or similar interests, just a shared love of putting a ball in a hoop. I have never been the most skilled player, but if you ever happen to be at the Rec at eight on a Tuesday night, look at the basketball court. You'll probably see a myriad of swishes, some lucky shots, a behind-the-back pass or two and a few people just running up and down the floor, enjoying themselves. For most of us, that's all we could ever ask for. Bryce Leiberman is a freshman from Madison, Conn. studying Political Science and Philosophy. His column records a search for authenticity exploring the past, present and restless work of becoming oneself.",
+      "url": "https://www.jhunewsletter.com/article/2026/04/i-got-next",
+      "image_url": "https://snworksceo.imgix.net/jhn/1102df54-e546-4ec5-8fdb-2531f7d355e6.sized-1000x1000.png",
+      "source_icon": "https://n.bytvi.com/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-04-21 04:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "8ed17625d7d00956aa116a5013acb1b6",
+      "title": "Common daytime habit could be very serious red flag warning sign say scientists",
+      "description": "Scientists say their research involved tracking 1,300 people for 19 years",
+      "url": "https://www.mirror.co.uk/news/health/common-daytime-habit-could-very-37044523",
+      "image_url": "https://i2-prod.mirror.co.uk/money/article37044522.ece/ALTERNATES/s615/0_Sad-depressed-woman-at-home-sitting-on-the-couch-looking-down-and-touching-her-forehead-loneliness-and-pain-concept.jpg",
+      "source_icon": "https://n.bytvi.com/mirroruk.png",
+      "source": "Mirror",
+      "published_at": "2026-04-21 02:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "cf9a4bb6ba6b3712de96aefd140d4488",
+      "title": "The white-collar jobs most at risk from AI",
+      "description": "Research maps which roles face the sharpest exposure — and the results don't always follow conventional assumptions",
+      "url": "https://qz.com/white-collar-jobs-ai-displacement-risk-042026",
+      "image_url": "https://qz.com/cdn-cgi/image/width=300,height=300,fit=cover,quality=85,format=auto/https://assets.qz.com/media/AI%20jobs%20displacement.jpg",
+      "source_icon": "https://n.bytvi.com/quartz.png",
+      "source": "Quartz",
+      "published_at": "2026-04-21 01:21:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "169e00b5dc67b4fcd4447b7fde46da75",
+      "title": "Large mammal declines reshape nutrient flows in African savannas—with consequences for tadpoles",
+      "description": "A new study led by researchers from the Museum für Naturkunde Berlin reveals how the loss of large mammals can ripple through ecosystems in unexpected ways, even affecting amphibian larvae living in temporary ponds. By examining changes in nutrient dynamics over more than two decades, the researchers show that declines in large herbivores are associated with a system-wide reduction in nitrogen isotope values in aquatic habitats, highlighting how disruptions in terrestrial wildlife populations can cascade across ecosystem boundaries.",
+      "url": "https://phys.org/news/2026-04-large-mammal-declines-reshape-nutrient.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/tadpoles.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-04-21 01:20:06",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "2dfc9230d8d9721005d7481c493f589e",
       "title": "Government to propose electricity price changes in clean power push",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-04-20 05:21:11",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a8e4004d880f1fe5633720d8dd9823b9",
-      "title": "The underappreciated organ that could be key to longer life",
-      "description": "New research challenges assumption that small organ located behind sternum becomes unimportant after childhood",
-      "url": "https://www.independent.co.uk/news/science/ageing-human-organ-thymus-longevity-b2960777.html",
-      "image_url": "https://static.independent.co.uk/2026/04/20/3/48/Human-thymus.jpeg?width=1200&auto=webp&trim=43%2C500%2C236%2C28",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-04-20 04:40:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f355eeb49d984f974868cde2e94bc201",
-      "title": "To watch and watch for: Week of April 20",
-      "description": "The year is winding down, midterms are nearly over and that elusive handful of truly spring weather weeks in Maryland is peeking through the clouds. The allure of the sun and the Beach nearly manages to distract from the looming threat of finals, but in spite of future stress, perhaps we can pre-game our end-of-the-semester celebration a little earlier with these forthcoming selections. If you're a regular reader of our beloved Arts and Entertainment Section, you'll remember the recent Throwback Thursday on the ancient cave paintings of the Chauvet Caves . In 2010, the Chauvet Caves featured in renowned German director Werner Herzog's 3D documentary Cave of the Forgotten Dreams , which is being released in 6k restoration this Friday. While it may be impossible for a great many of us to ever see the Chauvet Caves in person, this 6k restoration not only brings the images of its walls to you, but it promises 3D effect , highlighting every crevice and divot. Look for this movie that looks back at the beginnings of art in a theatre near you on April 24! In the spirit of looking back, the end of the year prompts many of us to begin reflecting on the 2025-2026 school year. How have we transformed, freshmen into sophomores, and have we fashioned ourselves into something ready for the broader world, graduating seniors? Yongyu Chen's debut poem collection Perennial Counterpart, which explores themes of \" memory, nostalgia, and identity ,\" might be the perfect read for our reflective time. The collection \" balances conceptual density with a yearning lyricism \" and releases this Tuesday on April 21! Following this bittersweet note, Noah Kahan's fourth album The Great Divide promises songs of old memories and summer days with track titles like \"End of August\" and \"We Go Way Back.\" The album's title track, released at the end of January, sends out a raw, heartfelt message to an old friend many years after their relationship has faded. If the end of the school year promises some bittersweet things for you, check out The Great Divide when it releases this Friday on April 24. But don't let all this reflecting get you down, because spring is also a time for celebration and living in the moment. As you might have seen all over Sidechat, Instagram or our very own The News-Letter , Gunna will be headlining our annual Spring Fair Concert this Saturday, April 25. Known for albums such as Drip or Drown 2 and DS4EVER , Gunna's rap music has topped Billboard charts since his debut in 2016. If he isn't in your rotation already, then tune in, because tickets drop this Monday at 12 p.m.! To watch: American Youngboy , directed by Nico Ballesteros - April 22 Nikki Glaser: Good Girl , directed by Hamish Hamilton - April 24 Michael , directed by Antoine Fuqua - April 24 Cave of Forgotten Dreams , directed by Werner Herzog - April 24 Omaha , directed by Cole Webley - April 24 To read: Working Nature: A History of the Energy Economy , written by Daniela Russ - April 21 Lidie: The Further Travels and Adventures of Lidie Newton: A Novel , written by Jane Smiley - April 21 No Way Home , written by T. C. Boyle - April 21 Afternoon Hours of the Hermet , written by Patrick Cottrell - April 21 Perennial Counterpart , written by Yongyu Chen - April 21 To listen: Wishbone (Deluxe) , by Conan Gray - April 24 Kehlani , by Kehlani - April 24 The Great Divide , by Noah Kahan - April 24 Toy With Me , by Meghan Trainor - April 24 Under My Umbrella , by Miss Grit - April 24 Live events: Love and Family in Palestinian Cinema screening: 'The Time That Remains' - April 20, 6-8 p.m. at Gilman 50 This event is free. Spring Fair Concert: Gunna - April 25, 8 p.m. at the Ralph S. O'Connor Recreation Center This event is free and requires registration. The Joshua Ringel Memorial Reading: Cornelius Eady - April 26, 2-4 p.m. at the Baltimore Museum of Art This event is free and requires registration. I'm Gonna Let It Shine: Praise, Power, and Protest in Black Musical Traditions - April 26, 3-5 p.m. at the St. James Episcopal Church This event is free and requires registration. Shriver Hall Concert Series: Steven Isserlis, Cello and Connie Shih, Piano - April 26, 5:30-7:30 p.m. at the Shriver Hall Auditorium This event is free and requires registration.",
-      "url": "https://www.jhunewsletter.com/article/2026/04/to-watch-and-watch-for-week-of-april-20",
-      "image_url": "https://snworksceo.imgix.net/jhn/7939c7f8-9271-4239-b0fc-3369ee97da95.sized-1000x1000.png",
-      "source_icon": "https://n.bytvi.com/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-04-20 04:07:14",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "748520e02221c55803b1b3b9187ffddb",
-      "title": "‘Robots don’t bleed’: Ukraine sends machines into the battlefield in place of human soldiers",
-      "description": "Ukraine’s military is increasingly using robots to replace human soldiers, even in combat assault missions, helping to counter Russia’s manpower advantage.",
-      "url": "https://www.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2270934926.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-04-20 04:01:55",
-      "language": "english",
-      "category": "business"
-    },
-    {
-      "id": "eaceaf7e10728d885503c4d5dc8fbd5b",
-      "title": "Monday Mini (04/20/2026)",
-      "description": null,
-      "url": "https://www.jhunewsletter.com/article/2026/04/monday-mini-04202026",
-      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
-      "source_icon": "https://n.bytvi.com/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-04-20 04:00:00",
       "language": "english",
       "category": "science"
     }
