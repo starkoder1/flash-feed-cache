@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-23T12:58:06.769Z",
+  "last_updated": "2026-04-23T17:09:00.643Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ded4fc98f191b9d35fbd1b41cd23179e",
+      "title": "Astronaut takes photo of his university from orbit",
+      "description": "Jack Hathaway tells Cranfield University he had to wait for a break in the British weather.",
+      "url": "https://www.bbc.com/news/articles/cq6j3e0v8rgo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bfc0/live/5a8f0590-3e59-11f1-8887-e93160959470.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-23 04:34:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "322a0938f69a6a12f7e74844a2805e55",
+      "title": "New funding opportunities pave the way for better diagnostics and treatment as well as for engineering efficient biosolutions and replacing critical and scarce resources",
+      "description": "COPENHAGEN, Denmark, April 23, 2026 (GLOBE NEWSWIRE) -- The Novo Nordisk Foundation Challenge Programme supports development of new knowledge to help tackle major societal challenges within human and planetary health. With total funding up to €80 million, four new themes are now open for applications from interdisciplinary research teams across Europe. From the way we diagnose disease to how we produce chemicals and materials, many of the systems on which society depends are under growing pressure. Infections are becoming harder to detect and treat. Climate change is increasing health risks. And the technologies driving the green transition are not efficient enough and often rely on limited and critical resources. Addressing these challenges requires new knowledge as well as new ways of working across disciplines. Through the Challenge Programme, the Novo Nordisk Foundation supports ambitious, interdisciplinary research aiming to advance solutions for both human and planetary health. Every year, four new themes are identified and offered in open competition for leading research across Europe. The four themes for 2027 are now open for applications: Theme 1: Advancing Next Generation AMR Diagnostics for Lower Respiratory Tract Infections Theme 2: Heat and hypertension – understanding the mechanisms of interaction Theme 3: Unravelling electron transfer mechanisms in hybrid bio-electrocatalysis Theme 4: Harnessing novel Earth-abundant materials for sustainable technologies Improving diagnostics for lung infections and better understanding of cardiovascular health in extreme heat Two of the themes focus on advancing solutions for human health, addressing urgent needs in infectious diseases and cardiovascular health. From improving diagnostics for serious lung infections to understanding how heat waves affect vulnerable patients with hypertension, the two themes aim to generate knowledge that can save lives and optimise ... Full story available on Benzinga.com",
+      "url": "https://www.benzinga.com/pressreleases/26/04/g51989200/new-funding-opportunities-pave-the-way-for-better-diagnostics-and-treatment-as-well-as-for-enginee",
+      "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+      "source_icon": "https://n.bytvi.com/benzinga.png",
+      "source": "Benzinga",
+      "published_at": "2026-04-23 04:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b2b10992ca84cb0740752fd81e1f2f38",
+      "title": "NASA’s Earth Day tool spells your name with satellite images",
+      "description": "Ever wanted to spell your name with a mountain? Maybe a river? In honor of Earth Day, NASA's Landsat satellite will help you do just that.",
+      "url": "https://www.wcvb.com/article/landsat-satellite-images-spell-your-name-nasa/71101618",
+      "image_url": "https://kubrick.htvapps.com/htv-prod/images/ccd3e2da-3471-4a38-818a-57e5cebd0ba3.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "source_icon": "https://n.bytvi.com/wcvb.png",
+      "source": "Wcvb",
+      "published_at": "2026-04-23 01:50:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4b884f86aa475d84648571274fea19f5",
+      "title": "This simple fatty acid could restore failing vision",
+      "description": "Scientists at UC Irvine have found a way to potentially reverse age-related vision loss by targeting the ELOVL2 “aging gene” and restoring vital fatty acids in the retina. Their experiments in mice show that supplementing with specific polyunsaturated fatty acids—not just DHA—can restore visual function and even reverse cellular aging signs.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260422091043.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/female-eye-aging.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-04-23 01:06:41",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e5c5490af3c7d20c453c37315f228135",
+      "title": "UH electrical engineering student awarded top PhD fellowship",
+      "description": "Murillo’s path at UH Mānoa reflects a multidisciplinary journey shaped by hands-on research and mentorship. The post UH electrical engineering student awarded top PhD fellowship first appeared on University of Hawaiʻi System News .",
+      "url": "https://www.hawaii.edu/news/2026/04/22/murillo-top-phd-fellowship/",
+      "image_url": "https://www.hawaii.edu/news/wp-content/uploads/2026/04/manoa-engineering-andrea-murillo-fablab-headshot.jpg",
+      "source_icon": "https://n.bytvi.com/news_hawaii.png",
+      "source": "The University Of Hawaii System",
+      "published_at": "2026-04-23 01:03:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0837fa8c08c4c07fc3741f852cf50bd8",
+      "title": "Blast off! Onizuka Day inspires next generation of STEM stars",
+      "description": "Astronauts, massive whales and robots showed students that the future is now. The post Blast off! Onizuka Day inspires next generation of STEM stars first appeared on University of Hawaiʻi System News .",
+      "url": "https://www.hawaii.edu/news/2026/04/22/onizuka-day-inspires-next-generation/",
+      "image_url": "https://www.hawaii.edu/news/wp-content/uploads/2026/04/west-oahu-onizuka-day3.jpg",
+      "source_icon": "https://n.bytvi.com/news_hawaii.png",
+      "source": "The University Of Hawaii System",
+      "published_at": "2026-04-23 01:00:21",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "978afb7cc79eb7dc9e76d59217d472ad",
       "title": "Gov. Tim Walz writing book on Minnesota’s resistance to ICE operation",
@@ -530,78 +602,6 @@
       "published_at": "2026-04-22 08:22:22",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "21d08c43548b0c48ce64250b3ab51d00",
-      "title": "NASA’s Curiosity finds organic molecules on Mars in new discovery",
-      "description": "Mars was found to be a habitable world around the ​time that ⁠life on Earth originated",
-      "url": "https://www.independent.co.uk/space/nasa-curiosity-rover-mars-organic-molecules-b2962443.html",
-      "image_url": "https://static.independent.co.uk/2026/04/21/10/2026-04-21T070055Z_165842671_RC22TKAFNH7J_RTRMADP_3_SPACE-MARS.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-04-22 07:32:28",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "40062bbde71f550e0f9a097a8c51104d",
-      "title": "This “quantum” material fooled scientists and revealed something new",
-      "description": "A mysterious magnetic material once thought to host an exotic “quantum spin liquid” has turned out to be something entirely different—and possibly just as intriguing. Scientists studying cerium magnesium hexalluminate found it showed the hallmark signs of this elusive quantum state, like a lack of magnetic order and a spread of energy states. But after closer inspection using neutron experiments, they discovered the behavior came from a delicate tug-of-war between two opposing magnetic forces.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260421042819.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/strange-quantum-material-new-phase-state.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-22 07:18:44",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0c3c6ed9866052893de4e1652d6f4dbb",
-      "title": "On Iran’s islands, an intriguing portrait carries new meaning",
-      "description": "Islanders living in the Strait of Hormuz have long believed the wind to be a powerful entity. Now, amid war between the US, Israel, and Iran, their home in the strategic waterway is caught in a different kind of bluster.",
-      "url": "https://www.cnn.com/2026/04/22/style/strait-of-hormuz-island-portrait-hoda-afshar",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/2020-10-12-hoda-pt2-s1-0016-ph-a3.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-04-22 07:14:43",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d92c9bf94d07df2d4209404aace1ea4b",
-      "title": "Syngenta Deploys Tetra OS to Accelerate Scientific Discovery Through Industrial-Scale Data Automation",
-      "description": "BOSTON, April 22, 2026 (GLOBE NEWSWIRE) -- TetraScience , the Scientific Data and AI Company, today announced that Syngenta has selected Tetra OS to power digital automation and data transformation in its Crop Protection R&D organization. This move is set to eliminate the manual, ad-hoc data exchange, and manual transcription that have historically slowed scientific decision-making. Syngenta will deploy the Tetra Scientific Data Foundry to centralize and harmonize analytical data from a diverse range of analytical (including chromatography and mass spectrometry) and characterization systems. The Foundry will transform instrument raw data into a standardized, AI-ready format. By linking siloed data sources into a single, searchable \"scientific memory\", it will enable high-quality data sharing with downstream tools and applications. Tetra Sciborgs, a team of scientist-engineers who operate at the nexus of science, data, and AI, will be forward-deployed to guide Syngenta through implementation, adoption, and continuous improvement. ... Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/pressreleases/26/04/g51959705/syngenta-deploys-tetra-os-to-accelerate-scientific-discovery-through-industrial-scale-data-automat",
-      "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-04-22 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ebcfa5837329662c0603acbf7aea9c02",
-      "title": "Mediclinic City Hospital reinforces leadership in robotic-assisted surgery",
-      "description": "This commitment to ongoing innovation ensures that patients receive the highest standard of precision and modern medical treatment in a supportive, informed environment.",
-      "url": "https://www.khaleejtimes.com/lifestyle/health/mediclinic-city-hospital-reinforces-leadership-in-robotic-assisted-surgery",
-      "image_url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-21/gkm2gbu1/WhatsApp-Image-2026-02-05-at-13.50.30.jpeg",
-      "source_icon": "https://n.bytvi.com/khaleejtimes.png",
-      "source": "Khaleej Times",
-      "published_at": "2026-04-22 05:58:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "63c5d779491e56dbbe5f123873e6fc06",
-      "title": "This donut-shaped discovery just shattered a 150-year math rule",
-      "description": "A 150-year-old rule in geometry has been proven wrong. Mathematicians found two different doughnut-shaped surfaces that look identical when measured locally but are actually different overall. For decades, researchers suspected this might be possible but couldn’t prove it—until now. The breakthrough reshapes how mathematicians understand the relationship between local measurements and global form.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/breaking-bonnets-rule.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-22 05:49:13",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
