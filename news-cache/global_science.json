@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-23T17:09:00.643Z",
+  "last_updated": "2026-04-23T20:43:11.536Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "fc3e77bf5bc7d2baa26d5609fd1cd810",
+      "title": "Space hotels offer billion-star service",
+      "description": "Space hotels are on the brink of becoming feasible, as several countries are trying to launch luxury accommodations in space.",
+      "url": "https://theweek.com/science/space-hotels-tourism-moon",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gEqiARseiZeyg3SfsLYj3D-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-04-23 07:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6534c057cda5be125b23612c5dba8853",
+      "title": "'Impossible Job' of UN Secretary-General: Presiding over 193 member states with competing interests",
+      "description": "Haxie Meyers-Belkin is pleased to welcome Dr. Alexandra Novosseloff, Associate Research Fellow at the Thucydides Centre of Paris II Panthéon-Assas University. According to Dr. Novosseloff, the UN is a living reflection of the geopolitical tensions that shape our world. In assessing the current race for Secretary-General, she focuses less on individual personalities and more on the structural constraints that define the role itself. The Secretary-General operates within a system driven by competing state interests, where leadership is less about authority and more about navigation.",
+      "url": "https://www.france24.com/en/impossible-job-of-un-secretary-general-presiding-over-193-member-states-with-competing-interests",
+      "image_url": "https://s.france24.com/media/display/ef86a96c-3ed3-11f1-9d5f-005056bfb2b6/w:1280/p:16x9/EN-20260422-152112-152929-CS.jpg",
+      "source_icon": "https://n.bytvi.com/france24.png",
+      "source": "France 24",
+      "published_at": "2026-04-23 06:59:17",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8abc4e75aba8339b31292dc48203c96c",
+      "title": "Landmarks recreated as bug hotels near station",
+      "description": "Safe havens for insects and small animals have been installed near Burley Park Station in Leeds.",
+      "url": "https://www.bbc.com/news/articles/c9qdr8l5plqo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9052/live/36861a50-3e75-11f1-8f78-2b3776d2d1d0.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-23 06:26:46",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e7b083f10e55adc930893a9de4439612",
+      "title": "An Astronaut Filmed an ‘Earthset’ With His Phone, Proving Humans Really Did Go to Space",
+      "description": "A few weeks ago, I wrote about the rise of AI-generated slop videos showing impossibly crisp footage of meteorites hitting the Moon that, we are being asked to believe, was impossibly shot on a modern smartphone while standing on the Earth’s solid ground. Then along comes Reid Wiseman, commander of Artemis II, casually filming something [...] The post An Astronaut Filmed an ‘Earthset’ With His Phone, Proving Humans Really Did Go to Space appeared first on VICE .",
+      "url": "https://www.vice.com/en/article/an-astronaut-filmed-an-earthset-with-his-phone-proving-humans-really-did-go-to-space/",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/An-Astronaut-Filmed-an-Earthset-With-His-Phone-Proving-Humans-Really-Did-Go-to-Space.jpg",
+      "source_icon": "https://n.bytvi.com/vice.png",
+      "source": "Vice News",
+      "published_at": "2026-04-23 05:30:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "ded4fc98f191b9d35fbd1b41cd23179e",
       "title": "Astronaut takes photo of his university from orbit",
@@ -554,54 +602,6 @@
       "published_at": "2026-04-22 12:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "459779cad657d3dc9a23baf646ea9f90",
-      "title": "Odysseus was worshipped as a god in Ithaca during the Hellenistic period, and the striking revelations from archaeological research",
-      "description": "Recent archaeological research at the School of Homer in northern Ithaca has uncovered a monumental complex with the characteristics of a sanctuary and palace directly linked to Odysseus. Inscriptions bearing his name, along with the continuous use of the site from the Mycenaean to the Roman period, confirm that the hero was not only a mythological figure, but a historical person who was also worshipped as a god The post Odysseus was worshipped as a god in Ithaca during the Hellenistic period, and the striking revelations from archaeological research appeared first on ProtoThema English .",
-      "url": "https://en.protothema.gr/2026/04/22/odysseus-was-worshipped-as-a-god-in-ithaca-during-the-hellenistic-period-and-the-striking-revelations-from-archaeological-research/",
-      "image_url": "https://en.protothema.gr/wp-content/uploads/2026/04/Screenshot-2026-04-22-at-11.41.46-AM.png",
-      "source_icon": "https://n.bytvi.com/protothema.png",
-      "source": "Protothema",
-      "published_at": "2026-04-22 08:40:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1a19000538f9d342cb6b49a7cb0c26b1",
-      "title": "Bird flu vaccine trial begins to fight ‘real possibility’ of virus threat for humans",
-      "description": "The vaccine will utilise mRNA technology similar to that employed in Covid-19 jabs",
-      "url": "https://www.independent.co.uk/news/uk/home-news/bird-flu-vaccine-trial-moderna-humans-b2962487.html",
-      "image_url": "https://static.independent.co.uk/2022/10/14/09/iStock-1302343877.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-04-22 08:29:26",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "b0657696a8951cdc88a660580d84cd99",
-      "title": "Can you spot the fake? Take the test to see if you can distinguish between real and AI-generated VOICES",
-      "description": "Our voices are just about as unique as our fingerprints - so can you tell the difference between a real one from one that has been AI-generated?",
-      "url": "https://www.dailymail.com/sciencetech/article-15751525/spot-fake-AI-generated-VOICES.html",
-      "image_url": "https://i.dailymail.com/1s/2026/04/22/09/108066629-0-image-a-12_1776845973938.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-04-22 08:28:53",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6ee7d0688f12a66456a665e80b2372ed",
-      "title": "Unemployment Spikes for Key Chinese Age Group as AI Use Spreads",
-      "description": "An unexpected deterioration in China’s labor market has reached the key demographic of early-career workers, as seasonal pressures amplified spillovers from the war in Iran while wider use of artificial intelligence raises risks for employment.",
-      "url": "https://financialpost.com/pmn/business-pmn/unemployment-spikes-for-key-chinese-age-group-as-ai-use-spreads",
-      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/04/one-corner-of-chinas-job-market-suffers-record-pressure-you.jpg",
-      "source_icon": "https://n.bytvi.com/financialpost.png",
-      "source": "Financial Post",
-      "published_at": "2026-04-22 08:22:22",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
