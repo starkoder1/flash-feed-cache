@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-26T16:30:41.158Z",
+  "last_updated": "2026-04-26T20:27:10.534Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "aa602e30d3c4b012a7dbb450cad688ac",
+      "title": "'Time traveller' says he from the year 2582 and claims huge event coming in weeks",
+      "description": "A TikTok user claiming to be a time traveller makes some big claims about the future of the planet",
+      "url": "https://www.dailystar.co.uk/news/weird-news/time-traveller-says-year-2582-37061213",
+      "image_url": "https://i2-prod.dailystar.co.uk/news/weird-news/article37061212.ece/ALTERNATES/s615/0_Planet-Earth-Seen-from-Space-Night-in-Europe-with-City-Lights.jpg",
+      "source_icon": "https://n.bytvi.com/dailystar.png",
+      "source": "Dailystar Co Uk",
+      "published_at": "2026-04-26 06:30:00",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "3676b83a26febdd848ef9216d39b3aa3",
+      "title": "'We're living in a shed because of river pollution'",
+      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
+      "url": "https://www.bbc.com/news/articles/c6244zv02ero",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3753/live/bea799a0-3fc8-11f1-b420-d1e4d9e88a70.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-26 06:20:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "efac63feb860dda658a86db6074ebc23",
+      "title": "Social science’s low replication rate is not a crisis",
+      "description": "Successful replication of findings doesn't necessarily mean those findings are right and failure to replicate doesn't necessarily mean they're wrong.",
+      "url": "https://www.japantimes.co.jp/commentary/2026/04/26/being-right-only-half-the-time/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/26/534485.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-04-26 04:48:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "793befd4c30f287e86c21f7db93027c9",
       "title": "Webb Finds Water-Ice Clouds on Nearby Super-Jupiter",
@@ -24,6 +60,18 @@
       "source_icon": "https://n.bytvi.com/japantimes.jpg",
       "source": "The Japan Times",
       "published_at": "2026-04-26 03:57:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fa4dda82b6bee8e1a9c79522b26adf0f",
+      "title": "Trump Fires Board Members of Group That Oversees U.S. Science Funding",
+      "description": "The dismissals from an independent board that oversees the National Science Foundation marked the president’s latest assault on scientific research organizations.",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-fires-board-members-scientific-research-group.html",
+      "image_url": "https://static01.nyt.com/images/2026/04/25/multimedia/25dc-nsb-ljbq/25dc-nsb-ljbq-mediumSquareAt3X.jpg",
+      "source_icon": "https://n.bytvi.com/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-04-26 01:17:34",
       "language": "english",
       "category": "science"
     },
@@ -554,54 +602,6 @@
       "published_at": "2026-04-25 02:32:38",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "fea7279574935195c5abd5773fc64044",
-      "title": "JWST Hunts for an 'Earth-Moon' Twin in a Habitable Zone, But the Star Has Other Plans",
-      "description": "The Moon has played a huge role in the development of Earth. It stabilizes the planet, tempered dramatic climate swings, and possibly even provided the tidal heating that might have led to the first life forms. So it’s natural we would want to find a similar Earth/Luna system somewhere else in the cosmos. But astronomers have been searching for one for years at this point to no avail. And a new paper from Emily Pass and her colleagues at MIT, Harvard, and the University of Chicago describes using the James Webb Space Telescope to track some of the most promising exomoon candidates - only to be foiled by the star they were orbiting.",
-      "url": "https://www.universetoday.com/articles/jwst-hunts-for-an-earth-moon-twin-in-a-habitable-zone-but-the-star-has-other-plans",
-      "image_url": "https://www.universetoday.com/article_images/TOI_700_System_Still_E_20260422_145346.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-04-25 02:08:51",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "41dd0e8492f263841289e2b5ad5d8748",
-      "title": "Scientists revive ancient 24,000-year-old ‘zombie worm’ from Arctic ice — then it reproduced",
-      "description": "Scientists revived a 24,000-year-old microscopic organism frozen in Siberian permafrost, offering new insights into how life endures extreme conditions.",
-      "url": "https://www.foxnews.com/science/scientists-revive-ancient-24000-year-old-zombie-worm-from-arctic-ice-reproduced",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/Zombie-worms.jpeg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-04-25 01:42:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2efd52837e65c2fecb8265658b8a8616",
-      "title": "Hundreds of students walk out of Central Catholic High School, demanding school holds baseball team accountable",
-      "description": "Students said they want the varsity players involved in using a racial slur be removed from the team, the coaches suspended and the student handbook revised.",
-      "url": "https://www.kgw.com/article/news/education/central-catholic-high-school-student-walkout-racial-slur-baseball-team/283-68a4c214-2ac4-4cd5-974d-6f11b7d3366e",
-      "image_url": "https://media.kgw.com/assets/CCT/images/ff4bcfac-47ce-4c4f-bcc7-f4dd914ea1c1/20260424T140749/ff4bcfac-47ce-4c4f-bcc7-f4dd914ea1c1_1920x1080.jpg",
-      "source_icon": "https://n.bytvi.com/kgw.jpg",
-      "source": "Kgw",
-      "published_at": "2026-04-25 01:31:51",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "980ada02bac78ed365491d9bc976fdd9",
-      "title": "The FDA is psyched on psychedelics. Which ones will be studied and why?",
-      "description": "After an executive order, the FDA announced it would prioritize the study of some psychedelic drugs for therapeutic use. Which did they choose and why?",
-      "url": "https://www.usatoday.com/story/news/health/2026/04/24/what-psychedelics-fda-trump-approve-for-study/89774878007/",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/04/24/USAT/89780914007-getty-images-2205119125.jpg?crop=1023,576,x0,y106&width=1023&height=511&format=pjpg&auto=webp",
-      "source_icon": "https://n.bytvi.com/usatoday.jpg",
-      "source": "Usa Today",
-      "published_at": "2026-04-24 23:10:23",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
