@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-26T06:01:16.497Z",
+  "last_updated": "2026-04-26T08:49:13.092Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "bbb6e3fd1d9d213e6dddb8379eb6d505",
+      "title": "Trump administration fires National Science Board members",
+      "description": "The scientists serving on the National Science Board received letters from the Presidential Personnel Office Friday telling them they are fired.",
+      "url": "https://www.upi.com/Top_News/US/2026/04/25/trump-administration-fires-national-science-board-members/7141777149248/",
+      "image_url": "https://cdnph.upi.com/ph/st/th/7141777149248/2026/upi_com/7dd788bf42dc11507b78429ee3ab7a6f/v1.5/Trump-administration-fires-National-Science-Board-members.jpg",
+      "source_icon": "https://n.bytvi.com/upi.jpg",
+      "source": "Upi",
+      "published_at": "2026-04-25 20:39:28",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b8c9f55949b46756436b63668a7ba48f",
+      "title": "DNA says you’re related to a Viking, a medieval German Jew or a 1700s enslaved African? What a genetic match really means",
+      "description": "Genealogical and genetic ancestors aren’t the same thing. A DNA match − or a lack of one − may not tell you what you imagine it does about your family tree.",
+      "url": "https://www.yahoo.com/news/articles/dna-says-related-viking-medieval-202301372.html",
+      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/2376d8c5304cba075f30b8f15a254bab",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-04-25 20:23:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2960d80243032c9fcea958cc87f3c5f2",
+      "title": "How scammers build a profile on you using data brokers",
+      "description": "Your personal information is on data broker sites for anyone to find. Learn how scammers exploit this data and how to remove yourself from these databases.",
+      "url": "https://www.foxnews.com/tech/scammers-build-profile-using-data-brokers",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/person-typing-on-computer.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-04-25 19:29:05",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "6a27bdb43babe2f3f3418fc6d236d85f",
+      "title": "Anthropic's Mythos AI found over 2,000 unknown software vulnerabilities in just seven weeks of testing",
+      "description": "Anthropic's Mythos AI discovered over 2,000 unknown software vulnerabilities in seven weeks, prompting the company to restrict its release to the public.",
+      "url": "https://www.foxnews.com/tech/anthropics-mythos-ai-found-2000-unknown-software-vulnerabilities-seven-weeks-testing",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/anthropic-mythos-ai-fox-news-001.jpeg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-04-25 19:25:57",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "892de88b88d523b7c34c9c5a9f997838",
+      "title": "Catalysis App: Structured research data for developing sustainable catalysts",
+      "description": "Catalysis—the reduction of activation energy in a chemical reaction by a catalyst—plays a key role in the chemical industry, as well as in the development of sustainable technologies essential for achieving a low-carbon economy. However, the search for high-performance and sustainable catalysts is often costly and time-consuming. It can be accelerated through data-driven catalysis research. Yet experimental data are often not available in machine-readable and standardized formats.",
+      "url": "https://phys.org/news/2026-04-catalysis-app-sustainable-catalysts.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/catalysis-app-structur.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-04-25 18:30:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a44832226878ac82dbebcc80235e22d6",
+      "title": "Watch: How one orangutan braved new bridge to unite his split community",
+      "description": "The forest where the Sumatran orangutans live has been split by a road.",
+      "url": "https://www.bbc.com/news/videos/ckgerdnvm2xo",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0ngmdl3.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-25 18:23:45",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dde236c743d0381a4b0e1283f6b0d161",
+      "title": "Climate Scientists Shake Their Heads as First US City Running Completely Out of Water",
+      "description": "\"We have no precedent to follow. There's no manual, there's no video.\" The post Climate Scientists Shake Their Heads as First US City Running Completely Out of Water appeared first on Futurism .",
+      "url": "https://futurism.com/science-energy/texas-water-crisis-climate",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/texas-water-crisis-climate.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-04-25 18:15:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "82e612b04f25097152fabb829daf26b9",
+      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
+      "description": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite the devastation, some animals survived, including rodent-like mammals in the Cimolodon genus. These creatures are part of the multituberculates, a group that arose during the Jurassic Period and survived over 100 million years before going extinct. Studying these animals helps researchers better understand how mammals survived the mass extinction event and then diversified into the variety of mammals around today.",
+      "url": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-discover-t.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-04-25 18:00:04",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "a4f527cf30c8b8af1d53d59fd6757176",
       "title": "Unions Attack AI for Menacing Human Jobs",
@@ -506,102 +602,6 @@
       "published_at": "2026-04-24 20:27:20",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "92d390da04276f2be1c44f942c61fab4",
-      "title": "Watch the Artemis II astronauts have fun with bubbles",
-      "description": "‘Oh! You busted the bubble!’ The post Watch the Artemis II astronauts have fun with bubbles appeared first on Popular Science .",
-      "url": "https://www.popsci.com/science/artemis-ii-astronauts-bubbles/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/04/jeremy-hansen-bubble.png",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-04-24 19:38:52",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0f3f3da86868d6ff0d8210e8c2c93ffd",
-      "title": "Colibre: A New Cosmic Simulation With Cinematic Flair",
-      "description": "The new Colibre cosmological simulation includes more critical detail than previous simulations. It also includes updated models of things like AGN feedback and star formation. The simulations also include a sonic component, giving the results a cinematic and information-rich flair.",
-      "url": "https://www.universetoday.com/articles/colibre-a-new-cosmic-simulation-with-cinematic-flair",
-      "image_url": "https://www.universetoday.com/article_images/image_English_20260424_190628.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-04-24 19:27:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "16f93208eb5836713834c558f2d31191",
-      "title": "Stretchable electronic skin lets robotic hand feel touch and pressure signals",
-      "description": "Researchers develop flexible, stretchable electronic skin and soft robots inspired by nature at University of Turku.",
-      "url": "https://interestingengineering.com/ai-robotics/flexible-electronics-electronic-skin-soft-robots-turku-study",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/soft-robot.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-04-24 19:23:32",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "9d2547db8c83aa72f6469bd00f6516a7",
-      "title": "Archaeologists discover 7-foot-tall statue of legendary Egyptian pharaoh",
-      "description": "The over 3,000-year-old statement piece belonged to Ramses the Great. The post Archaeologists discover 7-foot-tall statue of legendary Egyptian pharaoh appeared first on Popular Science .",
-      "url": "https://www.popsci.com/science/ramses-the-great-statue-egypt/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/04/Ramses-II-Statue.jpg",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-04-24 19:16:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f05dd33f5c0548df59cb337b07cec42d",
-      "title": "Chinese Netflix Competitor Opens Floodgates to AI Slop",
-      "description": "Sorry, C-drama fans. The post Chinese Netflix Competitor Opens Floodgates to AI Slop appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/chinese-netflix-competitor-ai-slop",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/chinese-netflix-competitor-ai-slop.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-24 19:13:56",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "916a0ce46661f172aa88a2cfb30e2915",
-      "title": "Facets of home",
-      "description": "1. 家 (jiā) / home When we first moved to Vancouver, my parents held out only a few weeks before their homesickness set in, rising like a fever. They booked their first flight back to China three weeks later. Then the flights home stretched to become months apart, then every half-year, until it was just once a year. Suitcases no longer waited by the front door. In between visits, they learned to make do with WeChat video calls that showed only their parents' faces cropped awkwardly at the neck as we ate mooncakes that tasted faintly of freezer burn. In time, they surrendered their Chinese passports, raised a red and white flag, and became Canadians. During COVID, my parents insisted on going back every summer, even when their homeland wanted to keep us out. We endured lung scans, blood tests and hazmat suits. Even though we only went back once a year, that rhythm of return was something I counted on and carried me through each school year. The summer after my sophomore year was the first time I didn't go back. College applications were approaching, and between SATs, summer research and piano exams, I was the only one who stayed in Vancouver while everyone else went home. That summer stretched into winter, winter into spring and then to the next summer. And quietly, without me noticing, my plans to return dissolved with the seasons. I realized that by the time I graduated, it would have been three years since I last went home. Sitting in the empty house the summer after my junior year, I remember constantly playing \"The Lark\" by Mikhail Glinka. It was inspired by his travels abroad and eventual homecoming. Sitting at the cold piano bench, my thighs sticking to the leather and my hands slipping against the keys, I read the words my teacher had written under the first four notes: patient and longing. I forced myself to imagine the contour of a bird's wing as I played, trying to pour all the homesickness I could into the melody. Glinka got to go home, but I didn't know if I would. That thought weighed on me even as I reminded myself to play slowly, to keep the bass soft, to let the bird sing through the melody. Yet all I wanted was to slam on the keys and drown out that hopeful bird. 2. 夹 (jiá) / pinch Two months ago, I finally got to fly back home. I was going over our itinerary with my mom when I suddenly broke down. I don't even remember what set it off - maybe it was when we talked about the tanghulu I could finally eat when I got back, the kind that never melts even in the summer heat. Maybe it was hearing my grandma excitedly rattling off the dishes that she was planning to cook for me. The memory of her late-night soups, made from scraps she scavenged from the fridge, made my chest swell until it felt like it might burst, spilling everything into my eyes. \"I want to go home,\" I said. \"It's been too long. I want to go home.\" Landing at Beijing International Airport, the heat hit me first, thick and dusty, carrying the smell of asphalt and something faintly sweet I couldn't place. The wood-and-metal lattice ceiling above the arrivals hall looked exactly as I remembered from three years ago. I took a picture, as if to prove to myself that this was real. I felt myself tearing up again, pinching myself to believe I was finally home - until an official gestured me toward the foreigner line and pressed an arrival card into my hand. Getting home isn't simple. Jinchuanyuan, where I was born, is a small countryside village on the outskirts of Tangshan, about a two-hour drive east of Beijing, mostly on bumpy gravel roads. On a map, it's unclear where the village starts or ends. It resembles a poorly stitched patchwork quilt: dashed with forgotten railway tracks, intersected by gravel roads, and rudely cut off by a transnational train line. For over two hours, I watched the highway narrow into single-lane roads and skyscrapers give way to white brick homes with plastic strip curtains flapping against metal doors, and that's when I knew I was home. The blue river of dusk laps at the car window as we pass cornfields, the first day already ending. My grandma is standing at the entrance, in the same spot where she stood three years ago to wave me goodbye. She kisses my cheek, murmuring that she cooked for me because I asked, and before I know it, a tissue is in her hand and tea is poured into my cup. I wrap my arms around her, and my throat feels pinched when I notice that I am a whole head taller than her now, and my embrace fully encircles her small frame. 3. 假 (jiǎ) / fake Looking out my bedroom window, Jinchuanyuan already feels different from the way I remembered it. The drive from the city to the countryside, the way rain collects in shallow pools on the dirt paths, the type of fish in the ponds and the distance of the telephone poles, all of it is slightly different from how I had described it in the memoirs I wrote for English class. I began to question whether I had any right to speak for my hometown. Unlike my aunts and uncles, I never learned to grow crops. (I knew how to season sliced tomatoes, but not how to plant one). I wasn't one of the elementary school kids who painted murals on abandoned brick walls. I never remember which family store sold which sausages, or the names of any stray cats. My loyalty to the town felt fake, like I didn't deserve to call it home, like every word I wrote was a performance for attention. My unease only grew when I realized that it was getting harder to hold a conversation in Chinese. I could once entertain anyone with stories and made-up gossip, but now, simple phrases stalled on my tongue. While chatting with my grandma, I would constantly use Google Translate to look up words that should have come naturally. I wanted to tell her how much I had missed her and what I had been up to those three years, what Jinchuanyuan meant to me, but the sentences extinguished in my mind, and I could only sit silently beside her. 4. 价 (jià) / price It was naive of me to believe the village would wait for me untouched, thinking I could return to the summers as they once were. My brother, who once wrestled nonstop with my dad and grandpa, now barely leaves his room and hardly speaks to anyone. The aunt whose hair I used to brush is now busy with her own children. My neighbor, the one who used to chase me around begging to play \"magical girls,\" now smokes and has been expelled from school. The \"Big Hero 6\" that spun endlessly on my cousins' DVD player was taken away during the divorce. The unfinished apartment blocks I thought would stay half-built forever had finally been completed and filled with new residents. My great-aunt, who would invite everyone to lunch around her desk-sized table, passed away two years ago. I hadn't been there to say goodbye. No one visits her husband anymore. Am I the only one who notices these changes? Everyone else seemed to have moved on, untroubled, as I stumble through the ruins of my nostalgia. The home I am reaching for is again far away. Angel Wang is a freshman from Vancouver, Canada studying Writing Seminars. In her column, she writes about the people, places and passages that help make sense of what's in her mind.",
-      "url": "https://www.jhunewsletter.com/article/2026/04/facets-of-home",
-      "image_url": "https://snworksceo.imgix.net/jhn/c5b91348-c062-431a-95fb-93f478b65f96.sized-1000x1000.png",
-      "source_icon": "https://n.bytvi.com/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-04-24 19:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "fdc1d3168ceea4ec0a1f7e2f40078d38",
-      "title": "Utah Startup Claims Its Lab-Grown Sperm Can Produce Embryos, in Potential Fertility Breakthrough",
-      "description": "Paterna Biosciences said it has mastered the molecular signals that teach stem cells how to mature into sperm for a promising new fertility treatment.",
-      "url": "https://gizmodo.com/utah-startup-claims-its-lab-grown-sperm-can-produce-embryos-in-potential-fertility-breakthrough-2000750528",
-      "image_url": "https://gizmodo.com/app/uploads/2025/12/sperm.jpg",
-      "source_icon": "https://n.bytvi.com/gizmodotech.png",
-      "source": "Gizmodo",
-      "published_at": "2026-04-24 18:55:53",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "21bd5b643a380b388ba82d9ccf6bab8a",
-      "title": "Curiosity rover detects building blocks of life in first-ever experiment on Mars",
-      "description": "The Curiosity rover has uncovered the most diverse array of organic molecules ever found on Mars, including seven that had never been detected before on the red planet.",
-      "url": "https://www.ctvnews.ca/sci-tech/article/curiosity-rover-detects-building-blocks-of-life-in-first-ever-experiment-on-mars/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/HNOMTB7MO2N2G3ZAUSH7L6Z6DE.jpg?auth=7a74973b074ee853d6742836b8c0e59fc37160e13924813c451eb696bc05439c&smart=true&width=1020&height=573",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-04-24 18:22:49",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
