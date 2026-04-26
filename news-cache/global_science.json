@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-26T12:39:17.463Z",
+  "last_updated": "2026-04-26T16:30:41.158Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "793befd4c30f287e86c21f7db93027c9",
+      "title": "Webb Finds Water-Ice Clouds on Nearby Super-Jupiter",
+      "description": "The giant planets in our solar system—Jupiter, Saturn, Uranus, and Neptune—have challenged our understanding of planetary formation and evolution. Specifically, their atmospheric formations and compositions have provided awe-inspiring images from spacecraft and given scientists key insights into the interior mechanisms of these massive worlds. But what about exoplanets? What can their atmospheres teach scientists about their formation, evolution, composition, and interior mechanisms? And how do longstanding exoplanet models stack up against the real thing?",
+      "url": "https://www.universetoday.com/articles/webb-finds-water-ice-clouds-on-nearby-super-jupiter",
+      "image_url": "https://www.universetoday.com/article_images/ezgif-7135a6dbf527e30a_750_20260426_040536.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-26 04:05:48",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0c9b3ffe48988867625e172b1f46e8b4",
+      "title": "Minister inspects Kashiwazaki-Kariwa nuclear plant",
+      "description": "Akazawa made the visit after the No. 6 reactor of the plant restarted commercial operations on April 16.",
+      "url": "https://www.japantimes.co.jp/news/2026/04/26/japan/japan-industry-minister-kashiwazaki-kariwa-plant-visit/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/26/537095.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-04-26 03:57:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "db258318f96dee310648fdcbbff47d41",
       "title": "Scientists fail to solve the mystery of where all the missing teaspoons disappear to",
@@ -578,30 +602,6 @@
       "published_at": "2026-04-24 23:10:23",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "1dc583532f4e282e69029c5f945622c9",
-      "title": "Eastern P.E.I.’s new cleantech park is nearing the finish line",
-      "description": "The Cleantech Innovation Centre in Georgetown is nearing completion. It’ll be an educational and business hub for clean technology. CBC’s Connor Lamont went to the eastern P.E.I. community to get a look at what’s happening on the site.",
-      "url": "https://www.cbc.ca/player/play/9.7176804?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/2f1ae6fd-7258-4e90-842c-de8a14969cc1,1777065995791/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-04-24 23:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "2ef519bfae5087373f16f66b4eb27140",
-      "title": "What would our Neolithic ancestors who dragged giant megaliths hundreds of miles to Stonehenge make of the £220million farce of the tunnel that was never built?",
-      "description": "Heaven knows what our Neolithic forebears would make of the present-day Stonehenge tunnel fandango.",
-      "url": "https://www.dailymail.com/news/article-15763381/Neolithic-ancestors-Stoneheng-farce-tunnel-never-built.html",
-      "image_url": "https://i.dailymail.com/1s/2026/04/24/23/108145441-0-image-a-2_1777071452947.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-04-24 22:58:55",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
