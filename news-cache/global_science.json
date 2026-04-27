@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-27T10:05:07.736Z",
+  "last_updated": "2026-04-27T13:15:32.322Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f1e0aad0a60d50143749601e20c5c923",
+      "title": "New research shows men still outnumber women as experts in science news",
+      "description": "A five-year study of Australian media found three quarters of science stories quoted men.",
+      "url": "https://theconversation.com/new-research-shows-men-still-outnumber-women-as-experts-in-science-news-281364",
+      "image_url": "https://images.theconversation.com/files/732094/original/file-20260424-57-b1mom4.jpg?ixlib=rb-4.1.0&rect=0%2C2410%2C3900%2C1950&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-04-27 00:09:09",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8415632c1dc9b22768eaf41e7165cdf9",
+      "title": "Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps",
+      "description": "Gaze into the iris-scanning orb, human. The post Tinder Scanning Users’ Eyeballs to Prove They Aren’t Creeps appeared first on Futurism .",
+      "url": "https://futurism.com/future-society/tinder-scanning-eyeballs",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/04/tinder-scanning-eyeballs.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-04-26 23:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1b8345f8383c8869c75c4894a07146bd",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4e75/live/a4f7bc10-3fdc-11f1-9365-9d68a044e038.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-04-26 23:01:47",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4ac236069f95441d5ba1cf5ad8d4004e",
+      "title": "The Universe is Bending Light, and Astronomers Need Your Help to Find it",
+      "description": "Einstein told us that massive objects bend light and he was of course, right. Across the universe, giant galaxies are acting as natural telescopes, warping and distorting the light of objects behind them into spectacular arcs and rings. Now the Euclid space telescope wants your help to find them and the scale of the hunt is unlike anything attempted before.",
+      "url": "https://www.universetoday.com/articles/the-universe-is-bending-light-and-astronomers-need-your-help-to-find-it",
+      "image_url": "https://www.universetoday.com/article_images/A_Horseshoe_Einstein_Ring_from_Hubble_20260426_220728.jpeg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-26 22:07:45",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "29194428f5227469aec56ba586ebbf00",
       "title": "A free diver visited the Strait of Hormuz. Here's what he saw",
@@ -554,54 +602,6 @@
       "published_at": "2026-04-25 18:00:04",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "a4f527cf30c8b8af1d53d59fd6757176",
-      "title": "Unions Attack AI for Menacing Human Jobs",
-      "description": "\"Some of us are old-fashioned, and we believe in human beings.\" The post Unions Attack AI for Menacing Human Jobs appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/union-labor-ai-bernie",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/union-labor-ai-bernie.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 17:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6009336e86dca9304a8f188c3ba6aac3",
-      "title": "The 'affair mode' phone settings that all cheaters use: I knew my partner was up to something... here's how I cracked his secret code and uncovered all his dirty antics",
-      "description": "Cheaters are increasingly using an array of sneaky tech tricks to hide their tracks. Here's how to spot the hidden clues and uncover all their secrets...",
-      "url": "https://www.dailymail.com/sciencetech/article-15729535/affair-mode-phone-settings-cheaters.html",
-      "image_url": "https://i.dailymail.com/1s/2026/04/23/17/107893223-0-image-a-2_1776962274392.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-04-25 17:15:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c5b4e543c81a2923cd187396d85cc7a3",
-      "title": "NASA Planning to Set First-Ever Fire on the Surface of the Moon",
-      "description": "Fires may be even more dangerous on the Moon than on Earth. The post NASA Planning to Set First-Ever Fire on the Surface of the Moon appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/nasa-starting-first-fire-moon",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/nasa-starting-first-fire-moon.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 16:45:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "99e8609e97c4969efdb0e56579f54a3a",
-      "title": "2026 Is Officially The Year Of The Space Western",
-      "description": "The Space Western has been a subgenre of science-fiction for decades now, but 2026 will be its most prolific, high-profile, franchise-driven year yet.",
-      "url": "https://screenrant.com/2026-space-westerns-lanterns-mandalorian-grogu-firefly/",
-      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/03/kyle-chandler-looking-to-the-side-in-lanterns-trailer.jpg?w=1600&h=900&fit=crop",
-      "source_icon": "https://n.bytvi.com/screenrant.png",
-      "source": "Screenrant",
-      "published_at": "2026-04-25 16:32:20",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
