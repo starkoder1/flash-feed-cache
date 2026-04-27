@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-27T13:15:32.322Z",
+  "last_updated": "2026-04-27T17:14:26.164Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "4f665b8d7770e0a40f2c883e93e390d3",
+      "title": "Monday Mini (04/27/2026)",
+      "description": null,
+      "url": "https://www.jhunewsletter.com/article/2026/04/monday-mini-04272026",
+      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
+      "source_icon": "https://n.bytvi.com/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-04-27 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8a6106699d4ddd6effb3949e737d9a3f",
+      "title": "Scientists Find Peculiar Differences in Two Uranian Rings",
+      "description": "The planet Uranus is a weird place. Not only does it roll around the Sun on its side once every 84.3 Earth years, it also sports a spindly set of rings corralled in some places by strange little moons. Two of those rings, the μ (mu) and ν (nu) rings are incredibly faint, which makes them challenging to study.",
+      "url": "https://www.universetoday.com/articles/scientists-find-peculiar-differences-in-two-uranian-rings",
+      "image_url": "https://www.universetoday.com/article_images/URanusSTScI-01GWQDPJTF1MY8ZGN4WBMWMACJ_20260427_013534.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-27 01:39:03",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "f1e0aad0a60d50143749601e20c5c923",
       "title": "New research shows men still outnumber women as experts in science news",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-04-25 18:23:45",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dde236c743d0381a4b0e1283f6b0d161",
-      "title": "Climate Scientists Shake Their Heads as First US City Running Completely Out of Water",
-      "description": "\"We have no precedent to follow. There's no manual, there's no video.\" The post Climate Scientists Shake Their Heads as First US City Running Completely Out of Water appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/texas-water-crisis-climate",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/texas-water-crisis-climate.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 18:15:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "82e612b04f25097152fabb829daf26b9",
-      "title": "Before dinosaurs vanished, a hamster-sized mammal was already shaping what survived next on the Pacific Coast",
-      "description": "Mammals and dinosaurs coexisted on Earth until a catastrophic event 66 million years ago killed 75% of life on the planet. Despite the devastation, some animals survived, including rodent-like mammals in the Cimolodon genus. These creatures are part of the multituberculates, a group that arose during the Jurassic Period and survived over 100 million years before going extinct. Studying these animals helps researchers better understand how mammals survived the mass extinction event and then diversified into the variety of mammals around today.",
-      "url": "https://phys.org/news/2026-04-dinosaurs-hamster-sized-mammal-survived.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-discover-t.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-04-25 18:00:04",
       "language": "english",
       "category": "science"
     }
