@@ -1,8 +1,80 @@
 {
   "category": "global_health",
-  "last_updated": "2026-04-27T06:22:20.694Z",
+  "last_updated": "2026-04-27T10:05:07.739Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7aad2e4454bdd6eb7553caf830704e15",
+      "title": "Meghan suggests she’s ‘ending the hardest seven years’ of her life with posts",
+      "description": "The Duchess said she had been 'the most trolled woman in the world'.",
+      "url": "https://www.nzherald.co.nz/lifestyle/meghan-suggests-shes-ending-the-hardest-seven-years-of-her-life-with-posts/LHL6QBZGJRBVXP5EEYDIZX36BQ/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/CWCKXZEACVG5BJUI3BZO7DX5UU.jpg?auth=b0927ee1a4211c510e47c204b24dbd9c397fa8dfcdb389462c3555d5c438ba89&smart=true&width=300&height=300",
+      "source_icon": "https://n.bytvi.com/nzherald.png",
+      "source": "Nzherald",
+      "published_at": "2026-04-26 20:34:32",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "566bbb75a1240c6dd60d066a73218b13",
+      "title": "Five free bedtime boosters to help you get a better night’s sleep",
+      "description": "DO you feel like you are always short on sleep? From budget bedding tricks to free apps, there are lots of ways to get a better night’s shut-eye. Try these refreshing bedtime boosters. ROUTINE REWIND: Sleep hygiene is key to getting quality kip so resetting your routine is the best way to drift off. Dim the lights, avoid coffee after 2pm, and...",
+      "url": "https://www.thesun.co.uk/money/38931743/sun-savers-sleep-tips/",
+      "image_url": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F04%2Fbeautiful-young-woman-smiling-sleeping-1049042699_6430d3.jpg?quality%3D90%26strip%3Dall",
+      "source_icon": "https://n.bytvi.com/thesun.png",
+      "source": "The Sun",
+      "published_at": "2026-04-26 20:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "3bd961e43e8dfc879095dc81048372ef",
+      "title": "Easy ways to make your favourite cafe-style egg breakfast dishes even healthier",
+      "description": "Not all egg dishes are created nutritionally equal, but with a few simple tweaks you can enjoy cafe-style indulgence – without blowing your health goals.",
+      "url": "https://www.smh.com.au/goodfood/tips-and-advice/easy-ways-to-make-your-favourite-cafe-style-egg-breakfast-dishes-even-healthier-20260421-p5zppy.html",
+      "image_url": "https://static.ffx.io/images/$zoom_0.182%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_60/t_crop_custom/q_86%2Cf_auto/7fb6fd4da61c5acd6d4de67f04c47e890cea25fc",
+      "source_icon": "https://n.bytvi.com/smh.png",
+      "source": "The Sydney Morning Herald",
+      "published_at": "2026-04-26 19:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "701ced39df2ebe330594ecd85f377f82",
+      "title": "Two in five kids have a health condition. What about their siblings?",
+      "description": "Siblings of kids with disability or illness are often overlooked by support systems.",
+      "url": "https://www.smh.com.au/lifestyle/health-and-wellness/two-in-five-kids-have-a-health-condition-what-about-their-siblings-20260403-p5zl79.html",
+      "image_url": "https://static.ffx.io/images/$zoom_0.9613%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_2610%2C$y_1196/t_crop_custom/q_86%2Cf_auto/85fd9e1df84788d972f9e7d18daa5a0197afffc5",
+      "source_icon": "https://n.bytvi.com/smh.png",
+      "source": "The Sydney Morning Herald",
+      "published_at": "2026-04-26 19:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7093a9df6c73cbbaa7af160014f30f2b",
+      "title": "Nine dietitian-approved whole foods that pack a surprising protein punch",
+      "description": "When it comes to boosting protein intake, skip the ultra-processed bars and supermarket snacks, and look for these healthy whole foods instead.",
+      "url": "https://www.smh.com.au/goodfood/tips-and-advice/nine-dietitian-approved-whole-foods-that-pack-a-surprising-protein-punch-20260216-p5o2rx.html",
+      "image_url": "https://static.ffx.io/images/$zoom_0.1613%2C$multiply_0.7025%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/a6cd91cbbaa11bb1350cf92be69b1902bbdeb3a1",
+      "source_icon": "https://n.bytvi.com/smh.png",
+      "source": "The Sydney Morning Herald",
+      "published_at": "2026-04-26 19:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "edb0ed04c37522a246aa375797aae9f0",
+      "title": "Real reason Anne Hathaway quit drinking — and it involves a parenting moment with son Jonathan",
+      "description": "Anne Hathaway chose to go sober over seven years ago after a realisation during a school run with her oldest son Jonathan. The Devil Wears Prada star hasn't drank alcohol since 2018",
+      "url": "https://www.hellomagazine.com/us/897970/anne-hathaway-real-reason-became-sober-involving-son-jonathan/",
+      "image_url": "https://images.hellomagazine.com/horizon/landscape/d96a5bbb759f-gettyimages-2271962240.jpg",
+      "source_icon": "https://n.bytvi.com/hellomagazine.png",
+      "source": "Hellomagazine",
+      "published_at": "2026-04-26 18:22:19",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "b416bacc09acf712784185cf8c93ae13",
       "title": "I’m an immunologist. Here’s what really happens to your immune system as you age",
@@ -530,78 +602,6 @@
       "published_at": "2026-04-25 23:33:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "fd8071bd58caa1d62f9847abcfe7f859",
-      "title": "SciatiEase Claims Evaluated: The Daily Sciatic Nerve Health Formula with Research-Backed Vitamins by SciatiEase Labs",
-      "description": "Reno, NV, April 25, 2026 (GLOBE NEWSWIRE) -- This article contains affiliate links. If a purchase is made through these links, a commission may be earned at no additional cost to the buyer. This is an informational product presentation and does not constitute medical, health, or dietary advice. Supplements are not intended to diagnose, treat, cure, or prevent any disease. Consult a qualified healthcare professional before starting any new supplement regimen. This release shares information on SciatiEase formula , including how the product is positioned in relation to sciatic nerve health support, ingredient transparency, and published research on individual compounds. This communication is intended to present product information from the brand, including formulation details, ingredient context, and general usage considerations for consumers exploring nutritional approaches to nerve health. If you've been dealing with occasional sciatic nerve discomfort — the kind that radiates from the lower back through the hip and down the leg, making it harder to sit, stand, sleep, or just move through your day without thinking about it — you already know how frustrating the search for real support can be. You've probably tried stretches, heating pads, maybe even over-the-counter options that took the edge off for an hour or two but didn't address anything underneath. Consumers researching sciatic nerve health supplements often compare ingredient transparency, dosage alignment with published research, and long-term usage considerations when looking at available options. These considerations are commonly referenced in publicly available supplement information and do not represent medical guidance. Those are the areas this page is designed to address. SciatiEase is positioned as a daily nutritional formula built around compounds that have been individually studied in published, peer-reviewed research specifically related to nerve health. The formula includes ingredients in forms and dosages that the company states are aligned with those used in published research on individual compounds — not as a replacement for medical care, but as targeted nutritional support you can incorporate alongside your existing wellness routine. The following sections present details on the formulation, ingredient context, dosing structure, pricing, and general usage considerations — including what to discuss with your healthcare provider before getting started. View the current SciatiEase offer (official SciatiEase page) Individual results vary. Dietary supplements are not substitutes for balanced nutrition, regular physical activity, or professional medical guidance. Always consult a qualified healthcare provider before starting any new supplement, especially if you have existing health conditions or take medications. What Is SciatiEase and How Is It Positioned SciatiEase is a daily dietary supplement formulated to support sciatic nerve health . The product is described on the official website as being manufactured and fulfilled within the United States, and is available exclusively through sciatiease.com. It is positioned as a non-prescription, nutritional approach for adults who experience occasional sciatic nerve discomfort and want to add targeted nutritional support to their daily routine. The formula centers on six core components: palmitoylethanolamide (PEA) at 600 mg, R-alpha lipoic acid (R-ALA) at 300 mg, acetyl-L-carnitine (ALCAR) at 300 mg, benfotiamine at 300 mg, a B-vitamin complex in bioavailable forms, and a proprietary herbal blend of five botanical extracts. Each serving is four vegetable capsules, and each bottle is designed to last a full 30 days. The formulation philosophy behind SciatiEase is straightforward: use ingredients with published research backgrounds related to nerve health, deliver them at dosages that the company states are aligned with those used in published research on individual compounds, and present all of that transparently on the label so you and your healthcare provider can see exactly what you're getting. SciatiEase is presented as a consumer supplement brand. Product availability, fulfillment details, and purchasing terms are outlined in the official website materials. SciatiEase Supplement Facts: Full Ingredient Transparency One of the first things you'll notice about SciatiEase is that the label doesn't hide behind a single proprietary blend number. In many supplement formulations, ingredient quantities are grouped into proprietary blends, which may limit direct comparison with published research protocols. SciatiEase takes a different approach — the primary active compounds (PEA, R-ALA, ALCAR, and benfotiamine) are each individually dosed and disclosed. This allows for direct comparison with dosages used in published research. Here's exactly what the SciatiEase Supplement Facts panel lists per four-capsule serving: Vitamin B2 (riboflavin-5-phosphate): 25 mg — 1,923% Daily Value Vitamin B6 (pyridoxal-5-phosphate): 20 mg — 1,176% Daily Value Vitamin B9 (5-methyltetrahydrofolate): 500 mcg DFE — 125% Daily Value Vitamin B12 (methylcobalamin): 1 mg — 41,667% Daily Value AlphaPalmTM Blend: 900 mg total, comprising R-Alpha Lipoic Acid (R-ALA) at 300 mg and Palmitoylethanolamide (PEA) at 600 mg Acetyl-L-Carnitine (ALCAR): 300 mg Benfotiamine (Fat-Soluble Vitamin B1): 300 mg Proprietary Herbal Blend: 100 mg, containing Ginger Root Extract 4:1, Feverfew Extract 4:1, Passionflower Extract 4:1, Chinese Skullcap Extract 4:1, and Oat Straw Extract 4:1 Other Ingredients: Microcrystalline cellulose (MCC), vegetable cellulose (capsule), vegetable stearate, silicon dioxide. The only proprietary blend in the formula is the 100 mg herbal combination — a small portion of the total formula. Everything else is fully disclosed with exact milligram amounts. That level of label transparency is worth noting because many supplements in the nerve health category use proprietary blends that list ten or more ingredients sharing a single total, making it impossible to know how much of anything you're actually getting. The B-vitamins are provided in their bioavailable (active) forms — riboflavin-5-phosphate, pyridoxal-5-phosphate, 5-methyltetrahydrofolate, and methylcobalamin — rather than the cheaper synthetic versions found in most standard supplements. These active forms don't require your body to convert them before use, which can be especially relevant for individuals with genetic variations that affect B-vitamin metabolism. Ingredient Research Context: Published Studies on Individual Compounds in the SciatiEase Formula The following describes ingredient-level research. SciatiEase as a finished multi-ingredient product has not been the subject of a standalone clinical trial. These individual findings do not mean SciatiEase replaces prescribed treatment. Always consult a healthcare provider before beginning any supplement. Palmitoylethanolamide (PEA) — 600 mg per serving PEA is the lead ingredient in the SciatiEase formula, and it has one of the strongest published research backgrounds of any compound in the sciatic nerve health space. PEA is an endogenous lipid modulator — meaning your body already produces it naturally — and it has been studied in published clinical research since the 1970s. The pivotal study most relevant to SciatiEase was a double-blind, placebo-controlled trial involving 636 patients with pain related to compression of the sciatic nerve. Two dosages of PEA were compared against placebo — 300 mg daily and 600 mg daily — over a three-week treatment period. The 600 mg dosage was the more effective dose in the study. These results were published in a peer-reviewed journal and further discussed in the Journal of Pain Research . Across eight clinical trials involving 1,366 patients with nerve compression syndromes, PEA demonstrated both efficacy and a favorable safety profile in published literature, with no drug interactions or troublesome side ... Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/pressreleases/26/04/g52051791/sciatiease-claims-evaluated-the-daily-sciatic-nerve-health-formula-with-research-backed-vitamins-b",
-      "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-04-25 23:17:19",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "7efee8a5eb0da439c5565ec8365c8a66",
-      "title": "Provincewide protests push back against health care cuts",
-      "description": "Provincewide protests were held this weekend to push back against the privatization of health care in Ontario.",
-      "url": "https://www.ctvnews.ca/ottawa/article/provincewide-protests-push-back-against-health-care-cuts/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/W47ZPP4A3ZFMTJICUT67JNV26Y.png?auth=dd98adf77cb18a1a84eb2dedb1f8485063fe54a24e9b97fbe869156809746af7&smart=true&width=1920&height=1080",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-04-25 23:15:46",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "eed3a277fe930c0557408747fc30881c",
-      "title": "PHILIP NOLAN: A year on from my stroke, and I have learned a lot about myself and people... Here are THREE simple things I now realise I took for granted...",
-      "description": "I was also reminded that the most important people in your life when your parents are no longer around are your siblings.",
-      "url": "https://www.dailymail.com/health/article-15764617/PHILIP-NOLAN-year-stroke-learned-lot-people-THREE-simple-things-realise-took-granted.html",
-      "image_url": "https://i.dailymail.com/1s/2026/04/25/22/108107565-0-image-a-240_1777153806807.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-04-25 23:14:27",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "fb3581b9650e2508f475dcc390d88791",
-      "title": "The 27p per day teeth whitening solution said to be so 'effective' shoppers in their 70s and 60s praise it",
-      "description": "\"I am 66 years old and my teeth were quite badly stained. The results were beyond my expectations by a long way, my teeth are noticeably lighter and a lot of the staining has been removed\"",
-      "url": "https://www.manchestereveningnews.co.uk/news/fashion-news/27p-per-day-teeth-whitening-33832986",
-      "image_url": "https://i2-prod.manchestereveningnews.co.uk/news/fashion-news/article33832980.ece/ALTERNATES/s615/3_3.jpg",
-      "source_icon": "https://n.bytvi.com/manchestereveningnews.png",
-      "source": "Manchester Evening News",
-      "published_at": "2026-04-25 23:01:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "3df93287dfec4656202879c211305ece",
-      "title": "Wahay fever! Taking antihistamine had a more potent effect on patients' sex lives than Viagra",
-      "description": "Some people taking a type of antihistamine also used to treat insomnia reported that it had a more potent effect on their sex drive than Viagra.",
-      "url": "https://www.dailymail.com/health/article-15765523/Wahay-fever-Taking-antihistamine-potent-effect-patients-sex-lives-Viagra.html",
-      "image_url": "https://i.dailymail.com/1s/2026/04/25/21/108161809-0-image-a-2_1777150754512.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-04-25 22:26:25",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d476778aae6e98c6460602bc4b7e1061",
-      "title": "Quad ED Under Investigation: Safe Clinician-Prescribed ED Medication Using Sildenafil, Tadalafil, Vardenafil and Apomorphine for Men",
-      "description": "Newark, DE, April 25, 2026 (GLOBE NEWSWIRE) -- This content contains affiliate links. If you purchase through these links, a commission may be earned at no additional cost to you. This compensation does not influence the accuracy or integrity of the information presented. This is not medical advice — consult a qualified healthcare professional before starting any prescription treatment. \"Under investigation\" refers to the process by which consumers evaluate telehealth treatment options before committing to a prescription program. It does not indicate any legal, regulatory, or enforcement action. Quad is presented as a telehealth-based treatment option using a compounded 4-in-1 sublingual formulation containing Sildenafil, Tadalafil, Vardenafil, and Apomorphine — four individually FDA-approved active ingredients combined into a single clinician-prescribed medication. The following information covers the formulation itself, the telehealth process, current pricing, safety considerations, and important distinctions between individual ingredient FDA approval and compounded product status that anyone considering this treatment should understand. Current program details, pricing, and the online evaluation process are available here: View the current Quad offer (official product page) . What Quad Is — and What It Is Not Quad is presented as a 4-in-1 compounded prescription ED medication in sublingual liquid form — a formulation that is placed under the tongue instead of swallowed as a pill. It combines four active ingredients: three PDE5 inhibitors (the same class of compounds found in well-known ED medications) and one dopamine agonist. One distinction matters right away. Each of the four active ingredients is individually FDA-approved — but the specific 4-in-1 combination is a compounded formulation . Compounded medications are not reviewed or approved by the FDA as finished products. Instead, they are prepared by licensed pharmacies using active ingredients sourced from FDA-registered facilities, based on an individual prescription written by a licensed clinician. Compounding is a well-established, regulated practice across the pharmaceutical industry, but it operates under a different framework than FDA-approved finished drugs. That distinction shapes how the rest of this information should be understood. The Four Active Ingredients in the Formulation Sildenafil is the active ingredient in the most widely recognized PDE5 inhibitor on the market — FDA-approved as a standalone medication for ED . Within the Quad formulation, it is described as providing peak-strength response. Tadalafil is the active ingredient known for its extended duration — often called the \"weekend\" option because its effects can last up to 36 hours. It is also FDA-approved as a standalone ED medication. Within the formulation, it is described as providing an extended response window , meaning the medication does not require narrow timing around a single moment. Vardenafil is FDA-approved as a standalone ED medication and recognized for rapid onset characteristics. Within the Quad formulation, this ingredient is commonly associated with fast activation — working in as little as 10 to 15 minutes. Apomorphine is the ingredient that differentiates this formulation from a standard PDE5-only approach. It is a dopamine agonist — FDA-approved for other indications and commonly prescribed off-label in the context of ED treatment. It works through central nervous system pathways rather than through the vascular mechanism that PDE5 inhibitors use. This component is commonly associated with the motivation and readiness dimension — bridging the gap between mental and physical response. An important research distinction: Each ingredient has its own body of published clinical research as a standalone medication. PDE5 inhibitors are among the most extensively studied drug classes for ED. However, the specific 4-in-1 combination has not been evaluated in published clinical trials as a combined product. The prescribing clinician makes a clinical judgment that combining these ingredients at the prescribed dosages is appropriate for each individual patient, based on health profile and ingredient-level research. That is a standard feature of how compounded medications work, but it is important to understand before proceeding. The Sublingual Delivery Format Rather than a traditional pill that passes through the digestive system, Quad is a liquid placed under the tongue, where it absorbs directly into the bloodstream. The sublingual format is described as reaching the system faster than standard oral tablets — in as little as 15 minutes rather than the 30 to 60 minutes that swallowed pills typically require. It is also described as being less affected by food intake, meaning it does not require an empty stomach to be effective. These are characteristics associated with sublingual absorption as a pharmacological delivery method. Individual response times vary based on metabolism, overall health, and other factors. How the Telehealth Process Is Structured Quad is available through a telehealth platform , meaning no office visit is required. The process involves three separate entities , each with a distinct role — a structure that is standard across telehealth services. The technology platform provides the intake process, customer support, and coordination between patients, clinicians, and pharmacies. It does not make prescribing decisions and is not itself a healthcare provider — a distinction outlined in the published terms of service. Independent, licensed medical providers review the health information submitted through the intake form and determine whether a prescription is clinically appropriate. These are US-licensed healthcare professionals making independent clinical decisions. Not every consultation results in a prescription. If the evaluating clinician determines that this formulation is not appropriate based ... Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/pressreleases/26/04/g52051742/quad-ed-under-investigation-safe-clinician-prescribed-ed-medication-using-sildenafil-tadalafil-var",
-      "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-04-25 22:24:56",
-      "language": "english",
-      "category": "health"
     }
   ]
 }

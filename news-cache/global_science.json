@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-27T06:22:20.691Z",
+  "last_updated": "2026-04-27T10:05:07.736Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "29194428f5227469aec56ba586ebbf00",
+      "title": "A free diver visited the Strait of Hormuz. Here's what he saw",
+      "description": "The Strait of Hormuz is being blockaded. But a couple weeks ago, one small boat visited and found something surprising below the waves.",
+      "url": "https://www.npr.org/2026/04/26/nx-s1-5795819/a-free-diver-visited-the-strait-of-hormuz-heres-what-he-saw",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-04-26 22:03:56",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "416e2695a01b28d0f59cf5c4785b99ad",
+      "title": "Mining the Solar System to Build a New World",
+      "description": "If humans are ever going to live permanently on Mars, someone is going to have to work out where all the raw materials, the food, they oxygen or the material for the structures to name just a few. A new study has tackled that unglamorous but absolutely critical question and the answer involves robots, asteroids, and one of the most complex supply chains ever designed.",
+      "url": "https://www.universetoday.com/articles/mining-the-solar-system-to-build-a-new-world",
+      "image_url": "https://www.universetoday.com/article_images/Inner_solar_system_objects_top_view_for_wiki_20260426_215554.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-26 21:56:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "955536a2e6de9a5ee79bc70f0cc41009",
+      "title": "The Planet Haul That Changes Everything.",
+      "description": "NASA's planet hunting telescope has been busy. A new study has just sifted through the light of over 83 million stars and emerged with more than 11,000 potential worlds, including a confirmed giant planet orbiting a distant star. The results don't just add to our catalogue of planets. They fundamentally change where we look for them.",
+      "url": "https://www.universetoday.com/articles/the-planet-haul-that-changes-everything",
+      "image_url": "https://www.universetoday.com/article_images/1280px-TESS_alone_high_res_20260426_213943.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-26 21:43:29",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5d2058f591fd2a0e39b2d61fb14bf3b4",
+      "title": "Chinese-led team creates self-propelling material for uranium extraction from seawater",
+      "description": "A Chinese-led research team has engineered a microscopic material that behaves like a predator, actively moving through water to capture uranium ions.",
+      "url": "https://interestingengineering.com/energy/china-material-uranium-extraction-from-seawater",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/04/uranium-extract.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-04-26 19:07:33",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "fcef06305bf25a300816f991e34a152e",
+      "title": "I tried brandy made from radioactive apples grown near Chernobyl - it wasn't that scary",
+      "description": "EXCLUSIVE: On the 40th anniversary of the nuclear disaster, an expert says contaminated land is not as dangerous as you might think.",
+      "url": "https://www.express.co.uk/news/science/2198027/i-tried-brandy-radioactive-chernobyl",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2198027_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-04-26 19:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7eaa87eb2131f73974a37911403c2584",
+      "title": "Another Instrument Shut Down on Voyager 1 to Extend its Interstellar Mission",
+      "description": "On April 17th, engineers at NASA's Jet Propulsion Laboratory (JPL) sent commands to shut down an instrument aboard Voyager 1 called the Low-energy Charged Particles experiment, or LECP. The nuclear-powered spacecraft is running low on power, and turning off the LECP is considered the best way to keep humanity's first interstellar explorer going.",
+      "url": "https://www.universetoday.com/articles/another-instrument-shut-down-on-voyager-1-to-extend-its-interstellar-mission",
+      "image_url": "https://www.universetoday.com/article_images/Voyager_1-image_20260426_032341.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-04-26 18:57:09",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "ba837f77f40fe9037ead68af57528865",
       "title": "Two Delivery Bots Blunder Into the Middle of a Police Incident, Have Awkward Standoff",
@@ -530,78 +602,6 @@
       "published_at": "2026-04-25 16:32:20",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "18edf6401ecd2bd82ab446520f2ce986",
-      "title": "Pentagon is developing powdered blood: Here’s why",
-      "description": "“We’ve had success in a petri dish. We’ve had success in animals now.\"",
-      "url": "https://www.al.com/news/2026/04/pentagon-is-developing-powdered-blood-heres-why.html",
-      "image_url": "https://www.al.com/resizer/v2/2NPBOKM2RVDX3FM2SO3YQKCGBA.jpg?auth=14632d04241b7a431e1d9f449c39334443c71d6f362b06810afa9839edc448a8&smart=true&height=1200",
-      "source_icon": "https://n.bytvi.com/al.png",
-      "source": "Alabama Local News",
-      "published_at": "2026-04-25 16:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0f4948411ff90cdf9cbc99f454871509",
-      "title": "Waymo Baffles Police When it Plows Through Taped Off Crime Scene",
-      "description": "\"Oh my days, bruv... that's a Waymo driverless taxi, y'know, the driverless ones.\" The post Waymo Baffles Police When it Plows Through Taped Off Crime Scene appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/waymo-london-crime-scene",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/waymo-london-crime-scene.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 16:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "a0cb8126155728040caa979537945c0b",
-      "title": "24,000-year-old frozen ‘zombie worm’ thawed by scientists — then it shockingly started reproducing",
-      "description": null,
-      "url": "https://nypost.com/2026/04/25/science/24000-year-old-frozen-zombie-worm-thawed-by-scientists-then-it-shockingly-started-reproducing/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2F126367635.jpg?w%3D1024",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-04-25 15:53:07",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "6021356ab9c82edb5afdef221a52fdce",
-      "title": "Your Former Employer Is Selling Your Slacks and Emails to Train AI",
-      "description": "Even when your boss's company goes belly-up, they still have a hold over your. Or at least your data. The post Your Former Employer Is Selling Your Slacks and Emails to Train AI appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/employer-selling-emails-train-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/employer-selling-emails-train-ai.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 15:15:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "78271bb0c2ad2cdcdd06712e1b6bd477",
-      "title": "Tesla Quietly Buys Mysterious $2 Billion Entity",
-      "description": "\"Tesla is working on a lot of large, ambitious projects.\" The post Tesla Quietly Buys Mysterious $2 Billion Entity appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/tesla-buys-entity",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/tesla-buys-entity.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 14:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "21e163f6f71bfe72a0cc8a1e9ab9a311",
-      "title": "The Number of Drones Being Deployed to Surveil Anti-Trump Protestors Is Staggering",
-      "description": "\"We do not document or record unless there is a crime occurring.\" The post The Number of Drones Being Deployed to Surveil Anti-Trump Protestors Is Staggering appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/lapd-drones-surveillance",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/lapd-drones-surveillance.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-25 13:45:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
