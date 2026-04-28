@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-04-28T17:29:07.244Z",
+  "last_updated": "2026-04-28T20:58:14.358Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "9da26b84d1b0ea585ac2ab9b2d1ab030",
+      "title": "UAE researchers develop soft sensors to help surgeons 'feel' during keyhole surgery",
+      "description": "The team has designed multichannel soft sensors that can measure a wide range of forces, from very light contact to stronger gripping, in real time",
+      "url": "https://www.khaleejtimes.com/uae/uae-researchers-develop-soft-sensors-to-help-surgeons-feel-during-keyhole-surgery",
+      "image_url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-28/wyhohyjf/84203adg1ka0xompn.jpg",
+      "source_icon": "https://n.bytvi.com/khaleejtimes.png",
+      "source": "Khaleej Times",
+      "published_at": "2026-04-28 08:55:07",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "adb1478701cb5914c634acf38f05044e",
+      "title": "This massive 3D map of 47 million galaxies could unlock dark energy",
+      "description": "A massive cosmic milestone has just been reached: scientists have completed the largest high-resolution 3D map of the universe ever created. Built using data from over 47 million galaxies and quasars, this map could unlock new clues about dark energy—the mysterious force driving the universe’s expansion. Despite setbacks like wildfire disruptions, the international DESI collaboration powered through, gathering an unprecedented dataset that already hints dark energy may behave in unexpected ways.",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260427050604.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/desi-year-five-butterfly-plot.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-04-28 07:33:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "aba5d1310ceed1031c3bc52aa318ff0e",
+      "title": "Honeybees can count to 4, and grasp zero, study finds",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/honeybees-can-count-to-4-and-grasp-zero-study-finds",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-04-28 06:53:17",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "40b7420a7028c3a42fc93ea2fa2a6273",
+      "title": "Từ 'he' trong 'What does he like?' phát âm thế nào",
+      "description": "Câu hỏi 'What does he like?' tưởng chừng đơn giản, nhưng cũng dễ khiến nhiều người nghe nhầm. Bạn có biết cách phát âm đúng?",
+      "url": "https://vnexpress.net/tu-he-trong-what-does-he-like-phat-am-the-nao-5067285.html",
+      "image_url": "https://vcdn1-vnexpress.vnecdn.net/2026/04/26/whatdoeshelike-1777171430-9682-1777172926.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZE5cEMPcRU9zDK0CqJlRGg",
+      "source_icon": "https://n.bytvi.com/vnexpress.png",
+      "source": "Vnexpress",
+      "published_at": "2026-04-28 06:21:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b84a8efb84ee12114542c940c15a7a42",
+      "title": "UNSW marks 10 years of landmark Torch partnership",
+      "description": "The University’s Torch Innovation Precinct has attracted $140 million in research partnerships and hundreds of projects, and remains the only model of its kind outside China.",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/04/unsw-marks-10-years-of-landmark-torch-partnership",
+      "image_url": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/news/2026/2026-04-torch-10years/Room2.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
+      "source_icon": "https://n.bytvi.com/unsw_edu.png",
+      "source": "Unsw Sydney",
+      "published_at": "2026-04-28 05:51:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "53eee29146fa6ab8fbac3192a391ba1c",
       "title": "Eerie 2023 post naming Correspondents' Dinner gunman sparks wild 'time travel' conspiracy",
@@ -542,66 +602,6 @@
       "published_at": "2026-04-27 13:00:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "0001b14fff81b783e61d54f1142bd6ed",
-      "title": "Engineering Collisions: How NYU Is Remaking Health Research",
-      "description": "This sponsored article is brought to you by NYU Tandon School of Engineering . The traditional approach to academic research goes something like this: Assemble experts from a discipline, put them in a building, and hope something useful emerges. Biology departments do biology. Engineering departments do engineering. Medical schools treat patients. NYU is turning that model inside out. At its new Institute for Engineering Health , the organizing principle centers around disease states rather than traditional disciplines. Instead of asking “what can electrical engineers contribute to medicine?,” they’re asking “what would it take to cure allergic asthma?,” and then assembling whoever can answer that question, whether they’re immunologists, computational biologists, materials scientists, AI researchers, or wireless communications engineers. Jeffrey Hubbell, NYU’s vice president for bioengineering strategy and professor of chemical and biomolecular engineering at NYU’s Tandon School of Engineering. New York University The early results suggest they’re onto something . A chemical engineer and an electrical engineer collaborated to build a device that detects airborne threats — including disease pathogens — that’s now a startup . A visually impaired physician teamed with mechanical engineers to create navigation technology for blind subway riders. And Jeffrey Hubbell, the Institute’s leader, is advancing “inverse vaccines” that could reprogram immune systems to treat conditions from celiac disease to allergies — work that requires equal fluency in immunology, molecular engineering, and materials science. The underlying problem these collaborations address is conceptual as much as organizational. In his field, Hubbell argues that modern medicine has optimized around a single strategy: developing drugs that block specific molecules or suppress targeted immune responses. Antibody technology has been the workhorse of this approach. “It’s really fit for purpose for blocking one thing at a time,” he says. The pharmaceutical industry has become extraordinarily good at creating these inhibitors, each designed to shut down a particular pathway. But Hubbell asks a different question: Rather than inhibit one bad thing at a time, what if you could promote one good thing and generate a cascade that contravenes several bad pathways simultaneously? In inflammation, could you bias the system toward immunological tolerance instead of blocking inflammatory molecules one by one? In cancer, could you drive pro-inflammatory pathways in the tumor microenvironment that would overcome multiple immune-suppressive features at once? This shift from inhibition to activation requires a fundamentally different toolkit — and a different kind of researcher. “We’re using biological molecules like proteins, or material-based structures — soluble polymers, supramolecular structures of nanomaterials — to drive these more fundamental features,” Hubbell explains. You can’t develop those approaches if you only understand biology, or only understand materials science, or only understand immunology. You need an understanding and a mastery of all three. “There will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other.” —Jeffrey Hubbell, NYU Tandon Which logically leads to the question: How do you create researchers with that kind of cross-disciplinary depth? The answer isn’t what you might expect. “There may have been a time when the objective was to have the bioengineer understand the language of biology,” Hubbell says. “But that time is long, long gone. Now the engineer needs to become a biologist, or become an immunologist, or become a neuroscientist.” Hubbell isn’t talking about engineers learning enough biology to collaborate with biologists. He’s describing something more radical: training people whose disciplinary identity is genuinely ambiguous. “The neuroengineering students — it’s very difficult to know that they’re an engineer or a neuroscientist,” Hubbell says. “That’s the whole idea.” His own students exemplify this. They publish in immunology journals, present at immunology conferences. “Nobody knows they’re engineers,” he says. But they bring engineering approaches — computational modeling, materials design, systems thinking — to immunological problems in ways that traditional immunologists wouldn’t. The mechanism for creating these hybrid researchers is what Hubbell calls a “milieu.” “To learn it all on your own is hopeless,” he acknowledges, “but to learn it in a milieu becomes very, very efficient.” NYU is expanding its facilities to include a science and technology hub designed to force encounters between people across various schools and disciplines who wouldn’t naturally cross paths. Tracey Friedman/NYU NYU is making that milieu physical. The university has acquired a large building in Manhattan that will serve as its science and technology hub — a deliberate co-location strategy designed to force encounters between people across various schools and disciplines who wouldn’t naturally cross paths. Juan de Pablo is the Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean of the NYU Tandon School of Engineering. Steve Myaskovsky, Courtesy of NYU Photo Bureau “There will be people doing AI, data science, computational science theory, people doing immunoengineering and other biological engineering, people doing materials science and quantum engineering, all really in close proximity to each other,” Hubbell explains. The strategy mirrors what Juan de Pablo, NYU’s Anne and Joel Ehrenkranz Executive Vice President for Global Science and Technology and Executive Dean at the NYU Tandon School of Engineering, describes as organizing around “grand challenges” rather than traditional disciplines. “What drives the recruitment and the spaces and the people that we’re bringing in are the problems that we’re trying to solve,” he says. “Great minds want to have a legacy, and we are making that possible here.” But physical proximity alone isn’t enough. The Institute is also cultivating what Hubbell calls an “explicit” rather than “tacit” approach to translation — thinking about clinical and commercial pathways from day one. “It’s a terrible thing to solve a problem that nobody cares about,” Hubbell tells his students. To avoid that, the Institute runs “translational exercises” — group sessions where researchers map the entire path from discovery to deployment before launching multi-year research programs. Where could this fail? What experiments would prove the idea wrong quickly? If it’s a drug, how long would the clinical trial take? If it’s a computational method, how would you roll it out safely? The new cross-institutional initiative represents a major investment in science and technology, and includes adding new faculty, state-of-the-art facilities, and innovative programs. NYU Tandon The approach contrasts sharply with typical academic practice. “Sometimes academics tend to think about something for 20 minutes and launch a 5-year PhD program,” Hubbell says. “That’s probably not a good way to do it.” Instead, the Institute brings together people who have actually developed drugs, built algorithms, or commercialized devices — importing their hard-won experience into the planning phase before a single experiment is run. The timing may be fortuitous. De Pablo notes that AI is compressing timelines dramatically. “What we thought was going to take 10 years to complete, we might be able to do in 5,” he says. But he’s quick to note AI’s limitations. While tools like AlphaFold can predict how a single protein folds — a breakthrough of the last five years — biology operates at much larger scales. “What we really need to do now is design not one protein, but collections of them that work together to solve a specific problem,” de Pablo explains. Hubbell agrees: “Biology is much bigger — many, many, many systems.” The liver and kidney are in different places but interact. The gut and brain are connected neurologically in ways researchers are just beginning to map. “AI is not there yet, but it will be someday. And that’s our job — to develop the data sets, the computational frameworks, the systems frameworks to drive that to the next steps.” It’s a moment of unusual ambition. “At a time when we’re seeing some research institutions retrench a little bit and limit their ambitions,” de Pablo says, “we’re doing just the opposite. We’re thinking about what are the grand challenges that we want to, and need to, tackle.” The bet is that the breakthroughs worth making can’t emerge from any single discipline working alone. They require collisions —sometimes planned, sometimes accidental — between people who speak different technical languages and are willing to develop a shared one. NYU is engineering those collisions at scale.",
-      "url": "https://spectrum.ieee.org/nyu-health-research",
-      "image_url": "https://spectrum.ieee.org/media-library/two-scientists-in-lab-coats-working-at-a-fume-hood-in-a-chemistry-laboratory.jpg?id=65590061&width=980",
-      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
-      "source": "Ieee Spectrum - Robotics",
-      "published_at": "2026-04-27 12:45:01",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "9d3c95ac5ec1c8ff5b8c5d8a669cd34a",
-      "title": "Beyond the horizon: Artemis II and the Middle East’s expanding stake in space",
-      "description": "Artemis II marks a new era in space as the Middle East shifts from ambition to execution, building real economic, scientific and commercial stakes beyond Earth.",
-      "url": "https://gulfnews.com/opinion/op-eds/beyond-the-horizon-artemis-ii-and-the-middle-easts-expanding-stake-in-space-1.500520448",
-      "image_url": "https://media.assettype.com/gulfnews/2026-04-11/ac6cd6ae/newsml_afp_com_20260411T000000Z_PH_GTY_2270400599.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "source_icon": "https://n.bytvi.com/gulfnews.png",
-      "source": "Gulf News",
-      "published_at": "2026-04-27 08:36:53",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "94b93c408e477582164f53f3ddf5cc79",
-      "title": "The shocking origin of human eyes traces back to an ancient “cyclops”",
-      "description": "A bizarre, cyclops-like creature from nearly 600 million years ago may hold the key to how your eyes—and even your sleep cycle—evolved. Scientists have discovered that all vertebrates, including humans, trace their vision back to a single light-sensitive “median eye” perched atop a worm-like ancestor’s head. As this ancient animal shifted from a sedentary to a more active lifestyle, it lost and then reinvented its vision, eventually giving rise to the paired, image-forming eyes we rely on today.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260426012308.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/regal-horned-lizard.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-27 08:31:43",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "373c873a83449108f849a84c32f4cb63",
-      "title": "Scientists explain why aspirin has the power to help prevent cancer",
-      "description": "Growing evidence reveals that aspirin may influence key mechanisms of tumor development, reinforcing its importance in modern preventive medicine The post Scientists explain why aspirin has the power to help prevent cancer appeared first on ProtoThema English .",
-      "url": "https://en.protothema.gr/2026/04/27/scientists-explain-why-aspirin-has-the-power-to-help-prevent-cancer/",
-      "image_url": "https://en.protothema.gr/wp-content/uploads/2026/04/211013142801_aspirini.webp",
-      "source_icon": "https://n.bytvi.com/protothema.png",
-      "source": "Protothema",
-      "published_at": "2026-04-27 06:02:58",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ab7ba15288ca20a179596d63fc3fb61d",
-      "title": "How do you restore the wild spaces of a corner of England?",
-      "description": "Plans to improve nature have been unveiled, aiming to restore habitats and protect wildlife.",
-      "url": "https://www.bbc.com/news/articles/c747pjxv1gvo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a5ac/live/0bbb0150-3f29-11f1-b9c3-8be9c0df6b27.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-04-27 05:17:28",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
