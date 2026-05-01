@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-01T16:43:41.804Z",
+  "last_updated": "2026-05-01T20:41:09.109Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b38a235b61c39e05bf6645a700f7e43f",
+      "title": "STAT+: Her daughter Mila got a bespoke medicine. Now she’s starting a new biotech to make more",
+      "description": "Efforts to make customized medicines at scale have hit commercial and regulatory roadblocks. Julia Vintarello is trying again.",
+      "url": "https://www.statnews.com/2026/05/01/biotech-julia-vitarello-scaling-custom-therapy-everyone-medicines/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/04/AdobeStock_1843017107-1024x576.jpeg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-05-01 08:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9d6f48dc4f2b97b448f0ead8b6aaaacb",
+      "title": "Opinion: The psychedelic revolution is leaving behind people of color",
+      "description": "Psychedelics’ potential as a form of treatment is virtually unmatched. But their promise faces both scientific uncertainty and thorny political questions.",
+      "url": "https://www.statnews.com/2026/05/01/psychedelics-law-black-hispanic-indigenous-groups-research/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/04/GettyImages-2205119002-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-05-01 08:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d847017ad9e229d55e7cad3b25a62369",
+      "title": "Max Meizlish: Inside Mojtaba Khamenei's Global Kleptocracy",
+      "description": "Max Meizlish, a research fellow at the Foundation for Defense of Democracies (FDD) and a former official at the US Treasury’s Office of Foreign Assets Control (OFAC), looks behind the \"mafia state\" that makes up the Iranian regime.",
+      "url": "https://www.rferl.org/a/meizlish-iran-supreme-leader-khamenei/33746594.html",
+      "image_url": "https://gdb.rferl.org/71e13bcb-b985-46ea-1dc5-08de3bed1b27_cx0_cy4_cw91_w1080_h608.jpg",
+      "source_icon": "https://n.bytvi.com/rferl.png",
+      "source": "Rfe/rl",
+      "published_at": "2026-05-01 08:21:37",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "c33c265e8ab93f9a517b0fad3f115eb8",
+      "title": "USC-led team receives funding to build next-generation medical device that uses tears to monitor health",
+      "description": "Researchers from USC and Caltech aim to develop a tiny sensor and drug delivery system, implanted near the eye, with dry eye disease as its first target.",
+      "url": "https://today.usc.edu/usc-led-team-receives-funding-to-build-next-generation-medical-device-that-uses-tears-to-monitor-health/",
+      "image_url": "https://today.usc.edu/wp-content/uploads/2026/04/iStock-1360548730_uscn0735.jpg",
+      "source_icon": "https://n.bytvi.com/usc.png",
+      "source": "University Of Southern California",
+      "published_at": "2026-05-01 07:06:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "5026a72b203aa8f8c24234c71ec148f7",
+      "title": "UK Biobank has my data, but I’m not worried. I know the benefits are too great to consider pulling out | Polly Toynbee",
+      "description": "Longitudinal studies are a research jewel, shedding light on motor neurone disease, cot deaths, Alzheimer’s and more. Don’t let the security breach in China put you off joining one One thing Britain is exceptionally good at is collecting and using health data for research, studying cohorts of people over many decades. A shudder of alarm rippled through the research world at the news this week that UK Biobank’s data had been put up for sale on China’s Alibaba site, with the science minister, Patrick Vallance, saying that more attempts to sell the data in China were expected. Some sensationalised reporting failed to make clear enough that no names, addresses, NHS numbers or other identifiers were included, nor that the Chinese government reacted fast in taking listings down and nothing was sold. But would there be a stampede of participants withdrawing from this or other research programmes? Biobank dashed to reassure its 500,000 members, and as a longtime volunteer I received a message not only explaining what had happened but listing some of the invaluable research findings and remedies that had already sprung from our data. Remarkably, a representative for Biobank told me that only about 100 people inquired about withdrawing, and after each was spoken to, only 50 actually backed out – pretty impressive. Prof Sir Rory Collins, Biobank’s chief executive, says he will personally speak to any anxious participant. Polly Toynbee is a Guardian columnist Continue reading...",
+      "url": "https://www.theguardian.com/commentisfree/2026/may/01/uk-biobank-data-china-breach-longitudinal-study-benefits",
+      "image_url": "https://i.guim.co.uk/img/media/339d2310f800b30371d09c54fd62322e876cd63b/436_201_2689_2152/master/2689.jpg?width=140&quality=85&auto=format&fit=max&s=4dd96c88ab91caa2edead569787951c9",
+      "source_icon": "https://n.bytvi.com/theguardian.jpg",
+      "source": "The Guardian",
+      "published_at": "2026-05-01 07:00:41",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "1136c1431687df92581cf338355cd885",
+      "title": "We all do it every day — but scientists still don’t know why. That may be changing",
+      "description": "The findings of this study could provide an early clue into one of the body’s long-standing mysteries.",
+      "url": "https://www.sbs.com.au/news/article/we-all-do-it-every-day-but-scientists-still-dont-know-why-that-may-be-changing/7fmp9lmjn",
+      "image_url": "https://assets.sbs.com.au/dims4/default/d87ffd6/2147483647/strip/false/crop/2121x975+0+41/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F24%2Fc7%2Ff456c5ae4ad3b95d3512ec4fae31%2Fgettyimages-2210698209.jpg",
+      "source_icon": "https://n.bytvi.com/sbs.png",
+      "source": "Sbs News",
+      "published_at": "2026-05-01 06:42:40",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e23153f6402888331c310a3656514fd7",
+      "title": "What makes art?",
+      "description": "A few friends and I have been carrying on the same open conversation for a few months now about what makes art. It is a very important question for a bunch of students at Peabody, where I am studying vocal performance. To be frank, the thing we're discussing at this point isn't simply \"What makes art?\" We dance around that question as we talk about the things that are happening in our lives, like lessons, concerts, competitions, rehearsals and even practice sessions, but our conversation always comes back to art, its purpose and our place as artists. It's so easy to get caught up in building skills as musicians. Skills are, of course, incredibly important. How could you bring a crowd to tears with a Chopin Ballade if you can't play the piano like your fingers belong to the keys? But skills alone also can't move a crowd to tears. No matter how fast the runs at the end of a death aria are, if you don't sing them with grief and desperation, there's no point in singing them at all. The audience basically just watched you put a puzzle together. It's satisfying but impersonal. It's easier to focus on skills. You can rack up the hours spent in a practice room drilling difficult passages, and it's a safe way to perform. I often find myself wishing that the audience could just listen to the time I've put in rather than the music I'm making, but that's not really art. Art is about creating an experience. Art is made when the artist opens themself up to the audience and lays themself bare. With all kinds of art, not just music, you can step into someone else's shoes and see yourself more clearly. Art is made by people. It's made by young people like my classmates and I who are still learning how to coax the sounds we want out of our instruments. Desperate people like Tchaikovsky as he wrote his final symphony, a suicide note to the world buried in beautiful orchestration. People in love like Robert Schumann as he fell in love with Clara Schumann, and the audiences who felt when they heard this music that all of it was written for them. Yes, it is the hours spent before an audition trying and failing to master the fingerings for the notorious Don Juan string excerpts, but art is a fuzzy imitation of life like Plato disdainfully stated in The Republic and at the same time it is full of personal and universal truth. It is the part of the world we don't have the words for, and it is an endless, hopeless, beautiful battle for perfection. For the past semester my teacher and I have been working to alter my technique so that I can achieve stronger, more consistent sound with more control. In my case, this means that my posture, the way I use my jaw, the way I draw breath and even how much air I let leak through my nose when I sing all have to be tweaked and changed. For a while, I spent my time in the practice room in various positions to help me be more aware of my body, with my thumbs on my back molars to raise my soft palate and two fingers plugging my nose to prevent air from leaking through. I still do different versions of this in the beginning of a session to remind myself of what it is I need to pay attention to, but lately I have been spending more time with the text I am singing and the notes I have been given so that I can figure out the story the composer was trying to tell and how that story relates to me. I've learned that those skills we can drill forever actually come easier when they serve an emotional purpose. The more time I spend with the emotions of a piece, the freer my sound becomes and the easier it is to make accurate and beautiful music. Now I approach practicing less as a musician and more as a person, and I am becoming a better artist because of it. Art is what happens when hard work brings the artist and their audience together to glimpse something meaningful about human experience. Amelia Taylor is a sophomore from Potomac, Md. studying Writing Seminars and Voice Performance. In her column, she draws insights from seemingly random experiences that present themselves in the course of ordinary life.",
+      "url": "https://www.jhunewsletter.com/article/2026/05/what-makes-art",
+      "image_url": "https://snworksceo.imgix.net/jhn/f84e0f79-d9b6-4d21-9fa8-f8bba85894f9.sized-1000x1000.png",
+      "source_icon": "https://n.bytvi.com/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-05-01 05:03:26",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "2a7e6e6c8610941bbdd774f9bb021d40",
+      "title": "Advancing dairy cow fertility and farm success",
+      "description": "M-AAA support enables MSU researchers to develop fertility programs that raise conception rates, reduce herd turnover and strengthen the long-term viability of Michigan dairy farms.",
+      "url": "https://msutoday.msu.edu/news/2026/05/advancing-dairy-cow-fertility-and-farm-success",
+      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/083f7e776d9747b9b7b9d4cacaabba0d?v=073f63bf",
+      "source_icon": "https://n.bytvi.com/msutoday.jpg",
+      "source": "Michigan State University",
+      "published_at": "2026-05-01 04:00:00",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "34dcb5f79449636098b233515249688d",
       "title": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test",
@@ -506,102 +602,6 @@
       "published_at": "2026-04-30 13:04:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "ee9ae85b7d30f5be60a21c6be8535d71",
-      "title": "Breast Cancer Canada and REAL Canadian Breast Cancer Alliance Establish National Recommendations for Breast Cancer",
-      "description": "TORONTO--(BUSINESS WIRE)--For the first time in Canada, the country’s leading breast cancer experts have come together to establish national standards for breast cancer. This suite of publications released in Current Oncology today set a new benchmark for equitable, evidence-based care from staging, surgery and through treatment. “Until now, Canada has had no unified national standard for breast cancer staging and treatment, resulting in significant differences in care plans and patient outcome",
-      "url": "http://www.businesswire.com/news/home/20260430896027/en/Breast-Cancer-Canada-and-REAL-Canadian-Breast-Cancer-Alliance-Establish-National-Recommendations-for-Breast-Cancer/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260430896027/en/2790530/22/Name_Ribbon.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-04-30 13:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "39fefcd0e70d492f23978b685021983a",
-      "title": "Bus-sized 'terror croc' discovered with bite force greater than T. rex",
-      "description": "The first scientifically accurate full skeleton of Deinosuchus schwimmeri, a giant prehistoric crocodile that ruled the swamps and rivers of Late Cretaceous North America more than 75 million years ago, has been unveiled at Georgia's Tellus Science Museum",
-      "url": "https://www.the-express.com/news/science/206153/bus-sized-terror-croc-back",
-      "image_url": "https://cdn-images.the-express.com/img/dynamic/15/590x/206153_1.jpg",
-      "source_icon": "https://n.bytvi.com/express.png",
-      "source": "Daily Express Us",
-      "published_at": "2026-04-30 12:54:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "aff10fc19b948b2ac829dbb7231c0fd8",
-      "title": "Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead",
-      "description": "\"Now it'll be easier for me to quit you!\" The post Reddit Intentionally Breaks Its Mobile Website, Demanding Users Download Its App Instead appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/reddit-breaks-mobile-website-download-app",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/reddit-breaks-mobile-website-download-app.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-04-30 12:42:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cdbfc0991369a107f9d81b48757d26b3",
-      "title": "Scientists restore memory by blocking a single Alzheimer’s protein",
-      "description": "Researchers have identified a new potential weapon against Alzheimer’s: blocking a protein called PTP1B. In mice, this approach boosted memory and helped brain immune cells clear harmful plaque buildup. Since PTP1B is also linked to diabetes and obesity—both risk factors for Alzheimer’s—it could offer a broader treatment strategy.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102037.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-brain-puzzle-alzheimers-dementia.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-30 08:31:42",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "21ccc8fa6c25bd390ed50e76d0f1e0b1",
-      "title": "Securing NIH awards is getting more competitive — and confusing",
-      "description": "The likelihood of snagging NIH grants has plunged to historic lows, forcing academic researchers to resort to a variety of tactics to try to obtain funding",
-      "url": "https://www.statnews.com/2026/04/30/nih-grant-funding-national-stat-survey-impact-labs-careers/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2026/04/Kayte-Spector-Bagdady_STAT-News_047-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-04-30 08:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fe5294dafa9299904ee4ccf147e67a8d",
-      "title": "Scientists reveal the best exercise for knee arthritis pain relief",
-      "description": "A major review of 217 trials shows that aerobic exercise is the most effective option for managing knee osteoarthritis. Activities like walking, cycling, and swimming outperformed other exercise types in reducing pain and improving movement. While alternatives like strength training and mind-body exercises help, they are best used alongside aerobic workouts. The findings also confirm that exercise is a safe and essential part of treatment.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260430032411.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/arthritic-knee-joint-arthritis-injury-pain.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-30 07:30:17",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c081756c180ebe742fc6f265fd2b6cd9",
-      "title": "The health mistake we all make when we eat strawberries",
-      "description": "Most of us tend to remove the leaves from strawberries, but it turns out this is not only a completely edible part, it is also rich in nutritional components that contribute greatly to health.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-894544",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718517",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-04-30 07:05:11",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "7d63ed683aa559ce36976da164d650be",
-      "title": "This AI knew the answers but didn’t understand the questions",
-      "description": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must be broken into separate parts like memory and attention. A recent AI model called Centaur seemed to offer a breakthrough, claiming it could mimic human thinking across 160 different cognitive tasks. But new research is challenging that bold claim, suggesting the model isn’t truly “thinking” at all—it’s just memorizing patterns.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-30 06:44:03",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
