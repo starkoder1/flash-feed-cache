@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-01T12:52:58.024Z",
+  "last_updated": "2026-05-01T16:43:41.804Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "34dcb5f79449636098b233515249688d",
+      "title": "New Lithium-Plasma Engine Passes Key Mars Propulsion Test",
+      "description": "You’re on the fourth human mission to Mars, and you’re told the Odyssey spacecraft designed to take you there will be the smoothest ride you’ll ever take. It features a newly christened electric propulsion engine which was in the late stages of testing during the first three missions. The mission starts and the spacecraft travels at a crawl, and you wonder if it’s broken. A week goes by and you’re now traveling at more than 400,000 kilometers (250,000 miles) per hour, and your mind is blown as to how fast you’re going, how quickly that happened, and that this mission might be more awesome than you thought.",
+      "url": "https://www.universetoday.com/articles/new-lithium-plasma-engine-passes-key-mars-propulsion-test",
+      "image_url": "https://www.universetoday.com/article_images/ezgif-2f06015efbe967df_750_20260501_022112.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-01 02:21:22",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4d707ee066967e1d6dd011e82da12724",
+      "title": "Physicists have measured ‘negative time’ in the lab",
+      "description": "A light particle can appear to leave a cloud of atoms before it enters – a new experiment, asking the atoms, confirms the light spends ‘negative time’ with them.",
+      "url": "https://theconversation.com/physicists-have-measured-negative-time-in-the-lab-278996",
+      "image_url": "https://images.theconversation.com/files/733418/original/file-20260430-85-w4tzq3.jpg?ixlib=rb-4.1.0&rect=0%2C724%2C6335%2C3167&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-05-01 02:17:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7d1561cf4f3bd22955057e0ab0f57c4d",
+      "title": "Seaport Therapeutics Announces Pricing of Upsized Initial Public Offering",
+      "description": "BOSTON--(BUSINESS WIRE)--Seaport Therapeutics Announces Pricing of Upsized Initial Public Offering",
+      "url": "http://www.businesswire.com/news/home/20260430960640/en/Seaport-Therapeutics-Announces-Pricing-of-Upsized-Initial-Public-Offering/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
+      "image_url": "https://mms.businesswire.com/media/20260430960640/en/2630443/22/SEAPORT-LOGO.jpg",
+      "source_icon": "https://n.bytvi.com/businesswire.png",
+      "source": "Businesswire",
+      "published_at": "2026-05-01 01:55:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3174acf0edd4b4328d99f47475d6b16a",
+      "title": "GOP Sen. won’t put a limit on Iran War spending",
+      "description": "Senator Rick Scott says he would \"spend the money it takes\" to win the war.",
+      "url": "https://www.cnn.com/2026/04/30/politics/video/donald-trump-iran-war-cost-senate-congress-kaitlan-collins-rick-scott-budget-nuclear-weapon",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/kc-and-scott.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-01 01:48:58",
+      "language": "english",
+      "category": "education"
+    },
+    {
+      "id": "1f6a074fbdebf0e1e25ca7a7a4ea4926",
+      "title": "New Book Asks: Article or Ad?",
+      "description": "Michelle Amazeen has dedicated her research to exploring mis- and disinformation in order to build awareness around it and combat it. An associate professor of mass communication, associate dean of research and the director of the Communication Research Center at COM, she contributed to The Debunking Handbook 2020, which compiled research and advice around quashing misinformation, as...",
+      "url": "https://www.bu.edu/articles/2026/new-book-asks-article-or-ad/",
+      "image_url": "https://www.bu.edu/files/2026/03/crop-Michelle-Amazeen-2.jpg",
+      "source_icon": "https://n.bytvi.com/bu_edu.png",
+      "source": "Bu Today",
+      "published_at": "2026-05-01 00:59:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "2e509fd2c1e5607409a14ac5adba77a3",
       "title": "Kiara Brokenbrough went viral for her $500 wedding. She died the day her son was born",
@@ -542,66 +602,6 @@
       "published_at": "2026-04-30 06:44:03",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "97e0da423c43f6a86e0d8c1059db0fa1",
-      "title": "Curocell's RIMQARTO Inj. Wins Full Regulatory Approval, Poised to Enter CAR-T Market with 67% Complete Response Rate",
-      "description": "SEOUL, South Korea--(BUSINESS WIRE)-- #AutologousCellTherapy--Curocell, an immuno-oncology cell therapy developer, has secured approval for RIMQARTO® Inj., South Korea’s first domestically developed CAR-T therapy",
-      "url": "http://www.businesswire.com/news/home/20260429207749/en/Curocells-RIMQARTO-Inj.-Wins-Full-Regulatory-Approval-Poised-to-Enter-CAR-T-Market-with-67-Complete-Response-Rate/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260429207749/en/2790586/22/5852065cRimqarto-Logo-ENG_rev.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-04-30 06:25:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6b31d3fbbec44023aaafb910773e92e7",
-      "title": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-      "description": "Scientists have pulled off a first: teleporting a photon’s state between two separate quantum dots. This was done over a 270-meter open-air link, proving quantum information can travel between independent devices. The achievement marks a key step toward building quantum networks for ultra-secure communication. It also sets the stage for more advanced systems like quantum relays.",
-      "url": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/quantum-teleportation-photon-entanglement.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-04-30 06:08:37",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "764400f74d13e01940dba3e4155b57ca",
-      "title": "'Significant change' needed to tackle agri pollution",
-      "description": "The Office for Environmental Protection said existing regulations are insufficient to deliver necessary water quality improvements.",
-      "url": "https://www.bbc.com/news/articles/cp8pln5lyz3o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d433/live/f076b700-43f0-11f1-9113-1988573e8ff7.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-04-30 05:05:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c91def5137ac0074211b78d135cef070",
-      "title": "'Disgusting' clinical waste dumped on Sheppey beaches",
-      "description": "\"Hundreds\" of clinical waste vials are among thousands of tonnes of illegally dumped waste.",
-      "url": "https://www.bbc.com/news/articles/c5yekykrx25o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/d04d/live/99f6e310-43bd-11f1-b55d-0f258dce1735.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-04-30 05:04:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fed54923a037fedbbd5e2945c6ac185d",
-      "title": "Using weight loss injections? A dietitian explains what you must eat",
-      "description": "Many choose to lose weight with the help of weight loss injections, but they alone do not do the job. A dietitian with the most important rules that will preserve weight loss.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-894426",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718310",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-04-30 05:02:59",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
