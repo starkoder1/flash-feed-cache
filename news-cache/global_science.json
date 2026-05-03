@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-03T12:42:42.341Z",
+  "last_updated": "2026-05-03T16:35:53.290Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "078edaad27ec895266b6fb0ef0fbcd46",
+      "title": "'The Handover': The ABCs of nursing, with a Jewish twist - reivew",
+      "description": "Author Tilda Shalof reflects on her decades of hospital-based work in Canada, and how Jewish humor and its paradoxical mix of tragedy and comedy mirrors a shift nurse’s daily experience.",
+      "url": "https://www.jpost.com/health-and-wellness/article-894785",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718878",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-03 04:30:48",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "ef5dc2027e40213dd9d7b15c5247021c",
+      "title": "Trump says he’ll review new plan from Iran as US fast-tracks $8B in arms sales to Middle East allies",
+      "description": "Iran submitted a 14-point proposal, state media reports. Meanwhile, the US has fast-tracked $8 billion in arms sales to its Mideast allies. Follow for live updates.",
+      "url": "https://www.cnn.com/2026/05/03/world/live-news/iran-war-news",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26122809856269a.JPG?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-03 04:28:18",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "68daeb6905cc15a7a6b08779a945b4bb",
       "title": "Japanese scientists map energy levels in perovskite solar cells, boost efficiency, stability",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-01 20:52:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "2cec1e0960eaaa3c11fdac02dbddfaaf",
-      "title": "Haynes, Levine elected to the American Philosophical Society",
-      "description": "Two faculty members in the College of Arts and Sciences – astronomer Martha Haynes and literary scholar Caroline Levine – have been named to the American Philosophical Society.",
-      "url": "https://news.cornell.edu/stories/2026/05/haynes-levine-elected-american-philosophical-society",
-      "image_url": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-05/2019_1219_055.jpg?h=4233ef75&itok=BZ7Xd0uU",
-      "source_icon": "https://n.bytvi.com/cornelledu.png",
-      "source": "Cornell Chronicle",
-      "published_at": "2026-05-01 20:05:58",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2dbd7bbb50a6cccf58a9140f60067202",
-      "title": "Wild Video Shows Ukrainian Troops Evacuate Babushka With a Military Robot",
-      "description": "\"I thought I'd lie among the trees and that would be it.\" The post Wild Video Shows Ukrainian Troops Evacuate Babushka With a Military Robot appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/babushka-ukraine-robot-war",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/babushka-ukraine-robot-war.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-01 20:01:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
