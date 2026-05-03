@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-03T09:12:29.402Z",
+  "last_updated": "2026-05-03T12:42:42.341Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "68daeb6905cc15a7a6b08779a945b4bb",
+      "title": "Japanese scientists map energy levels in perovskite solar cells, boost efficiency, stability",
+      "description": "A team at Chiba University developed the first universal model of energy level alignment at electrode, hole-collecting monolayer, and perovskite interfaces.",
+      "url": "https://interestingengineering.com/energy/japanese-scientists-perovskite-solar-performance",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/resizeplus_2148820120-1.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-03 00:05:45",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8fa87b04cd72e902910620e0c8a8d21b",
+      "title": "Three key forces driving UFO disclosure as Trump prepares file release",
+      "description": "The long-awaited moment of UFO disclosure could be arriving soon, one lobbyist believes - and the driving force is the fear of nuclear war.",
+      "url": "https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html",
+      "image_url": "https://i.dailymail.com/1s/2026/05/01/18/108314529-0-image-a-46_1777658093823.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-05-02 23:13:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dd5cd143dd402d214770656a5e98d1d8",
+      "title": "'Mournes could take centuries to recover from wildfires'",
+      "description": "One conservation expert says repeated fires in The Mournes is like \"death by a thousand cuts\".",
+      "url": "https://www.bbc.com/news/articles/cevpy8r2e22o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/870e/live/2ee262e0-4573-11f1-b442-c37a8b277356.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-02 23:01:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "35a10c7d3369753232d11dc2393fe10b",
+      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
+      "description": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
+      "url": "https://www.bbc.com/news/articles/cx2107kzyreo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/977d/live/56375760-4500-11f1-ac10-efe18ee947fe.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-02 22:13:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b4521d4eca08df136a8b1d6d2a87a105",
+      "title": "Huge Egypt breakthrough as 4,300-year-old mummy found covered in gold",
+      "description": "Among the most striking discoveries is the mummy of a man found inside a sarcophagus, described as being \"completely covered in layers of gold\".",
+      "url": "https://www.express.co.uk/news/science/2200452/huge-egypt-breakthrough-4300-year-old-mummy-gold",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2200452_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-05-02 22:01:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "713049f64fd36d088bd72bf1b2e5676c",
       "title": "Will AI replace me? Taub Center economists investigate effects on employment, joblessness",
@@ -542,66 +602,6 @@
       "published_at": "2026-05-01 20:01:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "e35a9de1f0bc5b61e4c8dc7fd6a38d03",
-      "title": "A SpaceX rocket booster may be on track to hit the moon in August",
-      "description": "While there is no immediate danger, this crash highlights that space junk is increasingly expanding out of lower-Earth orbit",
-      "url": "https://www.scientificamerican.com/article/a-spacex-rocket-booster-may-be-on-track-to-hit-the-moon-in-august/",
-      "image_url": "https://static.scientificamerican.com/dam/m/13a14832317124af/original/Moon.jpg?m=1777670657.855&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-01 20:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "58045a2793596593ed437fdb1e10f165",
-      "title": "Drone radar could help spacecraft pinpoint where to drill for water on Mars, scientists say",
-      "description": "Drone-mounted radar flown over glaciers on Earth show how the technology can map buried ice in detail, helping future Mars spacecraft choose exactly where to drill.",
-      "url": "https://www.space.com/astronomy/mars/drone-radar-could-help-spacecraft-pinpoint-where-to-drill-for-water-on-mars-scientists-say",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/iXjxXwNvddkxLiPMz9yveQ-1280-80.png",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-01 20:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ed95b14cfdcb718705b204b0e196b139",
-      "title": "Watch NASA test its new X-59 jet designed to go faster than the speed of sound",
-      "description": "This next-generation plane is made to go faster than sound without producing a full sonic boom",
-      "url": "https://www.scientificamerican.com/video/watch-nasa-test-its-new-x-59-jet-designed-to-go-faster-than-the-speed-of-sound/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/3f207ceb-fee7-44b1-9342-99ceb2da45d3/nasa-supersonic-jet.jpg?m=1777665454.229&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-01 19:48:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9fd58af8f9c8bb171c84cb7256d17225",
-      "title": "New FCC Satellite Rules Could Improve Starlink Capacity to a Surprising Degree",
-      "description": null,
-      "url": "https://gizmodo.com/new-fcc-satellite-rules-could-improve-starlink-capacity-to-a-surprising-degree-2000753321",
-      "image_url": "https://gizmodo.com/app/uploads/2025/12/falcon-9-launches-starlink-satellites.jpeg",
-      "source_icon": "https://n.bytvi.com/gizmodotech.png",
-      "source": "Gizmodo",
-      "published_at": "2026-05-01 19:30:53",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a202ce36201ded1c9259bc56c25d5c6d",
-      "title": "Publish books without writer’s block with this $49 tool",
-      "description": "Write in your voice, pull real-time research, and keep full commercial rights",
-      "url": "https://nypost.com/2026/05/01/shopping/publish-books-without-writers-block-with-this-49-tool/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2Fyoubooks-1.jpg?quality%3D90%26strip%3Dall",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-05-01 19:30:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
