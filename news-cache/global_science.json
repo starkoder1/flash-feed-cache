@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-03T16:35:53.290Z",
+  "last_updated": "2026-05-03T20:31:40.634Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "2e4fbf4c2557e68b2815305e8f74b2b1",
+      "title": "Nature haven 'trashed' after four-year wait for protection decision",
+      "description": "Activists claim developers are damaging the area while NatureScot considers whether or not to designate it a protected site.",
+      "url": "https://www.bbc.com/news/articles/cvgzl329lqlo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/de26/live/07e5bf70-4555-11f1-b55d-0f258dce1735.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-03 08:14:19",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "95746ef37df796b533476519ee65ebae",
+      "title": "Protein synthesis molecule Crossword Clue",
+      "description": "Find the answer for Protein synthesis molecule from the people who brought you the USA TODAY Daily Crossword Puzzle.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/05/03/protein-synthesis-molecule-crossword-clue/89918453007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-05-03 08:07:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "189ad87a67c9bc9b1f8e665f6456fa3f",
+      "title": "Dealing with ADHD and concentration difficulties? Foods and habits that can help improve focus",
+      "description": "People with ADHD sometimes forget to eat, or they have difficulty planning meals and buying nutritious food in advance. Experts recommend several habits and foods that can ease the difficulty.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-894615",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718629",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-03 08:00:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "80fbc4532392951d749b2341ffd005ca",
+      "title": "You're drinking prosecco wrong! Scientists reveal why you should never opt for a flute",
+      "description": "Whether it's a celebration or a bottomless brunch, nothing hits the spot quite like a glass of fizz. But you've likely been drinking prosecco wrong, according to scientists.",
+      "url": "https://www.dailymail.com/sciencetech/article-15772695/drinking-prosecco-Experts-reveal-flute.html",
+      "image_url": "https://i.dailymail.com/1s/2026/04/30/16/108281797-0-image-a-180_1777562838175.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-05-03 07:10:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f5b7dba2d0ea1ed6a5169efef7fd11c0",
+      "title": "No ban on over-the-counter pet flea treatments in Jersey",
+      "description": "It comes as the UK looks to restrict the products to vet visits.",
+      "url": "https://www.bbc.com/news/articles/cjdp50xn5kro",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/9042/live/cb27a900-4481-11f1-86c2-d17d046f16a4.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-03 06:15:12",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ee84e2dc1e705c2f387a5698a1f2d4d5",
+      "title": "Scientists Just Discovered a Surprising New Talent in Bees",
+      "description": "Bees can count. They’re not going to be doing your taxes anytime soon, though after a little bit of evolution and a reading of the tax code, it’s not completely off the table. A new study published in Proceedings of the Royal Society B adds weight to a long-running debate about whether honeybees actually understand [...] The post Scientists Just Discovered a Surprising New Talent in Bees appeared first on VICE .",
+      "url": "https://www.vice.com/en/article/scientists-just-discovered-a-surprising-new-talent-in-bees/",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2026/04/scientists-just-discovered-a-surprising-new-talent-in-bees.png",
+      "source_icon": "https://n.bytvi.com/vice.png",
+      "source": "Vice News",
+      "published_at": "2026-05-03 06:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "3627d3fc70266aea46d5b84a8b1eaafd",
+      "title": "Drugs created for one purpose that became breakthroughs in another field",
+      "description": "Some of the most well-known drugs in the world were actually born out of failure, surprising side effects, or studies that were meant to solve a completely different medical problem.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-894587",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718583",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-03 05:01:36",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "078edaad27ec895266b6fb0ef0fbcd46",
       "title": "'The Handover': The ABCs of nursing, with a Jewish twist - reivew",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-02 00:40:01",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "aa6edfd1e89e45f74e75462ddf3eac28",
-      "title": "Is this the real face of Anne Boleyn?",
-      "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
-      "url": "https://www.bbc.com/news/articles/cp9pz53e891o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a10d/live/39742840-4575-11f1-ac78-2112837ce2aa.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-01 23:01:44",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "76891a29f18794580ed7d749f651c00f",
-      "title": "Create a Subaward Purchase Order (PO) via UCIBuy+",
-      "description": "Dear Colleagues: Sponsored Projects has posted a guide that provides the step-by-step process for creating a Subaward Purchase Order to set up a payment mechanism for new subawards. The guide is accessible via the highlighted hyperlink on the page lin...",
-      "url": "https://news.research.uci.edu/cg-news/create-a-subaward-purchase-order-po-via-ucibuy/",
-      "image_url": "https://news.research.uci.edu/wp-content/uploads/2026/03/cg-news-category-image.png",
-      "source_icon": "https://n.bytvi.com/uci.png",
-      "source": "Uc Irvine",
-      "published_at": "2026-05-01 22:07:41",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1e4467267d3c4a3eeca67545c797c465",
-      "title": "A career of meeting deadlines and interesting people has concluded",
-      "description": "In his farewell column, science writer Ned Rozell remembers the many stories and adventures of his 30-year career.",
-      "url": "https://www.adn.com/alaska-news/science/2026/05/01/a-career-of-meeting-deadlines-and-interesting-people-has-concluded/",
-      "image_url": "https://www.adn.com/resizer/TIyDti75ZI8CPZxWksvNHECkoPk=/cloudfront-us-east-1.images.arcpublishing.com/adn/U55IROGR3FCATIATMFKJ3ACXMI.jpg",
-      "source_icon": "https://n.bytvi.com/adn.png",
-      "source": "Adn",
-      "published_at": "2026-05-01 22:07:26",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "82c24f51136c9b9fd290d9fd5d2339db",
-      "title": "Artemis 2 astronauts get the star treatment after historic moon trip",
-      "description": "They didn't get a parade, but they're certainly being paraded on the big networks.",
-      "url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-get-the-star-treatment-after-historic-moon-trip",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/V8mC8iR2yJYEEfMWjJUnk4-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-01 22:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5ea95054c852399c1a312d4ed108c637",
-      "title": "Just call these tiny autonomous construction robots “antdroids”",
-      "description": "Roboticists at Harvard and the Indian Institute of Technology Madras – very smart folks indeed – somehow entirely missed the great name “antdroids” ...",
-      "url": "https://newatlas.com/robotics/tiny-autonomous-construction-robots-rants/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/1c151fc9b37a9ab2c2c1782d9609b06759412db7/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-05-01 22:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "354a5f2cd2a59690e4c9a2996a0e7651",
-      "title": "Fruit flies survive 13G hypergravity, show resilience in rapid-spin centrifuge",
-      "description": "Centrifuge experiments reveal how fruit flies respond to extreme gravity, highlighting resilience and energy trade-offs in biology.",
-      "url": "https://interestingengineering.com/science/fruit-flies-survive-13g-hypergravity",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-2026-05-02T025327.118.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-01 21:26:52",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "809dad61a63c12091efabed4858f2c0b",
-      "title": "Ask Dr. Universe: Gases released by yeast cells make bread dough bubbly - Fri, 01 May 2026 PST",
-      "description": "Dr. Universe: Why does bread expand in the oven? — Skye, 10, United Arab Emirates",
-      "url": "http://www.spokesman.com/stories/2026/may/01/ask-dr-universe-gases-released-by-yeast-cells-make/",
-      "image_url": "https://thumb.spokesman.com/gTeGsfbmCK9MpMhcg8xeIbpHUUs=/2500x1405/smart/media.spokesman.com/photos/2026/05/01/69f513f59f132.hires.jpg",
-      "source_icon": "https://n.bytvi.com/spokesman.png",
-      "source": "Spokesman",
-      "published_at": "2026-05-01 20:52:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
