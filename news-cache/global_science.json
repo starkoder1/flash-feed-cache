@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-04T17:20:41.856Z",
+  "last_updated": "2026-05-04T20:57:46.425Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "608c35ad127e58a86c038b1210d83199",
+      "title": "Immigration changes are driving foreign researchers to leave the U.S. — or not come to begin with",
+      "description": "Labs are seeing fewer applications from international students and researchers, and some doctoral students are considering leaving early.",
+      "url": "https://www.statnews.com/2026/05/04/trump-immigration-policy-stat-survey-measures-science-impact/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/04/Stat_10_April_-1-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-05-04 08:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "ff104b8f09d56123ca3bd4d578dad5d3",
+      "title": "Scientists find 27 new planets that orbit two stars like Tatooine",
+      "description": null,
+      "url": "https://www.independent.co.uk/bulletin/news/star-wars-day-planets-tatooine-nasa-b2969970.html",
+      "image_url": "https://static.independent.co.uk/2026/05/04/3/44/A-circumbinary-planet.jpeg?width=1200&auto=webp&trim=200%2C0%2C199%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-05-04 08:20:41",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "4e3fce1512150386f60251f9fbb780bd",
+      "title": "The UAE's next infrastructure play: Turning biology into intelligence",
+      "description": "Abu Dhabi’s Prepaire Labs is building a biological intelligence platform that turns genomic and wearable data into digital twins, aiming to transform care and cut long-term costs",
+      "url": "https://www.khaleejtimes.com/lifestyle/health/the-uaes-next-infrastructure-play-turning-biology-into-intelligence",
+      "image_url": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-05-04/8giolpc0/LEAD.jpg",
+      "source_icon": "https://n.bytvi.com/khaleejtimes.png",
+      "source": "Khaleej Times",
+      "published_at": "2026-05-04 08:12:55",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e37238a056d56263a2d3d7e4d07cd9ed",
+      "title": "Think you are protected from the sun? Think again",
+      "description": "Despite the high awareness of the damage caused by the sun, many still use sunscreen only partially, which leads to continuous exposure and damage to the skin over time.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-894928",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719084",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-04 07:04:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0dcbb712df679bde07bdc5c5811fe424",
+      "title": "New passive ultrasonic sensors track motion without electricity or batteries",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/new-passive-ultrasonic-sensors-track-motion-without-electricity-or-batteries",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-04 06:56:58",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "821a1b3d1719a246d1b1f6b23dcf4af2",
+      "title": "From data to diagnosis: How AI is helping doctors detect disease",
+      "description": "One of the main challenges in healthcare AI is making sure the technology is easy to use for doctors",
+      "url": "https://gulfnews.com/uae/health/from-data-to-diagnosis-how-ai-is-helping-doctors-detect-disease-1.500528107",
+      "image_url": "https://gumlet-images.assettype.com/gulfnews/2026-05-04/8ijnwi2l/gulfnewsimport20230719OPN-AI-HEALTHCARE1896e7cdbfflarge.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-05-04 06:56:06",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "745af78184f522578a0f4e0f0e447470",
+      "title": "Pine marten kit receives round-the-clock care after siblings died",
+      "description": "The kit was rescued from a bin in Wales and is now being looked after at Vale Wildlife Hospital.",
+      "url": "https://www.bbc.com/news/videos/c8d8j51epe4o",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1024xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nhhqln.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-04 06:13:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "74abbbbf04320e78530aea512bd539d3",
       "title": "Not everything is fat: The truth behind weight gain",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-03 05:01:36",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "078edaad27ec895266b6fb0ef0fbcd46",
-      "title": "'The Handover': The ABCs of nursing, with a Jewish twist - reivew",
-      "description": "Author Tilda Shalof reflects on her decades of hospital-based work in Canada, and how Jewish humor and its paradoxical mix of tragedy and comedy mirrors a shift nurse’s daily experience.",
-      "url": "https://www.jpost.com/health-and-wellness/article-894785",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/718878",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-03 04:30:48",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "ef5dc2027e40213dd9d7b15c5247021c",
-      "title": "Trump says he’ll review new plan from Iran as US fast-tracks $8B in arms sales to Middle East allies",
-      "description": "Iran submitted a 14-point proposal, state media reports. Meanwhile, the US has fast-tracked $8 billion in arms sales to its Mideast allies. Follow for live updates.",
-      "url": "https://www.cnn.com/2026/05/03/world/live-news/iran-war-news",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ap26122809856269a.JPG?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-05-03 04:28:18",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "68daeb6905cc15a7a6b08779a945b4bb",
-      "title": "Japanese scientists map energy levels in perovskite solar cells, boost efficiency, stability",
-      "description": "A team at Chiba University developed the first universal model of energy level alignment at electrode, hole-collecting monolayer, and perovskite interfaces.",
-      "url": "https://interestingengineering.com/energy/japanese-scientists-perovskite-solar-performance",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/resizeplus_2148820120-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-03 00:05:45",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "8fa87b04cd72e902910620e0c8a8d21b",
-      "title": "Three key forces driving UFO disclosure as Trump prepares file release",
-      "description": "The long-awaited moment of UFO disclosure could be arriving soon, one lobbyist believes - and the driving force is the fear of nuclear war.",
-      "url": "https://www.dailymail.com/sciencetech/article-15762125/trump-ufo-disclosure-bassett-files.html",
-      "image_url": "https://i.dailymail.com/1s/2026/05/01/18/108314529-0-image-a-46_1777658093823.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-05-02 23:13:21",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dd5cd143dd402d214770656a5e98d1d8",
-      "title": "'Mournes could take centuries to recover from wildfires'",
-      "description": "One conservation expert says repeated fires in The Mournes is like \"death by a thousand cuts\".",
-      "url": "https://www.bbc.com/news/articles/cevpy8r2e22o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/870e/live/2ee262e0-4573-11f1-b442-c37a8b277356.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-02 23:01:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "35a10c7d3369753232d11dc2393fe10b",
-      "title": "Dragonflies in distress: Scientists sound alarm in India's ecological hotspot",
-      "description": "A new study reveals a decline in dragonfly and damselfly species in India's Western Ghats.",
-      "url": "https://www.bbc.com/news/articles/cx2107kzyreo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/977d/live/56375760-4500-11f1-ac10-efe18ee947fe.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-02 22:13:11",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b4521d4eca08df136a8b1d6d2a87a105",
-      "title": "Huge Egypt breakthrough as 4,300-year-old mummy found covered in gold",
-      "description": "Among the most striking discoveries is the mummy of a man found inside a sarcophagus, described as being \"completely covered in layers of gold\".",
-      "url": "https://www.express.co.uk/news/science/2200452/huge-egypt-breakthrough-4300-year-old-mummy-gold",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2200452_1.jpg",
-      "source_icon": "https://n.bytvi.com/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-05-02 22:01:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
