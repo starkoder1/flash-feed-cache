@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-04T06:33:18.374Z",
+  "last_updated": "2026-05-04T10:05:21.658Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c4c4d89278f4336d2e4bbfbd27014416",
+      "title": "Japanese scientists fine-tune molecular flow in nanoreactors to boost catalytic performance",
+      "description": "A team at Tohoku University reports that fine-tuning molecular flow within nanoreactors can significantly improve catalytic performance.",
+      "url": "https://interestingengineering.com/science/molecular-flow-nanoreactors-to-boost-performance",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/nanoreactor-design.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-03 21:34:51",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "5a6aa5cce246f93b584832f3178f3d6e",
+      "title": "Alarming map reveals 20 million Americans living within one mile of toxic sites tied to cancer, brain damage and birth defects",
+      "description": "Experts warned that the real concern is not just how many toxic sites exist, but how many communities may not even realize they are living near one.",
+      "url": "https://www.dailymail.com/sciencetech/article-15650885/map-toxic-sites-cancer-brain-damage-americans.html",
+      "image_url": "https://i.dailymail.com/1s/2026/04/28/19/108228375-0-image-a-17_1777401893310.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-05-03 21:18:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "26c58383d9c6ffd4bae1eaba869a236d",
+      "title": "Vibrating pillow sleeve warns deaf sleepers of burglars and fires",
+      "description": "A research team supervised by Assoc. Prof. Theo Hughes-Riley from Nottingham Trent University has designed a smart vibrating pillow sleeve prototype, ...",
+      "url": "https://newatlas.com/good-thinking/vibrating-pillow-sleeve-deaf-sleepers-burglars-fires/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/23fad1f4ca9dddae6b231ebdb1569b1d262690f7/_xlarge.jpeg",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-05-03 19:03:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b01fa858bcfbb58c5878802ca221dddd",
+      "title": "The Paranal solar ESPRESSO Telescope, a New Tool for Finding Exoplanets",
+      "description": "The Paranal solar ESPRESSO Telescope (PoET), installed at the European Southern Observatory's (ESO's) Paranal site in Chile, has made its first observations. The telescope will work with ESO's ESPRESSO instrument to study the sun in detail. Described as a solar telescope for planet hunters, PoET aims to understand how the variation in the light from stars like the sun can mask the presence of planets orbiting them, helping us in our search for worlds outside the solar system.",
+      "url": "https://www.universetoday.com/articles/the-paranal-solar-espresso-telescope-a-new-tool-for-finding-exoplanets",
+      "image_url": "https://www.universetoday.com/article_images/e1-6000-exoplanets-artists-concept-web_20260503_231337.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-03 18:52:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "0f9323f422f397252b36d16acb2e1753",
       "title": "Study warns cost-cutting use of generative AI could increase cyber-attack risks",
@@ -554,54 +602,6 @@
       "published_at": "2026-05-02 16:45:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "f9734e0352ccc6cb965ee786602a1662",
-      "title": "Not a supernova, but a binary system hits 100 TeV, stuns particle physics",
-      "description": "By tracking particle cascades in Earth’s atmosphere, scientists uncovered a binary system operating at energies once thought unlikely.",
-      "url": "https://interestingengineering.com/space/100-tev-gamma-rays",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/100-TeV-gamma-rays.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-02 16:12:13",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "424c4f4bb45c7f0cac19bf97a9a11deb",
-      "title": "You’ll Gasp When You Hear How Many Chinese EVs You Can Buy For the Price of a Single US Car",
-      "description": "This is wild. The post You’ll Gasp When You Hear How Many Chinese EVs You Can Buy For the Price of a Single US Car appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/chinese-evs-buy-for-price-one-us-car",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/chinese-evs-buy-for-price-one-us-car.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-02 16:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "1c6a6358da3d6bc2078e07a7b83e2d95",
-      "title": "The huge change to chocolate in UK supermarkets from next year",
-      "description": "The owner of Cadbury and Toblerone has developed chocolate bars made with cocoa butter grown in laboratories",
-      "url": "https://www.express.co.uk/news/uk/2200466/huge-change-chocolate-uk-supermarkets",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2200466_1.jpg",
-      "source_icon": "https://n.bytvi.com/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-05-02 16:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0fed76866964890162063f5b90b163f2",
-      "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
-      "description": "SpaceX will launch 45 satellites to orbit from California early Sunday morning (May 3), and you can watch the action live.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-02 16:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
