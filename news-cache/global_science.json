@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-04T10:05:21.658Z",
+  "last_updated": "2026-05-04T13:19:40.506Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f223779917c1cfd9e8d30ede1de0a772",
+      "title": "There is one overwhelmingly clear message from Australia in today's Redbridge poll: PETER VAN ONSELEN",
+      "description": "The latest RedBridge Research survey isn't just another poll. It's a reminder of the strange place Australian politics now finds itself in.",
+      "url": "https://www.dailymail.com/news/article-15787575/redbridge-analysis-pvo.html",
+      "image_url": "https://i.dailymail.com/1s/2026/05/04/01/108349015-0-image-a-8_1777855488132.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-05-04 00:46:55",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "9e772717fc7e82be5a468fff6fd44156",
+      "title": "Rutgers expert: Academic freedom is dying a quiet death in N.J. universities",
+      "description": "One in five faculty members now self-censor their teaching and research, creating a chilling effect that extends far beyond campus and threatens democratic...",
+      "url": "https://www.yahoo.com/news/articles/rutgers-professor-academic-freedom-dying-170048872.html",
+      "image_url": "https://media.zenfs.com/en/nj_com_articles_950/2235a0f56883f38eae53734bdcfff31a",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-05-04 00:31:47",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0e91e9ed5b37fc878b055bd5bb2b1700",
+      "title": "Scientists discover 27 potential new planets that orbit two stars in solar systems far, far away",
+      "description": "On ‘Star Wars day’, researchers more than double the number of potential known ‘circumbinary’ planets like the fictional Tatooine, home to Luke Skywalker Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Astronomers have discovered 27 new potential planets that orbit two stars, like the fictional desert planet Tatooine from the Star Wars universe. To date, only about 18 circumbinary planets – which orbit around two stars – had been identified in the universe. More than 6,000 planets have been discovered that orbit single stars, like Earth does around the sun. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/may/04/scientists-discover-27-potential-new-planets",
+      "image_url": "https://i.guim.co.uk/img/media/2d99e38d9dfebd5b94c6f4ea6fc2f353fcbfa3fe/1295_0_1703_1363/master/1703.jpg?width=140&quality=85&auto=format&fit=max&s=45803bde5db90e0356403b6fa29389fe",
+      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
+      "source": "Theguardiantheguardian",
+      "published_at": "2026-05-04 00:01:07",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "32d58fa7dad3d7dbb817f7b5568d0105",
+      "title": "Novelty Nobility Taps AGC Biologics to Further Develop Bispecific Drug Candidate",
+      "description": "Successful partnership continues as bispecific antibody candidate moves to GMP manufacturing; project highlights Japan's advanced capabilities in bioprocessing and AGC Biologics' expanding global network CHIBA, Japan, May 04, 2026 (GLOBE NEWSWIRE) -- Novelty Nobility, a clinical-stage biotech company based in South Korea, expanded its manufacturing agreement with AGC Biologics, your friendly CDMO expert, to advance their bispecific antibody drug candidate through process development and GMP manufacturing at AGC Biologics' facility in Chiba, Japan . This second partnership, continued from the last year, underscores the successful track record and deep expertise AGC Biologics provides for developing complex biologics. The project leverages AGC Biologics' global network, having successfully completed cell line development in Copenhagen, Denmark . The program is now on track for a seamless tech transfer to the Chiba site for the next critical manufacturing stages. \"AGC Biologics has proven to be an ideal manufacturing partner for advancing our most complex programs. Their seamless global network — from cell line development to GMP manufacturing — gives us the confidence to move NN4101 forward with speed and precision.\" said Sang Gyu Park, CEO of Novelty Nobility. \"We believe this bispecific antibody has the potential to offer a truly differentiated treatment option for patients with neovascular retinal diseases.\" Novelty Nobility's bispecific ... Full story available on Benzinga.com",
+      "url": "https://www.benzinga.com/pressreleases/26/05/g52239408/novelty-nobility-taps-agc-biologics-to-further-develop-bispecific-drug-candidate",
+      "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
+      "source_icon": "https://n.bytvi.com/benzinga.png",
+      "source": "Benzinga",
+      "published_at": "2026-05-04 00:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "6a14283fd2a0919d43a2635895ee7ed5",
+      "title": "UK's national soil database released as open-access repository",
+      "description": "Cranfield University has launched a new soil and environmental online database and mapping tool, opening up detailed information about land in England and Wales. In collaboration with Defra, Cranfield's Land Information System (LandISPortal)—which includes the National Soil Map of England and Wales (NATMAP)—is now on a new platform and open access, free and available for everyone to use. The initiative delivers the commitment in the government's Land Use Framework to make this soil data open access.",
+      "url": "https://phys.org/news/2026-04-uk-national-soil-database-access.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/uks-national-soil-data.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-03 23:30:04",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9f078bc03cbccc225aa2d128ed1ea4f2",
+      "title": "UAE boosts position in regenerative medicine, stem cell therapies",
+      "description": "UAE strengthens its position in regenerative medicine, stem cell therapies",
+      "url": "https://gulfnews.com/uae/uae-boosts-position-in-regenerative-medicine-stem-cell-therapies-1.500527803",
+      "image_url": "https://gumlet-images.assettype.com/gulfnews/2026-05-03/r04xyapp/rcz03fwt1ka1pu3po.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-05-03 23:13:15",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e2839bdba5f0f635db1ac89f53ca4443",
+      "title": "Daily horoscope May 4, 2026: Today’s predictions for your star sign",
+      "description": "Jupiter angles with Mars today, bringing bold decison-making, persuasion and determination to centre stage",
+      "url": "https://metro.co.uk/2026/05/04/daily-horoscope-may-3-2026-todays-predictions-star-sign-2-28199379/",
+      "image_url": "https://metro.co.uk/wp-content/uploads/2023/04/SEC_152845384-9ad1.jpg?quality=90&strip=all",
+      "source_icon": "https://n.bytvi.com/metro.png",
+      "source": "Metro",
+      "published_at": "2026-05-03 23:01:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "c4c4d89278f4336d2e4bbfbd27014416",
       "title": "Japanese scientists fine-tune molecular flow in nanoreactors to boost catalytic performance",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-02 20:04:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "45d85269eddb1239c267bff3574f9942",
-      "title": "Ingenious unpowered sensor detects motion by generating ultrasound",
-      "description": "Researchers at the Georgia Institute of Technology have created a passive motion/contact sensor that detects motion using only sound. Without ...",
-      "url": "https://newatlas.com/good-thinking/unpowered-motion-sensor-ultrasound/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/29f232187deaa70963830d82df959e2d328d099f/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-05-02 20:03:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4d70552169c776b53be0b86309d9108c",
-      "title": "Health experts call for AI addiction to be classed as a mental illness - as sufferers report feeling suicidal when separated from their favourite chatbot",
-      "description": "A growing number of experts are calling for AI chatbot addiction to be recognised as a mental illness, as the number of supposed cases climbs.",
-      "url": "https://www.dailymail.com/sciencetech/article-15781933/AI-addiction-classed-mental-illness-suicidal.html",
-      "image_url": "https://i.dailymail.com/1s/2026/05/01/14/108308297-0-image-a-25_1777643206979.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-05-02 19:20:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "339be3578c3c905bc2bedce3ab84e110",
-      "title": "DIY identity protection vs paid services: What works in 2026",
-      "description": "The Conduent breach, called the largest in U.S. history by Texas AG Ken Paxton, exposed millions of records. Here's how to protect your identity now.",
-      "url": "https://www.foxnews.com/tech/diy-identity-protection-vs-paid-services-works-2026",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/couple-identity-theft-victims.jpg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-05-02 18:15:47",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "52f09a0abcf1ccc062c7d58342ef4ade",
-      "title": "Nuclear institute readies new roadmap",
-      "description": "The Thailand Institute of Nuclear Technology (Tint) is preparing an expansion roadmap focused on scaling up nuclear applications in healthcare, industry and energy, as it marks its 20th anniversary.",
-      "url": "https://www.bangkokpost.com/thailand/general/3248762/nuclear-institute-readies-new-roadmap",
-      "image_url": "https://static.bangkokpost.com/media/content/20260503/c1_3248762_260503080956.jpg",
-      "source_icon": "https://n.bytvi.com/bangkokpost.png",
-      "source": "Bangkok Post",
-      "published_at": "2026-05-02 18:01:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0de684c774c38c8e70c5d656e19088c1",
-      "title": "Chinese Court Rules That a Worker Cannot Be Replaced by AI",
-      "description": "\"Technological progress may be irreversible, but it cannot exist outside a legal framework.\" The post Chinese Court Rules That a Worker Cannot Be Replaced by AI appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/china-legal-ai-automation",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/china-legal-ai-automation.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-02 18:01:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "7651dc5a874b4ff50f6fa6d4024897b2",
-      "title": "Scientists Say They’ve Figured Out What Causes “Ghosts”",
-      "description": "Invisible forces at work. The post Scientists Say They’ve Figured Out What Causes “Ghosts” appeared first on Futurism .",
-      "url": "https://futurism.com/health-medicine/scientists-explain-ghosts",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/what-causes-ghosts.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-02 17:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "561a78b43c8484c3a5b5d85e84778588",
-      "title": "There’s Something Bizarre About the Offices of AI Startups",
-      "description": "Seriously? The post There’s Something Bizarre About the Offices of AI Startups appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/ai-startup-offices-nyc",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/04/bizarre-office.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-02 16:45:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
