@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-07T13:26:06.123Z",
+  "last_updated": "2026-05-07T17:31:16.283Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "933505a106141d75ee31e39043db0b13",
+      "title": "What really happens to the body when you eat white bread every day?",
+      "description": "White bread has been considered for many decades as the “enemy” of a healthy diet, but science presents a much more complex and perhaps also surprising picture.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895172",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719467",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-07 05:01:36",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f1ffeece222a0b6aacf30fc443c00204",
+      "title": "Why one Parkinson’s treatment may not work for every patient",
+      "description": "New machine learning study uncovers hidden forms of Parkinson’s disease, which researchers say could help explain why the same treatment does not work for every patient.",
+      "url": "http://www.euronews.com/health/2026/05/07/why-one-parkinsons-treatment-may-not-work-for-every-patient",
+      "image_url": "https://images.euronews.com/articles/stories/09/74/88/59/1440x810_cmsv2_87cea570-928b-53ee-b651-24657d037ded-9748859.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-05-07 05:00:46",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "141a912a621bffbce977eb3a2400aebb",
+      "title": "Developing more accessible mental health screening tool for autistic adolescents",
+      "description": "Led by Celeste Campos-Castillo and Susan Bonner, associate professors in M&I, their project combines expertise in communication, health services and interactive design to reimagine the screening experience.",
+      "url": "https://msutoday.msu.edu/news/2026/05/accessible-mental-health-screening-tool-for-autistic-adolescents",
+      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/7398e9d13ac44afa8b4567fd0e4aa9b7?v=af66db9b",
+      "source_icon": "https://n.bytvi.com/msutoday.jpg",
+      "source": "Michigan State University",
+      "published_at": "2026-05-07 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1e392360300c232b82f92b99def0b4fc",
+      "title": "Study: Firms often use automation to control certain workers’ wages",
+      "description": "MIT economists found US companies tend to target employees earning a “wage premium,” which increases inequality but not necessarily productivity.",
+      "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Automation-Wages-01-press.jpg?itok=3HI3bxqJ",
+      "source_icon": "https://n.bytvi.com/mit.jpg",
+      "source": "Massachusetts Institute Of Technology",
+      "published_at": "2026-05-07 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e12040c48e99dff79bab70174316ee6a",
+      "title": "Scientists reverse diabetes in mice with lab-grown insulin cells",
+      "description": "Scientists in Sweden have taken a major step toward a potential cure for type 1 diabetes by developing a more reliable way to create insulin-producing cells from human stem cells. These lab-grown cells not only respond strongly to glucose but were also able to restore blood sugar control when transplanted into diabetic mice.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260505234620.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/human-embryo-cell-with-nucleus.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-07 02:28:45",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "5cb83d5c331800126e5f129c8877197b",
       "title": "PKP is hiring an Associate Director of Publishing Services",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-05-06 07:10:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c24bf6e9d3e535f80abf0c693303086e",
-      "title": "'Fire weather' contributing to longer wildfire seasons, say scientists",
-      "description": "Figures show that spring drought events are happening more often while there has been a sharp rise in \"fire weather\".",
-      "url": "https://www.bbc.com/news/articles/c0729z88z37o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/7b48/live/0d848350-4332-11f1-ac78-2112837ce2aa.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-06 05:18:27",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "807596db66a6bf84e2f06152cb6e7939",
-      "title": "Beavers spotted in nature reserve for first time",
-      "description": "The pair are filmed swimming in the water at Blashford Lakes Nature Reserve, near Ringwood.",
-      "url": "https://www.bbc.com/news/videos/cwy21p441l7o",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0njfby4.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-06 05:04:39",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "be5993aca92654d856e65bd9ce9aee83",
-      "title": "Once and for all: Which burns more calories – walking or running?",
-      "description": "Both incline walking and running are considered effective aerobic workouts, but the choice between them depends on fitness goals, health condition, and the ability to maintain consistency over time.",
-      "url": "https://www.jpost.com/health-and-wellness/exercise/article-895026",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719260",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-06 05:01:36",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "0e9adabda238b9abcec1b33a5aa25328",
-      "title": "Le télescope Major Atmospheric Gamma - ray Imaging Cherenkov (« Magic »), situé à l'observatoire du Roque de los Muchachos de La Palma, aux Canaries.",
-      "description": "La PME de Lannion, dans les Côtes-d'Armor, spécialisée dans les traitements de surface optiques, va produire 700 miroirs pour un observatoire international chilien.",
-      "url": "https://www.lesechos.fr/pme-regions/bretagne/kerdry-decroche-un-contrat-dastronomie-a-2-millions-deuros-2230211",
-      "image_url": "https://media.lesechos.com/api/v1/images/view/69facb04dd2c146e1d010c83/1280x720/019090204553-web-tete.jpg",
-      "source_icon": "https://n.bytvi.com/lesechos.png",
-      "source": "Les Echos",
-      "published_at": "2026-05-06 05:00:53",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ff579a3d6a1cab3579806b6b9709495c",
-      "title": "Sheriff Bianco rejects claims he said Hilton was trying to swindle into election",
-      "description": "Republican candidate Chad Bianco appeared to backpedal after he was asked about a quote from an interview he did with KBAK in March that the other GOP contender, Steve Hilton, “swindled his way into the Republican side, even though he’s not.”",
-      "url": "https://www.cnn.com/2026/05/06/politics/video/bianco-rejects-claims-he-said-hilton-tried-to-swindle-into-california-election",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/41283829-06663453-generated-thumbnail.jpg?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-05-06 05:00:06",
       "language": "english",
       "category": "science"
     }
