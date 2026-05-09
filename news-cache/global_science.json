@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-09T12:51:00.345Z",
+  "last_updated": "2026-05-09T16:40:13.432Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ff6706b77d10f72412b401d907d7c139",
+      "title": "Pluto-Like World's Thin Atmosphere Poses a Mystery for Astronomers",
+      "description": "Astronomers are puzzling over another oddball on the edge of the solar system: This time, it's an icy object less than a quarter of Pluto's size with a thin atmosphere – a layer of gas that's not typically found around objects so small.",
+      "url": "https://www.universetoday.com/articles/pluto-like-worlds-thin-atmosphere-poses-a-mystery-for-astronomers",
+      "image_url": "https://www.universetoday.com/article_images/260507-tno_20260508_024353.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-09 03:52:15",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d4924e3e75b22746b4fe212ab5f719db",
+      "title": "After 3 decades of splendid scientific communication, this one’s for you, Ned",
+      "description": "With a style that was both accurate to the work and approachable to the reader, Ned Rozell authored the Alaska Science Forum for 31 years.",
+      "url": "https://www.adn.com/alaska-news/science/2026/05/08/after-3-decades-of-splendid-scientific-communication-this-ones-for-you-ned/",
+      "image_url": "https://www.adn.com/resizer/XKEJgY4fffEC-tpVSvlDQ5hcxsA=/cloudfront-us-east-1.images.arcpublishing.com/adn/2H2EQLR35VGH7B5MJTATTJNEUQ.jpg",
+      "source_icon": "https://n.bytvi.com/adn.png",
+      "source": "Adn",
+      "published_at": "2026-05-09 01:13:20",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "9b027b5bf24dd611aa96b0504251af8e",
       "title": "Engineered polyionic liquid delivers seven times stronger carbon capture performance",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-08 04:56:40",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "6e69e5c8acdcaaa8ccb42277bb71780a",
-      "title": "New zoo enclosure for 'nature's clean-up crew'",
-      "description": "The zoo says it hopes it will \"inspire visitors to appreciate and help protect\" endangered vultures.",
-      "url": "https://www.bbc.com/news/articles/c0m2wg4w89vo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6717/live/952c2c90-4a08-11f1-b84b-1fec0953dd1e.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-08 04:33:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b5ab1394f7bec8a47184eb704ffbabcb",
-      "title": "Squeak up! I can’t hear you: pilot whales are shouting to hear themselves over ship noise",
-      "description": "A new study highlights how noise pollution in the ocean is changing animals’ behaviour.",
-      "url": "https://theconversation.com/squeak-up-i-cant-hear-you-pilot-whales-are-shouting-to-hear-themselves-over-ship-noise-282394",
-      "image_url": "https://images.theconversation.com/files/734651/original/file-20260507-57-oms6s3.jpg?ixlib=rb-4.1.0&rect=0%2C222%2C3504%2C1752&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-05-08 03:47:26",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
