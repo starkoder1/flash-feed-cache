@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-10T12:51:49.961Z",
+  "last_updated": "2026-05-10T16:41:15.342Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c2cdfe46e7a62fba5e761abe60269f0b",
+      "title": "Ewine van Dishoeck, astronomer: ‘We are the first generation who can bring the question of life on other planets from the realm of philosophy into real science’",
+      "description": "The Dutch astrochemist visited Barcelona to take part in Cosmocaixa’s ‘Greats of Science’ series",
+      "url": "https://english.elpais.com/science-tech/2026-05-10/ewine-van-dishoeck-astronomer-we-are-the-first-generation-who-can-bring-the-question-of-life-on-other-planets-from-the-realm-of-philosophy-into-real-science.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/AV2K2MGAYRARZIMM432ZAOZ2O4.jpg?auth=1d6f7a9928ed53e5c35fac27e60d19d896a0e7b2954f8896e411c8d631695d4e",
+      "source_icon": "https://n.bytvi.com/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-05-10 04:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "3fd53d3bd6a9c264e9ffb15b20b44ecc",
+      "title": "Scientists reversed liver aging with young gut bacteria in stunning study",
+      "description": "Rebooting the gut microbiome with bacteria from youth may help stop aging-related liver damage and even prevent liver cancer, according to new research in mice. Older mice that received their own preserved youthful microbiome showed less inflammation, reduced DNA damage, and no signs of liver cancer. Researchers also found that the treatment suppressed a cancer-linked gene called MDM2, making older mice biologically resemble younger ones.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260509210643.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/medical-breakthrough-liver-health.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-10 02:58:28",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a397cf45075a0f241e1a5ca251a44dd4",
+      "title": "FBI investigating recent deaths and disappearances of multiple US scientists",
+      "description": "The scientists supposedly all had access to sensitive government research, and the nature of their work has led to speculation that their cases might all be connected.",
+      "url": "https://www.abc.net.au/news/2026-05-10/us-scientists-missing-dead-fbi-nasa/106646664",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/704541d4191d22f0638c3231815115e2?impolicy=wcms_crop_resize&cropH=964&cropW=1714&xPos=0&yPos=78&width=862&height=485",
+      "source_icon": "https://n.bytvi.com/abc_net.png",
+      "source": "Abc",
+      "published_at": "2026-05-10 02:57:35",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "833b6cfc8b77950329f43d7dfc6c7c2d",
       "title": "Astronomers from Western University Discover the Birthplace of Cosmic \"Buckyballs\"",
@@ -566,42 +602,6 @@
       "published_at": "2026-05-08 19:57:25",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "adea307642eaac396e9a3f36e929b73c",
-      "title": "Scientists have found another world with an atmosphere",
-      "description": "The finding comes with significant new suggestions about the solar system",
-      "url": "https://theweek.com/science/scientists-have-found-another-world-with-an-atmosphere",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/bGWg8PmwsE3Es4VhLGhQCR-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/theweek.png",
-      "source": "The Week",
-      "published_at": "2026-05-08 19:46:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ec65ab16352597341240f077f0f4016f",
-      "title": "NASA confirms Mars helicopters could survive Mach 1.08 to boost lift by 30 percent",
-      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
-      "url": "https://interestingengineering.com/science/nasa-confirms-mars-helicopters-could-survive-mach-1-08-to-boost-lift-by-30-percent",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-08 19:16:15",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "779af20f7f152d6ff1074aa5cb308211",
-      "title": "Thermoses Linked to Permanent Vision Loss",
-      "description": "Handle with care. The post Thermoses Linked to Permanent Vision Loss appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/thermoses-permanent-vision-loss",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/thermoses-permanent-vision-loss.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-08 19:10:11",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
