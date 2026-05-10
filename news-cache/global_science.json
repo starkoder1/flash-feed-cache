@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-10T06:28:16.596Z",
+  "last_updated": "2026-05-10T09:20:50.059Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "44c34061f06b07ef8128abfeceb376f1",
+      "title": "A Brief-ish History of SETI. Part II: Ozma and the Drake Equation",
+      "description": "By the mid-20th century, the Search for Extraterrestrial Intelligence would emerge as an established field of scientific research. The era witnessed the first experiments, and many of the theoretical and philosophical underpinnings of SETI were proposed during this time.",
+      "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ii-ozma-and-the-drake-equation",
+      "image_url": "https://www.universetoday.com/article_images/vla_panorama_med-1_20260509_175031.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-09 20:38:52",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "585d7cf29d52babd0309a28fd4696ae3",
+      "title": "The country where lethal hantavirus cases are on the rise. Experts blame climate change",
+      "description": "Experts blame climate change and habitat destruction for the rise in cases of the disease, which is usually caused by exposure to the urine or feces of...",
+      "url": "https://www.yahoo.com/news/articles/hantavirus-cases-nearly-doubled-argentina-040051233.html",
+      "image_url": "https://media.zenfs.com/en/cnn_articles_875/caff83320f040c00947e5c54455c91d4",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-05-09 20:34:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "77bb5c5406e37251815b062596f90fb7",
+      "title": "Communication gaps may hinder social innovation",
+      "description": "New research from the Durham University Management and Marketing Department shows that misunderstandings between investors and founders are a major reason why social innovation ventures fail to grow. In many cases, they collapse altogether.",
+      "url": "https://phys.org/news/2026-05-communication-gaps-hinder-social.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/research-communication.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-09 20:30:04",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "742941b217d2dd04427d073a44e25783",
+      "title": "Five data broker opt-out myths that leave retirees exposed",
+      "description": "One-time opt-out forms may not fully protect retirees from data broker exposure and elder fraud scams that exploit decades of personal records online.",
+      "url": "https://www.foxnews.com/tech/five-data-broker-opt-myths-leave-retirees-exposed",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/doing-taxes-photo-3.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-05-09 18:43:34",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "6e17b8d5253d725b10f695c50298a0f4",
+      "title": "AI air traffic system promises fewer flight delays",
+      "description": "The FAA's new SMART system uses AI to predict air traffic congestion and adjust flight schedules early, but experts question if it can deliver results.",
+      "url": "https://www.foxnews.com/tech/ai-air-traffic-system-promises-fewer-flight-delays",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/usa-airport-travel-delays-tsa-ice-fox-news-002.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-05-09 18:38:20",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "92a06caed05c20651d419e38f4336de6",
       "title": "The Upcoming El Niño Is About to Unleash Devastation, Experts Warn",
@@ -542,66 +602,6 @@
       "published_at": "2026-05-08 18:40:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "cd869feb8153c85238edfa6a08f167fc",
-      "title": "A ‘triple whammy’ of chaos has triggered a downward spiral in Antarctica, scientists discover",
-      "description": "For decades, it seemed Antarctica might be insulated from rapid ice melting, but then sea ice began to decline dramatically. Scientists say they have figured...",
-      "url": "https://www.yahoo.com/news/articles/triple-whammy-chaos-triggered-downward-180050005.html",
-      "image_url": "https://media.zenfs.com/en/cnn_articles_875/3267c31b6cb6ec9e55cd67ae4043362d",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-05-08 18:00:50",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fec39f3e5fbe289c5c009d69f4a43039",
-      "title": "Ana Inês Inácio Designs the Future of Wireless",
-      "description": "When Ana Inês Inácio goes to work at the Netherlands Organization for Applied Scientific Research (TNO) in The Hague, she thinks about signals most people never notice: radio waves moving between satellites , sensors , and future wireless networks. The integrated circuits the research scientist designs lay the foundation for next-generation RF sensor systems critical to advancing radar technologies. Ana Inês Inácio EMPLOYER Netherlands Organization for Applied Scientific Research, TNO TITLE Scientist IEEE MEMBER GRADE Senior member ALMA MATER University of Aveiro, in Portugal Those invisible RF signals are only part of what earned the IEEE senior member her global recognition. Inácio recently received the IEEE–Eta Kappa Nu Outstanding Young Professional Award for “leadership in IEEE Young Professionals , fostering innovation and inclusivity, and pioneering advancements in RF sensor systems , bridging technical excellence with impactful community engagement.” The recognition from IEEE’s honor society reflects a career built along two parallel paths: advancing RF circuit design while helping engineers worldwide build professional communities. “I’ve always liked building things,” Inácio says. “Sometimes that means circuits; sometimes it means helping people connect and grow together.” That blend of technical innovation and global leadership gives her work impact far beyond the laboratory. EE lessons at the kitchen table Inácio grew up in Vales do Rio, a rural village near Covilhã in central Portugal. The region was known for farming and textiles, she says. Many residents worked in the textile industry, including her grandfather, who repaired machinery such as industrial looms. He became her first engineering teacher without ever holding the formal title. Through correspondence courses delivered by mail, he taught himself electrical systems. At home, he explained electricity to his granddaughter while he repaired the household’s appliances and wiring. “He would show me why something broke and how we could fix it,” she recalls. It sparked her curiosity. Her mother was a tailor who later managed other tailors. Her father left his factory job to attend culinary school and now cooks at an elder-care facility. Curiosity was a trait that ran through the family. By high school, Inácio was drawn equally to mathematics and physics and to biology and geology, she says. Encouragement from teachers and an uncle, an engineer, ultimately steered her toward electronics engineering. Conducting research on integrated circuits In 2008 she enrolled in an integrated master’s degree program in electrical and telecommunications engineering at the Universidade de Aveiro in Portugal, a five-year degree that combined undergraduate and graduate studies. An opportunity to study abroad changed her path. In 2012 she moved to the Netherlands to study at Eindhoven University of Technology (TU/e) through a six-month European exchange program with UAveiro. A professor encouraged her to stay on, so she completed her final year of masters in the Netherlands. She focused on techniques to improve the linearization of RF power amplifiers at Thales . The company, based in Hengelo, Netherlands, designs and produces electronics for defense and security. She earned her master’s degree from UAveiro in 2013. After graduating, she joined the integrated circuit design group at the University of Twente , in The Netherlands, conducting collaborative research as part of a nationally funded program on linearization techniques for RF front-end systems. The experience introduced her to international research culture and persuaded her to pursue a career abroad, she says. Engineering the future of wireless Inácio joined TNO in 2018 as a junior scientist and innovator: her first professional industry job. Today she designs integrated RF front-end systems—the circuits that allow devices to transmit and receive wireless signals. The components sit at the core of modern communications, enabling sensor networks, satellite links , and emerging 6G technologies . Her work aims to tackle a central challenge: getting greater performance from smaller chips. “As communication evolves, we need more bandwidth to transfer more data at higher speeds,” she says. “The question is how much complexity you can integrate into one system while keeping it efficient.” Unlike commercial lab environments, which reuse established designs, research projects often start from scratch. Each transmit-receive chain—the signal path that converts digital data to radio waves and back again—is tailored to specific requirements. Her work focuses on improving key circuit characteristics including linearity (ensuring that the signals that go out of the antenna are not distorted) as well as noise reduction (so design blocks can be optimized). Advanced design techniques help devices communicate more reliably while consuming less energy, a critical need for large sensor networks such as the Internet of Things , she says. Artificial intelligence is beginning to influence her field, she says: “AI is already helping us work faster. The real challenge is learning how to use it to make better designs, not just quicker ones.” A parallel vocation with IEEE While her technical career flourished in research labs, an additional journey unfolded through IEEE. Inácio joined the organization in 2009 as a student after discovering UAveiro’s student branch. What began as curiosity evolved into a long-term leadership path. She advanced through roles within Region 8 —covering Europe, Africa, and the Middle East—one of the organization’s most culturally diverse regions. She was the student branch ’s vice chair, and the region’s student representative for more than 22,000 IEEE members. She also served as the Young Professionals Affinity Group chair for the IEEE Benelux Section , which encompasses Belgium, the Netherlands, and Luxembourg. Currently, she serves as the immediate past chair of the Region 8 Young Professionals Committee, and vice chair and IEEE Member and Geographical Activities representative on the IEEE Young Professionals Committee. In those roles, she represents close to 135,000 IEEE members. In addition, she is an active member of the IEEE Microwave Theory and Technology Society , currently serving as its Young Professionals liaison. Her involvement with IEEE has boosted her professional confidence, she says. “IEEE didn’t directly give me promotions at my day job, but it gave me leadership skills, networking opportunities, and the ability to work with people from everywhere,” she says. Those experiences now shape her collaborations at TNO, where international teamwork is essential. The IEEE-HKN Outstanding Young Professional Award recognizes that combination of technical excellence and community impact, she says. Looking back, Inácio sees a clear thread connecting her childhood curiosity, her international career, and her IEEE leadership: Engineering, she says, is ultimately about people as much as it is about technology.",
-      "url": "https://spectrum.ieee.org/ana-ines-inacio-wireless",
-      "image_url": "https://spectrum.ieee.org/media-library/a-woman-smiling-with-her-framed-outstanding-young-professional-award.jpg?id=66701682&width=980",
-      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
-      "source": "Ieee Spectrum - Robotics",
-      "published_at": "2026-05-08 18:00:01",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "3df752ff92911f353cae52b89ccd6363",
-      "title": "NASA tests confirm next-generation Mars rotors can safely break the sound barrier",
-      "description": "NASA’s Jet Propulsion Laboratory (JPL) has successfully tested new rotor blades that surpassed the sound barrier in simulated Martian conditions.",
-      "url": "https://interestingengineering.com/space/nasa-mars-rotor-sound-barrier",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/IE-10.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-08 17:43:20",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "e8a255e2abd7c1e285029a402133eb1d",
-      "title": "Space Earnings Heat Up: Rocket Lab Tops $200M, Firefly Hits Record Revenue, Redwire Backlog Surges",
-      "description": "Space stocks were in focus this week as earnings reports highlighted surging defense demand, growing satellite and launch backlogs,and continued investment in next-generation space infrastructure. While several companies posted record revenue or raised guidance, losses remained a theme across the sector as firms scale production and chase defense and national security opportunities. RKLB stock is soaring. See the chart and price action here. Voyager Technologies Voyager Technologies Inc. (NYSE: VOYG ) reported record fourth-quarter net sales of $46.7 million and full-year 2025 net sales of $166.4 million, while lifting 2026 revenue guidance to $225 million to $255 million on record backlog of $265.6 million. CEO Dylan Taylor called 2025 \"a transformational year,\" saying demand across \"defense, national security and space continues to accelerate.\" He added that Voyager is entering 2026 \"from a position of strength,\" focused on converting demand into \"sustained revenue growth and long-term shareholder value.\" data-variant=\"card\" data-news-mode=\"manual\" > Read Also: The Trade Desk Stock Tumbles After Q1 Earnings Miss Estimates Firefly Aerospace Firefly Aerospace Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/05/52422709/space-earnings-heat-up-rocket-lab-tops-200m-firefly-hits-record-revenue-redwire-backlog-surg",
-      "image_url": "https://cdn.benzinga.com/files/images/story/2026/05/08/Space-Stocks-r.jpeg?width=1200&height=800&fit=crop",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-05-08 17:40:10",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "89aa9d878b2fec50ac20f763b06a9b39",
-      "title": "CMU Researchers Develop AI System to Help Prevent Airport Collisions",
-      "description": "The Breakdown: World2Rules learns patterns of risky aircraft behavior from real airport operations and incident data. It explains its warnings in simple terms that are easy for humans to understand. World2Rules is designed to work alongside existing prediction systems to enhance aircraft safety. * * * When managing airport traffic, small errors can lead to [...] The post CMU Researchers Develop AI System to Help Prevent Airport Collisions appeared first on Robotics Institute Carnegie Mellon University .",
-      "url": "https://www.ri.cmu.edu/cmu-researchers-develop-ai-system-to-help-prevent-airport-collisions/",
-      "image_url": "https://www.ri.cmu.edu/app/uploads/2026/05/World2Rules-Feature-Image.png",
-      "source_icon": "https://n.bytvi.com/cmu.jpg",
-      "source": "Carnegie Mellon University",
-      "published_at": "2026-05-08 17:37:27",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
