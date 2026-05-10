@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-10T01:49:23.669Z",
+  "last_updated": "2026-05-10T06:28:16.596Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "92a06caed05c20651d419e38f4336de6",
+      "title": "The Upcoming El Niño Is About to Unleash Devastation, Experts Warn",
+      "description": "\"Confidence is clearly shifting higher on potentially the biggest El Niño event since the 1870s.\" The post The Upcoming El Niño Is About to Unleash Devastation, Experts Warn appeared first on Futurism .",
+      "url": "https://futurism.com/science-energy/el-nino-world-disaster",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/el-nino-world-disaster.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-05-09 16:45:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c465bedb7f382b0bc5d0d530f2e00e4b",
+      "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
+      "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO Enjoy today’s videos! Introducing GENE-26.5—the first AI brain to give robots human-level physical manipulation capabilities. Cooking a full meal. Cracking an egg one-handed. Conducting lab experiments. Wire harnessing. Even playing the piano. Tasks that were impossible for robots. Until now. [ Genesis AI ] via [ TechCrunch ] This is Labububot—one of the rarest monsters on Earth. Twelve Labubu heads are reconstituted into a single spherical form: a Frankenstein’s Monster of pop culture iconography. Labububot is a playful critique of social robots , and a question made physical—what do the monsters we make reveal about the monsters we are? [ MIT Media Lab ] Watch Spot crouch, jump, climb boxes, and leap across gaps, controlled by a neural network trained with reinforcement learning (RL) and multi-expert distillation. [ Robotics and AI Institute ] Good, now there is a robot that can take over exercise for me. [ Kepler ] Additive manufacturing has become an enabling technology, but existing techniques are not capable of directly 3D printing high current electromagnetic actuators due to material and design limitations. In this work, a novel 3D-printable, multi-layer, wave-winding topology is created for high efficiency electric motors. [ Sensing Technologies Laboratory ] NASA is pushing the limits of flight on Mars —by spinning helicopter rotor blades so fast, they’re breaking the sound barrier. During recent tests at NASA’s Jet Propulsion Laboratory, engineers accelerated the tips of next-generation rotor blades beyond Mach 1 inside a special chamber that simulates the atmospheric conditions of the Red Planet. [ NASA Jet Propulsion Laboratory ] Balancing commercial goals and robotics research can be tricky, but with Atlas we’re making it work. [ Boston Dynamics ] Open Duck Mini is an open-source version of Disney’s BDX droids, and you can play with it in your browser. [ Open Duck Mini Viewer ] Thanks, Masato! Automated inspection of steel structures using magnetic climbing robots can reduce costs and improve safety, but many such structures feature interior corners that are challenging for wheeled or tracked robots to traverse. We present the first magnetic-wheeled robot to use X-ray fluorescence for steel structure inspection, Sally, capable of overcoming all interior corner transition types, traversing small obstacles, and maneuvering in tight spaces. [ Robomechanics Lab ] I don’t know what this is, but it’s coming soon from SwitchBot. [ SwitchBot ] You probably know the answers to these questions already, but this ELI5 from Aaron Ames is still fun. [ Wired ] Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to AI Ascent to argue that robotics is entering its end game—and that the playbook is already written. [ Sequoia ]",
+      "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
+      "image_url": "https://spectrum.ieee.org/media-library/robot-hand-grips-a-blender-pitcher-to-pour-a-pink-smoothie-into-a-cup-held-in-another-robot-hand.png?id=66709264&width=980",
+      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
+      "source": "Ieee Spectrum - Robotics",
+      "published_at": "2026-05-09 16:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b013246660f5c541ae6b56892dbc4694",
+      "title": "Man Wearing Smart Glasses Secretly Records Woman, Demands Money to Delete Video From His Socials",
+      "description": "\"It made me feel exploited, powerless.\" The post Man Wearing Smart Glasses Secretly Records Woman, Demands Money to Delete Video From His Socials appeared first on Futurism .",
+      "url": "https://futurism.com/future-society/man-smart-glasses-records-woman-demands-money",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/man-smart-glasses-records-woman-demands-money.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-05-09 16:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "ce5925dc1bfea13622f70bade9db9cc0",
+      "title": "A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom",
+      "description": "\"It really seemed like a paper that should not have been published in the first place.\" The post A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/study-ai-good-for-students-retracted",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/study-ai-good-for-students-retracted.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-05-09 15:15:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "f7f141e0cca8670e62e329bada397a17",
+      "title": "When Mars Bites Back",
+      "description": "More than 300 million kilometres from the nearest mechanic, NASA's Curiosity rover found itself in a situation that would make any engineer break into a cold sweat. A rock got stuck to its drill and wouldn't let go. What followed was a week long, long distance rescue operation that says as much about the ingenuity of the people behind the machine as it does about the extraordinary challenges of exploring another world.",
+      "url": "https://www.universetoday.com/articles/when-mars-bites-back",
+      "image_url": "https://www.universetoday.com/article_images/960px-Curiosity_Self-Portrait_at_Big_Sky_Drilling_Site_20260509_145608.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-09 14:56:46",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "35b680214bcd33406ba9e0b8cdbd014d",
+      "title": "Mayflies have crazy, acrobatic sex",
+      "description": "Researchers froze mayfly couples in the middle of mating—for science. The post Mayflies have crazy, acrobatic sex appeared first on Popular Science .",
+      "url": "https://www.popsci.com/environment/mayfly-acrobatic-sex/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/mayfly-mating-lead.png",
+      "source_icon": "https://n.bytvi.com/popsci.png",
+      "source": "Popular Science",
+      "published_at": "2026-05-09 14:32:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4050dcec2a2aa77b96e2d4fbf8b4036d",
+      "title": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use",
+      "description": "It's officially opening the floodgates. The post Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/amazon-admits-ai-coding-tool-isnt-good-enough",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/amazon-admits-ai-coding-tool-isnt-good-enough.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-05-09 14:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dd4212401e17e26fd80e469a5a9a033a",
+      "title": "Feeding off-world crews on hydrogen: an SSHD review of bacterial protein platforms",
+      "description": "When most people picture food production on the Moon or on Mars, the mental image is a row of green photobioreactors — Chlorella or Spirulina ...",
+      "url": "https://www.japantimes.co.jp/comfacts/333/",
+      "image_url": "https://www.japantimes.co.jp/wp-content/uploads/2026/05/333-image-1-870x489.png",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-05-09 14:00:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "79d8f51283e8fdcc4af07c536e3a99cb",
       "title": "Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs",
@@ -506,102 +602,6 @@
       "published_at": "2026-05-08 17:37:27",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "94a272496662ea0d539727c2ffbb1996",
-      "title": "See the Pentagon’s new UFO image release",
-      "description": "The Pentagon has started releasing files related to unidentified anomalous phenomena (UAP), also called UFOs. Here are the images released so far",
-      "url": "https://www.scientificamerican.com/article/see-the-pentagons-new-ufo-image-release/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/15c7d849-af72-4c51-a5d1-51391e8b207c/nasa-uap-vm1-apollo-12-1969.jpg?m=1778261592.758&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-08 17:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8a98d21ced1439b5ee89d167f452a25d",
-      "title": "Crystal smaller than a grain of sand breaks physics rules, regains superconductivity at 70 Tesla",
-      "description": "Austrian scientists have discovered why UTe2 regains superconductivity under magnetic fields as high as 70 Tesla.",
-      "url": "https://interestingengineering.com/science/quantum-material-switches-superconductivity-back",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Z3_9c9d35.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-08 17:29:33",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "277e5e6cbc744a9ae902723164ab68d5",
-      "title": "Vast atmospheric waves on Venus are caused by largest known 'hydraulic jump'",
-      "description": "The mysterious origin of an impressive cloud disturbance on Venus has now been revealed by a team including the University of Tokyo. Researchers used numerical models to show that an enormous 6,000-kilometer-wide atmospheric wave front, which circumnavigates the planet for days at a time, is caused by a large \"hydraulic jump.\" This is when a fluid abruptly slows down, changing from shallow and fast to deep and slow.",
-      "url": "https://phys.org/news/2026-05-vast-atmospheric-venus-largest-hydraulic.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/venus-atmosphere-jumps.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-08 17:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "46f1e4900646285db029b18ecc9a6cb3",
-      "title": "FBI UFO files bombshell claim of ‘4ft aliens in space suits and helmets'",
-      "description": "The witness account describes \"three and a half to 4 feet tall\" aliens wearing \"space suits and helmets\"",
-      "url": "https://www.express.co.uk/news/world/2203474/fbi-ufo-files-bombshell-claim-4ft-aliens-space-suits",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2203474_1.jpg",
-      "source_icon": "https://n.bytvi.com/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-05-08 17:06:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1f749ec6d396959c2413f2b6c16d791c",
-      "title": "China Presses Pause on Self-Driving Taxis Nationwide After Issue Where They Blocked Streets. America Could Learn a Lot",
-      "description": "Why isn't the US doing the same? The post China Presses Pause on Self-Driving Taxis Nationwide After Issue Where They Blocked Streets. America Could Learn a Lot appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/china-pause-self-driving-taxis",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/china-pause-self-driving-taxis.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-08 17:00:46",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "6c8298b4703a1b124a973338d0bfc381",
-      "title": "US scientists merge 70,000 live neurons with electronics in hybrid brain chip",
-      "description": "Princeton researchers develop a biohybrid platform linking living brain cells with flexible AI electronics.",
-      "url": "https://interestingengineering.com/innovation/scientists-build-living-brain-cell-interface",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-3-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-08 13:37:48",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "52d7eca1e768bf9be9b53157e36128e9",
-      "title": "STAT+: The biotech news you need to read today",
-      "description": "A Duchenne therapy lawsuit, FDA Commissioner Marty Makary’s White House troubles, and other news from The Readout",
-      "url": "https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2022/07/AdobeStock_284807703-1024x576.jpeg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-05-08 13:37:12",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "bf727f842c14bba28bf8aaa1c3576011",
-      "title": "Pupils' release butterflies for David Attenborough",
-      "description": "Children release 100 butterflies at a Warwickshire farm for the broadcaster's centennial.",
-      "url": "https://www.bbc.com/news/articles/cz62d15lvq9o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2894/live/40503e90-4adb-11f1-941e-d3689d7c57f6.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-08 13:34:30",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
