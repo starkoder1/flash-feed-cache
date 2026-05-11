@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-11T15:16:37.753Z",
+  "last_updated": "2026-05-11T17:48:59.563Z",
   "article_count": 47,
   "articles": [
+    {
+      "id": "b79032cb79936fd7b99d506533557faf",
+      "title": "The silent crisis of men: This is what life looks like after age 50",
+      "description": "A new survey reveals a worrying picture: A decline in joy of life and sexual desire, a sense of missed opportunities, and deep loneliness. A new community tries to offer a solution.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-895323",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719736",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-11 05:00:45",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2a5d3046dd7c31c4387c7517e1fa82ae",
+      "title": "Neanderthals used rhinoceros teeth as hammers to sculpt stone tools: Study",
+      "description": "A new study finds that Neanderthals used rhino teeth as tools, suggesting they were cognitively advanced.",
+      "url": "https://interestingengineering.com/culture/neanderthals-used-rhinoceros-teeth-as-tools",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-10-at-10.14.04-AM.png",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-11 04:07:30",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "442aa357113921a90ff75126eef5f6e7",
+      "title": "Researchers explore maple sap as hydration option during cancer treatment",
+      "description": "Michigan State University among researchers across forestry, health sciences and microbiology that are exploring new uses for maple sap beyond the syrup bottle, including as a hydration beverage for cancer survivors.",
+      "url": "https://msutoday.msu.edu/news/2026/05/maple-water-hydration-beverage-cancer-research",
+      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/a0c607d4290441d89a2d839a0d60819c?v=ad7e024e",
+      "source_icon": "https://n.bytvi.com/msutoday.jpg",
+      "source": "Michigan State University",
+      "published_at": "2026-05-11 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "cdfefe45fd6f97b8f88761f32733b58b",
       "title": "Shifting dynamics of power",
@@ -528,42 +564,6 @@
       "source_icon": "https://n.bytvi.com/foxnews.jpg",
       "source": "Fox News",
       "published_at": "2026-05-09 18:38:20",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "92a06caed05c20651d419e38f4336de6",
-      "title": "The Upcoming El Niño Is About to Unleash Devastation, Experts Warn",
-      "description": "\"Confidence is clearly shifting higher on potentially the biggest El Niño event since the 1870s.\" The post The Upcoming El Niño Is About to Unleash Devastation, Experts Warn appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/el-nino-world-disaster",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/el-nino-world-disaster.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-09 16:45:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c465bedb7f382b0bc5d0d530f2e00e4b",
-      "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
-      "description": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. ICRA 2026 : 1–5 June 2026, VIENNA RSS 2026 : 13–17 July 2026, SYDNEY Summer School on Multi-Robot Systems : 29 July–4 August 2026, PRAGUE Actuate 2026 : 18–19 August 2026, SAN FRANCISCO Enjoy today’s videos! Introducing GENE-26.5—the first AI brain to give robots human-level physical manipulation capabilities. Cooking a full meal. Cracking an egg one-handed. Conducting lab experiments. Wire harnessing. Even playing the piano. Tasks that were impossible for robots. Until now. [ Genesis AI ] via [ TechCrunch ] This is Labububot—one of the rarest monsters on Earth. Twelve Labubu heads are reconstituted into a single spherical form: a Frankenstein’s Monster of pop culture iconography. Labububot is a playful critique of social robots , and a question made physical—what do the monsters we make reveal about the monsters we are? [ MIT Media Lab ] Watch Spot crouch, jump, climb boxes, and leap across gaps, controlled by a neural network trained with reinforcement learning (RL) and multi-expert distillation. [ Robotics and AI Institute ] Good, now there is a robot that can take over exercise for me. [ Kepler ] Additive manufacturing has become an enabling technology, but existing techniques are not capable of directly 3D printing high current electromagnetic actuators due to material and design limitations. In this work, a novel 3D-printable, multi-layer, wave-winding topology is created for high efficiency electric motors. [ Sensing Technologies Laboratory ] NASA is pushing the limits of flight on Mars —by spinning helicopter rotor blades so fast, they’re breaking the sound barrier. During recent tests at NASA’s Jet Propulsion Laboratory, engineers accelerated the tips of next-generation rotor blades beyond Mach 1 inside a special chamber that simulates the atmospheric conditions of the Red Planet. [ NASA Jet Propulsion Laboratory ] Balancing commercial goals and robotics research can be tricky, but with Atlas we’re making it work. [ Boston Dynamics ] Open Duck Mini is an open-source version of Disney’s BDX droids, and you can play with it in your browser. [ Open Duck Mini Viewer ] Thanks, Masato! Automated inspection of steel structures using magnetic climbing robots can reduce costs and improve safety, but many such structures feature interior corners that are challenging for wheeled or tracked robots to traverse. We present the first magnetic-wheeled robot to use X-ray fluorescence for steel structure inspection, Sally, capable of overcoming all interior corner transition types, traversing small obstacles, and maneuvering in tight spaces. [ Robomechanics Lab ] I don’t know what this is, but it’s coming soon from SwitchBot. [ SwitchBot ] You probably know the answers to these questions already, but this ELI5 from Aaron Ames is still fun. [ Wired ] Jim Fan, who leads the embodied autonomous research group at Nvidia, returns to AI Ascent to argue that robotics is entering its end game—and that the playbook is already written. [ Sequoia ]",
-      "url": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity",
-      "image_url": "https://spectrum.ieee.org/media-library/robot-hand-grips-a-blender-pitcher-to-pour-a-pink-smoothie-into-a-cup-held-in-another-robot-hand.png?id=66709264&width=980",
-      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
-      "source": "Ieee Spectrum - Robotics",
-      "published_at": "2026-05-09 16:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b013246660f5c541ae6b56892dbc4694",
-      "title": "Man Wearing Smart Glasses Secretly Records Woman, Demands Money to Delete Video From His Socials",
-      "description": "\"It made me feel exploited, powerless.\" The post Man Wearing Smart Glasses Secretly Records Woman, Demands Money to Delete Video From His Socials appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/man-smart-glasses-records-woman-demands-money",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/man-smart-glasses-records-woman-demands-money.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-09 16:00:00",
       "language": "english",
       "category": "technology"
     }
