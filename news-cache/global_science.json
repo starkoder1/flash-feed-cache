@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-11T06:58:12.684Z",
+  "last_updated": "2026-05-11T10:52:26.216Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "6199044e6c4209e44740c6854535a138",
+      "title": "Genetic screening can save lives: Chula",
+      "description": "Chulalongkorn University researchers have identified genetic mutations linked to sudden cardiac arrest and are preparing to propose nationwide genetic screening under the universal healthcare scheme to help detect high-risk patients.",
+      "url": "https://www.bangkokpost.com/thailand/general/3252850/genetic-screening-can-save-lives-chula",
+      "image_url": "https://static.bangkokpost.com/media/content/20260511/c1_3252850_260511062224.jpg",
+      "source_icon": "https://n.bytvi.com/bangkokpost.png",
+      "source": "Bangkok Post",
+      "published_at": "2026-05-10 22:22:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0a590682ca82b57de6635b6a9e78c532",
+      "title": "UCSF digitizing ancient Japanese medical prints, the largest collection outside of Japan",
+      "description": "UCSF researchers are helping to bring another aspect of ancient Japanese culture to life. ABC7 Eyewitness News got an exclusive look at the technologies they're using to unravel the history of medicine.",
+      "url": "https://abc7news.com/post/university-california-san-francisco-digitizing-ancient-japanese-medical-prints-largest-collection-outside-japan/18997473/",
+      "image_url": "https://cdn.abcotvs.com/dip/images/18997472_DIDIT001_UCSF_Japan_WEB.jpg?w=1600",
+      "source_icon": "https://n.bytvi.com/abc7news.jpg",
+      "source": "Abc7 News",
+      "published_at": "2026-05-10 21:22:36",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ddf481aacb3aa11a6861cb5628aa3124",
+      "title": "Silicon Valley’s AI ‘tokenmaxxing’ obsession has a big problem – and philosophers saw it coming",
+      "description": "What makes for a good life? Simple: grinding through tokens.",
+      "url": "https://theconversation.com/silicon-valleys-ai-tokenmaxxing-obsession-has-a-big-problem-and-philosophers-saw-it-coming-281530",
+      "image_url": "https://images.theconversation.com/files/732946/original/file-20260429-57-kyxl8y.png?ixlib=rb-4.1.0&rect=0%2C80%2C2560%2C1280&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-05-10 20:07:58",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f744a656ca7a351cce160e84eb149e8d",
+      "title": "Astronomers Find an X-Ray Key to the Red Dot Mystery",
+      "description": "Ever since JWST first began peering out at the early Universe a few years ago, astronomers have been spotting strange \"little red dots\" (LRDs) in its infrared images. There are hundreds of these compact blobs at very high redshifts at distances of about 12 billion light-years. Astronomers think they began forming some 600 million years after the Big Bang. That makes them players in the infancy of the cosmos. They appear red in optical light and blue in the ultraviolet. So, what are these strange objects?",
+      "url": "https://www.universetoday.com/articles/astronomers-find-an-x-ray-key-to-the-red-dot-mystery",
+      "image_url": "https://www.universetoday.com/article_images/xraydot_illus_unlabeled_20260510_195430.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-10 20:04:15",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "4f203de0a7ed3313f113f2eabc4902be",
       "title": "Yeah, science: Largest hands-on science, engineering festival in Manitoba",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/japantimes.jpg",
       "source": "The Japan Times",
       "published_at": "2026-05-09 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "79d8f51283e8fdcc4af07c536e3a99cb",
-      "title": "Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs",
-      "description": "\"Chrome did not ask.\" The post Fury Erupts After Google Chrome Sneakily Installs 4 GB AI Model On Users’ PCs appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/fury-google-chrome-ai-model",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/fury-google-chrome-ai-model.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-09 13:45:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "47049d4c40d3bbed783f625b8f12473b",
-      "title": "No, AI isn’t going to fix the loneliness epidemic — it may make it worse",
-      "description": "Stories abound of people falling in love or developing friendship with a chatbot. But that doesn’t actually solve the loneliness problem.",
-      "url": "https://www.cnn.com/2026/05/09/health/ai-loneliness-kara-swisher-wellness",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1284926313.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-05-09 13:00:51",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "1b30ea0f727bab6624af89bdc3873a00",
-      "title": "Physicists discover quantum particles that break the rules of reality",
-      "description": "Physicists may have just cracked open a hidden side of the quantum world. For decades, every known particle was thought to belong to one of two categories — bosons or fermions — but researchers have now shown that bizarre “in-between” particles called anyons could also exist in a one-dimensional system. Even more exciting, these strange particles may be adjustable, allowing scientists to tune their behavior in ways never before possible.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260508003131.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/quantum-particle-physics-mystery.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-05-09 13:00:44",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "3c92a6eb2fca9969d9e278847a2aa6fc",
-      "title": "Genetics link Angola's 'ghost elephants' to populations hundreds of miles away",
-      "description": "For more than a decade, conservation biologist Steve Boyes searched for \"ghost elephants\"—nocturnal giants rumored to roam a remote, high-altitude wetland in eastern Angola. When a motion-sensor camera finally captured their image in 2024, Boyes turned to Stanford scientists for help answering a deeper question: Who are these elephants, and where did they come from?",
-      "url": "https://phys.org/news/2026-05-genetics-link-angola-ghost-elephants.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/study-reveals-genetica-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-09 13:00:03",
       "language": "english",
       "category": "science"
     }
