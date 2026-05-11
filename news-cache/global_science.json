@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-11T10:52:26.216Z",
-  "article_count": 50,
+  "last_updated": "2026-05-11T15:16:37.753Z",
+  "article_count": 47,
   "articles": [
+    {
+      "id": "cdfefe45fd6f97b8f88761f32733b58b",
+      "title": "Shifting dynamics of power",
+      "description": "The global economic landscape of early 2026 presents a compelling duality. The metrics of “nominal value” and “purchasing power” have diverged, defining two distinct economic realities. As of the first quarter of 2026, the United States remains the world’s largest economy in nominal terms, underpinned by a resilient domestic market and the residual effects of inflation. The Bureau of Economic Analysis’s (BEA) advance estimate, released on April 30, placed US nominal growth at an annualised rate of 5.6 per cent, while real growth stood at 2pc — a gap of 3.6 percentage points that closely mirrors the annualised increase in the gross domestic product price index, the BEA’s broadest measure of inflation. This divergence has widened the gap between nominal and real expansion, reinforcing America’s lead in current-dollar terms. Yet, nominal supremacy offers only a partial view of economic strength. A unit of currency in Shenzhen or Mumbai can mobilise far greater real resources than its equivalent in New York or London; this explains the growing economic confidence across Asia While the International Monetary Fund’s (IMF) latest estimates place the US economy at approximately $32.38 trillion for the full year 2026 at market exchange rates, the centre of gravity in terms of physical output continues its gradual shift eastward. Based on official data from the National Bureau of Statistics of China, China recorded real GDP growth of 5pc year-on-year in the first quarter of 2026, with nominal GDP expanding by 4.9pc. With the GDP deflator — the broadest measure of inflation in the national accounts — hovering near zero at approximately -0.1pc, China’s nominal and real growth rates remain closely aligned. This alignment presents a notable contrast: whereas US nominal expansion is partly inflated by price effects, China’s growth more directly reflects gains in real output. According to the IMF’s latest estimates, China’s nominal GDP for 2026 is $20.85tr. A more comprehensive perspective emerges through purchasing power parity (PPP), which adjusts for differences in price levels across countries. On this basis, China has consolidated its position as the world’s largest economy, with an estimated size of approximately $44tr — significantly ahead of the United States. The PPP framework underscores the relative affordability of labour, infrastructure, and energy in emerging economies. A unit of currency in Shenzhen or Mumbai can mobilise far greater real resources than its equivalent in New York or London. This differential helps explain the growing economic confidence across large parts of Asia. India illustrates this trend with clarity. With nominal growth estimated at 8.8pc in the first quarter of 2026, its PPP-adjusted economy has expanded to roughly $18.9tr, making it the third largest globally on this measure. For populations in these two large economies and others on the PPP scale of measuring GDPs, nominal exchange rates are often secondary to lived economic experience. Expanding infrastructure, rapid digital integration, and rising industrial output contribute to a tangible sense of forward momentum that is less dependent on dollar-based comparisons. In contrast, several European economies continue to experience subdued growth. Germany recorded a marginal expansion of around 0.3pc, while France remained broadly flat. As inflation stabilises, the gap between nominal and real growth has narrowed; however, these economies face mounting competitive pressure from both high-value US innovation and large-scale Asian manufacturing. Russia presents a distinct case. Despite ongoing sanctions, it remains among the largest economies globally in PPP terms, supported by domestic resource endowments, import substitution, and relatively lower internal cost structures. The United States continues to lead the “financial race,” where the strength of the dollar, the depth of its capital markets, and its dominance in high-value services underpin its position. Meanwhile, the “production and consumption race” has increasingly shifted toward economies that benefit from strong PPP advantages. Yet, a third — less quantifiable — dimension is becoming equally significant: a “confidence race.” This dimension reflects a country’s ability to convert economic capacity into geopolitical influence. Military capability remains central. The United States retains unmatched global reach, but regional powers are steadily strengthening their strategic positions. Iran has demonstrated how asymmetric capabilities can extend influence beyond conventional economic limits, while Israel combines advanced technology with highly developed defence systems to maintain a decisive qualitative edge. Pakistan’s role is defined less by economic scale and more by strategic geography and security capacity. Its location at the intersection of South Asia, Central Asia, and the Middle East — combined with its growing defence capabilities — ensures continued geopolitical relevance. The Gulf Cooperation Council states offer yet another model. Economies such as Saudi Arabia and the United Arab Emirates are deploying energy revenues and sovereign capital to diversify, invest in advanced technologies, and position themselves as global logistics and financial hubs. Diplomacy is also evolving. Rather than fixed alignments, many states are increasingly pursuing flexible, interest-driven partnerships. This emerging pattern of “multi-alignment” allows countries to engage simultaneously with competing global powers, maximising both economic and strategic returns. Countries such as India, Turkey, Saudi Arabia, United Arab Emirates, Indonesia, Brazil and Pakistan exemplify this trend. These trends suggest that global power is no longer defined by a single metric. Instead, it rests on the interaction of three forces: financial strength, productive capacity, and strategic confidence. Published in Dawn, The Business and Finance Weekly, May 11th, 2026",
+      "url": "https://www.dawn.com/news/1999280/shifting-dynamics-of-power",
+      "image_url": "https://i.dawn.com/large/2026/05/1107373780a3263.webp",
+      "source_icon": "https://n.bytvi.com/dawn.png",
+      "source": "Dawn",
+      "published_at": "2026-05-11 02:34:38",
+      "language": "english",
+      "category": "business"
+    },
+    {
+      "id": "ae3570832c041f55d5ae08cf7476fecf",
+      "title": "10-year experiment reveals why gravity is so hard to measure",
+      "description": "For centuries, one of the most important numbers in physics has evaded accurate identification. The results of a recent experiment by researchers at ...",
+      "url": "https://refractor.io/physics/10-year-experiment-gravity-measurement-results/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/5fd520763aab3d1b6020c5c693d2cf07dc3b25b9/_xlarge.jpeg",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-05-11 02:32:31",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "6199044e6c4209e44740c6854535a138",
       "title": "Genetic screening can save lives: Chula",
@@ -542,66 +566,6 @@
       "published_at": "2026-05-09 16:00:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "ce5925dc1bfea13622f70bade9db9cc0",
-      "title": "A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom",
-      "description": "\"It really seemed like a paper that should not have been published in the first place.\" The post A Major Paper Claiming AI Is Good for Students Just Got Retracted, Which Is Very Bad News for Advocates of AI in the Classroom appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/study-ai-good-for-students-retracted",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/study-ai-good-for-students-retracted.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-09 15:15:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "f7f141e0cca8670e62e329bada397a17",
-      "title": "When Mars Bites Back",
-      "description": "More than 300 million kilometres from the nearest mechanic, NASA's Curiosity rover found itself in a situation that would make any engineer break into a cold sweat. A rock got stuck to its drill and wouldn't let go. What followed was a week long, long distance rescue operation that says as much about the ingenuity of the people behind the machine as it does about the extraordinary challenges of exploring another world.",
-      "url": "https://www.universetoday.com/articles/when-mars-bites-back",
-      "image_url": "https://www.universetoday.com/article_images/960px-Curiosity_Self-Portrait_at_Big_Sky_Drilling_Site_20260509_145608.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-09 14:56:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "35b680214bcd33406ba9e0b8cdbd014d",
-      "title": "Mayflies have crazy, acrobatic sex",
-      "description": "Researchers froze mayfly couples in the middle of mating—for science. The post Mayflies have crazy, acrobatic sex appeared first on Popular Science .",
-      "url": "https://www.popsci.com/environment/mayfly-acrobatic-sex/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/mayfly-mating-lead.png",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-05-09 14:32:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4050dcec2a2aa77b96e2d4fbf8b4036d",
-      "title": "Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use",
-      "description": "It's officially opening the floodgates. The post Amazon Admits Its Flagship AI Coding Tool Isn’t Good Enough for Its Own Workers to Use appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/amazon-admits-ai-coding-tool-isnt-good-enough",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/amazon-admits-ai-coding-tool-isnt-good-enough.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-09 14:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dd4212401e17e26fd80e469a5a9a033a",
-      "title": "Feeding off-world crews on hydrogen: an SSHD review of bacterial protein platforms",
-      "description": "When most people picture food production on the Moon or on Mars, the mental image is a row of green photobioreactors — Chlorella or Spirulina ...",
-      "url": "https://www.japantimes.co.jp/comfacts/333/",
-      "image_url": "https://www.japantimes.co.jp/wp-content/uploads/2026/05/333-image-1-870x489.png",
-      "source_icon": "https://n.bytvi.com/japantimes.jpg",
-      "source": "The Japan Times",
-      "published_at": "2026-05-09 14:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
