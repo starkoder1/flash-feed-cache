@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-12T13:50:20.029Z",
+  "last_updated": "2026-05-12T17:52:46.271Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "30d284777b3a4f8df071f5b50dead249",
+      "title": "Chilling 'spiderwebs on Mars' hold the key to ancient alien life, NASA scientists believe",
+      "description": "NASA's Curiosity rover has photographed extraordinary spiderweb-like formations on Mars that scientists believe could hold the key to ancient life on Mars",
+      "url": "https://www.express.co.uk/news/science/2204447/nasa-curiosity-rover-spiderwebs-mars-ancient-alien-life-water-discovery",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2204447_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-05-12 05:45:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "8b7db255a2a5e0d6b8a2343fed9f3032",
+      "title": "White cabbage or red cabbage - which is healthier for the body?",
+      "description": "Both white cabbage and red cabbage are healthy for the body and an excellent addition to any meal. It is recommended to combine both of them in a smart way.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895353",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719794",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-12 05:03:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "83f573c875497fc1d12dea327e349147",
+      "title": "A new tectonic plate boundary could be forming in southern Africa",
+      "description": "Gases collected from boiling mineral springs in Zambia contain the chemical signature of having come directly from the Earth’s mantle, a sign of a rupture in the tectonic plates and the possible beginning of a new continental boundary",
+      "url": "https://www.newscientist.com/article/2526136-a-new-tectonic-plate-boundary-could-be-forming-in-southern-africa/",
+      "image_url": "https://images.newscientist.com/wp-content/uploads/2026/05/11141859/SEI_296636348.jpg?crop=16:9,smart&width=1200&height=675&upscale=true",
+      "source_icon": "https://n.bytvi.com/newscientist.png",
+      "source": "Newscientist",
+      "published_at": "2026-05-12 05:00:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "896e2631d76e51751b56e8189f064865",
+      "title": "Study suggests dinosaurs may have fed their young ones a special diet to grow faster",
+      "description": "Diet followed by young ones likely caused them to grow fast in their first year",
+      "url": "https://www.independent.co.uk/news/science/dinosaur-young-ones-special-diet-b2974698.html",
+      "image_url": "https://static.independent.co.uk/2026/05/12/3/56/A-display-of-the-Maiasaura-(Ornithischia-Ornithopoda)-and-Dromaeosaurus-albertensis-a-theropod-are-d.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-05-12 04:50:31",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8bd6833b30e1876bb3e1383be5ddf539",
+      "title": "Solving hard problems in soft electronics",
+      "description": "Camille Cunin PhD ’26 is transforming rigid circuitry into stretchable, signal-amplifying devices built for real-world biomedical use.",
+      "url": "https://news.mit.edu/2026/solving-hard-problems-soft-electronics-camille-cunin-0512",
+      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-dmse-Camille-Cunin.jpg?itok=VOEyklYc",
+      "source_icon": "https://n.bytvi.com/mit.jpg",
+      "source": "Massachusetts Institute Of Technology",
+      "published_at": "2026-05-12 04:00:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "4b94b4eaf3b4d5c4ce515bb5255196bc",
       "title": "Smart Investors Decode Market Winners Through Essential Fundamental Analysis Techniques",
@@ -24,6 +84,18 @@
       "source_icon": "https://n.bytvi.com/independentuk.png",
       "source": "The Independent",
       "published_at": "2026-05-12 00:27:08",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6a7e43eb104943210c38134554eccf14",
+      "title": "Largest-ever survey of physicists puts Standard Model of cosmology under scrutiny",
+      "description": "Scientific consensus is hard to come by for many of physics’ hardest problems",
+      "url": "https://uwaterloo.ca/news/science/largest-ever-survey-physicists-puts-standard-model-cosmology",
+      "image_url": "https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/closeup-milky-way-galaxy-with-stars-space-dust-universe_easy-resize.com_.jpg?itok=xHOIkyli",
+      "source_icon": "https://n.bytvi.com/uwaterloo_ca.png",
+      "source": "University Of Waterloo",
+      "published_at": "2026-05-12 00:00:00",
       "language": "english",
       "category": "top"
     },
@@ -530,78 +602,6 @@
       "published_at": "2026-05-11 06:46:41",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "b79032cb79936fd7b99d506533557faf",
-      "title": "The silent crisis of men: This is what life looks like after age 50",
-      "description": "A new survey reveals a worrying picture: A decline in joy of life and sexual desire, a sense of missed opportunities, and deep loneliness. A new community tries to offer a solution.",
-      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-895323",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719736",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-11 05:00:45",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2a5d3046dd7c31c4387c7517e1fa82ae",
-      "title": "Neanderthals used rhinoceros teeth as hammers to sculpt stone tools: Study",
-      "description": "A new study finds that Neanderthals used rhino teeth as tools, suggesting they were cognitively advanced.",
-      "url": "https://interestingengineering.com/culture/neanderthals-used-rhinoceros-teeth-as-tools",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Screen-Shot-2026-05-10-at-10.14.04-AM.png",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-11 04:07:30",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "442aa357113921a90ff75126eef5f6e7",
-      "title": "Researchers explore maple sap as hydration option during cancer treatment",
-      "description": "Michigan State University among researchers across forestry, health sciences and microbiology that are exploring new uses for maple sap beyond the syrup bottle, including as a hydration beverage for cancer survivors.",
-      "url": "https://msutoday.msu.edu/news/2026/05/maple-water-hydration-beverage-cancer-research",
-      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/a0c607d4290441d89a2d839a0d60819c?v=ad7e024e",
-      "source_icon": "https://n.bytvi.com/msutoday.jpg",
-      "source": "Michigan State University",
-      "published_at": "2026-05-11 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cdfefe45fd6f97b8f88761f32733b58b",
-      "title": "Shifting dynamics of power",
-      "description": "The global economic landscape of early 2026 presents a compelling duality. The metrics of “nominal value” and “purchasing power” have diverged, defining two distinct economic realities. As of the first quarter of 2026, the United States remains the world’s largest economy in nominal terms, underpinned by a resilient domestic market and the residual effects of inflation. The Bureau of Economic Analysis’s (BEA) advance estimate, released on April 30, placed US nominal growth at an annualised rate of 5.6 per cent, while real growth stood at 2pc — a gap of 3.6 percentage points that closely mirrors the annualised increase in the gross domestic product price index, the BEA’s broadest measure of inflation. This divergence has widened the gap between nominal and real expansion, reinforcing America’s lead in current-dollar terms. Yet, nominal supremacy offers only a partial view of economic strength. A unit of currency in Shenzhen or Mumbai can mobilise far greater real resources than its equivalent in New York or London; this explains the growing economic confidence across Asia While the International Monetary Fund’s (IMF) latest estimates place the US economy at approximately $32.38 trillion for the full year 2026 at market exchange rates, the centre of gravity in terms of physical output continues its gradual shift eastward. Based on official data from the National Bureau of Statistics of China, China recorded real GDP growth of 5pc year-on-year in the first quarter of 2026, with nominal GDP expanding by 4.9pc. With the GDP deflator — the broadest measure of inflation in the national accounts — hovering near zero at approximately -0.1pc, China’s nominal and real growth rates remain closely aligned. This alignment presents a notable contrast: whereas US nominal expansion is partly inflated by price effects, China’s growth more directly reflects gains in real output. According to the IMF’s latest estimates, China’s nominal GDP for 2026 is $20.85tr. A more comprehensive perspective emerges through purchasing power parity (PPP), which adjusts for differences in price levels across countries. On this basis, China has consolidated its position as the world’s largest economy, with an estimated size of approximately $44tr — significantly ahead of the United States. The PPP framework underscores the relative affordability of labour, infrastructure, and energy in emerging economies. A unit of currency in Shenzhen or Mumbai can mobilise far greater real resources than its equivalent in New York or London. This differential helps explain the growing economic confidence across large parts of Asia. India illustrates this trend with clarity. With nominal growth estimated at 8.8pc in the first quarter of 2026, its PPP-adjusted economy has expanded to roughly $18.9tr, making it the third largest globally on this measure. For populations in these two large economies and others on the PPP scale of measuring GDPs, nominal exchange rates are often secondary to lived economic experience. Expanding infrastructure, rapid digital integration, and rising industrial output contribute to a tangible sense of forward momentum that is less dependent on dollar-based comparisons. In contrast, several European economies continue to experience subdued growth. Germany recorded a marginal expansion of around 0.3pc, while France remained broadly flat. As inflation stabilises, the gap between nominal and real growth has narrowed; however, these economies face mounting competitive pressure from both high-value US innovation and large-scale Asian manufacturing. Russia presents a distinct case. Despite ongoing sanctions, it remains among the largest economies globally in PPP terms, supported by domestic resource endowments, import substitution, and relatively lower internal cost structures. The United States continues to lead the “financial race,” where the strength of the dollar, the depth of its capital markets, and its dominance in high-value services underpin its position. Meanwhile, the “production and consumption race” has increasingly shifted toward economies that benefit from strong PPP advantages. Yet, a third — less quantifiable — dimension is becoming equally significant: a “confidence race.” This dimension reflects a country’s ability to convert economic capacity into geopolitical influence. Military capability remains central. The United States retains unmatched global reach, but regional powers are steadily strengthening their strategic positions. Iran has demonstrated how asymmetric capabilities can extend influence beyond conventional economic limits, while Israel combines advanced technology with highly developed defence systems to maintain a decisive qualitative edge. Pakistan’s role is defined less by economic scale and more by strategic geography and security capacity. Its location at the intersection of South Asia, Central Asia, and the Middle East — combined with its growing defence capabilities — ensures continued geopolitical relevance. The Gulf Cooperation Council states offer yet another model. Economies such as Saudi Arabia and the United Arab Emirates are deploying energy revenues and sovereign capital to diversify, invest in advanced technologies, and position themselves as global logistics and financial hubs. Diplomacy is also evolving. Rather than fixed alignments, many states are increasingly pursuing flexible, interest-driven partnerships. This emerging pattern of “multi-alignment” allows countries to engage simultaneously with competing global powers, maximising both economic and strategic returns. Countries such as India, Turkey, Saudi Arabia, United Arab Emirates, Indonesia, Brazil and Pakistan exemplify this trend. These trends suggest that global power is no longer defined by a single metric. Instead, it rests on the interaction of three forces: financial strength, productive capacity, and strategic confidence. Published in Dawn, The Business and Finance Weekly, May 11th, 2026",
-      "url": "https://www.dawn.com/news/1999280/shifting-dynamics-of-power",
-      "image_url": "https://i.dawn.com/large/2026/05/1107373780a3263.webp",
-      "source_icon": "https://n.bytvi.com/dawn.png",
-      "source": "Dawn",
-      "published_at": "2026-05-11 02:34:38",
-      "language": "english",
-      "category": "business"
-    },
-    {
-      "id": "ae3570832c041f55d5ae08cf7476fecf",
-      "title": "10-year experiment reveals why gravity is so hard to measure",
-      "description": "For centuries, one of the most important numbers in physics has evaded accurate identification. The results of a recent experiment by researchers at ...",
-      "url": "https://refractor.io/physics/10-year-experiment-gravity-measurement-results/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/5fd520763aab3d1b6020c5c693d2cf07dc3b25b9/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-05-11 02:32:31",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "6199044e6c4209e44740c6854535a138",
-      "title": "Genetic screening can save lives: Chula",
-      "description": "Chulalongkorn University researchers have identified genetic mutations linked to sudden cardiac arrest and are preparing to propose nationwide genetic screening under the universal healthcare scheme to help detect high-risk patients.",
-      "url": "https://www.bangkokpost.com/thailand/general/3252850/genetic-screening-can-save-lives-chula",
-      "image_url": "https://static.bangkokpost.com/media/content/20260511/c1_3252850_260511062224.jpg",
-      "source_icon": "https://n.bytvi.com/bangkokpost.png",
-      "source": "Bangkok Post",
-      "published_at": "2026-05-10 22:22:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
