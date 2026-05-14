@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-14T17:30:53.236Z",
+  "last_updated": "2026-05-14T21:02:38.917Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "2f59bd0d61e406b3d3916c9c0f9b7140",
+      "title": "Newly Discovered Sauropod Is Biggest Ever Found in Southeast Asia at Likely 27 Tons, Nicknamed the \"Last Titan\"",
+      "description": "Learn about the \"last titan\" of Thailand, a newly discovered long-necked dinosaur that has become the biggest sauropod ever found in Southeast Asia.",
+      "url": "https://www.discovermagazine.com/newly-discovered-sauropod-is-biggest-ever-found-in-southeast-asia-at-likely-27-tons-nicknamed-the-last-titan-49096",
+      "image_url": "https://cdn.discovermagazine.com/assets/image/59336/nagatitan-dinosaur-illustration-x.jpeg",
+      "source_icon": "https://n.bytvi.com/discovermagazine.png",
+      "source": "Discover Magazine",
+      "published_at": "2026-05-14 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ad9ba9395147a773a6c1d3b78734fa4a",
+      "title": "A new dinosaur dubbed the ‘Last Titan of Thailand’ weighed more than 9 elephants",
+      "description": "Say hello to the ‘Nagatitan.’ The post A new dinosaur dubbed the ‘Last Titan of Thailand’ weighed more than 9 elephants appeared first on Popular Science .",
+      "url": "https://www.popsci.com/science/new-dinosaur-nagatitan-thailand/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/nagatitan-illustration.png",
+      "source_icon": "https://n.bytvi.com/popsci.png",
+      "source": "Popular Science",
+      "published_at": "2026-05-14 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c9f3ab4f944bdf854495aed3f28d80a1",
+      "title": "Flavored water and the secrets no one tells",
+      "description": "Don’t let marketing mislead you: Flavored water is not water, it is sweetened juice in disguise.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895429",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719933",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-14 08:00:55",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "f2671805d7569aa21d650fec2dbc29da",
+      "title": "Japanese scientists’ liquid-like gold nanoparticles could open path to adaptive materials",
+      "description": "Researchers have found that gold nanoparticles with thermoresponsive organic ligands on their surface showed liquid-like behavior.",
+      "url": "https://interestingengineering.com/science/gold-nanoparticles-flow-like-liquid",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/gold-nanoparticle.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-14 07:33:42",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "a0a5cbc316bf9c836ce5d2e6fc5dd9af",
+      "title": "One in four 2026 World Cup games could face dangerous heat across North America: researchers",
+      "description": "One in four 2026 World Cup games could take place in very hot conditions as climate change has increased the risk of extreme heat in North America since the US hosted the 1994 tournament, researchers warned Thursday.",
+      "url": "https://phys.org/news/2026-05-world-cup-games-dangerous-north.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/the-metlife-stadium-ou.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-14 07:30:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "501a785b2b684fca9a4fbdd8fe7e4418",
+      "title": "Scientists discover the strange way CO2 cools part of Earth’s atmosphere",
+      "description": "Scientists have finally cracked the mystery behind one of climate change’s strangest fingerprints: while Earth’s surface heats up, the upper atmosphere is rapidly cooling. Researchers at Columbia University discovered that carbon dioxide acts very differently high above the planet, where it actually helps radiate heat into space instead of trapping it. The team found that certain infrared wavelengths fall into a “Goldilocks zone” that becomes increasingly effective as CO2 levels rise, accelerating cooling in the stratosphere.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260513221759.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/view-of-earth-international-space-station-expedition-66.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-14 07:24:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b92113a2622a8cb1517388b4a2d228c5",
+      "title": "City's historic Assembly Rooms to be repaired",
+      "description": "York Conservation Trust says the Grade I-listed building needs work to its roof and portico.",
+      "url": "https://www.bbc.com/news/articles/cdxp5z0k4gvo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4a54/live/f37f2880-4e16-11f1-823b-0da99605cfd0.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-14 07:14:28",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "f43a4289ef9d71504fc6d7873299df4b",
       "title": "Researchers warn of 'learning recession' as student test scores decline",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-13 13:32:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "840f41c4ff412e91d2fcfd553f4281f3",
-      "title": "Brookings - Quality. Independence. Impact.",
-      "description": "The Brookings Institution is a nonprofit public policy organization based in Washington, DC. Our mission is to conduct in-depth research that leads to new ideas for solving problems facing society at the local, national and global level.",
-      "url": "https://www.brookings.edu/in-the-media/20260508-nikkei-asia-lynn-kuok/",
-      "image_url": "https://www.brookings.edu/wp-content/uploads/2023/06/brookings-share-default.jpg?quality=75",
-      "source_icon": "https://n.bytvi.com/brookings.png",
-      "source": "Brookings",
-      "published_at": "2026-05-13 13:27:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "44b53765138b7efc4a71e697e3830543",
-      "title": "Regular audits would build trust, confidence in AI",
-      "description": "J. Nathan Matias, assistant professor of communication, is a co-author of “Auditing AI,” which offers AI users from all walks of life an introduction into AI evaluation, which is key for developing trust in the technology.",
-      "url": "https://news.cornell.edu/stories/2026/05/regular-audits-would-build-trust-confidence-ai",
-      "image_url": "https://news.cornell.edu/sites/default/files/2026-05/0513_book_tnd.jpg",
-      "source_icon": "https://n.bytvi.com/cornelledu.png",
-      "source": "Cornell Chronicle",
-      "published_at": "2026-05-13 13:05:28",
-      "language": "english",
-      "category": "education"
-    },
-    {
-      "id": "320ca3ed04c0ede36068f2c983ddddb6",
-      "title": "WHO: The world is falling short of and even reversing its health targets",
-      "description": "Malaria incidence is increasing, progress on maternal mortality is stalling, and some childhood vaccine rates are plateauing or have dipped below the threshold for herd immunity",
-      "url": "https://www.scientificamerican.com/article/who-the-world-is-falling-short-of-and-even-reversing-its-health-targets/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/dca9d6a4-6e86-497b-a5de-750073745a2d/WHO-logo.jpg?m=1778676574.137&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-13 13:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2f2b860c25499502197ec42ddec332e7",
-      "title": "Lithuania’s Peat Bogs Could Help the Climate and Defend the Border, Too",
-      "description": "Lithuanian officials hope restored peat bogs can reinforce the border in addition to locking away planet-warming carbon.",
-      "url": "https://www.nytimes.com/2026/05/13/climate/lithuania-peat-defense-tanks-climate.html",
-      "image_url": "https://static01.nyt.com/images/2026/05/05/multimedia/00CLI-BALTIC-DEFENSE-stillpromo-jvfc/00CLI-BALTIC-DEFENSE-stillpromo-jvfc-videoSixteenByNineJumbo1600.jpg",
-      "source_icon": "https://n.bytvi.com/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-05-13 09:00:33",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fc183778f2a2432a12a29e43e848ac9f",
-      "title": "Amazon's carbon clock is speeding up, and violent storms may be only part of why",
-      "description": "Tropical forests store more than 60% of the world's vegetation biomass and are among the most important ecosystems for regulating the global carbon cycle and climate. However, their regulatory role is greatly influenced by the forests' carbon residence time—how long carbon remains in the vegetation biomass pool before it is released again into the atmosphere. This figure is tied to the rate of biomass turnover—how quickly vegetation is replaced through growth and mortality.",
-      "url": "https://phys.org/news/2026-05-amazon-carbon-clock-violent-storms.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/storms-dryness-acceler.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-13 09:00:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d2b90897ffb8a2e7d6b56236031c767c",
-      "title": "Genetic duplicates Crossword Clue",
-      "description": "Find the answer for Genetic duplicates from the people who brought you the USA TODAY Daily Crossword Puzzle.",
-      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/05/13/genetic-duplicates-crossword-clue/90056914007/",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
-      "source_icon": "https://n.bytvi.com/usatoday.jpg",
-      "source": "Usa Today",
-      "published_at": "2026-05-13 08:08:12",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f0b00bb7288cb1a46b2603e2b2b7f711",
-      "title": "Rift forming beneath Zambia could tear Africa apart",
-      "description": "Researchers say Kafue Rift could become new tectonic plate boundary and lead to break-up of sub-Saharan Africa",
-      "url": "https://www.independent.co.uk/news/science/africa-tectonic-plate-continental-rift-zambia-b2975520.html",
-      "image_url": "https://static.independent.co.uk/2026/05/13/6/56/Great-Rift-Valley.webp?width=1200&auto=webp&trim=0%2C291%2C0%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-05-13 08:05:22",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
