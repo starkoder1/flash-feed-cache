@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-15T17:20:29.375Z",
+  "last_updated": "2026-05-15T20:49:44.097Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "514e7b30b824357e3241b5561d63fdad",
+      "title": "Opinion: Tributes to Craig Venter and the genomics race are missing something important",
+      "description": "A race, two rivals, a photo finish? Former National Human Genome Research Institute archivist explains what Craig Venter tributes are missing.",
+      "url": "https://www.statnews.com/2026/05/15/craig-venter-obituaries-human-genome-coding-race/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2024/07/GettyImages-664319-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-05-15 08:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d20dcda9b39ba30d04e10d3378711b20",
+      "title": "Scientists unearth gigantic new dinosaur species in Thailand after villager spots bones",
+      "description": "The newly identified dinosaur, named Nagatitan chaiyaphumensis, represents the largest-known dinosaur discovered in Southeast Asia",
+      "url": "https://www.independent.co.uk/news/science/new-dinosaur-species-thailand-nagatitan-chaiyaphumensis-b2977143.html",
+      "image_url": "https://static.independent.co.uk/2026/05/14/12/02/2026-05-14T112621Z_498608889_RC247LA1DYL0_RTRMADP_3_SCIENCE-DINOSAUR.JPG?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-05-15 08:18:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4ecb563cfc8a659c0093ef5f17ca5fb3",
+      "title": "Computer science pioneer Turing Crossword Clue",
+      "description": "Find the answer for Computer science pioneer Turing from the people who brought you the USA TODAY Daily Crossword Puzzle.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/05/15/computer-science-pioneer-turing-crossword-clue/90093376007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-05-15 08:09:46",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "edc41445fc284ecae0699aa215ae063c",
+      "title": "Japanese researchers gain glimpse into the universe’s first stars",
+      "description": "The team observed an ultra-faint galaxy dating to roughly 800 million years after the Big Bang.",
+      "url": "https://www.japantimes.co.jp/news/2026/05/15/japan/science-health/japanese-team-galaxy/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/15/540548.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-05-15 07:04:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "da779ea008ebafa7b373db27ee6ec036",
+      "title": "Dark Matter May Have Left Its Fingerprint in a Gravitational Wave.",
+      "description": "Dark matter makes up roughly 85 percent of all the matter in the universe. We have never directly detected a single particle of it. But a new method developed by physicists at MIT and across Europe may have just opened a door we didn't know existed. When two black holes collide and merge, they send ripples through the fabric of spacetime, these are known as gravitational waves and if those black holes happened to spiral through a dense cloud of dark matter on their way in, those waves carry an imprint of it. For the first time, scientists have a technique to read that imprint and one signal in the existing data is already raising eyebrows.",
+      "url": "https://www.universetoday.com/articles/dark-matter-may-have-left-its-fingerprint-in-a-gravitational-wave",
+      "image_url": "https://www.universetoday.com/article_images/A_Horseshoe_Einstein_Ring_from_Hubble_1_20260515_070108.jpeg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-15 07:03:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7b9f39d18f217a3fd7d97703ac794629",
+      "title": "Artemis III: The Mission That Has to Work Before Humans Can Return to the Moon.",
+      "description": "Artemis II has barely left the headlines. On April 1st 2026, four astronauts climbed aboard NASA's Orion spacecraft, rode the most powerful rocket ever to carry humans beyond low Earth orbit, and swung around the far side of the Moon. The world watched. Now, before the dust has settled, NASA has outlined its plans for what comes next. Artemis III won't be landing on the Moon. But what it will do is arguably just as important and if history is any guide, it's exactly the kind of mission that makes the difference between a Moon landing and a disaster.",
+      "url": "https://www.universetoday.com/articles/artemis-iii-the-mission-that-has-to-work-before-humans-can-return-to-the-moon",
+      "image_url": "https://www.universetoday.com/article_images/1280px-Earthset_art002e009288_20260515_065612.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-15 06:56:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "225316238f21bdcaebcd01f219b0941e",
+      "title": "It's Raining Stardust. It Has Been for Thousands of Years.",
+      "description": "Right now, as you read this, Earth is drifting through a cloud of debris from an ancient stellar explosion. Stardust, real stardust, is raining down on us so thinly scattered that we have only just found the proof. Locked inside Antarctic ice cores up to 80,000 years old, an international team led by the Helmholtz-Zentrum Dresden-Rossendorf has discovered traces of iron-60, a radioactive isotope that can only be created in the heart of an exploding star.",
+      "url": "https://www.universetoday.com/articles/its-raining-stardust-it-has-been-for-thousands-of-years",
+      "image_url": "https://www.universetoday.com/article_images/1280px-Galaxymap.com_map_10_parsecs_2022_20260515_065030.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-15 06:50:43",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "192b18998f49ccff0159ff0979b36581",
+      "title": "Transcript: Should economics have fewer taboos? With Alvin Roth",
+      "description": "Soumaya Keynes speaks to Alvin Roth, Nobel laureate and author of ‘Moral Economics’",
+      "url": "https://www.ft.com/content/25d74738-a142-4fa8-bc1c-681e982e96a9",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3efc3d2-e128-4ae1-b8b2-8f43e6a750d6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-15 05:25:35",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "1805fc4ef4e6452f7d18a77ad9d7a68b",
       "title": "Lord Vallance: I’m not a good politician but I can get things done",
@@ -506,102 +602,6 @@
       "published_at": "2026-05-14 13:12:37",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "ebe680eb9bce874795a144b92173917b",
-      "title": "Scientists unearthed a gigantic dinosaur species in Thailand after a villager spotted the bones",
-      "description": "Thailand is now known to have 14 named dinosaur species",
-      "url": "https://www.independent.co.uk/news/science/thailand-dinosaur-asia-nagatitan-chaiyaphumensis-b2976593.html",
-      "image_url": "https://static.independent.co.uk/2026/05/14/12/02/2026-05-14T112621Z_498608889_RC247LA1DYL0_RTRMADP_3_SCIENCE-DINOSAUR.JPG?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-05-14 13:06:13",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dedd4c33f04e6f11c6155044a2986f3a",
-      "title": "Paleontology rocked by discovery of organic molecules in 66-million-year-old dinosaur bones",
-      "description": "Scientists have uncovered compelling evidence that dinosaur fossils may still contain traces of their original proteins, overturning a long-standing belief that fossilization destroys all organic material. In a remarkably well-preserved Edmontosaurus fossil from South Dakota, researchers detected remnants of collagen — the main protein found in bone — using advanced techniques including mass spectrometry and protein sequencing.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260514084421.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/edmontosaurus-hip-bone.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-05-14 13:02:12",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "878624237b64121111c3528d18fa4370",
-      "title": "NASA spacecraft to fly close to Mars this week as it chases rare metal asteroid",
-      "description": "Named Psyche like the asteroid it's after, the robotic explorer will slingshot past the red planet at 12,333 mph (19,848 kph) on Friday",
-      "url": "https://www.independent.co.uk/space/nasa-mars-psyche-aircraft-gravity-b2976589.html",
-      "image_url": "https://static.independent.co.uk/2024/11/18/00/15185754-35648099-8e91-40f9-8e1d-675b792d229a.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-05-14 13:01:22",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "20b0c6e4570ab75ab6e3dead4cb3dd33",
-      "title": "Reducing fear is critical for improving trust in law enforcement, study finds",
-      "description": "Law enforcement is a critical aspect of ensuring safety in communities. However, unjustified harm has been associated with law enforcement throughout history, resulting in tension between police and communities.",
-      "url": "https://phys.org/news/2026-05-critical-law.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/law-enforcement.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-14 13:00:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2f59bd0d61e406b3d3916c9c0f9b7140",
-      "title": "Newly Discovered Sauropod Is Biggest Ever Found in Southeast Asia at Likely 27 Tons, Nicknamed the \"Last Titan\"",
-      "description": "Learn about the \"last titan\" of Thailand, a newly discovered long-necked dinosaur that has become the biggest sauropod ever found in Southeast Asia.",
-      "url": "https://www.discovermagazine.com/newly-discovered-sauropod-is-biggest-ever-found-in-southeast-asia-at-likely-27-tons-nicknamed-the-last-titan-49096",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59336/nagatitan-dinosaur-illustration-x.jpeg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-05-14 09:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ad9ba9395147a773a6c1d3b78734fa4a",
-      "title": "A new dinosaur dubbed the ‘Last Titan of Thailand’ weighed more than 9 elephants",
-      "description": "Say hello to the ‘Nagatitan.’ The post A new dinosaur dubbed the ‘Last Titan of Thailand’ weighed more than 9 elephants appeared first on Popular Science .",
-      "url": "https://www.popsci.com/science/new-dinosaur-nagatitan-thailand/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/nagatitan-illustration.png",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-05-14 09:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c9f3ab4f944bdf854495aed3f28d80a1",
-      "title": "Flavored water and the secrets no one tells",
-      "description": "Don’t let marketing mislead you: Flavored water is not water, it is sweetened juice in disguise.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895429",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719933",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-14 08:00:55",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "f2671805d7569aa21d650fec2dbc29da",
-      "title": "Japanese scientists’ liquid-like gold nanoparticles could open path to adaptive materials",
-      "description": "Researchers have found that gold nanoparticles with thermoresponsive organic ligands on their surface showed liquid-like behavior.",
-      "url": "https://interestingengineering.com/science/gold-nanoparticles-flow-like-liquid",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/gold-nanoparticle.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-14 07:33:42",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
