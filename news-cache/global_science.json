@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-15T13:26:09.105Z",
+  "last_updated": "2026-05-15T17:20:29.375Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1805fc4ef4e6452f7d18a77ad9d7a68b",
+      "title": "Lord Vallance: I’m not a good politician but I can get things done",
+      "description": "The science minister, a former GSK executive, says Britain can become a world leader in AI-led drug discovery and attract fresh pharmaceutical investment",
+      "url": "https://www.thetimes.com/business/technology/article/lord-vallance-im-not-a-good-politician-but-i-can-get-things-done-h9sqd2x3d",
+      "image_url": "https://www.thetimes.com/imageserver/image/29ade45e-7236-4b8c-9767-33bf80963eb8.jpg?strip=all&format=webp&crop=8089px%2C4550px%2C0px%2C116px&resize=1200",
+      "source_icon": "https://n.bytvi.com/thetimes.png",
+      "source": "The Times",
+      "published_at": "2026-05-15 05:14:16",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2e55def84b14665e41e470ee9dbc0786",
+      "title": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
+      "description": "Too much bacteria linked to faeces found at almost all England's designated river bathing sites",
+      "url": "https://www.bbc.com/news/articles/cvgzvqq9345o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f912/live/1d0d4f60-4efd-11f1-85df-7fe19d922bf1.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-15 04:13:45",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0a503a24df2f8be98390418d334fa6fa",
+      "title": "From when time went electric to the emergence of quartz clocks",
+      "description": "The Clockworks museum in London boasts the world’s most important public collection which shows how electricity taught the world to tell the same time",
+      "url": "https://www.ft.com/content/066f1f80-a537-4cf0-a580-d390cb24a7a3",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe293b66-a684-4d05-bb31-1e87ede15ee0.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-15 03:00:16",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8c89334a7e1b61ae2513039ec36e70ad",
+      "title": "The clock that changed the course of maritime navigation",
+      "description": "A full-scale working recreation of John Harrison’s 1735 H1 sea-clock goes on display in London, bringing one of horology’s great breakthroughs back to life",
+      "url": "https://www.ft.com/content/703f722e-37b3-4a82-b3d4-bb0793bfe5ac",
+      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5a6b13d-5266-4618-8b83-fc705427dffc.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-15 03:00:16",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a43e361d232f32ae5bc4105a2f7f5070",
+      "title": "Heat waves are now everyday disasters. Governments need to do more to protect people",
+      "description": "Heat waves are a growing global threat to human health, well-being and livelihoods. Across 12 major European cities during the summer of 2025, a 10-day period of extreme heat led to 2,300 deaths—1,500 of them were attributed to climate change amplifying temperatures by 1°C–4°C. Heat waves were responsible for nearly half a million global deaths every year from 2000 to 2019.",
+      "url": "https://phys.org/news/2026-05-everyday-disasters-people.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2025/heatwave.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-15 02:40:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "13159961425264cf69845c6c8163156a",
+      "title": "7 UC San Diego Discoveries That Changed the World",
+      "description": "It starts with a spark of curiosity. At UC San Diego, seeking answers to challenging questions has led to discoveries that transformed medicine and public safety and opened new frontiers in science. These seven breakthroughs continue to improve lives and shape decisions around the world.",
+      "url": "https://today.ucsd.edu/story/discoveries-that-changed-the-world",
+      "image_url": "https://today.ucsd.edu/news_uploads/_social/7-discoveries-teaser.jpg",
+      "source_icon": "https://n.bytvi.com/ucsd.png",
+      "source": "Uc San Diego Today",
+      "published_at": "2026-05-15 02:27:32",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "542ead8a0c03672303aa9c3709df3bfb",
+      "title": "How ion channels inside cells manipulate the cytoskeleton",
+      "description": "Microglia, the immune cells that protect the brain, are thought to maintain a healthy brain environment by removing unwanted substances through dynamic remodeling of the actin cytoskeleton, the cell's internal framework. It has been known that microglia express Hv1/VSOP, a channel protein that transports protons, but it was believed to function at the cell membrane surface, regulating pH in its vicinity.",
+      "url": "https://phys.org/news/2026-05-ion-channels-cells-cytoskeleton.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/ion-channels-inside-ce.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-15 01:40:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "285d3d674652d0e4d493504ad3254446",
+      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+      "description": "Scientists at UC Santa Barbara have created a remarkable new material that works like a “rechargeable solar battery,” storing sunlight inside tiny molecules and releasing it later as heat — even long after the sun goes down. Inspired by reversible changes found in DNA and photochromic sunglasses, the system captures solar energy without relying on bulky batteries or the electrical grid. The molecule can hold energy for years and packs more energy per kilogram than lithium-ion batteries.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-15 01:29:03",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "fb4976aaa73b51ba2fedaa49dc98d7a8",
       "title": "More and more websites want proof you’re human. Blame the bots",
@@ -506,102 +602,6 @@
       "published_at": "2026-05-14 07:33:42",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "a0a5cbc316bf9c836ce5d2e6fc5dd9af",
-      "title": "One in four 2026 World Cup games could face dangerous heat across North America: researchers",
-      "description": "One in four 2026 World Cup games could take place in very hot conditions as climate change has increased the risk of extreme heat in North America since the US hosted the 1994 tournament, researchers warned Thursday.",
-      "url": "https://phys.org/news/2026-05-world-cup-games-dangerous-north.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/the-metlife-stadium-ou.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-14 07:30:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "501a785b2b684fca9a4fbdd8fe7e4418",
-      "title": "Scientists discover the strange way CO2 cools part of Earth’s atmosphere",
-      "description": "Scientists have finally cracked the mystery behind one of climate change’s strangest fingerprints: while Earth’s surface heats up, the upper atmosphere is rapidly cooling. Researchers at Columbia University discovered that carbon dioxide acts very differently high above the planet, where it actually helps radiate heat into space instead of trapping it. The team found that certain infrared wavelengths fall into a “Goldilocks zone” that becomes increasingly effective as CO2 levels rise, accelerating cooling in the stratosphere.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260513221759.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/view-of-earth-international-space-station-expedition-66.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-05-14 07:24:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b92113a2622a8cb1517388b4a2d228c5",
-      "title": "City's historic Assembly Rooms to be repaired",
-      "description": "York Conservation Trust says the Grade I-listed building needs work to its roof and portico.",
-      "url": "https://www.bbc.com/news/articles/cdxp5z0k4gvo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/4a54/live/f37f2880-4e16-11f1-823b-0da99605cfd0.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-14 07:14:28",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f43a4289ef9d71504fc6d7873299df4b",
-      "title": "Researchers warn of 'learning recession' as student test scores decline",
-      "description": "Students nationwide are facing what researchers describe as a decade-long learning recession as test scores continue to decline.",
-      "url": "https://www.wmur.com/article/school-standardized-test-scores-decline-05132026/71300711",
-      "image_url": "https://kubrick.htvapps.com/vidthumb/e6412158-6a5e-4078-96d0-d40e40da5f60/9b0706f7-d0aa-47f2-889f-ec248967a1a0.jpg?crop=0.811xw:0.809xh;0.0114xw,0&resize=1200:*",
-      "source_icon": "https://n.bytvi.com/wmur.png",
-      "source": "Wmur",
-      "published_at": "2026-05-14 05:21:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0cb4d44fdfc19f38f87a65804824cd41",
-      "title": "'Beekeeping helps me clear my mind and get better headspace'",
-      "description": "Jenson, 17, says it helped him feel good to return to school after four years learning at home.",
-      "url": "https://www.bbc.com/news/articles/cj0pyq20ypno",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/95d0/live/f1e9a210-4edf-11f1-bd52-e755d604ece4.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-14 05:13:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f917a4d9719b5879935ca1516fc1c3e1",
-      "title": "5 foods that are upgraded with black pepper – and become healthier",
-      "description": "Black pepper is not only an excellent seasoning choice, but also a health powerhouse that can improve health markers and prevent diseases.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895426",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719924",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-14 05:00:53",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "72f4c80557504c2d3efb36869f5755e6",
-      "title": "Discovery of new alien worlds rewrites understanding of the cosmos",
-      "description": "Scientists have uncovered thousands of new worlds which have never been seen before as the search for extraterrestrial life reaches a global tipping point.",
-      "url": "https://www.dailymail.com/sciencetech/article-15815343/discovery-alien-worlds-cosmos.html",
-      "image_url": "https://i.dailymail.com/1s/2026/05/13/22/108588765-0-image-a-35_1778706489252.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-05-14 04:38:01",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "6dd680f17170a0fe6a4cbe855a60ef4f",
-      "title": "Not Sandwell or Black Country - study names poorest part of Midlands",
-      "description": "The most deprived parts of the West Midlands have been named in an official government study – and only one place in England ranks higher than Birmingham on the deprivation index",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/not-sandwell-black-country-study-33924131",
-      "image_url": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article33924130.ece/ALTERNATES/s615/1_KA_BEM131020_walsall_04JPG.jpg",
-      "source_icon": "https://n.bytvi.com/birminghammail.png",
-      "source": "Birmingham Live",
-      "published_at": "2026-05-14 04:38:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
