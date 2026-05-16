@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-16T12:55:20.973Z",
+  "last_updated": "2026-05-16T16:43:44.258Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1c772618ee5feeb077e40b6ab8247a3a",
+      "title": "Artist Keith Tyson on why he’s funding Oxford’s 400-year-old astronomy professorship",
+      "description": "The Turner Prize winner — whose works delight in probability and orbital mechanics — is donating to the university’s prestigious Savilian chair",
+      "url": "https://www.ft.com/content/54c797e9-d3ae-4c95-9b9c-aed6224e6157",
+      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/1c61c3aa-27df-4c4a-9add-9481f6f1ba70.jpg",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-16 04:00:23",
+      "language": "english",
+      "category": "education"
+    },
     {
       "id": "c23d6cb3bfb2d23819733951e4399389",
       "title": "Inside ‘CaveScape’: miles of tape turned into tunnels and slides at Arizona Science Center",
@@ -585,18 +597,6 @@
       "description": "The Clockworks museum in London boasts the world’s most important public collection which shows how electricity taught the world to tell the same time",
       "url": "https://www.ft.com/content/066f1f80-a537-4cf0-a580-d390cb24a7a3",
       "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe293b66-a684-4d05-bb31-1e87ede15ee0.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
-      "source": "Financial Times",
-      "published_at": "2026-05-15 03:00:16",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "8c89334a7e1b61ae2513039ec36e70ad",
-      "title": "The clock that changed the course of maritime navigation",
-      "description": "A full-scale working recreation of John Harrison’s 1735 H1 sea-clock goes on display in London, bringing one of horology’s great breakthroughs back to life",
-      "url": "https://www.ft.com/content/703f722e-37b3-4a82-b3d4-bb0793bfe5ac",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5a6b13d-5266-4618-8b83-fc705427dffc.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
       "source_icon": "https://n.bytvi.com/financialtimes.jpg",
       "source": "Financial Times",
       "published_at": "2026-05-15 03:00:16",
