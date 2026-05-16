@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-16T16:43:44.258Z",
+  "last_updated": "2026-05-16T20:37:32.165Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "44b1bd2ca93746ed66a96fa707bfc4c3",
+      "title": "Prefix for presence or science Crossword Clue",
+      "description": "Find the answer for Prefix for presence or science from the people who brought you the USA TODAY Daily Crossword Puzzle.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/05/16/prefix-for-presence-or-science-crossword-clue/90114364007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-05-16 08:11:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6d3d0386b5a361dc21eb76976e602be2",
+      "title": "New AI data center will produce 23 atomic bombs' worth of heat a day, claims professor",
+      "description": "There are plans to build an AI data center in Box Elder County, Utah, which has a number of people concerned, including experts and local residents.",
+      "url": "https://www.the-express.com/news/science/207077/ai-data-center-utah-atomic-bombs",
+      "image_url": "https://cdn-images.the-express.com/img/dynamic/15/590x/207077_1.jpg",
+      "source_icon": "https://n.bytvi.com/express.png",
+      "source": "Daily Express Us",
+      "published_at": "2026-05-16 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0c6ece5329e01234b4f6181720607a31",
+      "title": "Toxic tide warning as killer seaweed reaches UK beaches",
+      "description": null,
+      "url": "https://www.express.co.uk/news/science/2205119/toxic-tide-warning-killer-seaweed",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2205119_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-05-16 07:12:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c512487512ac624ba4f7d057ec939f83",
+      "title": "NASA image reveals ‘beacon of light’ galaxy 45 million light‐years away",
+      "description": "NASA's Webb Telescope has spotted a barred spiral galaxy M77, which the team describes as \"a beacon of light in swirls of dust.",
+      "url": "https://www.the-express.com/news/space-news/207072/nasa-webb-telescope-spots-barred-spiral-galaxy",
+      "image_url": "https://cdn-images.the-express.com/img/dynamic/16/590x/207072_1.jpg",
+      "source_icon": "https://n.bytvi.com/express.png",
+      "source": "Daily Express Us",
+      "published_at": "2026-05-16 07:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9d201576af60283871007b3edae33ef7",
+      "title": "Rare plant makes comeback from brink of extinction",
+      "description": "The Kentish milkwort has seen a seven-fold increase since conservation efforts in 2013.",
+      "url": "https://www.bbc.com/news/articles/c4g0w899j5yo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/44af/live/545aab60-5075-11f1-9adb-29693f5d63ae.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-16 06:18:48",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c892d4f89b8974252298297edf0fa049",
+      "title": "Mothers can protect babies from gum disease before birth, Hebrew University study finds",
+      "description": "New research shows maternal antibodies may shape a baby’s oral immune system before and after birth, offering long-term protection against gum disease.",
+      "url": "https://www.jpost.com/health-and-wellness/parenting/article-896216",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702519",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-16 05:31:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fc27f762b57f65cf25806f5f2352f14f",
+      "title": "Belly fat may accelerate brain aging, major Israeli MRI study finds",
+      "description": "New research suggests visceral fat reduction may protect the brain and slow cognitive decline in midlife.",
+      "url": "https://www.jpost.com/health-and-wellness/exercise/article-896214",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/711499",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-16 05:31:33",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "1c772618ee5feeb077e40b6ab8247a3a",
       "title": "Artist Keith Tyson on why he’s funding Oxford’s 400-year-old astronomy professorship",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-15 07:04:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "da779ea008ebafa7b373db27ee6ec036",
-      "title": "Dark Matter May Have Left Its Fingerprint in a Gravitational Wave.",
-      "description": "Dark matter makes up roughly 85 percent of all the matter in the universe. We have never directly detected a single particle of it. But a new method developed by physicists at MIT and across Europe may have just opened a door we didn't know existed. When two black holes collide and merge, they send ripples through the fabric of spacetime, these are known as gravitational waves and if those black holes happened to spiral through a dense cloud of dark matter on their way in, those waves carry an imprint of it. For the first time, scientists have a technique to read that imprint and one signal in the existing data is already raising eyebrows.",
-      "url": "https://www.universetoday.com/articles/dark-matter-may-have-left-its-fingerprint-in-a-gravitational-wave",
-      "image_url": "https://www.universetoday.com/article_images/A_Horseshoe_Einstein_Ring_from_Hubble_1_20260515_070108.jpeg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-15 07:03:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7b9f39d18f217a3fd7d97703ac794629",
-      "title": "Artemis III: The Mission That Has to Work Before Humans Can Return to the Moon.",
-      "description": "Artemis II has barely left the headlines. On April 1st 2026, four astronauts climbed aboard NASA's Orion spacecraft, rode the most powerful rocket ever to carry humans beyond low Earth orbit, and swung around the far side of the Moon. The world watched. Now, before the dust has settled, NASA has outlined its plans for what comes next. Artemis III won't be landing on the Moon. But what it will do is arguably just as important and if history is any guide, it's exactly the kind of mission that makes the difference between a Moon landing and a disaster.",
-      "url": "https://www.universetoday.com/articles/artemis-iii-the-mission-that-has-to-work-before-humans-can-return-to-the-moon",
-      "image_url": "https://www.universetoday.com/article_images/1280px-Earthset_art002e009288_20260515_065612.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-15 06:56:27",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "225316238f21bdcaebcd01f219b0941e",
-      "title": "It's Raining Stardust. It Has Been for Thousands of Years.",
-      "description": "Right now, as you read this, Earth is drifting through a cloud of debris from an ancient stellar explosion. Stardust, real stardust, is raining down on us so thinly scattered that we have only just found the proof. Locked inside Antarctic ice cores up to 80,000 years old, an international team led by the Helmholtz-Zentrum Dresden-Rossendorf has discovered traces of iron-60, a radioactive isotope that can only be created in the heart of an exploding star.",
-      "url": "https://www.universetoday.com/articles/its-raining-stardust-it-has-been-for-thousands-of-years",
-      "image_url": "https://www.universetoday.com/article_images/1280px-Galaxymap.com_map_10_parsecs_2022_20260515_065030.png",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-15 06:50:43",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "192b18998f49ccff0159ff0979b36581",
-      "title": "Transcript: Should economics have fewer taboos? With Alvin Roth",
-      "description": "Soumaya Keynes speaks to Alvin Roth, Nobel laureate and author of ‘Moral Economics’",
-      "url": "https://www.ft.com/content/25d74738-a142-4fa8-bc1c-681e982e96a9",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3efc3d2-e128-4ae1-b8b2-8f43e6a750d6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
-      "source": "Financial Times",
-      "published_at": "2026-05-15 05:25:35",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1805fc4ef4e6452f7d18a77ad9d7a68b",
-      "title": "Lord Vallance: I’m not a good politician but I can get things done",
-      "description": "The science minister, a former GSK executive, says Britain can become a world leader in AI-led drug discovery and attract fresh pharmaceutical investment",
-      "url": "https://www.thetimes.com/business/technology/article/lord-vallance-im-not-a-good-politician-but-i-can-get-things-done-h9sqd2x3d",
-      "image_url": "https://www.thetimes.com/imageserver/image/29ade45e-7236-4b8c-9767-33bf80963eb8.jpg?strip=all&format=webp&crop=8089px%2C4550px%2C0px%2C116px&resize=1200",
-      "source_icon": "https://n.bytvi.com/thetimes.png",
-      "source": "The Times",
-      "published_at": "2026-05-15 05:14:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2e55def84b14665e41e470ee9dbc0786",
-      "title": "'Don't swim' at 12 of 14 river bathing sites, as more locations announced",
-      "description": "Too much bacteria linked to faeces found at almost all England's designated river bathing sites",
-      "url": "https://www.bbc.com/news/articles/cvgzvqq9345o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/f912/live/1d0d4f60-4efd-11f1-85df-7fe19d922bf1.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-15 04:13:45",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0a503a24df2f8be98390418d334fa6fa",
-      "title": "From when time went electric to the emergence of quartz clocks",
-      "description": "The Clockworks museum in London boasts the world’s most important public collection which shows how electricity taught the world to tell the same time",
-      "url": "https://www.ft.com/content/066f1f80-a537-4cf0-a580-d390cb24a7a3",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffe293b66-a684-4d05-bb31-1e87ede15ee0.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
-      "source": "Financial Times",
-      "published_at": "2026-05-15 03:00:16",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
