@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-16T09:19:56.847Z",
+  "last_updated": "2026-05-16T12:55:20.973Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c23d6cb3bfb2d23819733951e4399389",
+      "title": "Inside ‘CaveScape’: miles of tape turned into tunnels and slides at Arizona Science Center",
+      "description": "Arizona Science Center’s newest exhibit transforms 39 miles of tape into tunnels, caves, and slides, turning the science of caves into a full-body adventure.",
+      "url": "https://www.abc15.com/entertainment/events/inside-cavescape-miles-of-tape-turned-into-tunnels-and-slides-at-arizona-science-center",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/9de6f51/2147483647/strip/true/crop/3438x1805+0+66/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F49%2Fa7%2F7d4af1644478b3f96ee28c4063d3%2Fscreenshot-2026-05-15-at-3-55-10-pm.png",
+      "source_icon": "https://n.bytvi.com/abc15.png",
+      "source": "Abc 15",
+      "published_at": "2026-05-15 23:18:34",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "40e438ecbe33b768f7fd82a917a2b62a",
+      "title": "RNA's first letter may shape antiviral alarms, with A outpacing G",
+      "description": "Researchers at the International Institute of Molecular and Cell Biology in Warsaw (IIMCB), led by Prof. Gracjan Michlewski, have shown that a subtle difference at the very beginning of an RNA molecule can influence how strongly a cell activates innate immune antiviral responses.",
+      "url": "https://phys.org/news/2026-05-rna-letter-antiviral-alarms-outpacing.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/small-change-in-rna-bi.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-15 22:20:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "11f7c54ec8d2c23479459c01c31aa83f",
+      "title": "Living robot swarms built from algae can split, merge, and target wounds with light",
+      "description": "Scientists built algae-powered microrobot swarms that assemble with blue light for smart wound targeting.",
+      "url": "https://interestingengineering.com/ai-robotics/algae-microrobot-smart-bandage",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/UC-San-Diego.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-15 21:47:26",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "499ed22127725292d7d64fb4f9f15d37",
+      "title": "Red Meat Helped Human Evolution — but Modern Diets May Raise Disease Risk",
+      "description": "Learn more about humans’ 3-million-year-long relationship with red meat, and how the food that shaped human evolution may now come with a high health and environmental cost in the modern age.",
+      "url": "https://www.discovermagazine.com/red-meat-helped-human-evolution-but-modern-diets-may-raise-disease-risk-49109",
+      "image_url": "https://cdn.discovermagazine.com/assets/image/59371/red-meat-health-risks-human-diet-evolution-x.jpg",
+      "source_icon": "https://n.bytvi.com/discovermagazine.png",
+      "source": "Discover Magazine",
+      "published_at": "2026-05-15 21:45:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "515bd1cc2ccea9c0dd946a4a091032f3",
+      "title": "A New Theory of Dark Matter Could Solve Three Cosmic Mysteries",
+      "description": "A study led by UC Riverside physicist Hai-Bo Yu suggests that a new type of dark matter could explain three astrophysical puzzles across vastly different environments.",
+      "url": "https://www.universetoday.com/articles/a-new-theory-of-dark-matter-could-solve-three-cosmic-mysteries",
+      "image_url": "https://www.universetoday.com/article_images/dark-universe-dark-matter-1024x768_20260515_214058.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-15 21:41:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a5bf802083d03dee59454427c8a95c25",
+      "title": "Bizarre Venus Surface Formations Puzzle Planetary Scientists",
+      "description": "Enigmatic crownlike surface formations on Venus hold keys to understanding our twin planet’s deep interior. Or so says a new paper presented at the recent European Geosciences Union 2026 general assembly in Vienna.",
+      "url": "https://www.universetoday.com/articles/bizarre-venus-surface-formations-puzzle-planetary-scientists",
+      "image_url": "https://www.universetoday.com/article_images/20171005_venus-magellan_20260515_214537.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-15 21:34:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "17c6d2e6c0c367ca59a9934385a01654",
+      "title": "This Shaggy New Fish Looked So Much Like Snuffleupagus That Scientists Named It After Him",
+      "description": "Learn how divers repeatedly photographed a hairy mystery fish before researchers confirmed it was a new ghost pipefish species now named after Sesame Street’s Snuffleupagus.",
+      "url": "https://www.discovermagazine.com/this-shaggy-new-fish-looked-so-much-like-snuffleupagus-that-scientists-named-it-after-him-49110",
+      "image_url": "https://cdn.discovermagazine.com/assets/image/59366/snuffleupagus-fish-x.jpg",
+      "source_icon": "https://n.bytvi.com/discovermagazine.png",
+      "source": "Discover Magazine",
+      "published_at": "2026-05-15 21:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dacc1018d648a5477f8ba2e69adb006a",
+      "title": "A decade of lies: The US-funded biolab denial saga",
+      "description": "RT looks back at how the US finally admitted to funding biolabs around the world Read Full Article at RT.com",
+      "url": "https://www.rt.com/russia/640057-us-biolabs-affair-timeline/",
+      "image_url": "https://mf.b37mrtl.ru/files/2026.05/article/6a078c282030271b715391b4.jpg",
+      "source_icon": "https://n.bytvi.com/rt.png",
+      "source": "Rt",
+      "published_at": "2026-05-15 21:21:21",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "e7cec987cba6aa129f4d7798d850a376",
       "title": "A ‘random class’ led her to large language models",
@@ -506,102 +602,6 @@
       "published_at": "2026-05-15 03:00:16",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "a43e361d232f32ae5bc4105a2f7f5070",
-      "title": "Heat waves are now everyday disasters. Governments need to do more to protect people",
-      "description": "Heat waves are a growing global threat to human health, well-being and livelihoods. Across 12 major European cities during the summer of 2025, a 10-day period of extreme heat led to 2,300 deaths—1,500 of them were attributed to climate change amplifying temperatures by 1°C–4°C. Heat waves were responsible for nearly half a million global deaths every year from 2000 to 2019.",
-      "url": "https://phys.org/news/2026-05-everyday-disasters-people.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2025/heatwave.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 02:40:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "13159961425264cf69845c6c8163156a",
-      "title": "7 UC San Diego Discoveries That Changed the World",
-      "description": "It starts with a spark of curiosity. At UC San Diego, seeking answers to challenging questions has led to discoveries that transformed medicine and public safety and opened new frontiers in science. These seven breakthroughs continue to improve lives and shape decisions around the world.",
-      "url": "https://today.ucsd.edu/story/discoveries-that-changed-the-world",
-      "image_url": "https://today.ucsd.edu/news_uploads/_social/7-discoveries-teaser.jpg",
-      "source_icon": "https://n.bytvi.com/ucsd.png",
-      "source": "Uc San Diego Today",
-      "published_at": "2026-05-15 02:27:32",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "542ead8a0c03672303aa9c3709df3bfb",
-      "title": "How ion channels inside cells manipulate the cytoskeleton",
-      "description": "Microglia, the immune cells that protect the brain, are thought to maintain a healthy brain environment by removing unwanted substances through dynamic remodeling of the actin cytoskeleton, the cell's internal framework. It has been known that microglia express Hv1/VSOP, a channel protein that transports protons, but it was believed to function at the cell membrane surface, regulating pH in its vicinity.",
-      "url": "https://phys.org/news/2026-05-ion-channels-cells-cytoskeleton.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/ion-channels-inside-ce.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 01:40:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "285d3d674652d0e4d493504ad3254446",
-      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
-      "description": "Scientists at UC Santa Barbara have created a remarkable new material that works like a “rechargeable solar battery,” storing sunlight inside tiny molecules and releasing it later as heat — even long after the sun goes down. Inspired by reversible changes found in DNA and photochromic sunglasses, the system captures solar energy without relying on bulky batteries or the electrical grid. The molecule can hold energy for years and packs more energy per kilogram than lithium-ion batteries.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/bottled-sunlight-liquid-battery-energy.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-05-15 01:29:03",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "fb4976aaa73b51ba2fedaa49dc98d7a8",
-      "title": "More and more websites want proof you’re human. Blame the bots",
-      "description": "CAPTCHA tests may seem like a minor annoyance, but they reflect a much larger paradigm shift online.",
-      "url": "https://theconversation.com/more-and-more-websites-want-proof-youre-human-blame-the-bots-282476",
-      "image_url": "https://images.theconversation.com/files/736026/original/file-20260514-57-cuxxq9.png?ixlib=rb-4.1.0&rect=0%2C0%2C1760%2C880&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-05-15 01:10:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "92a063f1c1f4b3c3fa814d11aa88112a",
-      "title": "Soil also suffers from heat waves: Organic waste boosts its tolerance to 50°C",
-      "description": "The successive heat waves that sweep across southern Spain in summer have harmful effects on the entire community that lives there, from humans to the microbes that inhabit the soil. Both share an impressive resilience that has enabled them to survive and adapt, each in its own way, to successive episodes of extreme temperatures. But that adaptability has its limits.",
-      "url": "https://phys.org/news/2026-05-soil-boosts-tolerance-50c.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/soil-also-suffers-from.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 00:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ac749b2d8e633f6d9638d4c6fb49cb31",
-      "title": "UP chemists develop AI tool to help fight antimicrobial resistance",
-      "description": ", Philippines — Chemists from the University of the Philippines Diliman College of Science (UPD-CS) have developed an artificial intelligence (AI) tool designed to accelerate the discovery of new antibacterial peptides, which they said could help address antimicrobial resistance. The chemists said antimicrobial resistance continues to make traditional antibiotics less effective worldwide, making the search",
-      "url": "https://newsinfo.inquirer.net/2229308/up-chemists-develop-ai-tool-to-help-fight-antimicrobial-resistance",
-      "image_url": "https://newsinfo.inquirer.net/files/2026/05/AI-antibiotic-compositeimage-14may2026.jpg",
-      "source_icon": "https://n.bytvi.com/inquirer.png",
-      "source": "Inquirer",
-      "published_at": "2026-05-15 00:02:27",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4d521e3c8e17da0e6cc796a18cf411f8",
-      "title": "The 'silent' invasion of a widespread freshwater jellyfish across Europe",
-      "description": "A new study published in the journal People and Nature reveals a significant gap in public awareness regarding one of the world's most widespread invasive species: the freshwater jellyfish Craspedacusta sowerbii. Despite being present on six continents and well-documented by scientists in Europe, this unnoticed (cryptic meaning \"under the radar\") invader remains largely unknown to the public, a factor that researchers say may be hindering the development of early warning systems and effective environmental policy.",
-      "url": "https://phys.org/news/2026-05-silent-invasion-widespread-freshwater-jellyfish.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/silent-invasion-of-a-w.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 00:00:02",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
