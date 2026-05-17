@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-17T09:27:15.771Z",
+  "last_updated": "2026-05-17T12:52:51.161Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5cec3f7365ed4f20fe15675ce3a1947d",
+      "title": "'At least four alien species' found in crashed UFOs, ex-CIA-funded researcher claims",
+      "description": "A former CIA-funded researcher has made an astonishing claim, saying that \"at least four\" different extraterrestrial species have been discovered in crashed UFO wreckage recovered by the US – though no physical evidence has been submitted to back up the claims",
+      "url": "https://www.dailystar.co.uk/news/weird-news/at-least-four-alien-species-37167034",
+      "image_url": "https://i2-prod.dailystar.co.uk/news/weird-news/article37167033.ece/ALTERNATES/s615/0_x-CIA-funded-researcher-Dr-Hal-Puthoff.jpg",
+      "source_icon": "https://n.bytvi.com/dailystar.png",
+      "source": "Dailystar Co Uk",
+      "published_at": "2026-05-16 23:54:24",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0d159366d562e62fbcb614bb613be1f7",
+      "title": "Archaeologists find Egyptian mummy buried with the ‘Iliad’ - Sat, 16 May 2026 PST",
+      "description": "Archaeologists working in Egypt have discovered a remarkable combination of Homeric epic and Egyptian ritual: a 2,000-year-old mummy with a papyrus fragment of the “Iliad” sealed in a clay packet outside its wrappings.",
+      "url": "http://www.spokesman.com/stories/2026/may/16/archaeologists-find-egyptian-mummy-buried-with-the/",
+      "image_url": "https://thumb.spokesman.com/Hk5v-c7cUXn_2chHRRW1x5OwasY=/2500x1405/smart/media.spokesman.com/photos/2026/05/16/6a08ff52d84a5.hires.jpg",
+      "source_icon": "https://n.bytvi.com/spokesman.png",
+      "source": "Spokesman",
+      "published_at": "2026-05-16 23:32:00",
+      "language": "english",
+      "category": "lifestyle"
+    },
     {
       "id": "3ac33259d9a51fc31546e554e8aab10f",
       "title": "Hidden small RNA in cholera bacterium helps determine whether it can infect humans",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-15 19:00:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "64d8c917e4e71c837e488d2f313d0cd9",
-      "title": "Scientists identify hidden accelerant in Antarctic ice loss",
-      "description": "For years, scientists have warned that melting Antarctic ice could push sea levels dangerously higher by the end of this century. But a new study led by University of Maryland scientist Madeleine Youngs suggests those warnings may still be too conservative because they leave out a crucial factor: the ocean's own complex circulatory system.",
-      "url": "https://phys.org/news/2026-05-scientists-hidden-antarctic-ice-loss.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-identify-hi-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 18:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1421d8a6d4f28853f532789ab16c7231",
-      "title": "NASA Captures Volatile Changes in Earth's Artificial Light",
-      "description": "A study of NASA's Black Marble data reveals a pattern of regional volatility in nighttime illumination across the planet.",
-      "url": "https://www.universetoday.com/articles/nasa-captures-volatile-changes-in-earths-artificial-light",
-      "image_url": "https://www.universetoday.com/article_images/nightlights_global_20142022_20260515_180518.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-15 18:10:35",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
