@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-17T06:39:08.199Z",
+  "last_updated": "2026-05-17T09:27:15.771Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3ac33259d9a51fc31546e554e8aab10f",
+      "title": "Hidden small RNA in cholera bacterium helps determine whether it can infect humans",
+      "description": "Scientists from St. Jude Children's Research Hospital have uncovered what gives Vibrio cholerae, the bacterium that causes cholera, the ability to colonize the human gut. The researchers found that a small RNA embedded within another gene controls where cholera thrives, a discovery that could improve prediction and prevention strategies. The study is published in the journal Nature Communications.",
+      "url": "https://phys.org/news/2026-05-hidden-small-rna-cholera-bacterium.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/hidden-small-rna-deter.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-16 21:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bd6c399152ec4cf0a47d3942f0a5cde1",
+      "title": "Through the fog: Finding steadiness in a time of uncertainty and war",
+      "description": "Since the truce with Iran, Israelis have been navigating a reality defined less by what is known and more by what is unknown.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-896175",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720979",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-16 20:00:52",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bcd072ed06999fbe9165679bd54d2f1a",
+      "title": "College Kid Shuts Down High Speed Trains With a Laptop and a Radio",
+      "description": "He says he pushed the button \"accidentally.\" The post College Kid Shuts Down High Speed Trains With a Laptop and a Radio appeared first on Futurism .",
+      "url": "https://futurism.com/advanced-transport/high-speed-trains-laptop-radio",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/05/high-speed-trains-laptop-radio.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-05-16 19:00:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "f30bc01c5aa2ccfe4311e34edf8daae2",
       "title": "A new Ebola outbreak has already killed 87 people in Democratic Republic of Congo",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/universetoday.png",
       "source": "Universe Today",
       "published_at": "2026-05-15 18:10:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5e25f6b18764ade16157b3dda5d61944",
-      "title": "This startup wants to make drugs in orbit. If it succeeds, it could transform the space economy",
-      "description": "Varda’s plan to develop medicines in microgravity has its advantages, but it requires a big up-front cost",
-      "url": "https://www.scientificamerican.com/article/this-startup-wants-to-make-drugs-in-orbit-if-it-succeeds-it-could-transform-the-space-economy/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/b0003ba6-27b1-4564-b475-56b5b43e755e/Varda.jpg?m=1778866701.196&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-15 18:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1530a5737c4d17d3729769b3669f7f6b",
-      "title": "Meta Employee Attacks Zuckerberg for Collecting Every Employee Keystroke: “I Don’t Want to Live in a World Where Humans — Employees or Otherwise — Are Exploited for Their Training Data”",
-      "description": "“But zooming out, I don’t want to live in a world where humans — employees or otherwise — are exploited for their training data.\" The post Meta Employee Attacks Zuckerberg for Collecting Every Employee Keystroke: “I Don’t Want to Live in a World Where Humans — Employees or Otherwise — Are Exploited for Their Training Data” appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/meta-employee-attacks-zuckerberg-employee-data",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/meta-employee-attacks-zuckerberg-employee-data.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-15 17:53:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6ac1f3ca008d042957f34dd6f57c6e1d",
-      "title": "Sunlight-powered generation of correlated photon pairs",
-      "description": "Pairs of correlated or entangled photons are a foundational resource in quantum optics. They are most commonly produced through spontaneous parametric down-conversion (SPDC), a nonlinear optical process that typically relies on a stable, coherent laser to pump a nonlinear crystal. Because of this requirement, SPDC has long been viewed as impractical without laboratory-grade laser systems.",
-      "url": "https://phys.org/news/2026-05-sunlight-powered-generation-photon-pairs.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/sunlight-powered-gener.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-15 17:40:05",
       "language": "english",
       "category": "science"
     }
