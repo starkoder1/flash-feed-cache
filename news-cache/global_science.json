@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-17T16:44:01.299Z",
+  "last_updated": "2026-05-17T20:38:59.026Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "abcdcabb3ef93b04df817ec70d9e95d6",
+      "title": "You can start shaping your child’s healthy eating habits as early as pregnancy",
+      "description": "In a study conducted by a team at Durham University, pregnant women in their final trimester consumed capsules containing carrot or kale powder.",
+      "url": "https://www.jpost.com/science/article-896421",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/675167",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-17 08:33:43",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ba80d1b15f9429958180d88486b0602a",
+      "title": "Brain primarily made of silicon (Abbr.) Crossword Clue",
+      "description": "Find the answer for Brain primarily made of silicon (Abbr.) from the people who brought you the USA TODAY Daily Crossword Puzzle.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/05/17/brain-primarily-made-of-silicon-abbr-crossword-clue/90128886007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-05-17 08:12:42",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5513fce59a4107b7017985830205eb91",
+      "title": "A doctor explains: How much sunscreen do you really need to apply?",
+      "description": "How much should you apply? How often? And who is at greater risk? Ahead of the hot season, a skin specialist provides all the answers.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-895564",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720110",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-17 08:03:16",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7000910486689eb76f9a9b88236a1de1",
+      "title": "How do you treat a cardiac emergency in space? This researcher is trying to answer that",
+      "description": "Researchers at Concordia University in Montreal are trying to build a CPR simulator to study emergency care in zero gravity.",
+      "url": "https://www.cbc.ca/player/play/9.7201159?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/e6bc5f24-0eeb-4a64-9611-bc7672e37528,1778867054796/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C378%2C4032%2C2268%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-05-17 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9d8ea3f69183d16f3476fa1fd9ff0df6",
+      "title": "‘Speechless’ experts uncover oldest English poem hiding in medieval book",
+      "description": "The poem was composed by a Northumbrian worker in the 7th century",
+      "url": "https://www.independent.co.uk/news/science/archaeology/oldest-english-poem-caedmons-hymn-b2978084.html",
+      "image_url": "https://static.independent.co.uk/2026/05/17/06/Italy_Old_English_Poem_63548.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-05-17 07:31:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a920640ada956389fc9dc4496c427135",
+      "title": "Abu Dhabi captures first daylight image of Dhu Al Hijjah crescent",
+      "description": "Abu Dhabi astronomers capture the first daylight image of the Dhu Al Hijjah crescent, marking a key step toward confirming Eid Al Adha dates in the Islamic world.",
+      "url": "https://gulfnews.com/uae/abu-dhabi-captures-first-daylight-image-of-dhu-al-hijjah-crescent-1.500543374",
+      "image_url": "https://gumlet-images.assettype.com/gulfnews/2026-05-17/6tca65v9/HIgBmARbIAAtldm.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-05-17 06:21:21",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "85de579f7f8b55fb94dfa837ac6b7847",
+      "title": "The great nut battle that will decide – which is better to eat?",
+      "description": "Research points to surprising differences between two types of nuts: Pecans lead in healthy fats and antioxidants, while peanuts are richer in protein.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895563",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720108",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-17 05:03:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6b17de05211b903800e48579c54343e8",
+      "title": "'Space has never been hotter': Analysts reveal top stock picks as investors target intergalactic gains",
+      "description": "The space sector is back in the spotlight for investors in a new era of intergalactic exploration.",
+      "url": "https://www.cnbc.com/2026/05/17/top-space-stock-picks-investors-target-intergalactic-gains-.html",
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108287909-17755666032026-04-06t164134z_1873302738_rc2ygkahtrd4_rtrmadp_0_space-moon-artemis.jpeg?v=1775566659&w=1200&h=675",
+      "source_icon": "https://n.bytvi.com/cnbc.png",
+      "source": "Cnbc",
+      "published_at": "2026-05-17 05:00:01",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "c5fd31744113680c4047bfbef4e2e098",
       "title": "Gut feeling: Hebrew University shows how your body’s stem cells fight Salmonella - study",
@@ -506,102 +602,6 @@
       "published_at": "2026-05-15 21:30:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "dacc1018d648a5477f8ba2e69adb006a",
-      "title": "A decade of lies: The US-funded biolab denial saga",
-      "description": "RT looks back at how the US finally admitted to funding biolabs around the world Read Full Article at RT.com",
-      "url": "https://www.rt.com/russia/640057-us-biolabs-affair-timeline/",
-      "image_url": "https://mf.b37mrtl.ru/files/2026.05/article/6a078c282030271b715391b4.jpg",
-      "source_icon": "https://n.bytvi.com/rt.png",
-      "source": "Rt",
-      "published_at": "2026-05-15 21:21:21",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "e7cec987cba6aa129f4d7798d850a376",
-      "title": "A ‘random class’ led her to large language models",
-      "description": "Yale computer science student Elizabeth Schaefer ‘26 used a random CS class to discover LLMs — now she’s researching AI bias in medicine and heading to a Ph.D.",
-      "url": "https://engineering.yale.edu/news-and-events/news/elizabeth-schaefer-26-random-class-led-her-large-language-models",
-      "image_url": "https://engineering.yale.edu/application/files/thumbnails/custom_512x512_exact/7317/7861/8627/yale-engineering-elizabeth-schaefer-news-thumbnail.webp",
-      "source_icon": "https://n.bytvi.com/yale.png",
-      "source": "Yalenews",
-      "published_at": "2026-05-15 20:55:43",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "528028c6edf70a763411787c617e3f18",
-      "title": "Michigan’s population growth outlook remains bleak through 2030",
-      "description": "Michigan saw more deaths than births for the fifth consecutive year in 2024, even as migration to the state helped boost the overall population.",
-      "url": "https://www.detroitnews.com/videos/media/video/2026/05/15/michigan-population-growth-outlook-remains-bleak-through-2030/90104383007/",
-      "image_url": "https://www.gannett-cdn.com/authoring/videos/stringr/thumbnails/90104383007.jpg",
-      "source_icon": "https://n.bytvi.com/detroitnews.jpeg",
-      "source": "Detroit Local News",
-      "published_at": "2026-05-15 20:44:18",
-      "language": "english",
-      "category": "business"
-    },
-    {
-      "id": "025b688713d01e6aae5d9c5e21337520",
-      "title": "Large Genetic Study Links Cannabis Use to Psychiatric, Cognitive and Physical Health",
-      "description": "New research has found genetic associations between cannabis use and psychiatric, cognitive, and physical health. The findings could inform prevention and treatment strategies for cannabis use disorders.",
-      "url": "https://today.ucsd.edu/story/large-genetic-study-links-cannabis-use-to-psychiatric-cognitive-and-physical-health",
-      "image_url": "https://today.ucsd.edu/teaser_uploads/_social/iStock_Composite.png",
-      "source_icon": "https://n.bytvi.com/ucsd.png",
-      "source": "Uc San Diego Today",
-      "published_at": "2026-05-15 19:58:06",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "cc1247b03420f34802a623f37075bddc",
-      "title": "Hantavirus can persist in semen for years, but that doesn’t mean it remains contagious",
-      "description": "Researchers know very little about how long the Andes version of the hantavirus can remain in human hosts",
-      "url": "https://www.scientificamerican.com/article/hantavirus-can-persist-in-semen-for-years-but-that-doesnt-mean-it-remains-contagious/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/9387ee51-581f-4463-a826-4e900969775b/Hantavirus.jpg?m=1778876387.374&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-15 19:45:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6634f6a0981f4368e182e414c9581f93",
-      "title": "3D-printed stretchable artery implant lowers blood pressure by 15% in early trials",
-      "description": "Penn State engineers created a soft 3D-printed implant that lowered blood pressure in rats using electrical stimulation instead of drugs.",
-      "url": "https://interestingengineering.com/health/soft-hydrogel-implant-blood-pressure-control",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-2026-05-15T232304.182.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-15 19:20:38",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "45b56b8bb978594d9dd1eaf94397e85b",
-      "title": "Elon Musk Absolutely Obsessed With Tweets From Random Guy In India Who Constantly Glazes Him, Analysis Shows",
-      "description": "\"Musk loves to be glazed, and this person is the doughnut factory.\" The post Elon Musk Absolutely Obsessed With Tweets From Random Guy In India Who Constantly Glazes Him, Analysis Shows appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/elon-musk-obsessed-random-account-glazing",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/elon-musk-obsessed-random-account-glazing.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-15 19:10:57",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "d83fb68fa5407cbb94c0c4bf35ef8058",
-      "title": "Archaeologists Unearthing Ancient Lifestyle of Native Americans on Space Force's Cape Canaveral Station",
-      "description": "Florida archaeology students are uncovering the behavior of indigenous people more than 2,000 years ago in the shadow of a location known for modern space exploration. The post Archaeologists Unearthing Ancient Lifestyle of Native Americans on Space Force’s Cape Canaveral Station appeared first on Breitbart .",
-      "url": "https://www.breitbart.com/science/2026/05/15/archaeologists-unearthing-ancient-lifestyle-of-native-americans-on-space-forces-cape-canaveral/",
-      "image_url": "https://media.breitbart.com/media/2026/05/GettyImages2273568404-640x335.jpg",
-      "source_icon": "https://n.bytvi.com/breitbart.png",
-      "source": "Brietbart",
-      "published_at": "2026-05-15 19:00:34",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
