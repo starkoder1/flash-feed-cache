@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-18T14:51:48.929Z",
-  "article_count": 50,
+  "last_updated": "2026-05-18T17:52:12.647Z",
+  "article_count": 49,
   "articles": [
+    {
+      "id": "bf59c77f1ee132f2136e6acc0f6caf73",
+      "title": "The “impossible” LED that could change everything",
+      "description": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically powering insulating nanoparticles to create a completely new kind of LED. Using tiny organic “molecular antennas,” the team found a way to funnel energy into materials that normally cannot conduct electricity, producing ultra pure near infrared light with remarkable efficiency.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/lanthanide-doped-nanoparticle.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-18 05:18:55",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "06abbc6e492b3b8e31d6a4662149ff54",
+      "title": "Found a cracked egg – is it permissible to eat or is it dangerous?",
+      "description": "Found a cracked egg? You don’t always have to toss it, but follow this critical rule: Learn when it is dangerous and how to store it correctly.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895663",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720238",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-18 05:01:53",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "668e07220d04dc0836bd6496e665c43e",
+      "title": "Scientists just unlocked a cheaper way to make clean hydrogen fuel",
+      "description": "Researchers have developed a durable new catalyst that produces clean hydrogen without relying on expensive platinum metals. The breakthrough could make renewable hydrogen fuel cheaper, more efficient, and easier to scale for real-world energy use.",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517211437.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/energy-efficient-catalyst-to-split-hydrogen-from-water.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-18 04:55:16",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "051d2daf341efec417d675fab81c5e8c",
+      "title": "Cambridge Science Park launches £3bn expansion plan",
+      "description": "Hub for scientific and tech innovation aims to triple in size over next 30 years",
+      "url": "https://www.ft.com/content/d74dea05-3054-41e7-9556-8f4debed3763",
+      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/680c90ea-5f19-4c38-ba1b-8f5865cd25cd.jpg",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-18 04:00:22",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "bf96588089b291dc9f1473b3474ace8e",
       "title": "Quantum ghost imaging works using only sunlight in stunning new experiment",
@@ -540,66 +588,6 @@
       "source_icon": "https://n.bytvi.com/space.png",
       "source": "Space",
       "published_at": "2026-05-16 18:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ef3fba0f526a151baea706f299c3ab19",
-      "title": "Dentists Are Using AI to Scare Patients Into Unnecessary Dental Work, According to an Explosive Investigation",
-      "description": "\"It's happening almost everywhere.\" The post Dentists Are Using AI to Scare Patients Into Unnecessary Dental Work, According to an Explosive Investigation appeared first on Futurism .",
-      "url": "https://futurism.com/health-medicine/dentists-ai-unnecessary-dental-work",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/dentists-ai-unnecessary-dental-work.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-16 17:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "94b0d1f31cfaf335c40011bbf86bfd15",
-      "title": "Precision Capsule Compounding",
-      "description": "Technicians use specialized equipment to fill and organize pharmaceutical capsules with precise dosing during a controlled compounding process.",
-      "url": "https://interestingengineering.com/videos/precision-capsule-compounding",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/1214822769658649.AQ1n6YPiWj2C4u9QEfnj_height640.png",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-16 17:14:08",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0d805f9d6127c1a1f206b96a8901f2f0",
-      "title": "With the Vespera III and Vespera Pro 2, telescope-maker Vaonis unveils its sharpest optics yet",
-      "description": "They boast a new optical design for sharper images and host a bunch of upgraded features to make stargazing a breeze. The Vaonis Vespera III and Vespera Pro 2 are available now.",
-      "url": "https://www.space.com/stargazing/skywatching-kit/with-the-vespera-iii-and-vespera-pro-2-telescope-maker-vaonis-unveils-its-sharpest-optics-yet",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QMmtvucKmQUqWy6G4fndhS-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-16 17:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5bf98ce0b0fcfbed9cb6fdbf973fc171",
-      "title": "Scientists Detect Weird Anomalies in Clouds of Venus",
-      "description": "\"We identified the phenomena, but for years we couldn't understand it.\" The post Scientists Detect Weird Anomalies in Clouds of Venus appeared first on Futurism .",
-      "url": "https://futurism.com/space/scientists-weird-anomalies-in-clouds-of-venus",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/scientists-detect-weird-anomalies-in-clouds-of-venus.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-16 16:45:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "c37ded5f8c7f98eb496d708a81b8909a",
-      "title": "Why some water fleas suddenly grow helmets: Key receptors reveal how predator warnings trigger defense",
-      "description": "Daphnia, commonly known as water fleas, are tiny crustaceans that live in freshwater ponds and lakes. When they sense predators in their surroundings, these small organisms can swiftly move away or adapt their body shape, for instance becoming rounder and forming large helmets or spines on their head, neck or tail.",
-      "url": "https://phys.org/news/2026-05-fleas-suddenly-helmets-key-receptors.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-tiny-water-fleas-d-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-16 16:00:03",
       "language": "english",
       "category": "science"
     }
