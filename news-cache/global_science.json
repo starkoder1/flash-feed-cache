@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-18T11:36:31.064Z",
+  "last_updated": "2026-05-18T14:51:48.929Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "bf96588089b291dc9f1473b3474ace8e",
+      "title": "Quantum ghost imaging works using only sunlight in stunning new experiment",
+      "description": "Scientists have achieved something that once sounded almost impossible: using ordinary sunlight to create quantum-linked photon pairs, a phenomenon normally dependent on precise laboratory lasers. By building a sun-tracking system that funnels sunlight through optical fiber into a special crystal, researchers generated strongly correlated photons capable of performing “ghost imaging,” where images are reconstructed indirectly through quantum correlations. Remarkably, the sunlight-powered setup produced image quality close to that of a traditional laser system, even recreating detailed images like a “ghost face.”",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260517211424.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/quantum-photonics-ghost-imaging.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-05-18 02:30:16",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "9b748aa19a8821c8cb2c8b8e2b95a15b",
       "title": "Roadmap charts three paths to room-temperature quantum materials for cooler computing",
@@ -590,18 +602,6 @@
       "published_at": "2026-05-16 16:00:03",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "0222b57b1555e2d934c9182cae378212",
-      "title": "NASA Satellite Images Show Huge Colored Plumes Staining the Ocean",
-      "description": "Pretty and cool. The post NASA Satellite Images Show Huge Colored Plumes Staining the Ocean appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/nasa-images-colored-plumes-ocean",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/nasa-images-colored-plumes-ocean.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-16 16:00:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
