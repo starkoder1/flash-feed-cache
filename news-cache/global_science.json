@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-19T10:53:10.588Z",
+  "last_updated": "2026-05-19T14:31:59.242Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ab1ba43d8b7f0b5c35dddcae7c766e51",
+      "title": "Martial arts legend Jet Li’s toughest fight yet? Finding inner peace",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/style/jet-li-martial-arts-star-memoir-hnk-intl",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2275395222.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-19 02:22:59",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "fa9bde0da37a2c0182b790d02a92feee",
+      "title": "Justice Jackson slams Supreme Court’s handling of rush appeal in Louisiana redistricting case",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/politics/ketanji-brown-jackson-supreme-court-louisiana-redistricting-case",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2265246750.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-19 01:48:51",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "51a21d21513b07aaaf1fdd9f29f07442",
+      "title": "Deal reached to end strike at largest US commuter railroad",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/business/deal-to-end-lirr-strike",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2276413442.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-19 01:06:23",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "41f2f85d455a4f6181e6ad4ff9297d2a",
+      "title": "Trump administration proposes admitting more White South African refugees",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/politics/trump-additional-white-south-african-refugees",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2214742189-20260519001209069.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-19 00:01:11",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "7e0d6553119729cb3fd80c6475a31414",
+      "title": "Fact check: Colorado governor’s misleading rationale for freeing election denier Tina Peters",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/politics/fact-check-colorado-governor-tina-peters",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1241600019-20260518225555349.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-18 23:38:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "740460df24f80911b1cfdefe8e0305ca",
+      "title": "What to know about Trump’s $1.8 billion taxpayer-fueled fund for his allies",
+      "description": null,
+      "url": "https://www.cnn.com/2026/05/18/politics/what-to-know-trump-weaponization-fund-for-allies",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2262525694.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-18 23:31:34",
+      "language": "english",
+      "category": "education"
+    },
     {
       "id": "da5223146922ce1c15d4f2eaeefbceef",
       "title": "Pelosi endorses Connie Chan in race to replace her in San Francisco",
@@ -24,6 +96,18 @@
       "source_icon": "https://n.bytvi.com/uci.png",
       "source": "Uc Irvine",
       "published_at": "2026-05-18 22:08:40",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dfad115fb95caba69b11bd98edb32ad9",
+      "title": "'Smallest statue in the world': Irish councillor proposes monument for mosquito that killed Cromwell",
+      "description": "A city councillor in Cork, Ireland is advocating to erect a public statue of a mosquito. It wouldn’t be a statue of just any mosquito , but the pest that some — at least in Cork–believe bit the English invader, Oliver Cromwell — sending him home to die of what was once known as 'Cork fever,' an old name for malaria.",
+      "url": "https://www.cbc.ca/radio/asithappens/smallest-statue-in-the-world-irish-councillor-proposes-monument-for-mosquito-that-killed-cromwell-9.7203480?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/89d9a3ae-c886-4d8a-bab9-2bab1b72f304,1779137555108/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1600%2C900%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-05-18 22:05:00",
       "language": "english",
       "category": "science"
     },
@@ -518,90 +602,6 @@
       "published_at": "2026-05-18 02:30:16",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "9b748aa19a8821c8cb2c8b8e2b95a15b",
-      "title": "Roadmap charts three paths to room-temperature quantum materials for cooler computing",
-      "description": "Imagine a laptop that never gets hot, a phone that holds its charge for days, or a computer memory chip designed to permanently retain data, even when the power goes out. This is the possibility sitting inside a remarkable family of materials that a team of researchers from the University of Ottawa and the Massachusetts Institute of Technology (MIT) has spent years trying to understand, and they just published a comprehensive roadmap of the field to date in the journal Newton.",
-      "url": "https://phys.org/news/2026-05-roadmap-paths-room-temperature-quantum.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/scientists-chart-path.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-17 22:40:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "aff838c2ba6ebbb206d4b837a3c78c2a",
-      "title": "Zinc is a metal essential to life – scientists have discovered a protein that helps keep cells alive when zinc levels are low",
-      "description": "While iron and calcium are the metals that get the most attention, zinc is also important for human health and function.",
-      "url": "https://www.yahoo.com/news/articles/zinc-metal-essential-life-scientists-214835378.html",
-      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/a2c0fbb28c9b3d48a424b86c9517a99b",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-05-17 21:48:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cac9431f8a9eb7b550f1144a12df7570",
-      "title": "The Quest for Clean Hydrogen Moves Underground",
-      "description": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet.",
-      "url": "https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html",
-      "image_url": "https://static01.nyt.com/images/2026/05/15/18cli-geologic-hydrogen-01-lfbv-cover/18cli-geologic-hydrogen-01-lfbv-cover-videoSixteenByNineJumbo1600.jpg",
-      "source_icon": "https://n.bytvi.com/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-05-17 21:18:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d003b1878508190c94fbf6daf160f1e4",
-      "title": "Oldest surviving English poem in history discovered in manuscript in Roman library",
-      "description": "Researchers from Ireland's Trinity College discovered a rare copy of “Caedmon’s Hymn” from the 7th century in a manuscript in Rome.",
-      "url": "https://nypost.com/2026/05/17/world-news/oldest-surviving-english-poem-in-history-discovered-in-manuscript-in-roman-library/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2Frare-long-lost-copy-caedmons-128010289.jpg?w%3D1024",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-05-17 20:42:36",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "091fe069e4346a81e4825d3ecf1a3b4e",
-      "title": "How looking through static can help people with a common degenerative disease see better",
-      "description": "Age-related macular degeneration is a common cause of blindness, but adding some static noise to a patient’s vision can counteract some of the disease’s effects.",
-      "url": "https://theconversation.com/how-looking-through-static-can-help-people-with-a-common-degenerative-disease-see-better-282998",
-      "image_url": "https://images.theconversation.com/files/736071/original/file-20260515-57-95nx68.png?ixlib=rb-4.1.0&rect=0%2C2%2C1100%2C550&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-05-17 20:07:04",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "c7923958740926b70704831237f42c88",
-      "title": "eROSITA discovers a 'changing-look' Seyfert galaxy",
-      "description": "Astronomers have tracked a dramatic \"changing-look\" active galactic nucleus (AGN) whose central supermassive black hole appeared to switch off and then rapidly reignite. The galaxy, HE 1237−2252, dimmed in X-rays by a factor of 17 within just 18 months before recovering again. The paper outlining its analysis was uploaded to the arXiv preprint server on May 8.",
-      "url": "https://phys.org/news/2026-05-erosita-seyfert-galaxy.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/erosita-discovers-a-ch.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-17 20:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e7511da3ce7138deeef1093c55c0406d",
-      "title": "James Webb Spots Strange Structure at Core of Distant Galaxy",
-      "description": "Absolutely dazzling. The post James Webb Spots Strange Structure at Core of Distant Galaxy appeared first on Futurism .",
-      "url": "https://futurism.com/space/james-webb-strange-structure-core-distant-galaxy",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/james-webb-strange-structure-core-distant-galaxy.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-17 18:15:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
