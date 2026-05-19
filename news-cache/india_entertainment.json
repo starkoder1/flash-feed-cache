@@ -1,8 +1,32 @@
 {
   "category": "india_entertainment",
-  "last_updated": "2026-05-19T07:35:55.358Z",
+  "last_updated": "2026-05-19T10:53:10.598Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "403756754c4aa8058b7c4f26d0f4a67f",
+      "title": "Amy Schumer opens up about botched colonoscopy, 50-pound weight loss, and Cushing syndrome",
+      "description": "Amy Schumer opened up about a recent “botched colonoscopy,” her 50-pound weight loss, and the health struggles that changed her life.",
+      "url": "https://www.hindustantimes.com/entertainment/hollywood/amy-schumer-opens-up-about-botched-colonoscopy-50-pound-weight-loss-and-cushing-syndrome-101779138556792.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/05/18/1600x900/logo/Amy_Oscars_1649136293213_1779140029812_7a8a0e07-d66b-4c24-b758-f468bcfdeb77.jpg",
+      "source_icon": "https://n.bytvi.com/hindustantimes.png",
+      "source": "Hindustan Times",
+      "published_at": "2026-05-18 22:13:29",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "a49ab1562644f2d8e16f55e1983cac07",
+      "title": "Karuppu director RJ Balaji says some audience have felt ‘divine intervention’, Suriya calls for first aid in theatres",
+      "description": "Videos went viral on social media where many fans who went to see Karuppu were seen in a trance like state. Suriya and RJ Balaji have now responded to it.",
+      "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/karuppu-director-rj-balaji-says-some-audience-has-felt-divine-intervention-suriya-calls-for-first-aid-in-theatres-101779131885382.html",
+      "image_url": "https://www.hindustantimes.com/ht-img/img/2026/05/18/1600x900/logo/karuppu_1779132656719_1779132656881_50e649a4-fd39-4735-83dc-417a3ab4ec11.jpg",
+      "source_icon": "https://n.bytvi.com/hindustantimes.png",
+      "source": "Hindustan Times",
+      "published_at": "2026-05-18 19:47:31",
+      "language": "english",
+      "category": "entertainment"
+    },
     {
       "id": "8a6bfc3d980e93c954b1927673c47464",
       "title": "Elrow’s ‘Kaos Garden’ turns Mumbai into an electrifying fantasy carnival",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-18 02:36:55",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "8de3a383c93f5e4b3e0722730fb9c197",
-      "title": "Thought of the day inspired by the Bhagavad Gita: Peace comes when expectations fade",
-      "description": "People often tie their happiness to expectations and immediate results. The world today is driven by readily available facilities, like getting instant house help through online platforms, gig workers delivering deliverables just in time, and so on!Hence, we often expect immediate success in our careers, appreciation from others, quick results from hard work, and constant happiness in relationships. But when these expectations are not fulfilled, disappointment, stress, and frustration slowly take over our minds. This emotional pressure has become common in modern life, especially in a time when social media constantly shows perfect lifestyles and achievements.The teachings of the Bhagavad Gita remind us that true peace does not come from controlling every outcome. Instead, peace comes from learning how to stay calm and balanced, even when life does not go according to plan. One of the deepest messages of the Gita is to focus on our actions and efforts rather than becoming attached to results.",
-      "url": "https://timesofindia.indiatimes.com/life-style/soul-search/thought-of-the-day-inspired-by-the-bhagavad-gita-peace-comes-when-expectations-fade/photostory/131155126.cms",
-      "image_url": "https://static.toiimg.com/photo/https://static.toiimg.com/thumb/msid-131155147,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "source_icon": "https://n.bytvi.com/toi.png",
-      "source": "The Times Of India",
-      "published_at": "2026-05-18 02:30:00",
-      "language": "english",
-      "category": "entertainment"
-    },
-    {
-      "id": "2fd6423b576128a9423f6dfa1d93823f",
-      "title": "Latest OTT releases (May 18-May 24): 15 new movies and TV shows on Netflix, Prime Video, JioHotstar and more",
-      "description": "Looking to add to your watchlist? Sonakshi Sinha and Jyotika face a courtroom where privilege and justice collide in System, and Dubai’s extravagant Indian expat circle gets the reality treatment in Desi Bling",
-      "url": "https://www.vogue.in/content/latest-ott-releases-streaming-netflix-prime-video-jiohotstar-may-18-may-24-2026",
-      "image_url": "https://assets.vogue.in/photos/6a07360dd2983db45f1f61cc/16:9/w_1936,h_1089,c_limit/System.png",
-      "source_icon": "https://n.bytvi.com/vogue.png",
-      "source": "Vogue",
-      "published_at": "2026-05-18 02:30:00",
-      "language": "english",
-      "category": "entertainment"
     }
   ]
 }
