@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-20T14:31:33.262Z",
+  "last_updated": "2026-05-20T18:10:04.848Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5da8af79c7949604d8220803be2cac95",
+      "title": "Why Isle of Man is 'ideal' for building rainforests",
+      "description": "Conservationists say the Isle of Man has the perfect conditions to create temperate rainforests.",
+      "url": "https://www.bbc.com/news/articles/cg544d2pd57o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/8de4/live/40c9d6f0-37f9-11f1-a445-59df4d41808f.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-20 05:20:56",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9d75662f907b13536a124e25660d811d",
+      "title": "Do you drink coffee as soon as you wake up? This is the recommended hour for maintaining energy",
+      "description": "Many of us reach for a mug within the very first minutes of the morning, but it turns out that timing has a major impact on energy levels, concentration, and even sleep quality.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-896188",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721003",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-20 05:03:49",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "ab306c5aef0d7ea9d4ae30682546247b",
+      "title": "Residents find chemicals 43k times water standard",
+      "description": "Residents near former RAF base say independent testing shows high levels of forever chemicals.",
+      "url": "https://www.bbc.com/news/articles/c232e81nej4o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5649/live/463511d0-539d-11f1-b682-cf91850925ea.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-20 04:59:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d0d1b81faad4c676684478026cbdae86",
+      "title": "New study explains why T rex had such tiny arms: ‘The head took over’",
+      "description": "Researchers say giant head adaptations in dinosaurs started in areas with gigantic prey",
+      "url": "https://www.independent.co.uk/news/science/t-rex-tiny-arms-tyrannosaurus-head-b2979996.html",
+      "image_url": "https://static.independent.co.uk/2026/05/20/3/36/Illustration-of-nanotyrannus-attacking-a-juvenile-T-rex.jpeg?width=1200&auto=webp&trim=0%2C6%2C0%2C4",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-05-20 04:30:40",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "71a8181974bb74439b1dfc99fcf35479",
+      "title": "What it takes to be a traitor — the making of the Cambridge spies",
+      "description": "Three new books draw on fresh archival evidence in an attempt to bring us closer to an understanding of the notorious British spy ring",
+      "url": "https://www.ft.com/content/197abead-c0a8-46b4-b2a2-ec799dedea2f",
+      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/ddfd7271-7d75-4855-99f4-92d63c68f21b.jpg",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-20 04:00:22",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "18daee24ee63f5987660b23f03b67ddd",
+      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 launch from California",
+      "description": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Tuesday, May 19, 2026.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qKRmC3LfD4FoaNRqWxDu2Z-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-05-20 03:10:38",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "00c20cd20a5184de25431e4fb0a760ba",
+      "title": "Metallium awarded Phase II SBIR contract for recovering critical minerals from e-waste",
+      "description": "Flash Joule Heating is a breakthrough metal extraction process that combines ultra fast electrical heating with proprietary chemistry to unlock metals from a wide variety of feedstocks.",
+      "url": "https://interestingengineering.com/innovation/metallium-awarded-phase-ii-sbir-contract-for-recovering-critical-minerals-from-e-waste",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design13.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-20 02:44:01",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "4a0fab44d043fbf464c7e44b97d06528",
       "title": "Revealing a 'hidden order' of molecules could finally shed light on alien life",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-19 09:00:59",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "45db1a3bfcfd5c550342a898afc49acc",
-      "title": "Seabird world shrinks as oceans warm, forcing longer flights to survive",
-      "description": "Seabirds such as albatrosses and petrels are retreating into smaller areas of ocean and traveling further to find new places to live as the climate warms. Scientists from the University of Reading studied more than 120 species of Procellariiformes (the group that includes albatrosses, petrels, shearwaters and storm petrels) using evolutionary family trees, ancient climate records and ocean temperature data to track how their ranges and movements have changed throughout history.",
-      "url": "https://phys.org/news/2026-05-seabird-world-oceans-longer-flights.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/albatross.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-19 09:00:12",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "56688b2e58b6663f59bd9a7cb55f4405",
-      "title": "Micron, Intel And SanDisk Could Have More Room To Run Amid AI Frenzy, Analyst Says: 'Just Took Our Targets Up'",
-      "description": "Melius Research analyst Ben Reitzes predicts the rally in chip stocks to continue , driven by strong demand for artificial intelligence infrastructure and sustained spending. The analyst is especially bullish on Micron Technology Inc. (NASDAQ: MU ), SanDisk Corp. (NASDAQ: SNDK ) and Intel Corp. (NASDAQ: INTC ). He raised the target price on the three stocks, arguing that newly signed long-term agreements are making the companies' results easier to forecast in a historically volatile corner of tech. Speaking on SquawkCNBC Monday, Reitzes said, “We just took our targets up on Micron and SanDisk and Intel the most in our group.” \"They are signing these long-term agreements that make them more predictable and I think they get recognized for it.” \"We just took our targets up on Micron and SanDisk and Intel the most in our group,\" says @MeliusResearch 's Ben Reitzes. \"They are signing these long-term agreements that make them more predictable and I think they get recognized for it.\" https://t.co/QV3WbdlavX pic.twitter.com/jJQJU9lQ79 — Squawk Box (@SquawkCNBC) May 18, 2026 The analyst argued that as AI-driven demand keeps creating supply bottlenecks , allowing chipmakers, including Micron, SanDisk, and Intel, to capture more market value than traditional software companies or non-chip \"Magnificent Seven\" names. Micron Micron has been the most crowded trade on Wall ... Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/markets/equities/26/05/52655068/micron-intel-and-sandisk-could-have-more-room-to-run-amid-ai-frenzy-analyst-says-just-took-our-t",
-      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/19/Milpitas--Ca---Feb--12--2017-Sandisk---A.jpeg",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-05-19 08:45:17",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "54ac44c8029ad9cdefc9683575785199",
-      "title": "American tests positive for Ebola in Congo outbreak, CDC says US risk remains low",
-      "description": "\"The person developed symptoms over the weekend and tested positive late Sunday,\" Dr. Satish Pillai, the incident manager for the agency's Ebola response, told reporters on a media call.",
-      "url": "https://www.jpost.com/health-and-wellness/article-896636",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/519076",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-19 08:28:44",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "d713909bedc08f910004b3f712612ccf",
-      "title": "The nutritional error of the summer: The foods that worsen the load on the body",
-      "description": "The hot weather and humidity put the body under constant stress and cause dehydration. Every food you consume can help the body – or worsen the load.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-895721",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720321",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-19 08:28:44",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "a7590408f23f80d5925837037668a60a",
-      "title": "Why availability, personal care, and accessibility matter when choosing a health fund",
-      "description": "A closer look at the everyday moments that turn healthcare from a system into a service people can rely on.",
-      "url": "https://www.jpost.com/health-and-wellness/article-896560",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721526",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-19 08:28:44",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "eda14eee321d4c4eff11a0de993bd893",
-      "title": "When humanity meets the sea: Surfing as a source of solace from trauma",
-      "description": "Surf Therapy has become a significant tool in coping with trauma and other mental health challenges. The experience accumulated in Israel enables us to provide innovative tools to the world.",
-      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-896570",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721548",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-19 08:08:48",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "66acb2393f5b0ac03435f8a0b889f40e",
-      "title": "How to lower your biological age by up to 5 years",
-      "description": "A report by the American Heart Association reveals 8 habits that can slow down aging, reduce the risk of heart disease, and even make the body \"feel younger\".",
-      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-895719",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/720319",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-19 08:00:00",
-      "language": "english",
-      "category": "health"
     }
   ]
 }
