@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-21T10:57:50.445Z",
+  "last_updated": "2026-05-21T14:37:34.711Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "102e42301d9e4f111121fb73406a39d3",
+      "title": "How do I know if my electric blanket or heated throw is safe?",
+      "description": "The first thing to check – ideally before you buy – is whether the blanket complies with Australian safety requirements.",
+      "url": "https://theconversation.com/how-do-i-know-if-my-electric-blanket-or-heated-throw-is-safe-282858",
+      "image_url": "https://images.theconversation.com/files/737243/original/file-20260521-63-y1x820.jpg?ixlib=rb-4.1.0&rect=0%2C478%2C5799%2C2899&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-05-21 02:09:36",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0d1b362944da598765810f347b817434",
+      "title": "A New Study on Coronal Holes Improves Space Weather Forecasting",
+      "description": "New Mexico State University (NMSU) astronomy graduate student Khagendra Katuwal studied 70 coronal holes on the sun to better understand the connection between solar activity and space weather. His paper was recently published in The Astrophysical Journal.",
+      "url": "https://www.universetoday.com/articles/a-new-study-on-coronal-holes-improves-space-weather-forecasting",
+      "image_url": "https://www.universetoday.com/article_images/Earth_and_Sun_magnetic_field_20260521_002016.jpeg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-21 01:19:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c4b16eb9317dfa15289617b4b4a37b3e",
+      "title": "Scientists Warn AI Slop Is Wreaking Havoc in the Research World",
+      "description": "A new study finds that AI hallucinations produced nearly 150,000 fake citations appearing in research papers.",
+      "url": "https://www.cnet.com/science/ai-making-up-citations-scientific-papers/",
+      "image_url": "https://www.cnet.com/a/img/resize/5b899d75ff7b9b67bae56b09a34a76a07db490d1/hub/2026/05/20/adfbb89b-d00d-483b-993a-e8478b2ba25b/scientist-with-research-paper-gettyimages-659073389.jpg?auto=webp&fit=crop&height=614&width=1092",
+      "source_icon": "https://n.bytvi.com/cnet.png",
+      "source": "Cnet",
+      "published_at": "2026-05-21 01:01:23",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "4132f5a74d8408c35f17b1aa2c3c1d7a",
+      "title": "Quantum sensors use atoms, electrons and light as ultra‐steady rulers",
+      "description": "Quantum computers get a lot of attention, even though they are not ready for prime time, but quantum sensors are already doing useful work. These sensors measure fields, forces and motion so small that ordinary background noise can drown them out. Some sensors are already in daily use, while others are moving from research labs into flight tests, hospitals and field instruments.",
+      "url": "https://phys.org/news/2026-05-quantum-sensors-atoms-electrons-ultrasteady.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2024/quantum.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-21 00:40:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "53ba03d7811b5138a4bfe25401b22d0d",
+      "title": "Startup reveals ‘artificial egg’ to resurrect extinct birds, but scientists say the work misses the point",
+      "description": "The science of de-extinction does not exist, but Colossal Bioscience’s “artificial egg” is an interesting technical feat",
+      "url": "https://www.scientificamerican.com/article/startup-reveals-artificial-egg-to-resurrect-extinct-birds-but-scientists-say-the-work-misses-the-point/",
+      "image_url": "https://static.scientificamerican.com/dam/asset/870c1427-6d65-4e16-b265-cb7a571277bc/Colossal-biosciences.jpg?m=1779310704.669&w=1200",
+      "source_icon": "https://n.bytvi.com/scientificamerican.png",
+      "source": "Scientificamerican",
+      "published_at": "2026-05-20 23:45:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b6da2a13d8471b0b1e4f398a8a25949b",
+      "title": "Tiny fossils found in 1.7 billion-year-old mud yield clues to the evolution of complex life",
+      "description": "The companies that drilled these cores decades ago couldn’t have known the scientific treasures inside.",
+      "url": "https://theconversation.com/tiny-fossils-found-in-1-7-billion-year-old-mud-yield-clues-to-the-evolution-of-complex-life-282371",
+      "image_url": "https://images.theconversation.com/files/736993/original/file-20260520-57-ks4vac.jpeg?ixlib=rb-4.1.0&rect=0%2C106%2C1280%2C640&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-05-20 23:08:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9b5b45d75bcf487ea69433d26289b8ed",
+      "title": "Friend or foul? Exploring the ancient bond between pigeons and people",
+      "description": "Examination of pigeon bones from Late Bronze Age Hala Sultan Tekke, Cyprus indicates they were already semi-domesticated as early as c. 1400 BCE, pushing back direct evidence for pigeon domestication almost 1,000 years and challenging perceptions of the birds as opportunistic urban pests.",
+      "url": "https://phys.org/news/2026-05-friend-foul-exploring-ancient-bond.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/friend-or-foul-explori.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-05-20 23:00:03",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "049f8f8175c41c0fcacfd02288cf9aa4",
       "title": "Future Mars Rovers Could Mimic a Swimming Motion to Traverse the Planet's Surface",
@@ -518,90 +602,6 @@
       "published_at": "2026-05-20 04:59:21",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "d0d1b81faad4c676684478026cbdae86",
-      "title": "New study explains why T rex had such tiny arms: ‘The head took over’",
-      "description": "Researchers say giant head adaptations in dinosaurs started in areas with gigantic prey",
-      "url": "https://www.independent.co.uk/news/science/t-rex-tiny-arms-tyrannosaurus-head-b2979996.html",
-      "image_url": "https://static.independent.co.uk/2026/05/20/3/36/Illustration-of-nanotyrannus-attacking-a-juvenile-T-rex.jpeg?width=1200&auto=webp&trim=0%2C6%2C0%2C4",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-05-20 04:30:40",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "71a8181974bb74439b1dfc99fcf35479",
-      "title": "What it takes to be a traitor — the making of the Cambridge spies",
-      "description": "Three new books draw on fresh archival evidence in an attempt to bring us closer to an understanding of the notorious British spy ring",
-      "url": "https://www.ft.com/content/197abead-c0a8-46b4-b2a2-ec799dedea2f",
-      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/ddfd7271-7d75-4855-99f4-92d63c68f21b.jpg",
-      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
-      "source": "Financial Times",
-      "published_at": "2026-05-20 04:00:22",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "18daee24ee63f5987660b23f03b67ddd",
-      "title": "SpaceX launches 24 Starlink satellites on Falcon 9 launch from California",
-      "description": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Tuesday, May 19, 2026.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-42-b1103-vsfb-ocisly",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qKRmC3LfD4FoaNRqWxDu2Z-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-20 03:10:38",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "00c20cd20a5184de25431e4fb0a760ba",
-      "title": "Metallium awarded Phase II SBIR contract for recovering critical minerals from e-waste",
-      "description": "Flash Joule Heating is a breakthrough metal extraction process that combines ultra fast electrical heating with proprietary chemistry to unlock metals from a wide variety of feedstocks.",
-      "url": "https://interestingengineering.com/innovation/metallium-awarded-phase-ii-sbir-contract-for-recovering-critical-minerals-from-e-waste",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design13.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-20 02:44:01",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4a0fab44d043fbf464c7e44b97d06528",
-      "title": "Revealing a 'hidden order' of molecules could finally shed light on alien life",
-      "description": "Is life really out there? The Fermi Paradox famously presents a compelling statistical argument as to why life should be abundant throughout the ...",
-      "url": "https://refractor.io/biology/revealing-hidden-order-molecules-alien-life/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/d3b3a3301d3f2f673b62c2c50d50e89bddd2acde/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-05-20 01:22:06",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ab2c4a462f39f313893e1a9b5bd9a007",
-      "title": "YouTube Tuesday: Financial Consequences of Non-Compliance",
-      "description": "YouTube Tuesday: Financial Consequences of Non-Compliance Watch Now The post YouTube Tuesday: Financial Consequences of Non-Compliance appeared first on News & Announcements.",
-      "url": "https://news.research.uci.edu/cg-news/youtube-tuesday-financial-consequences-of-non-compliance/",
-      "image_url": "https://news.research.uci.edu/wp-content/uploads/2026/03/cg-news-category-image.png",
-      "source_icon": "https://n.bytvi.com/uci.png",
-      "source": "Uc Irvine",
-      "published_at": "2026-05-20 00:59:37",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cc47306a76513ec276c7fa7dc67c2306",
-      "title": "Saskatoon researchers strive to make breakthroughs in hantavirus research",
-      "description": "Researchers in Saskatoon are playing a key role in the global effort to better understand hantavirus.",
-      "url": "https://www.ctvnews.ca/regina/article/saskatoon-researchers-strive-to-make-breakthroughs-in-hantavirus-research/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/UPEGOZOCPRGOVGM6ZJKZLVJ2IY.jpg?auth=839fcd185680c340f5a6d7d35a4531bba041403b210c35dbb064e3e9afc7c4a9&smart=true&width=572&height=415",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-05-20 00:07:31",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
