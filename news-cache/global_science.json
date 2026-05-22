@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-22T14:12:54.723Z",
+  "last_updated": "2026-05-22T17:44:06.454Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ba013d8810ef95772ab2f1cdce2373aa",
+      "title": "A Scientist Spent Decades Studying Laughter and Found Something Weird About Humans",
+      "description": "Prior to his death in 2019, psychology professor Robert Provine spent decades studying laughter. His approach was to observe the phenomenon as an alien who’d just landed on Earth would. His goal? To get to the bottom of those strange noises we constantly make and where they come from. To do it, Provine made recordings [...] The post A Scientist Spent Decades Studying Laughter and Found Something Weird About Humans appeared first on VICE .",
+      "url": "https://www.vice.com/en/article/a-scientist-spent-decades-studying-laughter-and-found-something-weird-about-humans/",
+      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2026/05/youre-30-times-more-likely-to-laugh-under-these-circumstances.png",
+      "source_icon": "https://n.bytvi.com/vice.png",
+      "source": "Vice News",
+      "published_at": "2026-05-22 05:30:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "24861b371d75ba71abe31c16aba6a8a3",
+      "title": "A meteor exploded in the sky above New South Wales. An astronomer explains where it might have come from",
+      "description": "Astronomers will investigate this fireball to help disentangle the heritage and history of the Solar System’s formation.",
+      "url": "https://theconversation.com/a-meteor-exploded-in-the-sky-above-new-south-wales-an-astronomer-explains-where-it-might-have-come-from-283575",
+      "image_url": "https://images.theconversation.com/files/737535/original/file-20260522-57-xt6kmo.gif?ixlib=rb-4.1.0&rect=0%2C32%2C1024%2C512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-05-22 03:06:06",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "eefdd0fd1cb6ee9440b7948965b098c7",
+      "title": "Elon Musk's SpaceX postpones Starship launch",
+      "description": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2921/live/c37c4410-557d-11f1-b682-cf91850925ea.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-22 02:26:08",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "f840c0a27ccedc35fde310e531f569af",
       "title": "Researchers transform paper sludge into valuable biofuels",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/thesun.png",
       "source": "The Sun",
       "published_at": "2026-05-21 06:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "bfb8a0b3ca0b008c373e1b92d30fbe49",
-      "title": "Scientists discover a strange “inside-out” planetary system that shouldn’t exist",
-      "description": "Scientists have discovered a bizarre planetary system where a rocky world orbits farther out than giant gas planets, defying long-standing theories of planet formation. The finding hints that some planets may form much later than expected — and that our Solar System might not be as typical as we thought.",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260520093753.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/lhs-1903-planetary-system.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-05-21 06:09:31",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "08c2e69b41e3c7d7e7eca6a882b06456",
-      "title": "Andean Genomes Reveal How Food Shapes Human Evolution",
-      "description": "Learn more about how potatoes shaped Andean genomes — and how diet can influence our DNA",
-      "url": "https://www.discovermagazine.com/andean-genomes-reveal-how-food-shapes-human-evolution-49134",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59412/potato-farm-andes-x.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-05-21 05:10:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5571074375b9dcc6b75a12a2a78dad60",
-      "title": "Water campaigner cautious on using new bathing site",
-      "description": "River Action says water quality depends on discharges upstream and says check before swimming.",
-      "url": "https://www.bbc.com/news/articles/cx210g8xv5ko",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/ef95/live/b3add180-543c-11f1-be9a-315565996c62.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-21 05:02:50",
       "language": "english",
       "category": "science"
     }
