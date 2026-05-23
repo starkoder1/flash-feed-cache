@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-23T12:56:38.341Z",
+  "last_updated": "2026-05-23T16:47:44.320Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "92f5214d7a8db8d54b3a6d1d7ee4d5f0",
+      "title": "Edmund Phelps, Nobel-winning economist, 1933-2026",
+      "description": "His seminal contributions to macroeconomics transformed the way we understand inflation",
+      "url": "https://www.ft.com/content/4cead287-ce65-4910-ab16-dbca8886542d",
+      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/561ca1a5-476d-4fbb-92ba-f0673ec3f215.jpg",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-23 04:00:28",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "d65fa2860c904f05148cd10527dbdc16",
+      "title": "Moment SpaceX rocket explodes in the Indian Ocean after splashdown",
+      "description": "Elon Musk's SpaceX has successfully launched its Starship V3 rocket, which landed in a planned fiery explosion on Friday.",
+      "url": "https://www.bbc.com/news/videos/c1728ypp15no",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nmwb4j.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-23 03:03:12",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bfc088ef582f0151a5c983c67959946e",
+      "title": "Analyse SWOT de Plug Power : l’action hydrogène face au test de rentabilité",
+      "description": "Analyse SWOT de Plug Power : l’action hydrogène face au test de rentabilité",
+      "url": "https://fr.investing.com/news/swot-analysis/analyse-swot-de-plug-power--laction-hydrogene-face-au-test-de-rentabilite-93CH-3432248",
+      "image_url": "https://i-invdn-com.investing.com/news/wallmart_1_800x533_L_1417093333.jpg",
+      "source_icon": "https://n.bytvi.com/investingfr.png",
+      "source": "Investing French",
+      "published_at": "2026-05-23 03:01:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8af6fe9a0ca99f6b065e43439ab176d7",
+      "title": "Mars Fungi Could Make Red Planet Regolith Fertile for Crops",
+      "description": "You’re on the fourth human mission to Mars, and you’ve been tasked with establishing the first self-sustaining food crop on a Martian settlement. You’re nervous because you’re using a new type of fungi called beneficial fungi, which you’re told will help enhance Martian regolith, enabling it to be used for growing crops. You were privately told that doing this will not only get a high school named after you, but you will successfully feed future settlers without the need to bring food from Earth. But you really only care about having your name on a high school.",
+      "url": "https://www.universetoday.com/articles/mars-fungi-could-make-red-planet-regolith-fertile-for-crops",
+      "image_url": "https://www.universetoday.com/article_images/ezgif-5abe4d36e8c05adb_750_20260523_025605.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-23 02:56:14",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5ecc7ceb3f885bfe6c5b8f96121e9a9d",
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "description": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a4cd/live/cd3cbe60-563d-11f1-b682-cf91850925ea.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-23 01:25:26",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "639cc20b35151e9aa3857660b77e1a48",
       "title": "SpaceX just launched Starship V3 — its most powerful megarocket yet — into space for the 1st time in spectacular Flight 12 test (video)",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-05-22 00:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1492146cf2ea99e2231be0e9819a86ce",
-      "title": "Both Hemispheres of 3I/ATLAS Observed Simultaneously by JUICE and Europa Clipper",
-      "description": "The Southwest Research Institute-led Ultraviolet Spectrograph (UVS) instruments aboard ESA’s Jupiter Icy Moons Explorer (Juice) spacecraft and NASA’s Europa Clipper made unique observations of interstellar comet 3I/ATLAS in late 2025. SwRI leads the UVS instruments on both spacecraft, simultaneously imaging both hemispheres of the comet and detecting the comet’s ultraviolet emissions.",
-      "url": "https://www.universetoday.com/articles/both-hemispheres-of-3iatlas-observed-simultaneously-by-juice-and-europa-clipper",
-      "image_url": "https://www.universetoday.com/article_images/20260415-subaru-fig_20260522_001913.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-22 00:21:12",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ef0b2ea8f1560a604c19a76e802c285d",
-      "title": "Crypto Investor Works on a Plan to Ride SpaceX's Starship Around Mars",
-      "description": "Chinese-born cryptocurrency investor Chun Wang has become the latest deep-pocketed space enthusiast to set his sights on a trip around Mars. But first, he wants to take a ride around the moon on SpaceX's Starship. And SpaceX is willing to work with him.",
-      "url": "https://www.universetoday.com/articles/crypto-investor-works-on-a-plan-to-ride-spacexs-starship-around-mars",
-      "image_url": "https://www.universetoday.com/article_images/260521-chun_20260522_015523.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-05-22 00:16:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "da3f29f17257034aa67c8467e6c75cbe",
-      "title": "This professor uses data to reveal hidden patterns in centuries of human storytelling",
-      "description": "UC Berkeley’s David Bamman applies data-driven analysis to human artistic output — often with surprising results. The post This professor uses data to reveal hidden patterns in centuries of human storytelling appeared first on Berkeley News .",
-      "url": "https://news.berkeley.edu/2026/05/21/this-professor-uses-data-to-reveal-hidden-patterns-in-centuries-of-human-storytelling/",
-      "image_url": "https://news.berkeley.edu/wp-content/uploads/2026/05/CulturalAnalytics_Thumb2-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/berkeley.png",
-      "source": "University Of California, Berkeley",
-      "published_at": "2026-05-22 00:14:31",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "bfe48cdf61cf72baf60e82aaeb8fe2b6",
-      "title": "Rocket Lab vinner kontrakt på 90 miljoner USD från Space Force",
-      "description": "Rocket Lab vinner kontrakt på 90 miljoner USD från Space Force",
-      "url": "https://se.investing.com/news/company-news/rocket-lab-vinner-kontrakt-pa-90-miljoner-usd-fran-space-force-93CH-473629",
-      "image_url": "https://i-invdn-com.investing.com/news/LYNXMPEA7D094_L.jpg",
-      "source_icon": "https://n.bytvi.com/investing_se.jpg",
-      "source": "Investing Sverige",
-      "published_at": "2026-05-22 00:06:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2225eb51d9fb02d5dbe7512109e59d0b",
-      "title": "We analyzed the TikTok history of 142 men. Here's what it taught us about the manosphere",
-      "description": "Interest in the manosphere has recently surged yet again, with the recent Louis Theroux documentary catapulting the term \"manosphere\" back to the forefront of our cultural psyche.",
-      "url": "https://phys.org/news/2026-05-tiktok-history-men-taught-manosphere.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/we-analysed-the-tiktok.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-21 23:40:01",
       "language": "english",
       "category": "science"
     }
