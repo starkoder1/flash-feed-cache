@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-23T16:47:44.320Z",
+  "last_updated": "2026-05-23T20:38:24.161Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f49288bce333022ebc732b6ac3726809",
+      "title": "Study reveals real reason T. rex had tiny arms: Massive skulls took over the hunt",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/why-tyrannosaurus-rex-evolved-tiny-arms-skull-mechanics",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-23 08:25:21",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "d5df039086a9bdcbc17da7c0d61ecd09",
+      "title": "You got a ticket for running a red. Here's why that yellow light might have seemed short",
+      "description": "The engineers behind those yellow lights — including the ones that seem painfully short — say a lot of science goes into how traffic lights are programmed. But they also account for the different ways drivers respond at intersections.",
+      "url": "https://www.cbc.ca/radio/ideas/yellow-light-timing-red-light-cam-9.7207266?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/c16bd229-444d-4eb4-b56b-87a1817aa5f9,1779379471794/full/max/0/default.jpg?im=Crop%2Crect%3D%28443%2C0%2C5354%2C3011%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-05-23 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "92f5214d7a8db8d54b3a6d1d7ee4d5f0",
       "title": "Edmund Phelps, Nobel-winning economist, 1933-2026",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-22 01:11:58",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "1a6a487e4d679f5230b1e71e0472e178",
-      "title": "SpaceX's 1st Starship V3 megarocket launch scrubbed at last minute. Sorry, Nicki Minaj",
-      "description": "SpaceX's new \"V3\" Starship megarocket was supposed to fly for the first time ever on Thursday (May 21), but technical issues nixed that plan.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-1st-starship-v3-megarocket-launch-scrubbed-at-last-minute-sorry-nicki-minaj",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/PzGGCs2bLavhjcaSM4sWAE-1280-80.png",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-22 00:47:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "32f5169b9396bf47ab7e8cb082d7dca0",
-      "title": "Long-serving CEOs may weaken innovation, study finds",
-      "description": "A new study from the University of East London has found that companies led by long-serving chief executives may become less innovative over time unless challenged by strong independent boards. The research examined 215 FTSE 350 companies over an 11-year period between 2010 and 2021. It explored how CEO tenure and independent directors influence a company's \"R&D knowledge stock,\" which is the research, expertise and technological capability built through investment in innovation.",
-      "url": "https://phys.org/news/2026-05-ceos-weaken.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/business-office.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-22 00:40:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
