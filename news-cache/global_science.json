@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-24T12:57:05.147Z",
+  "last_updated": "2026-05-24T16:50:53.240Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c5a6d3801ba1cfc0cb5d36ac0b23302b",
+      "title": "Man killed in shooting outside White House had previously tried to get inside, had mental health concerns",
+      "description": "Nasire Best was previously arrested outside the White House while “claiming he was Jesus Christ,” according to court records.",
+      "url": "https://www.cnn.com/2026/05/23/us/white-house-shooting-nasire-best-invs",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2277368118.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-05-24 02:32:05",
+      "language": "english",
+      "category": "politics"
+    },
+    {
+      "id": "823510cc8d590c0b6e79b7c2bdcf303b",
+      "title": "China reveals 3-person Shenzhou 23 crew, including Hong Kong's 1st astronaut",
+      "description": "China has named the three astronauts due to fly on the Shenzhou 23 mission on Sunday (May 24), including Hong Kong's first astronaut.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/china-reveals-3-person-shenzhou-23-crew-including-hong-kongs-1st-astronaut",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/oq9NinmTW23rwfwCa4PHfQ-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-05-24 01:20:34",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "80eb3813110dc69529cb975aa9439db5",
       "title": "Robot mower flaw could open your home network",
@@ -578,30 +602,6 @@
       "published_at": "2026-05-22 17:00:37",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "50542e5ddab28d95e79fc5a2d6dd780e",
-      "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
-      "description": "Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson’s drug fails, and more biotech news from The Readout",
-      "url": "https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2023/08/AdobeStock_571236433_Editorial_Use_Only-1024x576.jpeg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-05-22 13:40:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "abe014eab057859289e5b244250c06b3",
-      "title": "Asexual lizards, virgin births and clones—the all‐female species of the animal kingdom",
-      "description": "It may sound too bizarre to be true, but the Amazon molly (Poecilia formosa), a fish that inhabits rivers, lakes, and swamps in Mexico and Texas, exists over much of its range in populations that are 100% female. In 1932, the Amazon molly became the first known vertebrate to reproduce by cloning itself, producing all-female populations. A new genetic study published in Nature has given scientists insights into the longstanding mystery about how and why this happens.",
-      "url": "https://phys.org/news/2026-05-asexual-lizards-virgin-births-clones.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/asexual-lizards-virgin.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-22 13:40:02",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
