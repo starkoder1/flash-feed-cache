@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-25T17:27:55.782Z",
-  "article_count": 49,
+  "last_updated": "2026-05-25T20:56:55.262Z",
+  "article_count": 50,
   "articles": [
+    {
+      "id": "679016d850c4658605213275fbb56f42",
+      "title": "Spacecraft production, avionics testing accelerate in US with 144,000 sq feet campus",
+      "description": "Called Gloworks, Firefly’s new innovation lab further enables rapid technology innovation in key areas, such as propulsion, carbon composites, robotics, and 3D printing.",
+      "url": "https://interestingengineering.com/space/spacecraft-production-mission-control-accelerate-in-us",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/space-craft.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-25 08:06:56",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "648833f028b751c663c454dd3bb3dcfa",
+      "title": "How to know you are not eating enough protein",
+      "description": "Studies show that signs of a nutritional deficiency, such as protein, are not always clear and can manifest as a feeling of hunger, fatigue, or a decline in physical function over time.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-896486",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721439",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-25 08:03:38",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "902961fea3d23477ac54a704162412d7",
+      "title": "Osaka’s 10nm gold-coated optical fiber gathers 100,000 bacteria in 60 seconds via laser",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/gold-coated-optical-fiber-sensor-water-bacteria-spr",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-25 07:32:14",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "cb5e2eb81baf65f9adfb20a8f8bcb9c4",
+      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
+      "description": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
+      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/205f/live/7cf88210-57ee-11f1-8abf-fbf7553eec58.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-25 06:52:59",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "efd7e198377b9f4208caf150d8d418c9",
+      "title": "Chilling AI video claims to 'prove' time travel with Egyptian tomb mystery",
+      "description": "A mysterious AI video claims a group of archaeologists discovered a sealed Egyptian tomb in 1925 and found a photograph inside dated 1990 - sparking wild claims of time travel",
+      "url": "https://www.express.co.uk/news/weird/2207720/chilling-ai-video-claims-prove-time-travel-egyptian-tomb-mystery",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/80/590x/2207720_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-05-25 06:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "328d0bae93b099d2231a6317b7b98beb",
+      "title": "A rare ancient rainforest set to come back to life",
+      "description": "Ulster Wildlife takes on 100 year restoration project of ancient rainforest.",
+      "url": "https://www.bbc.com/news/articles/cp3p2dw1w39o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/6266/live/e7cb06d0-5762-11f1-b2c1-257397b13b6c.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-25 05:27:22",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "a8de03d5e0bb5d1ec524f34f62441250",
       "title": "Chocolate spread – the truth behind the calorie bomb",
@@ -530,66 +602,6 @@
       "published_at": "2026-05-24 02:32:05",
       "language": "english",
       "category": "politics"
-    },
-    {
-      "id": "823510cc8d590c0b6e79b7c2bdcf303b",
-      "title": "China reveals 3-person Shenzhou 23 crew, including Hong Kong's 1st astronaut",
-      "description": "China has named the three astronauts due to fly on the Shenzhou 23 mission on Sunday (May 24), including Hong Kong's first astronaut.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/china-reveals-3-person-shenzhou-23-crew-including-hong-kongs-1st-astronaut",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oq9NinmTW23rwfwCa4PHfQ-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-24 01:20:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "80eb3813110dc69529cb975aa9439db5",
-      "title": "Robot mower flaw could open your home network",
-      "description": "Security researcher says Yarbo robot mowers contained serious flaws enabling remote access, live camera feeds and Wi-Fi password theft from home networks.",
-      "url": "https://www.foxnews.com/tech/robot-mower-flaw-could-open-home-network",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/robot-lawn-mower-flaw-002.jpeg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-05-23 18:57:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "85c7505ef3ac70d4d4a59e85908d89de",
-      "title": "You have a credit freeze. It still isn’t enough",
-      "description": "Credit freezes block many fraudulent applications but miss synthetic identity fraud, account takeovers and tax refund scams. Here is what else to do.",
-      "url": "https://www.foxnews.com/tech/credit-freeze-still-isnt-enough",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/identity-theft-cost-1.jpg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-05-23 18:48:49",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "395a316cb2e6c3bafbd0d322ba1e5e51",
-      "title": "Archeologists uncover graves and artifacts at former Mississippi asylum",
-      "description": "Archeologists at the University of Mississippi Medical Center have unearthed 1,070 graves from the site of the former Mississippi State Lunatic Asylum, uncovering artifacts and insights into life at the institution more than a century ago.",
-      "url": "https://www.ctvnews.ca/world/article/archeologists-uncover-graves-and-artifacts-at-former-mississippi-asylum/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/INEORQ677RE4DLEHT7M35CKF3E.JPG?auth=e95c045c19b9220c9b913f6e6a472a4f3ca6adca6da1136d1696c73a917c5030&smart=true&width=2560&height=1440",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-05-23 17:56:21",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "8490c14a55c5962371061b2b95588f0e",
-      "title": "Chronological age, personal physicians should not decide when someone can't drive, study reveals",
-      "description": "Drivers under age 25 are involved in about 20% of all fatal traffic accidents, even if they make up a smaller fraction of the driving population.",
-      "url": "https://www.jpost.com/health-and-wellness/article-897057",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722242",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-23 17:32:23",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
