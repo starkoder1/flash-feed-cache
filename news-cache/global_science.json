@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-27T14:52:07.730Z",
+  "last_updated": "2026-05-27T18:17:19.928Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1af02bb6f586618ac0d573433f786e0d",
+      "title": "What happened in Israel after introducing the HPV vaccine to schools",
+      "description": "A large–scale study by Maccabi found a significant decrease in the prevalence of genital warts among young people vaccinated in school.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-896660",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721691",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-27 05:01:40",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "c6279505298e9a73c40c8027077b2a86",
+      "title": "NASA unveils plan to build a 'city on the moon' in just six years",
+      "description": "NASA announced its ambitious plans to have humans living on the moon in just six years.",
+      "url": "https://www.dailymail.com/sciencetech/article-15850719/NASA-plan-build-city-moon-six-years.html",
+      "image_url": "https://i.dailymail.com/1s/2026/05/27/05/108892857-0-image-a-5_1779856169215.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-05-27 04:32:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d6c3b219887fef59f29eade6a4528b61",
+      "title": "Ultra-fast asteroid rotation threatens space-mining missions",
+      "description": "Using an instrument called HiPERCAM, is attached to the Gran Telescopio Canarias in La Palma, Spain, a team of researchers recently found that the ...",
+      "url": "https://newatlas.com/space-systems/ultra-fast-asteroid-rotation-space-mining/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/63d6ae747949af318f666a88825e011da97d1bb8/_xlarge.png",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-05-27 04:24:40",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2375b86ebd8b4d329bb3ea047f35a469",
+      "title": "The surprising power of simple predictions",
+      "description": "Experts can be sidetracked by elaborate ideas, overlooking the direct approach",
+      "url": "https://www.ft.com/content/657dd174-b52d-4132-b96e-2518bac5797f",
+      "image_url": "https://d1e00ek4ebabms.cloudfront.net/production/b17167df-39f0-43bd-a20b-e338b74e354d.jpg",
+      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
+      "source": "Financial Times",
+      "published_at": "2026-05-27 04:00:24",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2d903edba182a4199081399829dbf961",
+      "title": "Riverside land purchased to save it from development",
+      "description": "Mid-Suffolk Council hopes to enhance wildlife in the area and improve public access.",
+      "url": "https://www.bbc.com/news/articles/cn4ppp0dn0jo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bd22/live/0f8aea60-591a-11f1-8d34-d7341b720fc6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-27 04:00:15",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "fc6ba15877577a8e9818bff014bcef6e",
       "title": "Research challenges beliefs that sexual objectification is a power move",
@@ -38,6 +98,18 @@
       "published_at": "2026-05-27 00:52:00",
       "language": "english",
       "category": "crime"
+    },
+    {
+      "id": "d74d255ac0309d218e73a7616d7f0fa8",
+      "title": "Critical expertise in critical minerals | Folio",
+      "description": "From exploration and extraction to end use and recycling, the U of A is fast becoming a global hub for research on the world’s most essential elements.",
+      "url": "https://www.ualberta.ca/en/folio/2026/05/critical-expertise-in-critical-minerals.html",
+      "image_url": "https://www.ualberta.ca/en/folio/media-library/2026/05/260525-critical-minerals-teaser-1600.jpg",
+      "source_icon": "https://n.bytvi.com/ualberta_ca.png",
+      "source": "University Of Alberta",
+      "published_at": "2026-05-27 00:00:00",
+      "language": "english",
+      "category": "science"
     },
     {
       "id": "e2ff08b7c35f1f21b6bb178745c8d2c9",
@@ -528,78 +600,6 @@
       "source_icon": "https://n.bytvi.com/independentuk.png",
       "source": "The Independent",
       "published_at": "2026-05-26 08:17:13",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3a6f7dbc41073302ae45e36a27bdca1a",
-      "title": "Laurentian University researcher will use honey bee ‘research assistants’ to track mine rehabilitation",
-      "description": "A Laurentian University researcher is set to start a two-year project using honey bees to help with remediation work at the Côté Gold Mine near Gogama, Ont.",
-      "url": "https://www.cbc.ca/news/canada/sudbury/bee-research-laurentian-mining-rehabilitation-9.7211593?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/7ecd9d44-9f93-4186-8637-1e0a24f67670,1779388442748/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-05-26 08:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0deb086f5db3b6a5fc5771e8a1b8f0c2",
-      "title": "River will take decades to recover from 'vandalism'",
-      "description": "An ecologist says it'll take a generation for the River Lugg in Herefordshire to recover from damage done by farmer John Price",
-      "url": "https://www.bbc.com/news/articles/c1m2xnr1pmxo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/a393/live/469fe620-58c2-11f1-ac98-e743c9feffc6.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-26 05:10:59",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2e67c0d6c86bf76cd7f7eb5c7d4c625f",
-      "title": "The misconnected pipes polluting urban rivers",
-      "description": "A misconnection happens when wastewater is incorrectly diverted into surface drains.",
-      "url": "https://www.bbc.com/news/articles/czd2qd00j9vo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5689/live/f99c3660-55b2-11f1-b056-a558b41349e8.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-05-26 05:10:31",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4629c16dcc31249daebd91da7fda8c66",
-      "title": "The food that protects your lungs from air pollution",
-      "description": "A large-scale study has found that high fruit consumption may improve lung function even among people exposed to air pollution, and reduce some of the cumulative damage.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-896543",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/721507",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-05-26 05:01:50",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "f095a8ab97829712c67779644e2ea624",
-      "title": "Transcript: Global birth rates are falling . . . phones are a big reason why",
-      "description": null,
-      "url": "https://www.ft.com/content/b08d1cb2-6e8f-4420-8eff-890d643561d6",
-      "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F632827fb-74de-4592-af14-873dd1ba84f5.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
-      "source_icon": "https://n.bytvi.com/financialtimes.jpg",
-      "source": "Financial Times",
-      "published_at": "2026-05-26 04:00:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6b11682fc153d7b1f7227fbb7b65242f",
-      "title": "You remind me of home",
-      "description": "My first big move was from Taiwan to Baltimore for college. Having grown up between Kaohsiung and Tainan throughout the first 18 years of my life, I missed the bike rides along Pier-2, the douhua bowls from Anping, the pebble trails at Meishu Park, the chicken noodle soup at Din Tai Fung, the monkeys on Monkey Mountain and all the familiarities of home. At any and every inconvenience I experienced during my day, I always had the comfort of going home to tell my mom. Whenever I needed a bellyful of laughs, my brother's bedroom was only two steps away from mine. If I felt any cravings for my grandmother's home-cooked meals, I could hop on a three-dollar train ride anytime I wanted. It is thus an understatement to say that I found adjustment to Hopkins challenging. I cried on every plane ride back to Baltimore whenever I had to go back to school from break. Then, during the winter break of my junior year, I was flying back to school, and I realized that I did not cry. In fact, I felt so excited to see my friends after four weeks away from them. My best friends became my family, and Baltimore became my home. I felt proud of myself for growing up. It is perhaps the first time I realized that I had found a second home, one I could return to through the people I had found in Baltimore. When I first came to Hopkins as a freshman, I constantly felt an ache in my heart. Most of my sources of safety and love were now a 24-hour travel time away. Snow is cute, but only on the first day. The cold weather is sometimes unbearable. The sun sets at 4 p.m., and the gloom constantly hangs over your head. I missed Christmas for the first time in my life. To cope with homesickness, Enoch and I dug through old recipes from our families and tried to recreate flavors that remind us of home. There is no meal more hearty than a warm bowl of Bak kut teh, or my dad's signature kimchi stew. On slower weekends, we watch Taiwanese films like Man in Love and Someday or One Day . Through staying in touch with food and culture from Taiwan, I found that home was something I could carry with me. My friends were also very much my home. I grounded myself in them as they carried me through my lows, homesickness and all the messy feelings in between. Through them, I learned that friendships can take shape in many different ways. It can be wholesome, like splitting Oreos with Mia and celebrating birthdays at Dua's. It can be on the floor of my tiny studio at Jefferson, scattered with Goldfishes, Quadratini's, Chips Ahoy, you name them. Nay's glasses might be fogged up, and chances are Ru lost her contacts again. Naomi might have also spilled some milk on my floor. Friendship can also be a bit chaotic, like waxing Shreeram's arm hair at Nina's, or Ayan and Ramya bouncing around the biomedical engineering design studio with a mannequin and fake arm, or Gloria carrying a panda and me smooching a photo of Samantha. Friendship sounds like Adarsh's cackle and Momo's giggle. That is the thing about friendship and people. When you click, you click. You do not need to explain why or how you get along or why you choose to keep them. As I close this chapter of my life, I believe that the intensity of my friendships in the short time that we spent together is just a glimpse of the lifetime we will have together. I feel so lucky to have found people that I love. People with whom I laugh until I have tears in my eyes. People who challenge my opinions and thoughts. People who love unconditionally. If you are reading this, thank you for always embracing me with such warmth. Although I do not know where I will be next, there is no doubt that I will carry a piece of the people I met here to wherever I go, and that is because you remind me of home. Claire Chung is a senior graduating with a degree in Biomedical Engineering from Kaohsiung, Taiwan.",
-      "url": "https://www.jhunewsletter.com/article/2026/05/you-remind-me-of-home",
-      "image_url": "https://snworksceo.imgix.net/jhn/024f37da-db1c-421e-bf48-9210b7c4f66c.sized-1000x1000.jpg",
-      "source_icon": "https://n.bytvi.com/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-05-26 04:00:01",
       "language": "english",
       "category": "science"
     }
