@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-31T07:37:42.957Z",
+  "last_updated": "2026-05-31T10:06:41.883Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "565aab178d25636a63c8ac326367abf2",
+      "title": "STAT+: BioNTech and Pfizer tout bispecifics data, and Pazdur sees silver lining at FDA",
+      "description": "ASCO, Day 2: promising news around lung cancer, new immunotherapies, and bold words from Rick Pazdur.",
+      "url": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/05/asco.night_.2026-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-05-30 21:28:47",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "8bc0ff2819e6c2d0519002e4c0c448da",
+      "title": "Lasers at the Lunar Poles Could Help Astronauts Navigate",
+      "description": "A team of scientists is exploring ways to use dark craters at the lunar poles as sites for ultrastable lasers to aid in surface and near-lunar navigation. The group, led by Physicist Jun Ye, an expert on lasers and precision measurements, were discussing the types of instruments that Artemis astronauts could install and use during their time on the Moon.",
+      "url": "https://www.universetoday.com/articles/lasers-at-the-lunar-poles-could-help-astronauts-navigate",
+      "image_url": "https://www.universetoday.com/article_images/art002e009283large_20260530_194622.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-05-30 19:50:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "15a38f570b10f91bb714f590bdf1e53b",
+      "title": "8 ancient technologies that were far more advanced than we realized",
+      "description": "These innovations sound like products of a much later age, yet they emerged in the ancient world.",
+      "url": "https://interestingengineering.com/culture/top-8-ancient-tech-advanced",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Thumbnails-Ancient-technologies.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-05-30 19:40:29",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "bfc6eeb7231afff7a9dafed8d13bdd71",
       "title": "Will this high-tech lounge change how you wait at airports?",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-05-29 19:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c9d1f14a5a02b41f7025edef85ed4188",
-      "title": "Astronomers discover red dwarfs absorbing matter from Earth-like planets",
-      "description": "Astronomers have recently discovered red dwarfs absorbing matter from Earth-like planets. While this highlights the destructive behavior of red dwarfs, it also helps researchers to better understand the formation of planetary systems.",
-      "url": "https://www.notebookcheck.net/Astronomers-discover-red-dwarfs-absorbing-matter-from-Earth-like-planets.1310045.0.html",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Astronomers-discover-red-dwarfs-devouring-Earth-like-planets.jpg",
-      "source_icon": "https://n.bytvi.com/notebookcheck.png",
-      "source": "Notebookcheck",
-      "published_at": "2026-05-29 19:36:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "bf069a1fa4211847a49a822f3535e2b1",
-      "title": "China's Shenzhou 21 astronauts return to Earth after being briefly 'stranded', wrapping up record-breaking mission (video)",
-      "description": "China's Shenzhou 21 astronauts returned to Earth on Friday (May 29), wrapping up a record-breaking, and very eventful, space mission.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-shenzhou-21-astronauts-return-to-earth-in-borrowed-spacecraft-video",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Mph77DJiA8YyPKRgpUWoVM-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-05-29 18:29:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5972b34d374215fe92d9db1b1f7aa2d5",
-      "title": "Robots learn to recover from dangerous stair falls using smart stabilising system",
-      "description": "New autonomous system helps stair-climbing robots recover from falls using reinforcement learning and a robotic arm.",
-      "url": "https://interestingengineering.com/ai-robotics/ai-robot-fall-mitigation-stair-climbing-sutd",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design-20-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-29 18:15:10",
       "language": "english",
       "category": "science"
     }
