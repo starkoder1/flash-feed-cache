@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-31T10:06:41.883Z",
+  "last_updated": "2026-05-31T13:10:17.789Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5cbbf3190615b594bb1d00bcba6ef567",
+      "title": "NASA taps 2 companies to develop buggies for its moon base program",
+      "description": "The FLEX Rover will be equipped to carry two astronauts and traverse hundreds of miles of lunar terrain.",
+      "url": "https://www.cbsnews.com/news/nasa-taps-2-companies-to-develop-buggies-for-moon-base-program/",
+      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/31/0de1246d-245d-405a-8a55-6f83495e4ecb/thumbnail/1200x630/197ae03e6e3a87d9019a8475f4a189ce/1780186193141.png",
+      "source_icon": "https://n.bytvi.com/cbsnews.png",
+      "source": "Cbs News",
+      "published_at": "2026-05-31 00:31:37",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f474e77f1f8909bc6d500e8ed71c99cf",
+      "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
+      "description": "A newly discovered species raises hope that some native British habitats could be restored.",
+      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/2e80/live/6e235920-5aca-11f1-824c-2d27d300392d.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-30 23:03:12",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "565aab178d25636a63c8ac326367abf2",
       "title": "STAT+: BioNTech and Pfizer tout bispecifics data, and Pazdur sees silver lining at FDA",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/interestingengineering.png",
       "source": "Interesting Engineering",
       "published_at": "2026-05-29 20:07:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0d437bf733e4db2051095eb2548f45df",
-      "title": "Experimental Drug May Offer a ‘Functional Cure’ for Some People with Chronic Hepatitis B",
-      "description": "Across two large trials, roughly 20% of people treated with bepirovirsen had undetectable levels of the virus after stopping all treatment.",
-      "url": "https://gizmodo.com/experimental-drug-may-offer-a-functional-cure-for-some-people-with-chronic-hepatitis-b-2000765066",
-      "image_url": "https://gizmodo.com/app/uploads/2026/05/Hepatitis-B-virus.jpg",
-      "source_icon": "https://n.bytvi.com/gizmodotech.png",
-      "source": "Gizmodo",
-      "published_at": "2026-05-29 20:00:17",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ffdc4ee4287bccabcafe1bea100a4e1c",
-      "title": "Fish-microbe partnership may influence ocean health by making carbon-trapping minerals",
-      "description": "New research reveals a potential link between the gut microbes of a fish and global ocean processes, offering new insight into how marine ecosystems help regulate ocean chemistry and the marine carbon cycle. The study, titled \"Symbiotic bacteria may support calcium carbonate precipitation in the Gulf toadfish,\" is published in the journal PLOS Biology.",
-      "url": "https://phys.org/news/2026-05-fish-microbe-partnership-ocean-health.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-study-suggests-fis.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-05-29 19:40:01",
       "language": "english",
       "category": "science"
     }
