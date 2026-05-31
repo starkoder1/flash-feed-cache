@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-31T13:10:17.789Z",
+  "last_updated": "2026-05-31T16:54:38.309Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1f782b840483f9158f6b99afb5ad9a9d",
+      "title": "Australian researchers teach brain cells to play ’Doom’ video game",
+      "description": "Each so-called \"biological computer\" contains around 200,000 living human brain cells, grown from stem cells that were harvested from blood donations.",
+      "url": "https://www.japantimes.co.jp/news/2026/05/31/asia-pacific/science-health/brain-cells-doom/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/31/543432.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-05-31 04:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5eb000f5b3344ca0c7ede9f7d5c7a8d1",
+      "title": "Catastrophists versus accelerationists: Will AI destroy the world or save it?",
+      "description": "Academics Eliezer Yudkowsky and Nate Soares argue in their new book that the technology could lead to our extinction. Is there reason to believe them?",
+      "url": "https://english.elpais.com/technology/2026-05-31/catastrophists-versus-accelerationists-will-ai-destroy-the-world-or-save-it.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/WDTCJZWDEVLFNLG7RLBCJQSKDI.jpg?auth=8d5bc30f80dfeb503468112e829bab34b186b9b01a6cb3e1a0ad486c19dd13ef",
+      "source_icon": "https://n.bytvi.com/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-05-31 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bffb9dd8243152cc900764b97d9422d2",
+      "title": "Donald Trump shares image of wild 'drone port' plan for White House roof",
+      "description": "The president promised that the ballroom would serve several military purposes, including a hospital and a research facility.",
+      "url": "https://www.the-express.com/news/politics/208638/donald-trump-drone-port-white-house-ballroom",
+      "image_url": "https://cdn-images.the-express.com/img/dynamic/13/590x/208638_1.jpg",
+      "source_icon": "https://n.bytvi.com/express.png",
+      "source": "Daily Express Us",
+      "published_at": "2026-05-31 03:03:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "5cbbf3190615b594bb1d00bcba6ef567",
       "title": "NASA taps 2 companies to develop buggies for its moon base program",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/nbcnews.png",
       "source": "Nbc News",
       "published_at": "2026-05-29 20:46:41",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1109520b844d1254f0fe6427818f27dd",
-      "title": "Tesla Insiders Admit Self-Driving Is a Complete Disaster",
-      "description": "\"We have all seen it fail.\" The post Tesla Insiders Admit Self-Driving Is a Complete Disaster appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/tesla-insiders-self-driving-disaster",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/05/tesla-insiders-self-driving-disaster.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-05-29 20:10:11",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b5f790bfb78b53e9a868109584fae499",
-      "title": "Is storm chasing really like the movies?",
-      "description": "Real life storm chaser and meterologist Cyrena Arnold unpacks reality from Hollywood fantasy. The post Is storm chasing really like the movies? appeared first on Popular Science .",
-      "url": "https://www.popsci.com/environment/what-is-storm-chasing-podcast/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/05/storm-chasing-real.jpg",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-05-29 20:07:37",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "25275eaaa735ea05bd02cd9ce5da580c",
-      "title": "US’ new uranium enrichment facility could boost nuclear fuel supply after review",
-      "description": "Orano’s facility will use gas centrifuge technology to produce low-enriched uranium for US commercial nuclear power plants.",
-      "url": "https://interestingengineering.com/energy/us-uranium-enrichment-nuclear-fuel-supply",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/05/Untitled-design36.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-05-29 20:07:06",
       "language": "english",
       "category": "science"
     }
