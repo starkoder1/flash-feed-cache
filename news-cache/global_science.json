@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-05-31T16:54:38.309Z",
+  "last_updated": "2026-05-31T20:46:42.304Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5862bd50749804f2cbef41200b87724d",
+      "title": "NASA announces 3 Moon missions in huge lunar base update",
+      "description": "NASA plans to establish a permanent human outpost at the Moon's South Pole.",
+      "url": "https://www.express.co.uk/news/science/2211602/nasa-moon-missions-lunar-base",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2211602_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-05-31 08:18:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e1af5fb1a215f957ef757c5df2bc27eb",
+      "title": "Groundbreaking blood test could detect Alzheimer's disease '17 years early'",
+      "description": "This sensor could also predict the likelihood of developing Parkinson's disease",
+      "url": "https://www.mirror.co.uk/news/health/groundbreaking-blood-test-could-detect-37211661",
+      "image_url": "https://i2-prod.mirror.co.uk/incoming/article37211536.ece/ALTERNATES/s615/0_GettyImages-2261462524.jpg",
+      "source_icon": "https://n.bytvi.com/mirroruk.png",
+      "source": "Mirror",
+      "published_at": "2026-05-31 07:19:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d9764ba4a9b4819eb94fdbd387a6ea06",
+      "title": "'Disgusting' beach litter leaves people upset",
+      "description": "Jill Boyle is urging people coming to north Norfolk to take their rubbish home and not leave it behind.",
+      "url": "https://www.bbc.com/news/articles/creplexzw21o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/b7c7/live/ae4bfc00-5cb4-11f1-ad03-51c214ba6068.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-05-31 05:33:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "355b5d602c341de98cdf3de81c0e202a",
+      "title": "The truth about frozen fruits and vegetables",
+      "description": "The choice between fresh and frozen is not always clear: Discover when flash freezing actually stops time and preserves sensitive vitamins.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-896960",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/722133",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-05-31 05:00:47",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "1f782b840483f9158f6b99afb5ad9a9d",
       "title": "Australian researchers teach brain cells to play ’Doom’ video game",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/discovermagazine.png",
       "source": "Discover Magazine",
       "published_at": "2026-05-29 21:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "db62fa4fc5474f2fa4f621d611a0b81b",
-      "title": "No. 2 priority: MRU researchers asking for help with elk study",
-      "description": "In the name of science, Mount Royal University researchers are asking you to do them a solid.",
-      "url": "https://www.ctvnews.ca/calgary/article/no-2-priority-mru-researchers-asking-for-help-with-elk-study/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/6IWIVA3KRVBCJAWFTGF3TMRVBY.jpg?auth=3634ab18feb2f6415e33b996ee96832e68b432bfb73114fd3c2f97081f8643ad&smart=true&width=2000&height=1125",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-05-29 21:47:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e6bd4c336aa78053e059be7c1415fca2",
-      "title": "How the success of D-Day hinged on a weather forecast",
-      "description": "As General Dwight D. Eisenhower prepared for D-Day, he needed a forecast. The new movie Pressure shows the tense make-or-break weather prediction that led to the successful invasion of Europe that spelled the beginning of the end of World War II",
-      "url": "https://www.scientificamerican.com/article/how-the-success-of-d-day-hinged-on-a-weather-forecast/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/8dccb06d-2e24-432d-8933-fb8c7f7bbc59/GettyImages-566464387-web.jpeg?m=1780089416.768&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-05-29 21:27:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "782981db1d1470dd8c0c4c249c84ce91",
-      "title": "Is There a Link Between Pesticides and Cancer? A Mixture of Chemicals May Drive the Risk",
-      "description": "Learn more about the impacts of pesticides and cancer risks, and how a mixture of chemicals may be more harmful than originally thought.",
-      "url": "https://www.discovermagazine.com/is-there-a-link-between-pesticides-and-cancer-a-mixture-of-chemicals-may-drive-the-risk-49174",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59489/farmer-in-hazmat-suit-spraying-pesticides-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-05-29 21:10:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ec2b23fa17087f2cacb3ccb1634bbde4",
-      "title": "Blue Origin’s rocket explosion is a big setback for NASA’s moon goals",
-      "description": "The giant explosion during a test of a Blue Origin rocket is a problem both for Jeff Bezos’ space company and for NASA.",
-      "url": "https://www.nbcnews.com/science/space/blue-origin-rocket-explosion-setback-nasa-moon-missions-rcna347522",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-05/260529-blue-origin-rs-1e9723.jpg",
-      "source_icon": "https://n.bytvi.com/nbcnews.png",
-      "source": "Nbc News",
-      "published_at": "2026-05-29 20:46:41",
       "language": "english",
       "category": "science"
     }
