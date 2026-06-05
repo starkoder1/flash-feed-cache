@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-05T11:25:00.147Z",
+  "last_updated": "2026-06-05T14:21:57.134Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3ee87086f8ec136a51f34b9c83d4d117",
+      "title": "#TheMoment students invented a wearable tail to help Parkinson's patients",
+      "description": "High school students Allen Guo-Lu and Lutong Shi tell The National about the moment they developed 'wearable tail' technology to help people with Parkinson’s disease maintain their balance.",
+      "url": "https://www.cbc.ca/player/play/9.7224430?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/55e927c5-0f28-488c-8d12-b476d5e88274,1780616366809/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-06-05 02:09:34",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f5605fed2b4f22df73cb3adf7acec4ef",
+      "title": "‘Top Gun: Maverick’ Actor James Handy Killed by Girlfriend’s Son",
+      "description": "James Handy, a longtime actor who appeared as the bartender in “Top Gun: Maverick” and “Jumanji” and had guest roles on dozen of TV shows, was killed Wednesday in a stabbing in the Tarzana neighborhood of Los Angeles. He was 81. The LAPD said he was killed by his girlfriend’s son. “On Wednesday, June 3, [...]",
+      "url": "https://variety.com/2026/film/obituaries-people-news/james-handy-dead-top-gun-maverick-1236767486/",
+      "image_url": "https://variety.com/wp-content/uploads/2026/06/James-Handy.jpg",
+      "source_icon": "https://n.bytvi.com/variety.png",
+      "source": "Variety",
+      "published_at": "2026-06-05 01:10:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dc1bcede9bb1777644adb057173981f6",
+      "title": "Scientists develop vaccine using AI that could prevent future pandemics",
+      "description": null,
+      "url": "https://www.independent.co.uk/bulletin/news/ai-vaccine-super-antigen-pandemics-b2990137.html",
+      "image_url": "https://static.independent.co.uk/2026/06/05/01/01KT8KEYC19GVA5Q4VGGX0JCHV.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-06-05 00:56:52",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7951bf427ac5962999e00f946ee3dce7",
+      "title": "Microrobots that could heal spinal injuries",
+      "description": "Promising lab results for ‘microscopic repair crews, guided by magnets’",
+      "url": "https://theweek.com/science/microrobots-that-could-heal-spinal-injuries",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/mZ55ADzKBNGJk7gEmmEXS4-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-06-04 23:52:24",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "11dbf47c49a44bd989739884d3d8dcbb",
+      "title": "New system doubles CO2 capture efficiency, cutting energy use in clean tech push",
+      "description": "MIT researchers develop electrochemical CO2 capture using NHI sorbents as an energy-efficient alternative.",
+      "url": "https://interestingengineering.com/innovation/mit-electrochemical-co2-capture-nhi-amine-alternative",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/MIT-carbon-capture.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-04 23:44:36",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7d3a9e03a4f13ef13a25c0cbc6cd7dc2",
+      "title": "Australia now has access to Anthropic’s Claude Mythos. It may improve cyber safety – but not for everyone",
+      "description": "The AI era has fundamentally changed the risks associated with poor cybersecurity practices.",
+      "url": "https://theconversation.com/australia-now-has-access-to-anthropics-claude-mythos-it-may-improve-cyber-safety-but-not-for-everyone-284544",
+      "image_url": "https://images.theconversation.com/files/739960/original/file-20260604-71-kmzivp.jpg?ixlib=rb-4.1.0&rect=0%2C120%2C3840%2C1920&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-06-04 23:35:16",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "83c1d2114ce5853cbcef0641b34dac28",
       "title": "June 7, National Animal Rights Day – PLEASE SHARE WITH ALL LABORATORY STAFF",
@@ -530,78 +602,6 @@
       "published_at": "2026-06-04 05:30:21",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "1f39625cbaa050a555d97e97de49229f",
-      "title": "AI-powered conservation project ends",
-      "description": "Space4Nature says it has restored more than 60 hectares of habitat at 22 sites across the county.",
-      "url": "https://www.bbc.com/news/articles/c1e2w496jdqo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/3e2e/live/860442e0-5f73-11f1-bb1e-872b6e9ba8be.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-04 05:18:20",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3b41948c5c5a9948c599fb6aaa2d7a18",
-      "title": "Trust celebrates birth of rare lemur quadruplets",
-      "description": "The trust says the quadruplets are incredibly rare, occurring in fewer than 6% of births worldwide.",
-      "url": "https://www.bbc.com/news/articles/c5yr1xzn2vno",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5b1e/live/13e176f0-5f33-11f1-92dd-bd1ddc9b09b9.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-04 05:15:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "28c57c191e17b937a9e8f8fd6dada61e",
-      "title": "Sanctuary's tiny wild cat to join breeding scheme",
-      "description": "Rusty-spotted cats are also getting new enclosures at The Big Cat Sanctuary in Smarden.",
-      "url": "https://www.bbc.com/news/articles/cj6plxkzx59o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/eb38/live/68a01b40-5f58-11f1-8dad-8347ac6f73d8.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-04 05:14:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "35791a86b6a65d6d4b3e068d46394d99",
-      "title": "Extra waste burning approved for incinerator",
-      "description": "Viridor can now increase waste at its Beddington energy recovery facility to 382,286 tonnes a year.",
-      "url": "https://www.bbc.com/news/articles/c86d8v0j80zo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/e0e1/live/0b410df0-83fe-11f0-a3f8-9b56bf5c3841.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-04 05:04:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "41e2cba625955c74a58a05eef92d4071",
-      "title": "Employment in tech sector rose at steepest rate for a year in May despite Meta cuts",
-      "description": "Year-ahead outlook ‘improved further’, according to AIB data, despite fears of job displacement from AI",
-      "url": "https://www.irishtimes.com/business/2026/06/04/employment-in-tech-sector-rose-at-steepest-rate-for-a-year-in-may-despite-meta-cuts/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/Z7DTNDVR2VGW5PTD2EZJ5DK5KM.jpg?auth=4d88b3da2ab39b23782e6c25781fbc100efcfc5f3a43ff21cd2610fef3faeaa6&smart=true&width=630&height=350",
-      "source_icon": "https://n.bytvi.com/irishtimes.png",
-      "source": "The Irish Times",
-      "published_at": "2026-06-04 05:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2e2dc6bb779a6c0b7b16edf8bd164e52",
-      "title": "Kim Jong Un unveils new plant to produce nuclear bomb fuel as he vows expansion at ‘exponential rate’",
-      "description": "Facility using ‘more sophisticated technology’ unveiled",
-      "url": "https://www.independent.co.uk/asia/east-asia/kim-jong-un-north-korea-nuclear-bombs-facility-b2989223.html",
-      "image_url": "https://static.independent.co.uk/2026/06/04/03/2026-05-12T220135Z_276695717_RC2X7LAQGYFK_RTRMADP_3_NORTHKOREA-MILITARY.JPG?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-06-04 03:00:23",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
