@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-06T16:57:27.950Z",
+  "last_updated": "2026-06-06T20:53:47.319Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "54f35b75b9a7e230aea052a360f50508",
+      "title": "NASA moon base may look nothing like you imagined, says expert",
+      "description": "EXCLUSIVE: The first moon base will require some creative thinking, suggested Professor Mahesh Anand.",
+      "url": "https://www.express.co.uk/news/science/2211551/moon-base-may-look-nothing-inflatable-nasa",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/2211551_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-06-06 08:02:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2b72a9d06d777c548b8e70f4626b77d1",
+      "title": "New ‘laser origami’ technique could turn moon dust into infrastructure, build lunar bases",
+      "description": "Check latest news on Astronomy, Space Exploration, Planets, Earth, Mars, NASA news, Asteroid news and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/space/laser-origami-could-help-build-structures-from-moon-dust",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-06 07:55:10",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f9201ef10ef69119152fb98d731a66f1",
+      "title": "Mountain path repairs 'first big work' since 1980s",
+      "description": "A helicopter is used to transport more than 100 tonnes of stone to the site at Helvellyn.",
+      "url": "https://www.bbc.com/news/articles/c4g4ngxe51zo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/67db/live/5a55d0c0-6011-11f1-8252-657841956bfc.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-06 06:13:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "98cc5f1687ce2068aea1010d42530e6d",
+      "title": "Oral inflammation may impair female fertility, new Israeli research shows",
+      "description": "Could gum disease affect fertility? A new study suggests oral inflammation may impair reproductive health.",
+      "url": "https://www.jpost.com/science/article-898402",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/444736",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-06 05:04:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "205565b2b7e74e0c71e2dfb25c22f1c0",
       "title": "Scientists Find Chunk of Lost Planet in Desert",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-06-05 08:50:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5c3c2e2974c51888eb12b68bfe32b1fe",
-      "title": "Nestlé backs biotech push in infant nutrition",
-      "description": "Nestlé has signed a long-term partnership with US biotech company Helaina as competition intensifies around next-generation ingredients for infant nutrition. The agreement centres on bioactive proteins, a category attracting growing [...]",
-      "url": "https://www.fdiforum.net/mag/featured/nestle-backs-biotech-push-in-infant-nutrition/",
-      "image_url": "https://www.fdiforum.net/mag/wp-content/uploads/2026/01/AdobeStock_1653218189.jpeg",
-      "source_icon": null,
-      "source": "Food & Drink International",
-      "published_at": "2026-06-05 07:39:22",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "90aaa05bbfcb2b242b3d471b6dbe6027",
-      "title": "Galactic giant awakens: Hidden black hole wind discovered after 50 years",
-      "description": null,
-      "url": "https://www.independent.co.uk/bulletin/news/sagittarius-a-black-hole-milky-way-alma-wind-b2990232.html",
-      "image_url": "https://static.independent.co.uk/2026/06/01/05/APTOPIX_Emirates_Milky_Way_33366.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-06-05 07:21:19",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d958a8679287d0492f79720134ac4b45",
-      "title": "Wind from Milky Way’s black hole solves a 50-year-old mystery",
-      "description": null,
-      "url": "https://www.independent.co.uk/bulletin/news/black-hole-milky-way-wind-b2990217.html",
-      "image_url": "https://static.independent.co.uk/2026/06/04/20/23/BLACK-HOLE.jpeg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-06-05 06:43:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5872623f58c4796263ba538ccbccf017",
-      "title": "Henry Moore works to be unveiled at botanic garden",
-      "description": "The botanic garden says the pieces aim to encourage visitors to reflect on nature and humanity.",
-      "url": "https://www.bbc.com/news/articles/ce3pdd4qkdqo",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/36f3/live/36121250-6020-11f1-95e8-2f6b295436fc.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-05 05:22:21",
       "language": "english",
       "category": "science"
     }
