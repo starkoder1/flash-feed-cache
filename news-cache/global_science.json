@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-06T13:04:28.803Z",
+  "last_updated": "2026-06-06T16:57:27.950Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "205565b2b7e74e0c71e2dfb25c22f1c0",
+      "title": "Scientists Find Chunk of Lost Planet in Desert",
+      "description": "\"It’s incredible to think there was once a world this large.\" The post Scientists Find Chunk of Lost Planet in Desert appeared first on Futurism .",
+      "url": "https://futurism.com/space/chunk-lost-planet-sahara-desert",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/06/chunk-lost-planet-sahara-desert.jpg",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-06-06 04:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9d29ded0e1aa33ec6d6533e25df98228",
+      "title": "SETI Panel Revises Recommendations for Dealing With 'Disclosure Day'",
+      "description": "An international committee of experts says it has updated its rules for evaluating and revealing the detection of extraterrestrial intelligence. The revisions in the decades-old Declaration of Principles, created and maintained by the International Academy of Astronautics' SETI Committee, were announced just days before the release of \"Disclosure Day,\" a movie about alien visitation directed by Steven Spielberg.",
+      "url": "https://www.universetoday.com/articles/seti-panel-revises-recommendations-for-dealing-with-disclosure-day",
+      "image_url": "https://www.universetoday.com/article_images/260605-ata_20260606_014343.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-06 03:25:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e2893adc274091035b4de66d771ce1e1",
+      "title": "First-ever AI-designed vaccine reaches human trials",
+      "description": "• Targets entire family of viruses, animal-borne strains; aims to thwart future pandemics; initial-phase trials of 39 participants succeeded; larger efficacy studies loom • Experts hail move as ‘pivotal leap’ for humanity • Approach could end need for regular flu vaccine updates A “FUNDAMENTALLY new” vaccine designed entirely by artificial intelligence has been tested in people for the first time, in what researchers at the University of Cambridge describe as a potential breakthrough in the effort to prevent future pandemics, BBC reported. This experimental approach seeks to establish immunity against a broad range of viruses, including all known coronaviruses, rather than targeting a single circulating strain. Traditional vaccine development typically relies on a currently circulating viral strain. However, certain viruses are adept at mutating, causing conventional vaccines to lose efficacy quickly. This is why seasonal flu and Covid shots require regular updates. “We’re always behind,” Professor Jonathan Heeney of Cambridge told the BBC , noting his team’s goal is to reverse this dynamic. “What we’re trying to do is get ahead of the curve.” The researchers claim it is the first time a vaccine’s key component has been designed entirely by AI and then trialled in people. To achieve this, researchers compiled genetic codes — the biological instruction manuals — from coronaviruses documented by global surveillance programs. An AI system analysed these sequences to design a “super-antigen.” Antigens are essential components of vaccines that train the immune system to attack foreign invaders. This super-antigen trains the immune system to defend against the entire family of viruses, providing immunity even if viruses mutate or a new infection jumps from animals to humans. The technology is “surprising all of us”, Heeney said, adding it is “amazing what we can do with it for the good of humanity”. “This is about making vaccines that protect us, not just from today’s viruses, but protect us from what can cause the next outbreak or disease,” Heeney said. “This is a fundamental shift in how we prepare for pandemics.” Initial trials involving 39 participants assessed safety. A subsequent study of approximately 200 individuals will test how effectively the vaccine stimulates the immune system. Findings published in the Journal of Infection indicated that the impact on the immune system was “modest,” yet the results continue to generate excitement. Prof Saul Faust of the University of Southampton, who led some of the trial work, said the AI-driven approach “definitely has potential” and described it as “really exciting”. “What’s really interesting is the technology is an awful lot better at designing vaccines for potential pandemics when viruses are changing,” he said. While coronavirus research remains in early stages, the team is leveraging the technology to develop vaccines for other ailments. According to the report, they are conducting animal research into a universal seasonal flu vaccine to eliminate the need for annual updates. They are also developing a vaccine for the H5N1 bird flu. Researchers are also exploring inoculations for viral hemorrhagic fevers, including Ebola species. The BBC highlighted that the ongoing outbreak in the Democratic Republic of Congo is caused by an Ebola species currently lacking a targeted vaccine. Professor Andy Pollard, director of the Oxford Vaccine Group, who was not involved in the Cambridge study, told the outlet that the methodology is producing compelling evidence. “It’s fascinating data, and people wouldn’t have predicted they’d be able to generate these immune responses,” Pollard said. Pollard cautioned that human trials will determine success, as human immune systems differ from those of laboratory mice. Broadly, Pollard characterised AI as a “game changer” for vaccine research, predicting it will accelerate development and “save lives”. Professor Marian Knight, scientific director for the National Institute for Health and Care Research, described the trial as a “pivotal leap forward in our ability to deliver broad, lasting viral protection”. “Another British science success story, this is a great example of how we can bring our research expertise together with AI to deliver new treatments,” UK’s Science Minister Lord Vallance said. “With the first human trials showing positive results, this work could help speed up the rollout of vaccines to benefit people all over the world for the long term.” Published in Dawn, June 6th, 2026",
+      "url": "https://www.dawn.com/news/2005551/first-ever-ai-designed-vaccine-reaches-human-trials",
+      "image_url": "https://i.dawn.com/large/2026/06/0607435457caaf7.webp",
+      "source_icon": "https://n.bytvi.com/dawn.png",
+      "source": "Dawn",
+      "published_at": "2026-06-06 02:44:19",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "e5b462a04a434ec9243bffaf76612b72",
       "title": "‘World first’ computer-designed vaccine shows immune response in early human testing",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-06-05 05:22:21",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8a9e577a21ee4f99bcd2c867ec6012ae",
-      "title": "“Bootstrap” physics study claims string theory might be inevitable after all",
-      "description": "String theory is perhaps the greatest tragedy of modern science. Mathematically elegant and celebrated savior of divided physics, it is nonetheless ...",
-      "url": "https://refractor.io/physics/bootstrap-physics-string-theory/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/4fde5f7eafbb89f0cb4e1baab341540681a5a277/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-05 05:02:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0005d55c44b02629e337dd82cc55c664",
-      "title": "Tech giants warn AI safety gaps could hand bioweapons to bad actors",
-      "description": "Synthetic DNA can be used for vaccines, but it can also create bioweapons. Tech giants and biotechnology experts are asking for stronger regulation.",
-      "url": "http://www.euronews.com/health/2026/06/05/tech-giants-warn-ai-safety-gaps-could-hand-bioweapons-to-bad-actors",
-      "image_url": "https://images.euronews.com/articles/stories/09/78/53/41/1440x810_cmsv2_7ee89503-9d63-5903-96e2-8dfcc544f6e3-9785341.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-06-05 05:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7b2c3e8cc603c9e57bd27fc339754977",
-      "title": "Azafaros Announces Publication of Phase 2 RAINBOW Study Data for Nizubaglustat in Molecular Genetics and Metabolism Journal",
-      "description": "LEIDEN, Netherlands--(BUSINESS WIRE)-- #Adults--Azafaros, a private company building a portfolio to become a leader in lysosomal storage disorders (LSDs), focused on addressing neurological symptoms, today announced the publication of clinical data from its Phase 2 (RAINBOW) study in the peer reviewed journal, Molecular Genetics & Metabolism. The published manuscript reports efficacy, safety, pharmacokinetic and pharmacodynamic data which evaluated nizubaglustat in patients with genetically confirmed",
-      "url": "http://www.businesswire.com/news/home/20260604044697/en/Azafaros-Announces-Publication-of-Phase-2-RAINBOW-Study-Data-for-Nizubaglustat-in-Molecular-Genetics-and-Metabolism-Journal/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260604044697/en/2824435/22/azafaros_logo_4k_high_res_white.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-06-05 05:00:00",
       "language": "english",
       "category": "science"
     }
