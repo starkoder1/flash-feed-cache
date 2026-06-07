@@ -1,14 +1,62 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-07T13:17:26.286Z",
+  "last_updated": "2026-06-07T17:03:40.379Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "521cd8b3f3eaaff8448b00b5442e2b2d",
+      "title": "Taking probiotics? Why it is better not from a supplement, but from this food",
+      "description": "Despite the immense popularity of dietary supplements, many of them still stir controversy among experts due to a lack of conclusive evidence regarding their long-term efficacy and safety.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-897829",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723397",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-07 05:01:38",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e78a6f55d28990e8c022880165909967",
+      "title": "Moon phase today: What the Moon will look like on June 7",
+      "description": "See the Moon phase expected for June 7, 2026 as well as when the next Full Moon is expected.",
+      "url": "https://mashable.com/science/moon-phase-today-june-7",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/04JzF93MPHdYXEHkO0cwHVv/hero-image.fill.size_1200x675.v1780322273.jpg",
+      "source_icon": "https://n.bytvi.com/mashable_us.jpeg",
+      "source": "Mashable",
+      "published_at": "2026-06-07 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c97c3a74407a2af6fe5f8b618f713eae",
+      "title": "New Chinese axial flux motor reaches 18,000 rpm milestone, can be used in EVs and robots",
+      "description": "A research team in China says it has developed a high-performance axial flux motor capable of exceeding 18,000 rpm and achieving a power density of 25.73 kW/kg.",
+      "url": "https://interestingengineering.com/ai-robotics/chinese-axial-flux-motor-milestone",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/image-1920x1080-2026-06-06T183155.677.png",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-07 02:15:28",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "e3325227faed8dcde0d0a3f6e7078a5e",
       "title": "Scientists Edited Human Embryo Genes. But Questions Remain",
       "description": "\"A DNA-editing feat involving editing the genes of early stage embryos was announced this week,\" reports the Wall Street Journal. They describe the feat as \"a far cry from designer babies, but nevertheless a step in that direction.\" Dieter Egli, an associate professor of developmental cell biology at Columbia University and his co-authors, including Nathan Treff of Nucleus Genomics, a New York-based DNA-testing startup, say the technology could help fix disease-causing mutations in embryos. \"We're not throwing the final 'OK, you will have gene-edited babies tomorrow' at the public,\" said Egli. \"That is a process that can occur through discussion matched with scientific progress....\" Previous gene-editing efforts have often used Crispr, which can cut out parts of the DNA sequence, but the technology can also cause damage if the wrong DNA is targeted or cut out. In 2018, Chinese scientist He Jianku said he used Crispr to tweak DNA in human embryos and was imprisoned for the work. The technology Egli's group used, called base editing, allows them to target individual DNA letters in sequences more precisely with fewer adverse effects... Egli's group focused on altering two genes, one that can raise the risk of heart disease and one that is tied to blood disorders like sickle cell disease, and the research showed they were sometimes able to do so successfully, in the same embryo, without damage. \"I am generally supportive of the concept of embryo editing to prevent genetic disease,\" said Dr. Paula Amato, a fertility expert at Oregon Health & Science University who wasn't involved in the research... Base editing has been used in human embryos before, according to peer-reviewed studies. The technology was used to correct a disease-causing mutation and an Alzheimer's disease-risk gene variant, said Alexis Komor, associate professor of biochemistry and molecular biophysics at the University of California, San Diego, who wasn't involved in the work. \"There really is not any unmet medical or clinical need for this, especially from an in vitro fertilization perspective,\" Komor said. \"Usually what you'll hear is that they're doing it just so that you know we can prevent genetic diseases, but there are so many other better ways to do that.\" Using embryo editing to create babies is illegal in the U.S. and many other countries. Scientists have long worried that it is a slippery slope and that the technology could ultimately be used to promote eugenics. Her worry is that \"they're basically building a blueprint\" for more ethically problematic forms of embryo editing. \"In my opinion, I think this is a huge no-no,\" Komor said. \"There's just no ethical way to use this....\" Nucleus Genomics Chief Executive Kian Sadeghi said his company plans to fund Egli's further research, building on the new findings. His company sells a polygenic embryo-screening product, which screens prospective parents' embryos and produces risk scores for their likelihood of developing disease, as well as factors like height, IQ and eye color. The company has said the IQ predictions are limited in accuracy. The research was published online Monday on a preprint server. Read more of this story at Slashdot.",
       "url": "https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain",
       "image_url": "https://a.fsdn.com/sd/topics/biotech_64.png",
+      "source_icon": "https://n.bytvi.com/slashdot_org.png",
+      "source": "Slashdot",
+      "published_at": "2026-06-07 00:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "73a4f19d4a3197f18e17d13eb78791f4",
+      "title": "After Empty Promises, Will String Theory Find New Uses?",
+      "description": "Science magazine reports: For decades, string theory promised a \"theory of everything\" that described all particles and forces as tiny vibrating strings. Physicists hoped it could also solve one of the field's deepest problems: reconciling quantum mechanics with gravity. But as string theory grew increasingly elaborate — and experimentally unreachable — many physicists lost hope. Now, some researchers are revisiting the theory from first principles. In a paper in press at Physical Review Letters, Clifford Cheung, a physicist at the California Institute of Technology, and colleagues lay out a small set of assumptions about the universe and show that they inevitably give rise to string theory.... Cheung's study, along with another one posted to arXiv in January, starts with two reasonably conservative assumptions: that the probabilities of all possible outcomes of an event add up to 100%, and that the laws of physics are consistent for observers moving at different speeds. Each group then posits additional assumptions that have not been borne out by observations. Cheung's analysis invokes \"ultrasoftness,\" the idea that the probability of certain particle interactions drops off at a particular rate at high energies. The second study, led by University of Michigan physicist Henriette Elvang, instead assumes \"supersymmetry,\" a maximal coupling between matter and forces. Both groups conclude the only theory that can satisfy their assumptions is one that looks like string theory... Cheung and Elvang stress that their aim is not to prove the inevitability of string theory. \"I don't have a dog in the fight; I just work here,\" Cheung says. Rather, the goal is to explore the space of possible theories under rigid constraints — regardless of whether they reflect reality... The one thing the researchers all agree on is that the field would benefit from more alternative models to string theory. Cheung sees the agnostic, bottom-up exploration as a step in that direction. \"You can either give up on the problem because it's too culturally toxic, or you can ask: If you want to find an alternative, what do you need?\" he says. \"Now, we know exactly what to do.\" Thanks to Slashdot reader sciencehabit for sharing the article. Read more of this story at Slashdot.",
+      "url": "https://science.slashdot.org/story/26/06/07/0448219/after-empty-promises-will-string-theory-find-new-uses",
+      "image_url": "https://a.fsdn.com/sd/topics/science_64.png",
       "source_icon": "https://n.bytvi.com/slashdot_org.png",
       "source": "Slashdot",
       "published_at": "2026-06-07 00:00:00",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/mit.jpg",
       "source": "Massachusetts Institute Of Technology",
       "published_at": "2026-06-05 20:10:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "55e243318f67221763cd7ec7358ed2d2",
-      "title": "Light pulses uncover Higgs mode that reshapes perovskite crystal symmetry",
-      "description": "Waves of light and sound interact to drive electronic and structural changes in a perovskite crystal. At the atomic scale, nothing is ever truly still. Materials that appear perfectly rigid and motionless to the naked eye are in fact swarms of vibrating atoms. This motion is generally random and uncoordinated, but with the right input, the atoms in certain materials will start to move together, vibrating in sync.",
-      "url": "https://phys.org/news/2026-06-pulses-uncover-higgs-mode-reshapes.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/scientists-find-an-elu.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-05 20:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4703cc8746c7801b445f6ccfdcac5d34",
-      "title": "UMD Senior Wins Astronaut Scholarship for STEM Leadership",
-      "description": "Aspiring Physician-Scientist Intends to Launch Career Developing New Cancer Treatments",
-      "url": "https://today.umd.edu/umd-senior-wins-astronaut-scholarship-for-stem-leadership",
-      "image_url": "https://umd-today.transforms.svdcdn.com/production/es/heroes/thumbnails/TheM_07102025_DS_3803_1920x1080_thumb_1780690233.jpg?w=1920&h=1080&auto=compress%2Cformat&fit=crop&dm=1780690233&s=95eb3ba6e9ffb101a27b26fd8c96e8a7",
-      "source_icon": "https://n.bytvi.com/umd.png",
-      "source": "University Of Maryland",
-      "published_at": "2026-06-05 20:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "50cd70c0fc3b315aa7169574a6b343c3",
-      "title": "Anthropic Scared, Calls for Global Freeze on AI Advances",
-      "description": "We've heard this one before. The post Anthropic Scared, Calls for Global Freeze on AI Advances appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/anthropic-scared-calls-global-freeze-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/anthropic-scared-calls-global-freeze-ai.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-05 19:48:28",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "51bb1452a5bb1291cd15f55f98c4a1b1",
-      "title": "Hagfish fossils reveal stepwise eye simplification before near-total vision loss",
-      "description": "Many animals, including humans, rely on their eyes to detect changes in their surroundings. The eyes of vertebrates, animals with a backbone or a similar supporting structure, contain a transparent structure (i.e., the lens) that focuses incoming light onto a layer of light-sensitive cells, known as the retina. Cells in the retina then convert light into signals that are sent to the brain.",
-      "url": "https://phys.org/news/2026-06-hagfish-fossils-reveal-stepwise-eye.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-evolution-simplifi.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-05 19:20:01",
       "language": "english",
       "category": "science"
     }
