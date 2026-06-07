@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-07T17:03:40.379Z",
-  "article_count": 50,
+  "last_updated": "2026-06-07T20:59:20.640Z",
+  "article_count": 49,
   "articles": [
+    {
+      "id": "b1d06c544cbcb774d43a597916f808cb",
+      "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+      "description": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities we perceive in colors are intrinsic to the mathematics of color space itself. The discovery sharpens our understanding of human vision and could lead to more precise color technologies and visualizations.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/color-perception-experiment.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-07 07:55:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1938eecfdd547ce10a9db554b88f7696",
+      "title": "Ecologist calls for plastics ban in cemetery",
+      "description": "Alison Fure is asking the council to begin phasing out plastic decorative items, including flowers.",
+      "url": "https://www.bbc.com/news/articles/c3r25edye9do",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/28b0/live/57801e90-5f2c-11f1-9b94-1bf27e494d9e.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-07 07:17:45",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "db9dde7fac85b197aa8e3b4e496d4f89",
+      "title": "Village solar system model shows planets and stars",
+      "description": "How a Kent village created a scale model of the solar system to help people understand space.",
+      "url": "https://www.bbc.com/news/articles/cjdpdlv3zp7o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/5617/live/22dbe790-603b-11f1-9ce7-1953d6a1a733.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-07 06:15:04",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "01709da2a6cdb265fbc8f6486ff8cd6e",
+      "title": "US firm’s reusable launch system goes beyond Mach 4 speed twice, key for suborbital missions",
+      "description": "General Hypersonics' achievement sets another ram-accelerated mass-to-velocity milestone and advances the company's goal of making high-cadence hypersonic and suborbital launch operations affordable and repeatable.",
+      "url": "https://interestingengineering.com/space/reusable-launch-system-mach-4-speed",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/rocket-new.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-07 06:13:41",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "521cd8b3f3eaaff8448b00b5442e2b2d",
       "title": "Taking probiotics? Why it is better not from a supplement, but from this food",
@@ -540,66 +588,6 @@
       "source_icon": "https://n.bytvi.com/discovermagazine.png",
       "source": "Discover Magazine",
       "published_at": "2026-06-05 21:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4054aa00d43cd5cbc3bc1ac392fe8dd3",
-      "title": "False Killer Whales in Hawaiʻi Are Rapidly Declining, With Fewer Than 140 Individuals Remaining",
-      "description": "Discover how a long-term observational study tracked dramatic whale weight loss and a historic population drop.",
-      "url": "https://www.discovermagazine.com/false-killer-whales-in-hawai-i-are-rapidly-declining-with-fewer-than-140-individuals-remaining-49211",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59568/false-killer-whale-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-06-05 20:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e400c415ea87d3f8b7d044f47daadd47",
-      "title": "New York Times Roasted for “Profiling” the “AI-Generated Actress” Tilly Northwood",
-      "description": "\"She's giving oxygen to this cruel and demeaning fever dream of the anti-art oligarchy.\" The post New York Times Roasted for “Profiling” the “AI-Generated Actress” Tilly Northwood appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/new-york-times-roasted-profiling-ai-actress",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/new-york-times-roasted-profiling-ai-actress.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-05 20:50:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "b282dceb34f32a92d83fdb04dab53791",
-      "title": "Did this star eat its planets? A new study offers clues on 'chemical paradox' of a binary system",
-      "description": "Astronomers have investigated a puzzling binary star system in which two stars that may have formed together now show dramatically different chemical compositions. The new study, uploaded to the arXiv preprint server on May 29, hints at the possibility that one of the stars may have swallowed its own planets.",
-      "url": "https://phys.org/news/2026-06-star-planets-clues-chemical-paradox.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/did-this-star-eat-its.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-05 20:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b911a060bb3286d02ffa418d4f52ff66",
-      "title": "Astronomers Make \"Live\" Observation of a Nearby Protoplanetary Disk's Rotation",
-      "description": "Ever since the first protoplanetary disk was discovered in 1984 around the star Beta Pictoris, these objects have presented astronomers with laboratories to study the births and evolution of worlds around distant stars. A team at France's National Center for Scientific Research (CNRS) and the University of Bordeaux, made a breakthrough in understanding these planetary birthplaces when they directly observed the rotation of a protoplanetary disk around the young star AB Aurigae.",
-      "url": "https://www.universetoday.com/articles/astronomers-make-live-observation-of-a-nearby-protoplanetary-disks-rotation",
-      "image_url": "https://www.universetoday.com/article_images/images_ABAur_P112H_filtered_rsq_20260605_200259.jpeg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-06-05 20:22:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5a64038dfd04d3dbc557383def3ced50",
-      "title": "The crucial human component in computing and AI",
-      "description": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology.",
-      "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
-      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-schwarzman-ethics-of-computing.jpg?itok=HYfZyqXf",
-      "source_icon": "https://n.bytvi.com/mit.jpg",
-      "source": "Massachusetts Institute Of Technology",
-      "published_at": "2026-06-05 20:10:00",
       "language": "english",
       "category": "science"
     }
