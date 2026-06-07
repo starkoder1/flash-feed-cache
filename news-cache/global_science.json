@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-07T10:20:23.553Z",
+  "last_updated": "2026-06-07T13:17:26.286Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "e3325227faed8dcde0d0a3f6e7078a5e",
+      "title": "Scientists Edited Human Embryo Genes. But Questions Remain",
+      "description": "\"A DNA-editing feat involving editing the genes of early stage embryos was announced this week,\" reports the Wall Street Journal. They describe the feat as \"a far cry from designer babies, but nevertheless a step in that direction.\" Dieter Egli, an associate professor of developmental cell biology at Columbia University and his co-authors, including Nathan Treff of Nucleus Genomics, a New York-based DNA-testing startup, say the technology could help fix disease-causing mutations in embryos. \"We're not throwing the final 'OK, you will have gene-edited babies tomorrow' at the public,\" said Egli. \"That is a process that can occur through discussion matched with scientific progress....\" Previous gene-editing efforts have often used Crispr, which can cut out parts of the DNA sequence, but the technology can also cause damage if the wrong DNA is targeted or cut out. In 2018, Chinese scientist He Jianku said he used Crispr to tweak DNA in human embryos and was imprisoned for the work. The technology Egli's group used, called base editing, allows them to target individual DNA letters in sequences more precisely with fewer adverse effects... Egli's group focused on altering two genes, one that can raise the risk of heart disease and one that is tied to blood disorders like sickle cell disease, and the research showed they were sometimes able to do so successfully, in the same embryo, without damage. \"I am generally supportive of the concept of embryo editing to prevent genetic disease,\" said Dr. Paula Amato, a fertility expert at Oregon Health & Science University who wasn't involved in the research... Base editing has been used in human embryos before, according to peer-reviewed studies. The technology was used to correct a disease-causing mutation and an Alzheimer's disease-risk gene variant, said Alexis Komor, associate professor of biochemistry and molecular biophysics at the University of California, San Diego, who wasn't involved in the work. \"There really is not any unmet medical or clinical need for this, especially from an in vitro fertilization perspective,\" Komor said. \"Usually what you'll hear is that they're doing it just so that you know we can prevent genetic diseases, but there are so many other better ways to do that.\" Using embryo editing to create babies is illegal in the U.S. and many other countries. Scientists have long worried that it is a slippery slope and that the technology could ultimately be used to promote eugenics. Her worry is that \"they're basically building a blueprint\" for more ethically problematic forms of embryo editing. \"In my opinion, I think this is a huge no-no,\" Komor said. \"There's just no ethical way to use this....\" Nucleus Genomics Chief Executive Kian Sadeghi said his company plans to fund Egli's further research, building on the new findings. His company sells a polygenic embryo-screening product, which screens prospective parents' embryos and produces risk scores for their likelihood of developing disease, as well as factors like height, IQ and eye color. The company has said the IQ predictions are limited in accuracy. The research was published online Monday on a preprint server. Read more of this story at Slashdot.",
+      "url": "https://science.slashdot.org/story/26/06/07/0358254/scientists-edited-human-embryo-genes-but-questions-remain",
+      "image_url": "https://a.fsdn.com/sd/topics/biotech_64.png",
+      "source_icon": "https://n.bytvi.com/slashdot_org.png",
+      "source": "Slashdot",
+      "published_at": "2026-06-07 00:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "373753af13607a77ba0cc184c679086d",
+      "title": "Toxic pollutant from car tires reaching San Francisco Bay, scientists say",
+      "description": "A scientific research group here in the Bay Area is generating new evidence about another type of pollution caused not just by cars, but by their tires. It's a chemical known as 6PPD-Q, which is so toxic to some species of fish that it's believed that a single drop in a swimming pool could be fatal.",
+      "url": "https://abc7news.com/post/toxic-pollutant-6ppd-car-tires-reaching-bay-area-waters-scientists-san-francisco-estuary-institute-say/19222219/",
+      "image_url": "https://cdn.abcotvs.com/dip/images/19222218_DIDIT001_Toxic_Tire_WEB.jpg",
+      "source_icon": "https://n.bytvi.com/abc7news.jpg",
+      "source": "Abc7 News",
+      "published_at": "2026-06-06 23:15:32",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "cbafd5a1057edd68cfcc3d4c0ceff2d8",
       "title": "The SETI Institute Releases Technosignature Report on 3I/ATLAS",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-06-05 19:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "76949b3f3f61db0e951c84bc8543ed1e",
-      "title": "Dengue is no longer just a travel risk—what Google's mosquito plan could mean for your summer",
-      "description": "This is not science fiction or some perverse prank. A Silicon Valley tech giant is seeking federal approval to release up to 64 million sterilized male mosquitoes in California and Florida over the next two years.",
-      "url": "https://phys.org/news/2026-06-dengue-longer-google-mosquito-summer.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/dengue-is-no-longer-ju.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-05 18:40:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "85d7cb03518e6ac3f01d3e2f781d3bc5",
-      "title": "They've Been Searching for the Milky Way's Black Hole Wind for 50 Years and Finally Found It",
-      "description": "According to theory, all active black holes should produce winds or jets. Astronomers have long searched for wind around the Milky Way’s central supermassive black hole. New images reveal a vacant, cone-shaped region pointing to the black hole. According to new research, only a supermassive black hole could've created this region.",
-      "url": "https://www.universetoday.com/articles/theyve-been-searching-for-the-milky-ways-black-hole-wind-for-50-years-and-finally-found-it",
-      "image_url": "https://www.universetoday.com/article_images/Black_hole_winds_from_a_galactic_core_20260605_194906.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-06-05 18:17:00",
       "language": "english",
       "category": "science"
     }
