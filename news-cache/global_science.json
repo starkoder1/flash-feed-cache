@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-08T08:44:00.674Z",
-  "article_count": 50,
+  "last_updated": "2026-06-08T15:24:36.295Z",
+  "article_count": 49,
   "articles": [
+    {
+      "id": "1badcb052a58f1a2250105f104bd8362",
+      "title": "Machine-learning system detects 1,750 microquakes outlining subduction zone off Alaska",
+      "description": "A machine-learning analysis has identified around 1,750 previously undetected earthquakes along a 155-mile boundary in southern Alaska.",
+      "url": "https://interestingengineering.com/science/ai-detects-thousands-of-microquakes-alaska",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/new-quake.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-08 01:11:22",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2e1345db1fc040c56190104fea63ab2a",
+      "title": "Bumblebees can solve problems like big-brained vertebrates",
+      "description": "Bumblebees may be smarter than we give them credit for, with a new study showing the fuzzy insects have the cognitive plasticity required to overcome ...",
+      "url": "https://refractor.io/biology/bumblebees-solve-problems/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/03b8172bc4a845353c366ac05b7f4f221ca6a742/_xlarge.webp",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-06-08 00:08:40",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bacfa72c27ebda853ecf3069e0d5f779",
+      "title": "Seahorses and shark fins are illegally trafficked. An AI tool could help stop this crime",
+      "description": "Many marine creatures are among the 4,000 species affected by wildlife trafficking.",
+      "url": "https://theconversation.com/seahorses-and-shark-fins-are-illegally-trafficked-an-ai-tool-could-help-stop-this-crime-284448",
+      "image_url": "https://images.theconversation.com/files/740181/original/file-20260605-71-hncxir.jpg?ixlib=rb-4.1.0&rect=0%2C811%2C3024%2C1512&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-06-07 23:31:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "77c5d084d26cc6f6ec18f78a570358b0",
+      "title": "Can AI detect smuggled sea cucumbers?",
+      "description": "In a new study, an AI tool identified images of seahorse, shark fin and sea cucumber samples in luggage",
+      "url": "https://www.scientificamerican.com/article/can-ai-detect-smuggled-sea-cucumbers/",
+      "image_url": "https://static.scientificamerican.com/dam/asset/35f5f21f-7ed7-45dd-968d-10785d23ae62/sea-cucumber.jpg?m=1780692470.006&w=1200",
+      "source_icon": "https://n.bytvi.com/scientificamerican.png",
+      "source": "Scientificamerican",
+      "published_at": "2026-06-07 23:05:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d6ed6cd0da0f164b141d0c27858a005c",
+      "title": "Can birds outsing traffic? Some are trying",
+      "description": "New research from scientists at the Centre for Ecological Research in Hungary finds that some birds living in cities are changing their songs to compete with traffic and other urban noise.",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5828822/can-birds-outsing-traffic-some-are-trying",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-06-07 20:53:15",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8a9d933a985c49b8e3f4883ffa098c2f",
+      "title": "Bulldozers in paradise: how a massive infrastructure project threatens an isolated island community",
+      "description": "India plans to build a major port, airport and town on pristine, remote Great Nicobar Island. Supporters say it could boost trade and jobs, but critics worry about environmental damage.",
+      "url": "https://www.npr.org/2026/06/07/nx-s1-5814156/bulldozers-in-paradise-how-a-massive-infrastructure-project-threatens-an-isolated-island-community",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-06-07 20:53:14",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "5d2f992d0be7228e62ac55aeb67ac3f2",
       "title": "Antares reaches reactor criticality under Trump pilot program, marking major nuclear milestone",
@@ -518,90 +590,6 @@
       "published_at": "2026-06-06 16:30:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "88147e0f31158b6d343ae93c3bda68c4",
-      "title": "Research shows that a majority of Christian religious leaders accept the reality of climate change but have never mentioned it to their congregations",
-      "description": "Churchgoers who think their religious leaders don’t believe humans are driving climate change are less likely to discuss it with fellow congregants or take a...",
-      "url": "https://www.yahoo.com/news/science/articles/research-shows-majority-christian-religious-140805445.html",
-      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/dc40f11e1b88dc93a270dfdea1637ee2",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-06-06 14:08:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ea0fce2ba8eb5aaafcbf8ede9625f1d6",
-      "title": "Black Holes May Hint at the Universe Being a Hologram — but Is It True?",
-      "description": "Learn more about the holographic principle and why some theoretical physicists think the universe could be a hologram.",
-      "url": "https://www.discovermagazine.com/black-holes-may-hint-at-the-universe-being-a-hologram-but-is-it-true-49214",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59567/hologram-of-planets-and-space-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-06-06 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6f29ef92b4ac35500d1cb5247a7b40cf",
-      "title": "Chinese Post Office Deploys Humanoid Robots to Sort Mail",
-      "description": "Just a cog in the machine. The post Chinese Post Office Deploys Humanoid Robots to Sort Mail appeared first on Futurism .",
-      "url": "https://futurism.com/robots-and-machines/chinese-post-office-humanoid-robots-mail",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/chinese-post-office-humanoid-robot-mail.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-06 13:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "04b0e8ca9ad55cc35d8769a86ea68334",
-      "title": "Magnetoelectric antennas could transform how underwater robots talk",
-      "description": "Most underwater robots lose contact with the surface the moment they descend. But a new antenna technology, borrowed from the physics of medical ...",
-      "url": "https://newatlas.com/engineering/magnetoelectric-antennas-submarine-robots-communications/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/59da7e657cbe489790f989eda473d51bc2ebf556/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-06 13:03:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "99f06b5560435bd4727c74cdcbb8316f",
-      "title": "Saturday Citations: Greenland sharks; quantum weirdness; people are mostly pretty chill",
-      "description": "This week, researchers reported that GLP-1 medications may influence the biology of aging. Hidden meltwater in deep Antarctic coastal waters has a strong climate impact. And a novel prostate cancer treatment reduced risk of disease progression by half in a clinical trial.",
-      "url": "https://phys.org/news/2026-06-saturday-citations-greenland-sharks-quantum.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/saturday-citations-gre.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-06 13:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "282734c8f5dc439aec0817bb15e932ca",
-      "title": "Researchers Put AI Models in Charge of Analyzing Sports, and They Choked Spectacularly",
-      "description": "\"It cannot tell you why things happen, and it cannot tell you what’s gonna happen next.\" The post Researchers Put AI Models in Charge of Analyzing Sports, and They Choked Spectacularly appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/researchers-ai-models-sports-analysis-basketball",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/researchers-ai-models-sports-analysis-basketball.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-06 12:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "98da2bc338bbc8e3c243ffb9f5f6a8f1",
-      "title": "New US partnership aims to extract critical semiconductor materials from aluminum waste",
-      "description": "Ames National Laboratory and Indium Corporation are using AI to develop a domestic gallium supply chain for semiconductors.",
-      "url": "https://interestingengineering.com/innovation/us-to-extract-critical-semiconductor-materials",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Ames-Lab-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-06 12:12:29",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
