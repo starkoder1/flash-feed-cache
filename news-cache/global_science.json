@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-08T15:24:36.295Z",
-  "article_count": 49,
+  "last_updated": "2026-06-08T18:17:51.683Z",
+  "article_count": 45,
   "articles": [
+    {
+      "id": "0de8503f9130e3cb69d56b28bed392b1",
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "description": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do",
+      "image_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nqfj9v.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-08 06:09:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "608835dbae316a5a3b18c46080051074",
+      "title": "Study found: These are the fruits that protect the body against accelerated aging",
+      "description": "Researchers found that people who consumed more fruits and beverages rich in polyphenols were at a lower risk for accelerated cellular aging. Which foods made the list?",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-897840",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/723413",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-08 05:01:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f8e7dd292b20ecba30b942e028d53164",
+      "title": "Pioneering cancer specialist who became test case for world-first experimental treatment dies",
+      "description": "Prof Richard Scolyer’s groundbreaking work on immunotherapy revolutionised treatment of advanced melanoma",
+      "url": "https://www.independent.co.uk/news/world/australasia/richard-scolyer-melanoma-cancer-treatment-death-b2991503.html",
+      "image_url": "https://static.independent.co.uk/2024/05/14/05/newFile.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-06-08 04:36:37",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "1badcb052a58f1a2250105f104bd8362",
       "title": "Machine-learning system detects 1,750 microquakes outlining subduction zone off Alaska",
@@ -506,90 +542,6 @@
       "published_at": "2026-06-06 18:30:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "cf14e1009cd4170c989388222d862f1c",
-      "title": "Why scammers target retirees in a 6-week summer window",
-      "description": "Scammers target retirees during the six-week stretch from Memorial Day to the Fourth of July using fake rentals, grandparent scams and public Wi-Fi traps.",
-      "url": "https://www.foxnews.com/tech/scammers-target-retirees-6-week-summer-window",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/3-Why-scammers-target-retirees-in-a-6-week-summer-window.jpeg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-06-06 17:52:06",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "b8df524cd1eed2e0ac297d45d7a77b71",
-      "title": "Catholic Church Boots Exorcist After He Said UFOs Are Demons",
-      "description": "\"I ask forgiveness.\" The post Catholic Church Boots Exorcist After He Said UFOs Are Demons appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/catholic-church-removes-exorcist-demons-ufos",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/catholic-church-removes-exorcist-demons-ufos.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-06 17:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "07df76b52cd2e3da11779056ae32f667",
-      "title": "New study finds hominids used fire 700,000 years earlier than previously recorded",
-      "description": "Researchers analyzed 161 fossils with a new rapid and non-destructive protocol, based on stimulating the bone remains with an external energy source, called luminescence.",
-      "url": "https://interestingengineering.com/culture/hominids-used-fire-700000-years-earlier",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Fire02.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-06 17:18:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "db21c92434eb1cc7425253e7846b2472",
-      "title": "Mystery of America's Nessie deepens as strange creature appears behind boat in chilling video",
-      "description": "Two filmmakers have discovered what appears to be the most convincing evidence for a mysterious lake-dwelling monster in Lake Champlain between Vermont and New York.",
-      "url": "https://www.dailymail.com/sciencetech/article-15876823/Mystery-Americas-Nessie-deepens-strange-creature-appears-boat-chilling-video.html",
-      "image_url": "https://i.dailymail.com/1s/2026/06/05/20/109161755-0-image-a-32_1780688929781.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-06-06 16:51:47",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0006f52c9aed544acb3a873d20f44780",
-      "title": "NASA’s X-59 plane goes supersonic for the first time",
-      "description": "This experimental plane, which reached supersonic speeds yesterday, is designed to travel faster than the speed of sound without creating bothersome sonic booms",
-      "url": "https://www.scientificamerican.com/article/nasas-x-59-plane-goes-supersonic-for-the-first-time/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/7785d622-4b84-43fb-8796-6218286b4cb3/x59-first-supersonic-ata-01.jpg?m=1780764545.702&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-06-06 16:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "55476a5b9a2ed3e544b783d56fb3807b",
-      "title": "Her Bodhi Claims Evaluated: What Research Reveals About This Primal Queen Alternative, Weight Loss Support and Consumer Reviews",
-      "description": "An independent, research-informed evaluation of the Her Bodhi botanical formula — examining its ingredient benefits, weight loss positioning, menopause wellness support, disclosed side effects, and publicly available consumer feedback. An independent, research-informed evaluation of the Her Bodhi botanical formula — examining its ingredient benefits, weight loss positioning, menopause wellness support, disclosed side effects, and publicly available consumer feedback.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/06/06/3307690/0/en/Her-Bodhi-Claims-Evaluated-What-Research-Reveals-About-This-Primal-Queen-Alternative-Weight-Loss-Support-and-Consumer-Reviews.html",
-      "image_url": "https://ml.globenewswire.com/Resource/Download/cc4870b2-3f7e-4801-8b38-54355ecc924f/picture-1.png",
-      "source_icon": "https://n.bytvi.com/globenewswire_fr.jpg",
-      "source": "Globenewswire_fr",
-      "published_at": "2026-06-06 16:32:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "53a485dfcc7cbfba9b4964a65ebcd4c6",
-      "title": "Meta So Desperate for Compute That It’s Building “Data Centers” That Are Just Tents Filled With AI Chips",
-      "description": "It's a bandaid fix. The post Meta So Desperate for Compute That It’s Building “Data Centers” That Are Just Tents Filled With AI Chips appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/meta-compute-ai-data-centers-tents-chips",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/meta-compute-ai-data-centers-tents-chips.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-06 16:30:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
