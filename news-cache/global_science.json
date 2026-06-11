@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-11T15:31:41.418Z",
+  "last_updated": "2026-06-11T18:40:07.246Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5033ac838ff77af6b76e0502795ad6a2",
+      "title": "Morning Meeting: Purga antes de la llegada de SpaceX",
+      "description": "La fuerte sacudida sufrida por los semiconductores sigue golpeando a Estados Unidos. Los resultados publicados anoche por Oracle reavivaron las dudas sobre la rentabilidad de la fiebre inversora en...",
+      "url": "https://es.marketscreener.com/noticias/purga-antes-de-la-llegada-de-spacex-ce7f5cdbd18cf421",
+      "image_url": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-04-23T101009Z_1_LYNXMPEM3M0L1_RTROPTP_4_SPACEX-IPO.JPG",
+      "source_icon": "https://n.bytvi.com/marketscreener.png",
+      "source": "Marketscreenerc",
+      "published_at": "2026-06-11 06:35:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c29b648b307f9ebdd2e82314a5e8e7d0",
+      "title": "The world's first anti-ageing gene therapy has just been injected into a human - here's what it does",
+      "description": "World’s first anti-ageing gene therapy trial begins as ER-100 is injected into a human eye, testing partial cellular reprogramming to restore vision and fight ageing",
+      "url": "https://gulfnews.com/world/americas/the-worlds-first-anti-ageing-gene-therapy-has-just-been-injected-into-a-human-heres-what-it-does-1.500570525",
+      "image_url": "https://media.assettype.com/gulfnews/import/2024/09/10/Young-and-old-person-aging_191dc7c0c03_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-06-11 05:39:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c938a05de465adcf443d1ed2ffff0e39",
+      "title": "Scientists debunk common health misconception about living with cats",
+      "description": "Cat allergen exposure is common even outside home, scientists say",
+      "url": "https://www.independent.co.uk/news/science/living-with-cats-health-asthma-misconception-b2993687.html",
+      "image_url": "https://static.independent.co.uk/2026/06/11/3/49/Portrait-of-a-British-Shorthair-kitten.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-06-11 05:28:24",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "500a8da926d9058fb6bbaa348ff1dc3e",
+      "title": "Is this egg healthier than regular eggs?",
+      "description": "They are small, highly photogenic, and considered more prestigious, but are quail eggs healthier than regular eggs? Here are all the facts.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-898304",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724180",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-11 05:04:20",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "eb21a41a60494fb2fbae9789b816e041",
+      "title": "Could AI transform mental health research? New study tests whether LLMs can simulate human emotions",
+      "description": "AI language models can mimic human emotional states, opening new doors for mental health research, according to a new study.",
+      "url": "http://www.euronews.com/health/2026/06/11/could-ai-transform-mental-health-research-new-study-tests-whether-llms-can-simulate-human-",
+      "image_url": "https://images.euronews.com/articles/stories/09/79/31/99/1440x810_cmsv2_13e722fc-1318-534c-a3aa-58442ce73218-9793199.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-06-11 05:00:35",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dcbdf1ddc95ea588beeb3636875326b9",
+      "title": "How can we improve noisy labor market data?",
+      "description": "Data on labor markets is incredibly important to policymakers, from state and federal legislators to the central bank and Treasury Department. But this data is often noisy or incomplete. A new BPEA paper draws on a large body of data sets going back to 1960 to develop a novel approach to studying labor markets that can help fill these gaps. On this episode of the Brookings Podcast on Economic Activity, Brookings Senior Fellow Louise Sheiner talks to Ayşegül Şahin, one of the paper authors, about this new methodology.",
+      "url": "https://www.brookings.edu/articles/how-can-we-improve-noisy-labor-market-data/",
+      "image_url": "https://www.brookings.edu/wp-content/uploads/2026/06/shutterstock_2145799255.jpg?quality=50",
+      "source_icon": "https://n.bytvi.com/brookings.png",
+      "source": "Brookings",
+      "published_at": "2026-06-11 04:30:06",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "8e9624c374b33345fd594d720eddec67",
       "title": "Private space tourism is taking off – but laws on outer space are from another era",
@@ -530,78 +602,6 @@
       "published_at": "2026-06-10 05:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "1b5cf2ff62fa594559f27883795824aa",
-      "title": "The Milky Way's star-forming edge may be closer than we thought",
-      "description": "Astronomers have uncovered a surprising twist in the Milky Way's story. By determining the ages of more than 100,000 giant stars, an international ...",
-      "url": "https://refractor.io/space/milky-way-edge-closer-than-thought/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/971c65670e56ae1a7ada57d42ff9caa67a52c56f/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-10 04:19:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f40ad45647278af25f5e2b8efb47db7a",
-      "title": "Equipping medical students for an AI-enhanced future",
-      "description": "AS artificial intelligence (AI) reshapes industries across the globe, one question looms large for students choosing their future careers: Will healthcare be replaced or redefined?",
-      "url": "https://www.thestar.com.my/news/nation/2026/06/10/equipping-medical-students-for-an-ai-enhanced-future",
-      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951393.jpg",
-      "source_icon": "https://n.bytvi.com/thestar_my.png",
-      "source": "The Star",
-      "published_at": "2026-06-10 03:28:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3375ad9e5667471d91726dd709faab86",
-      "title": "Social Security outlook turns darker as shortfall arrives sooner",
-      "description": "Rising healthcare costs and government spending have contributed to a projected depletion date that is less than 10 years from now.",
-      "url": "https://www.oregonlive.com/nation/2026/06/social-security-outlook-turns-darker-as-shortfall-arrives-sooner.html",
-      "image_url": "https://www.oregonlive.com/resizer/v2/EVID5XJ6QFFCPANXNM5X6DTONA.jpg?auth=39776375fe274fbf19948826e4a84c3335eebaaf3fb7ecbbbcf400ddd53b6ce2&smart=true&height=1200",
-      "source_icon": "https://n.bytvi.com/oregonlive.png",
-      "source": "Oregon Local News",
-      "published_at": "2026-06-10 03:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3d2543f8874cc68f4863de92480eae42",
-      "title": "Survival of five million amphibians and reptiles displaced by construction in British Columbia may not be tracked",
-      "description": "UBC researchers have found that more than five million amphibians and reptiles were displaced by development in British Columbia in just four years—and that there is no requirement to monitor survival rates. The paper published in the Journal of Wildlife Management is the first of its kind to document the large-scale herpetofauna relocation taking place in the province.",
-      "url": "https://phys.org/news/2026-06-survival-million-amphibians-reptiles-displaced.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/ubc-study-5-million-am.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-10 02:20:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1768de4fea7d03bd30e3c3ec7b1edbf8",
-      "title": "Physicists harness potential of quantum phase transitions",
-      "description": "Researchers at University College Dublin and international collaborators have just published a detailed and accessible guide that aims to translate theoretical ideas into practical devices for quantum enhanced sensing technologies.",
-      "url": "https://phys.org/news/2026-06-physicists-harness-potential-quantum-phase.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/physicists-harness-pot.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-10 01:20:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6816db688f5d8e4d3e2055ec66ce225a",
-      "title": "Trump family promoting coins commemorating White House UFC fight; cost up to $11,999.99",
-      "description": "Anderson Cooper reports on the \"We The People\" medallion joining the laundry list of Trump-branded merchandise promoted by the president and his family.",
-      "url": "https://www.cnn.com/2026/06/09/politics/video/ac360-trump-family-promoting-coins-commemorating-white-house-ufc-fight-cost-up-to-usd11-999-99",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ac-thumbnail-coin.png?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-10 01:17:16",
-      "language": "english",
-      "category": "politics"
     }
   ]
 }
