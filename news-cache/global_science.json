@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-12T17:58:08.186Z",
+  "last_updated": "2026-06-12T21:23:08.393Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "82e436397f139068040cb2c04637d892",
+      "title": "One photon, two reactions—new catalyst converts CO2 and biowaste simultaneously",
+      "description": "Researchers have developed a solar-driven catalyst material that harnesses the energy of a single photon to reduce carbon dioxide and oxidize organic waste at the same time, producing valuable chemicals in both reactions.",
+      "url": "https://phys.org/news/2026-06-photon-reactions-catalyst-biowaste-simultaneously.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/one-photon-two-reactio.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-06-12 09:00:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f154561d16ad7d59c3db479bfa7c2b95",
+      "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+      "description": "“American science is too valuable to be turned into a political football,” writes David J. Skorton, president of the Association of American Medical Colleges.",
+      "url": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_711966804-1024x576.jpeg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-06-12 08:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "607c8384a8a85d4f5c164e64e1fd5673",
+      "title": "Encapsulation Research Advances Mission-Critical Materials",
+      "description": "Johns Hopkins APL researchers are using encapsulation, a technique that traps reactive chemicals inside microscopic shells, to control when materials activate and advance applications such as underwater adhesives and faster-drying inks.",
+      "url": "https://www.jhuapl.edu/news/news-releases/260612-encapsulating-materials-for-mission-needs",
+      "image_url": "https://www.jhuapl.edu/sites/default/files/2026-06/20260611-Microcapsule-Optimization.jpg",
+      "source_icon": "https://n.bytvi.com/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-06-12 08:21:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "87929d87eb359dfd65a195963dd7a3e0",
+      "title": "Is science in need of autonomous AI or just better tools?",
+      "description": "As technology developers and researchers rush to develop autonomous AI research tools (i.e., systems that independently perform tasks by designing their workflows and utilizing available tools) an urgent but rarely discussed question is: Do we really need such tools at...",
+      "url": "https://buffalonews.com/article_a359f2d2-69c7-5f78-ae85-253e9527be52.html",
+      "image_url": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/custom/image/661b9d20-c537-11ea-a16f-1fed0e01c517.jpg?resize=600%2C315",
+      "source_icon": "https://n.bytvi.com/buffalonews.png",
+      "source": "Buffalonews",
+      "published_at": "2026-06-12 07:06:10",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "d615e4d2df0637d292c627f613073b8f",
       "title": "Missing nuclear official's final words before vanishing with a gun revealed as case takes disturbing turn",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/jpost.png",
       "source": "Jpost",
       "published_at": "2026-06-11 07:01:41",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "5033ac838ff77af6b76e0502795ad6a2",
-      "title": "Morning Meeting: Purga antes de la llegada de SpaceX",
-      "description": "La fuerte sacudida sufrida por los semiconductores sigue golpeando a Estados Unidos. Los resultados publicados anoche por Oracle reavivaron las dudas sobre la rentabilidad de la fiebre inversora en...",
-      "url": "https://es.marketscreener.com/noticias/purga-antes-de-la-llegada-de-spacex-ce7f5cdbd18cf421",
-      "image_url": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-04-23T101009Z_1_LYNXMPEM3M0L1_RTROPTP_4_SPACEX-IPO.JPG",
-      "source_icon": "https://n.bytvi.com/marketscreener.png",
-      "source": "Marketscreenerc",
-      "published_at": "2026-06-11 06:35:49",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c29b648b307f9ebdd2e82314a5e8e7d0",
-      "title": "The world's first anti-ageing gene therapy has just been injected into a human - here's what it does",
-      "description": "World’s first anti-ageing gene therapy trial begins as ER-100 is injected into a human eye, testing partial cellular reprogramming to restore vision and fight ageing",
-      "url": "https://gulfnews.com/world/americas/the-worlds-first-anti-ageing-gene-therapy-has-just-been-injected-into-a-human-heres-what-it-does-1.500570525",
-      "image_url": "https://media.assettype.com/gulfnews/import/2024/09/10/Young-and-old-person-aging_191dc7c0c03_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "source_icon": "https://n.bytvi.com/gulfnews.png",
-      "source": "Gulf News",
-      "published_at": "2026-06-11 05:39:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c938a05de465adcf443d1ed2ffff0e39",
-      "title": "Scientists debunk common health misconception about living with cats",
-      "description": "Cat allergen exposure is common even outside home, scientists say",
-      "url": "https://www.independent.co.uk/news/science/living-with-cats-health-asthma-misconception-b2993687.html",
-      "image_url": "https://static.independent.co.uk/2026/06/11/3/49/Portrait-of-a-British-Shorthair-kitten.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-06-11 05:28:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "500a8da926d9058fb6bbaa348ff1dc3e",
-      "title": "Is this egg healthier than regular eggs?",
-      "description": "They are small, highly photogenic, and considered more prestigious, but are quail eggs healthier than regular eggs? Here are all the facts.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-898304",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724180",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-06-11 05:04:20",
       "language": "english",
       "category": "health"
     }
