@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-12T14:30:23.715Z",
+  "last_updated": "2026-06-12T17:58:08.186Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "d615e4d2df0637d292c627f613073b8f",
+      "title": "Missing nuclear official's final words before vanishing with a gun revealed as case takes disturbing turn",
+      "description": "The final chilling words of a missing nuclear lab official tied to classified secrets have been revealed as new details in his disappearance have been released by police.",
+      "url": "https://www.dailymail.com/sciencetech/article-15891997/missing-nuclear-official-steven-garcia-disappearance-albuquerque.html",
+      "image_url": "https://i.dailymail.com/1s/2026/06/11/21/109291685-0-image-a-10_1781210259241.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-06-12 05:20:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b0634d4222871e431d82364e454a0765",
+      "title": "Ancient DNA shared with Neanderthals may explain human language",
+      "description": "A tiny set of ancient genetic “switches” may have played a surprisingly large role in making human language possible. Researchers found that these DNA regions, which act like volume controls for genes involved in brain development, have an outsized influence on language ability despite making up less than 0.1% of the genome.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024612.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/dna-cave-painting.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-12 05:13:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "74be850e51e4bd246ad439e5955e9d57",
+      "title": "Ex-South Korean President Yoon Suk Yeol sentenced to 30 years in jail over Pyongyang drone plot",
+      "description": "A South Korean court sentenced former President Yoon Suk Yeol to 30 years in prison on Friday over charges linked to military drones sent over Pyongyang to help create a pretext for his failed December 2024 martial law declaration, Yonhap reported.",
+      "url": "https://www.cnn.com/2026/06/11/asia/south-korean-yoon-suk-yeol-drone-case-jail-intl-hnk",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2211194900.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-06-12 03:22:20",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "36a16c2c74ab6bb26aba3d2cfa29f502",
+      "title": "Building robust materials from start may ease critical mineral risks, perspective argues",
+      "description": "Researchers at the Federal Institute for Materials Research and Testing (BAM) outline in a perspective paper how high-performance materials for batteries, hydrogen technologies, wind turbines, energy conversion, chemical processes and modern electronics can be designed to be more sustainable, safer and more resource-efficient in the future. This is intended to address growing dependencies on critical raw materials, limited recyclability and performance losses in practical use.",
+      "url": "https://phys.org/news/2026-06-robust-materials-ease-critical-mineral.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/how-high-performance-m.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-06-12 03:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ce03f588de8545826d3a2e5c7f49b0ef",
+      "title": "Enliven Therapeutics prissätter nyemission på 400 miljoner USD",
+      "description": "Enliven Therapeutics prissätter nyemission på 400 miljoner USD",
+      "url": "https://se.investing.com/news/company-news/enliven-therapeutics-prissatter-nyemission-pa-400-miljoner-usd-93CH-480695",
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_L.jpg",
+      "source_icon": "https://n.bytvi.com/investing_se.jpg",
+      "source": "Investing Sverige",
+      "published_at": "2026-06-12 02:47:09",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "9b28637b6a926039176b898bc7023e9e",
       "title": "How the Middle East is rewriting the rules of life sciences",
@@ -48,6 +108,18 @@
       "source_icon": "https://n.bytvi.com/investing_se.jpg",
       "source": "Investing Sverige",
       "published_at": "2026-06-12 00:06:19",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7e9a8ca17572a95d5a38898caa343df7",
+      "title": "Could a crane fly’s nervous system inspire new technology to help humans?",
+      "description": "Case Western Reserve biologists are intrigued by the potential",
+      "url": "https://case.edu/news/could-crane-flys-nervous-system-inspire-new-technology-help-humans",
+      "image_url": "https://case.edu/news/sites/default/files/styles/opengraph_image/public/2026-06/CraneFlyPicture.jpeg?h=97c79c76&itok=BKtl3V3T",
+      "source_icon": "https://n.bytvi.com/case_edu.png",
+      "source": "Cwru Newsroom | Case Western Reserve University",
+      "published_at": "2026-06-12 00:00:00",
       "language": "english",
       "category": "science"
     },
@@ -530,78 +602,6 @@
       "published_at": "2026-06-11 05:04:20",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "eb21a41a60494fb2fbae9789b816e041",
-      "title": "Could AI transform mental health research? New study tests whether LLMs can simulate human emotions",
-      "description": "AI language models can mimic human emotional states, opening new doors for mental health research, according to a new study.",
-      "url": "http://www.euronews.com/health/2026/06/11/could-ai-transform-mental-health-research-new-study-tests-whether-llms-can-simulate-human-",
-      "image_url": "https://images.euronews.com/articles/stories/09/79/31/99/1440x810_cmsv2_13e722fc-1318-534c-a3aa-58442ce73218-9793199.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-06-11 05:00:35",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dcbdf1ddc95ea588beeb3636875326b9",
-      "title": "How can we improve noisy labor market data?",
-      "description": "Data on labor markets is incredibly important to policymakers, from state and federal legislators to the central bank and Treasury Department. But this data is often noisy or incomplete. A new BPEA paper draws on a large body of data sets going back to 1960 to develop a novel approach to studying labor markets that can help fill these gaps. On this episode of the Brookings Podcast on Economic Activity, Brookings Senior Fellow Louise Sheiner talks to Ayşegül Şahin, one of the paper authors, about this new methodology.",
-      "url": "https://www.brookings.edu/articles/how-can-we-improve-noisy-labor-market-data/",
-      "image_url": "https://www.brookings.edu/wp-content/uploads/2026/06/shutterstock_2145799255.jpg?quality=50",
-      "source_icon": "https://n.bytvi.com/brookings.png",
-      "source": "Brookings",
-      "published_at": "2026-06-11 04:30:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8e9624c374b33345fd594d720eddec67",
-      "title": "Private space tourism is taking off – but laws on outer space are from another era",
-      "description": "Commercial operators are launching more rockets and carrying more passengers than ever before. But international space law was written in the 1960s.",
-      "url": "https://theconversation.com/private-space-tourism-is-taking-off-but-laws-on-outer-space-are-from-another-era-283761",
-      "image_url": "https://images.theconversation.com/files/740887/original/file-20260609-57-kl03ld.jpg?ixlib=rb-4.1.0&rect=0%2C249%2C3000%2C1500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-06-11 02:44:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fe2a3be7b08881e58d4bc98483776562",
-      "title": "Smacking leads to worse exam results, research finds",
-      "description": "Smacking children can lead to future behavioural problems and worse exam results, according to new research.",
-      "url": "https://news.sky.com/story/smacking-leads-to-worse-exam-results-research-finds-13552904",
-      "image_url": "https://e3.365dm.com/26/06/1920x1080/skynews-school-exam_7270431.jpg?20260611034023",
-      "source_icon": "https://n.bytvi.com/skynews.png",
-      "source": "Skynew",
-      "published_at": "2026-06-11 02:26:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ad37b44a6605a3b3e13e17aa1521bcd8",
-      "title": "Scientists investigate origins of a ‘ghost particle’ 30x more powerful than any other",
-      "description": "Three years ago, a single “ghost particle” soared into the Mediterranean with more energy than any ever observed before.Category: Astronomy, ...",
-      "url": "https://refractor.io/space/origin-ghost-particle-more-powerful-than-other/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/4d4af859bcd13ca321d419f24da87fc86df09734/_xlarge.webp",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-11 02:25:25",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b23ca83d848147233211514d81a42214",
-      "title": "Where humpbacks gather near Tokyo's remote islands could reshape whale watching and conservation",
-      "description": "Humpback whales are one of the most popular species for whale watching. Since they are active close to the water's surface, groups of whale watchers can often see them breaching and diving during breeding periods. One popular whale watching destination is the Ogasawara Islands—also known as the Bonin Islands—a remote archipelago about 1,000 kilometers south of Tokyo.",
-      "url": "https://phys.org/news/2026-06-humpbacks-tokyo-remote-islands-reshape.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/finding-the-best-habit.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-11 00:20:03",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
