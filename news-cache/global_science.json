@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-13T13:21:48.642Z",
+  "last_updated": "2026-06-13T17:08:37.397Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "87468f3202b671794c98ea7db894417d",
+      "title": "Cirurgia robótica em ortopedia: revolução ou marketing? - parte 1",
+      "description": "Em outras palavras, o robô não substitui o médico. Ele continua sendo apenas uma ferramenta",
+      "url": "https://www.em.com.br/colunistas/tiago-baumfeld/2026/06/7438279-cirurgia-robotica-em-ortopedia-revolucao-ou-marketing-parte-1.html",
+      "image_url": "https://midias.em.com.br/_midias/jpg/2026/03/17/41d5cd46-84da-4098-99bb-a7024aa178d4-65378691.jpeg?20260317174150?20260317174150",
+      "source_icon": "https://n.bytvi.com/estadodeminas.png",
+      "source": "Jornal Estado De Minas",
+      "published_at": "2026-06-13 02:00:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "5db0851c827979019d6549de3ea2594d",
       "title": "Scientists forge 24,000-atom mini universe that generates time without a single clock",
@@ -588,18 +600,6 @@
       "source_icon": "https://n.bytvi.com/investing_se.jpg",
       "source": "Investing Sverige",
       "published_at": "2026-06-12 00:06:19",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7e9a8ca17572a95d5a38898caa343df7",
-      "title": "Could a crane fly’s nervous system inspire new technology to help humans?",
-      "description": "Case Western Reserve biologists are intrigued by the potential",
-      "url": "https://case.edu/news/could-crane-flys-nervous-system-inspire-new-technology-help-humans",
-      "image_url": "https://case.edu/news/sites/default/files/styles/opengraph_image/public/2026-06/CraneFlyPicture.jpeg?h=97c79c76&itok=BKtl3V3T",
-      "source_icon": "https://n.bytvi.com/case_edu.png",
-      "source": "Cwru Newsroom | Case Western Reserve University",
-      "published_at": "2026-06-12 00:00:00",
       "language": "english",
       "category": "science"
     }
