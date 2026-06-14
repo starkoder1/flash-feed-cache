@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-14T17:07:12.492Z",
+  "last_updated": "2026-06-14T20:58:22.572Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "76c23838a8489db95fd1fd3985ba7ae4",
+      "title": "Should you store chocolate in the fridge or in the cupboard? Scientist finally settles the debate - so, do you agree with his advice?",
+      "description": "It's a debate that splits the nation - does chocolate belong in the fridge or the cupboard? Now, scientists have revealed the definitive answer.",
+      "url": "https://www.dailymail.com/sciencetech/article-15883215/store-chocolate-fridge-cupboard-Scientist.html",
+      "image_url": "https://i.dailymail.com/1s/2026/06/08/16/109205595-0-image-a-177_1780931032027.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-06-14 08:48:14",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5a6838d66e61b6b2e7722a6d7b83065c",
+      "title": "A dying star could create a new universe instead of a black hole",
+      "description": "What if some black holes aren’t black holes at all? A new theoretical study suggests that when a massive star collapses, it might not form a singularity hidden behind an event horizon. Instead, the collapse could trigger the birth of a tiny new universe inside the dying star. Driven by dark energy, this miniature cosmos would expand and push back against gravity, preventing complete collapse and creating an exotic object known as a gravastar.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614011846.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/gravastar.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-14 08:08:31",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d8bfb091756d762b2baadccc3be59a18",
+      "title": "The International Space Station is old and leaky. Should it be decommissioned sooner rather than later?",
+      "description": "The International Space Station had a proposed lifespan of 15 years, but it has far exceeded that, and it's starting to show its age. Is it time to deorbit it?",
+      "url": "https://www.cbc.ca/news/science/iss-leaks-9.7231829?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/36876037-6c7e-474b-831c-143681dc1363,1781197971924/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C106%2C2048%2C1152%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-06-14 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d48e64ecb7fb396934262a97a9a43325",
+      "title": "Even if the children seem \"as usual,\" something in them has probably changed",
+      "description": "The security situation in Israel affects the children. The most important thing to understand during this period: Children do not always know how to say \"I am afraid\" or \"I am anxious.\"",
+      "url": "https://www.jpost.com/health-and-wellness/parenting/article-899284",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725503",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-14 07:04:03",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "d0267422522796e7ec709a360cb4aa76",
+      "title": "Rare butterfly find drives conservation research",
+      "description": "Gareth Tilley is credited as being the first to discover the elusive black hairstreak in Surrey.",
+      "url": "https://www.bbc.com/news/articles/cze9nje2xljo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/df91/live/b4752b60-665f-11f1-b68a-af11ef3c7f8c.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-14 06:11:30",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "5ca27c651f67affee2cca5764a7d931e",
       "title": "The difference between the diets revealed | Dr. Maya Rosman",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-06-12 21:59:26",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6c864e0f8878bbcac9909ddf5708d5d7",
-      "title": "NASA Leader Responds to Criticism Over All-Male Artemis III Crew",
-      "description": "NASA’s missions these days rarely feature all-male crews. Jared Isaacman, its administrator, said women play prominent roles throughout the space agency.",
-      "url": "https://www.nytimes.com/2026/06/12/science/nasa-artemis-astronauts-women.html",
-      "image_url": "https://static01.nyt.com/images/2026/06/12/multimedia/12sci-nasa-male-astronauts-fpmc/12sci-nasa-male-astronauts-fpmc-mediumSquareAt3X.jpg",
-      "source_icon": "https://n.bytvi.com/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-06-12 21:58:36",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d0ab3108aefb73d12d241e663d3686be",
-      "title": "FDA Backs the Use of a New Weapon Against Flesh-Eating Screwworm to Treat Infected Pets",
-      "description": "After the New World screwworm was detected in Texas, federal regulators authorized a commonly available flea medication to help treat infections in dogs and cats.",
-      "url": "https://www.discovermagazine.com/fda-backs-the-use-of-a-new-weapon-against-flesh-eating-screwworm-to-treat-infected-pets-49243",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59621/cochliomyia-hominivorax-new-world-screwworm-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-06-12 21:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "38e161f725957f2bc656b4432dbc56e0",
-      "title": "Leonardo da Vinci's Notebooks Are Whole Again, 400 Years After a Collector Cut Them Apart",
-      "description": "Learn how a new digital archive reunites Leonardo da Vinci’s scattered manuscripts, reconnecting drawings and notes that were cut apart more than 400 years ago.",
-      "url": "https://www.discovermagazine.com/leonardo-da-vinci-s-notebooks-are-whole-again-400-years-after-a-collector-cut-them-apart-49241",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59616/da-vinci-notebook-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-06-12 20:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2080a5bc0fe3f591aba8ea773fde3567",
-      "title": "SpaceX's stock wasn't the company's only launch today — It also put 29 Starlink satellites in orbit",
-      "description": "Liftoff of the Falcon 9 rocket occurred at 8:27 a.m. ET, just over an hour before SpaceX went public on the NASDAQ stock market.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-10-54-b1080-ccsfs-asog",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ttGdiKSwRoyvJ2ud4H23A4-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-06-12 20:19:22",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6e7edbf23952fbfc71275911cd12014e",
-      "title": "Ronnie Schell, ‘Gomer Pyle, U.S.M.C.’ and ‘That Girl’ Actor, Dies at 94",
-      "description": "Ronnie Schell, the versatile actor known for his comedic work in “Gomer Pyle, U.S.M.C.” and “That Girl,” died Friday in Los Angeles of natural causes, his publicist confirmed to Variety. He was 94. Known for his work in film, TV and on stage as a comedian, the San Francisco native amassed over 140 credits over [...]",
-      "url": "https://variety.com/2026/tv/obituaries-people-news/ronnie-schell-dead-gomer-pyle-1236780117/",
-      "image_url": "https://variety.com/wp-content/uploads/2026/06/FotoJet-99.jpg",
-      "source_icon": "https://n.bytvi.com/variety.png",
-      "source": "Variety",
-      "published_at": "2026-06-12 20:08:27",
       "language": "english",
       "category": "science"
     }
