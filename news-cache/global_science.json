@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-14T08:06:58.329Z",
+  "last_updated": "2026-06-14T13:25:26.981Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3a15ca4d09c95fe8439e458d1a0ed043",
+      "title": "JWST Finds Exoplanets Choked by Diesel Smog",
+      "description": "It’s 2134, and humanity has finally embraced green technologies while ridding the Earth of harmful fossil-burning technologies, most notably gasoline, wood, coal, and oil. As a result, soot has been rendered obsolete, and all commercial products from soot, including shoes, wires, computer products, and eye products, are now produced from eco-friendly technologies. However, the uber-rich who still fancy non-eco-friendly products are willing to pay soot’s weight in gold for it. Therefore, the Exoplanet Research Corporation outfits its best ship to search for soot-enriched exoplanet atmospheres.",
+      "url": "https://www.universetoday.com/articles/jwst-finds-exoplanets-choked-by-diesel-smog",
+      "image_url": "https://www.universetoday.com/article_images/sooty_doodle_3_750_20260613_211758.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-13 21:18:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f3633bd8bc6a20619b6657ddc3ed74be",
+      "title": "Scientists propose space-based plasma airbag to protect Earth from extreme solar flares",
+      "description": "Check latest news on Astronomy, Space Exploration, Planets, Earth, Mars, NASA news, Asteroid news and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/space/stormwall-space-based-planetary-defense-solar-storm-shield",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-13 19:36:47",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "911a1d4477a4593e7e6df9e528ba56c0",
       "title": "When motion prevents order in active matter systems",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/benzinga.png",
       "source": "Benzinga",
       "published_at": "2026-06-12 19:04:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d56272dfc36e33bc51a9158ece6cf194",
-      "title": "SpaceX Takes Page From Tesla, Launches Merch To Celebrate Ticker, IPO",
-      "description": "To celebrate the largest IPO of all time , SpaceX (NASDAQ: SPCX ) has launched some new merchandise items for fans of the stock or company. SpaceX Launches New Merchandise SpaceX is worth over $2 trillion as a public company after completing its highly anticipated IPO on Friday. The IPO made SpaceX CEO Elon Musk the world's first trillionaire and made long-time SpaceX employees into millionaires. To celebrate, some fans of the company may want to head to the SpaceX merchandise store, which includes some new offerings, as highlighted by Tesla and SpaceX influencer Sawyer Merritt. The store now includes a Liftoff t-shirt for $45 and a \"the ... Full story available on Benzinga.com",
-      "url": "https://www.benzinga.com/markets/ipos/26/06/53177442/spacex-takes-page-from-tesla-launches-merch-to-celebrate-ticker-ipo",
-      "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/12/Spacex-Logo-On-A-Mobile-Phone-Screen-Wit_3.jpeg",
-      "source_icon": "https://n.bytvi.com/benzinga.png",
-      "source": "Benzinga",
-      "published_at": "2026-06-12 19:01:31",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "32c3fa0399b4cc54837c6402d401aa29",
-      "title": "Berkeley Talks: Why kids need awe — and how puppets can help",
-      "description": "Creators of the new Jim Henson Company puppet special “Wowsabout” join researchers from UC Berkeley’s Greater Good Science Center to discuss the complex psychology of wonder as a powerful tool for early childhood resilience. The post Berkeley Talks: Why kids need awe — and how puppets can help appeared first on Berkeley News .",
-      "url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
-      "image_url": "https://news.berkeley.edu/wp-content/uploads/2026/06/Berkeley-Talks_254_awe-1684-1024x585.png",
-      "source_icon": "https://n.bytvi.com/berkeley.png",
-      "source": "University Of California, Berkeley",
-      "published_at": "2026-06-12 18:33:05",
       "language": "english",
       "category": "science"
     }
