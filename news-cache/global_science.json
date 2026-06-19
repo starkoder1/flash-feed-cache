@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-19T14:39:08.285Z",
+  "last_updated": "2026-06-19T17:46:57.890Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "586bbd4c5ca0bb789c0cf806e5914782",
+      "title": "Microplastics in over 75% of pet food, study finds",
+      "description": "Researchers say certain brands and kinds of cat and dog food have more microplastics than others.",
+      "url": "https://www.bbc.com/news/articles/c39yx1kr2z0o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/bc60/live/ccb6e3b0-6b11-11f1-ad9f-addb423b1b6c.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-19 05:10:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e12ae1760a45f949a29a3b7c6a09c54f",
+      "title": "Valar Atomic’s Ward 250 Becomes Second Reactor to Go Critical Under DOE Pilot Program",
+      "description": "Valar Atomics has achieved self-sustaining criticality and completed zero-power testing at Ward 250, its Gen IV tri-structural isotropic (TRISO)-fueled modular high-temperature gas reactor (HTGR), at the Utah San Rafael Energy Lab in Emery County. The project is the second advanced reactor to go critical under the Department of Energy’s (DOE’s) Reactor Pilot Program and the first DOE-authorized [...] The post Valar Atomic’s Ward 250 Becomes Second Reactor to Go Critical Under DOE Pilot Program appeared first on POWER Magazine .",
+      "url": "https://www.powermag.com/valar-atomics-ward-250-becomes-second-reactor-to-go-critical-under-doe-pilot-program/",
+      "image_url": "https://www.powermag.com/wp-content/uploads/2026/06/valar-ward250-flight.jpeg",
+      "source_icon": "https://n.bytvi.com/powermag.png",
+      "source": "Power Magazine",
+      "published_at": "2026-06-19 05:00:06",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a67e8e1b6d1df65d657841f8159ab2ae",
+      "title": "The British innovations saving mothers and babies in the developing world",
+      "description": "From a portable blood pressure monitor to AI-powered ultrasound tools, these inventions are already saving thousands of lives",
+      "url": "https://www.telegraph.co.uk/global-health/women-and-girls/british-innovations-saving-mothers-and-babies/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/global-health/2026/06/18/TELEMMGLPICT000407562503_17817968553560.jpeg?impolicy=OG-Standard",
+      "source_icon": "https://n.bytvi.com/telegraph.png",
+      "source": "The Telegraph",
+      "published_at": "2026-06-19 05:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a45a96f540487173166d9d08cfb325fc",
+      "title": "Black hole winds may be robbing giant galaxies of their future stars",
+      "description": "Astronomers may be closing in on a long-standing cosmic mystery: why some of the universe’s biggest galaxies seem to have far fewer stars than expected. Using NASA- and JAXA-supported XRISM observations of a galaxy called NGC 4151, researchers found strong evidence that supermassive black holes can unleash powerful winds that blow away the raw material needed to make new stars.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041454.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/supermassive-black-hole-in-ngc-4151.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-19 04:26:43",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9c0a6788d134505923e8a11b24999a55",
+      "title": "Scientists discover salty clouds around pink planet",
+      "description": "GJ 504b, the pink planet, is 57 light years away from Earth and now scientists at Northwestern University discovered it has a salty set of clouds surrounding it. Astrophysicist Aneesh Baburaj, who has been leading much of the research, talks with NBC News’ Gadi Schwartz about the discovery and if the pink planet is even a planet after all.",
+      "url": "https://www.nbcnews.com/video/pink-planet-surrounded-by-salty-clouds-scientists-discover-265357381702",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/mpx/2704722219/2026_06/1781839150423_now_staytuned_pink_planet_260618_S3_1920x1080-qlt9zz.jpg",
+      "source_icon": "https://n.bytvi.com/nbcnews.png",
+      "source": "Nbc News",
+      "published_at": "2026-06-19 03:19:19",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "77186cec5d298079f49c6a244a52b95f",
       "title": "Manitoulin high schooler pens third robotics book for kids",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-06-18 05:06:30",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "329b35cd4e3c19403cc3502cd2adf3ee",
-      "title": "The complementary treatment that cancer patients asked to continue even after it ended",
-      "description": "A new Israeli study found that a flower arranging workshop helped cancer patients cope with the disease, eliminated pain, reduced stress, and strengthened their sense of connection to life.",
-      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-898642",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724664",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-06-18 05:01:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3e48061493ff4a12851379b26e0d6a4a",
-      "title": "Axcelead DDP Joins Lilly TuneLab to Advance AI Drug Discovery",
-      "description": "FUJISAWA, Japan--(BUSINESS WIRE)--Axcelead Drug Discovery Partners, Inc. (Axcelead DDP) is pleased to announce that it has entered a collaboration with Lilly TuneLab, a collaborative AI/ML drug discovery platform created by Eli Lilly and Company (Lilly). Lilly TuneLab is designed to accelerate early stage discovery by enabling participating biotech partners to access drug discovery models trained on decades of Lilly’s proprietary research data. Under this collaboration, Axcelead DDP will be abl",
-      "url": "http://www.businesswire.com/news/home/20260617135447/en/Axcelead-DDP-Joins-Lilly-TuneLab-to-Advance-AI-Drug-Discovery/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260617135447/en/2834551/22/ADDP_Logo.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-06-18 05:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "24fa8e004a54d2ea69be737fb4d47e7f",
-      "title": "‘Cyborg soloist’ controls music with hands, eyes and brain",
-      "description": "How a classically trained musician is using wearable tech and algorithms to reinvent the piano recital.",
-      "url": "https://www.cnn.com/world/video/uk-cyborgpianist-transformers-hnk-spc",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-20260618025935346.png?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-18 04:47:42",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "0032a035f268042b1504e947ca1d64b2",
-      "title": "Watch: Seven cheetah cubs born at Whipsnade Zoo",
-      "description": "The cubs are the first to be born at the conservation zoo for 15 years.",
-      "url": "https://www.bbc.com/news/videos/cyv0q1y79v0o",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/1920xn/ichef.bbci.co.uk/images/ic/$widthxn/p0nskqcg.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-18 04:41:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f6c124b2c6f1f8825c739c6fde6568c6",
-      "title": "Moon phase today: What the Moon will look like on June 18",
-      "description": "See the Moon phase expected for June 18, 2026 as well as when the next Full Moon is expected.",
-      "url": "https://mashable.com/science/moon-phase-today-june-18",
-      "image_url": "https://helios-i.mashable.com/imagery/articles/00yZU4BiMlxoapRGn3jDOJO/hero-image.fill.size_1200x675.v1781270276.jpg",
-      "source_icon": "https://n.bytvi.com/mashable_us.jpeg",
-      "source": "Mashable",
-      "published_at": "2026-06-18 02:00:00",
       "language": "english",
       "category": "science"
     }
