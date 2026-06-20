@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-20T13:24:10.895Z",
+  "last_updated": "2026-06-20T17:14:43.170Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "e2dc70880bfe4f677455371605d797e5",
+      "title": "Silence before speaking: Logotherapy helps process trauma, evil after October 7",
+      "description": "Logotherapy emphasizes the importance of a meaning-centered outlook on life to help Oct. 7 survivors and family members work through trauma.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-899830",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726206",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-20 05:01:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a9b0d56db2361cbc1168b315b556ebca",
+      "title": "How to move a beluga across the world",
+      "description": "How does one transport an aquatic animal that can grow up to 4.5 metres and weigh up to 1,900 kilograms? Here’s a step-by-step guide.",
+      "url": "https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/1.7643595,1759544288000/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4096%2C2304%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-06-20 05:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "e77ff59994302d4eff6dca36594ec07d",
+      "title": "Scott Lowe, researcher: ‘Governments must fund science. Pharmaceutical companies want to help, but they also want to make money’",
+      "description": "The geneticist speaks with EL PAÍS about the advances and challenges in the field of cancer research",
+      "url": "https://english.elpais.com/science-tech/2026-06-20/scott-lowe-researcher-governments-must-fund-science-pharmaceutical-companies-want-to-help-but-they-also-want-to-make-money.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/ARABC4ZLUBC47KHGR63FUZCXWU.jpg?auth=32e58155474947c097adb6c0c0e8eadc2906e1f55a7dd8de1d47104eca4cac3f",
+      "source_icon": "https://n.bytvi.com/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-06-20 03:30:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "45ae954f98f51400f5eced2a3231ef53",
+      "title": "Cirurgia robótica em ortopedia: revolução ou marketing? - parte 2",
+      "description": "Planejamento adequado, indicação correta, execução técnica e acompanhamento pós-operatório permanecem sendo os pilares fundamentais da boa prática ortopédica",
+      "url": "https://www.em.com.br/colunistas/tiago-baumfeld/2026/06/7443036-cirurgia-robotica-em-ortopedia-revolucao-ou-marketing-parte-2.html",
+      "image_url": "https://midias.em.com.br/_midias/jpg/2026/05/22/1200x720/1_cirurgia-robotica_1778683917140-1024x576-66696643.jpg",
+      "source_icon": "https://n.bytvi.com/estadodeminas.png",
+      "source": "Jornal Estado De Minas",
+      "published_at": "2026-06-20 02:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "9407938fb530c65d6d4922c66a8e8fbc",
+      "title": "Students make space history with moon power grid",
+      "description": "UH Mānoa and UH Hilo students were finalists in a NASA competition, creating innovative lunar energy solutions for space missions The post Students make space history with moon power grid first appeared on University of Hawaiʻi System News .",
+      "url": "https://www.hawaii.edu/news/2026/06/19/project-petal/",
+      "image_url": "https://www.hawaii.edu/news/wp-content/uploads/2026/06/hilo-manoa-project-petal.jpg",
+      "source_icon": "https://n.bytvi.com/news_hawaii.png",
+      "source": "The University Of Hawaii System",
+      "published_at": "2026-06-20 01:42:59",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "beb5fe663a5053f2209f5671f13948ec",
       "title": "Using Plants, Astronauts Could Create Their Own Medicine",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/unsw_edu.png",
       "source": "Unsw Sydney",
       "published_at": "2026-06-19 00:09:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "60c525e3f3dec6dec08adf1ddd247ce0",
-      "title": "Smart US tool detects dangerous power line arcing before wildfires can start",
-      "description": "ORNL scientists have begun testing smart tools that rapidly detect abnormal grid conditions and alert utilities to potential wildfire risks.",
-      "url": "https://interestingengineering.com/energy/us-tool-dangerous-power-line-wildfires",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Z1_ceffa6.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-18 23:49:17",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "8bd5484ec343f3b7866763d3e5a75bce",
-      "title": "Impact of genomic selection on genetic diversity in five European cattle breeds",
-      "description": "Genomic selection has revolutionized animal breeding and accelerated genetic gains in breeding programs. However, the introduction of genomic selection in some cosmopolitan breeds has also been associated with increased inbreeding rates, raising concerns about the potential effects of genomic selection on genetic diversity in smaller or local breeds.",
-      "url": "https://phys.org/news/2026-06-impact-genomic-genetic-diversity-european.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/impact-of-genomic-sele.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-18 23:40:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8e60509df67ce83a346e1363a8dcfa5d",
-      "title": "Analysis of 352 probiotic supplements finds mismatched microbes across marketed health benefits",
-      "description": "Probiotic supplements found in drugstores nationwide contain an assortment of microbes sold for specific health purposes despite limited understanding of the microbes' connections to their marketed use, new University of Virginia School of Medicine research reveals. But the scientists have assembled sophisticated computer models that could lead to more effective products to shape our microbiomes to improve health.",
-      "url": "https://phys.org/news/2026-06-analysis-probiotic-supplements-mismatched-microbes.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/hand-with-supplement.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-18 23:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dcf810cc702c54ee8400a7f5f53ba5ed",
-      "title": "Physicists made a tiny expanding universe to watch time unfold",
-      "description": "Often attributed to Albert Einstein, the quote by science-fiction writer Ray Cummings still serves as the most succinct explanation for one of the ...",
-      "url": "https://refractor.io/physics/tiny-expanding-universe-watch-time-unfold/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/8915f94efdd0fde9271a2e907340ac94a1c0bf26/_xlarge.webp",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-18 23:25:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "fc7ad1815bb6bed2461fb51ffd0e5c48",
-      "title": "Diamond-based particle detector captures one-picosecond electron bursts for high-rate beam diagnostics",
-      "description": "Physicists at UC Santa Cruz and other institutes across California and New Mexico have developed a detection system that will allow next-generation particle accelerators to better reveal fundamental biological and chemical processes, as well as advance critical areas such as materials science and energy research.",
-      "url": "https://phys.org/news/2026-06-diamond-based-particle-detector-captures.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/team-builds-best-perfo.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-18 23:00:02",
       "language": "english",
       "category": "science"
     }
