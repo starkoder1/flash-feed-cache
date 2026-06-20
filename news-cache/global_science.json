@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-20T17:14:43.170Z",
+  "last_updated": "2026-06-20T21:03:08.325Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f860c37d9ae7225e360ac4dd11ad3899",
+      "title": "Webb reveals a pink alien world wrapped in salt clouds",
+      "description": "NASA's James Webb Space Telescope studies GJ 504 b and suggests it's a giant pink world with mineral salt clouds, possibly a planet.",
+      "url": "https://mashable.com/science/james-webb-space-telescope-pink-planet-salt-clouds",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/01Zkyx72soXnIk7KFYDXykN/hero-image.fill.size_1200x675.v1781821565.jpg",
+      "source_icon": "https://n.bytvi.com/mashable_us.jpeg",
+      "source": "Mashable",
+      "published_at": "2026-06-20 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "821287bafc24295c0f8150364217e873",
+      "title": "Scientists Invent a Way to Brew Espresso With Ultrasonic Waves—No Hot Water Required",
+      "description": "Researchers have demonstrated they can make coffee comparable to conventional espresso using ultrasonic waves. Because the process doesn’t need hot water, it consumes 75 percent less energy.",
+      "url": "https://www.wired.com/story/scientists-brew-espresso-with-ultrasonic-waves/",
+      "image_url": "https://media.wired.com/photos/6a31a3f517ccc179550789a8/16:9/w_2096,h_1179,c_limit/cafespresso.jpg",
+      "source_icon": "https://n.bytvi.com/wired.png",
+      "source": "Wired",
+      "published_at": "2026-06-20 09:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "73a5db7b0ea534e2c9aad2b81ac57b99",
+      "title": "For kids’ sake: Shanti House battles the odds to save Israel's abandoned youth",
+      "description": "Shanti House provides a safe haven for children and young adults seeking resources and a place to call home when they find themselves on the streets or in unsafe home environments.",
+      "url": "https://www.jpost.com/health-and-wellness/article-899833",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726215",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-20 08:02:08",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "d593baf11428f742bbcf7b0d8e095585",
+      "title": "Nature without barriers: Lotem transforms outdoor experiences for people with disabilities",
+      "description": "With wartime keeping Israelis in shelters and indoors, spending time in nature is crucial and the Lotem organization is making sure the same opportunities are there for people with disabilities.",
+      "url": "https://www.jpost.com/health-and-wellness/article-899853",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726272",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-20 08:02:08",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "e2dc70880bfe4f677455371605d797e5",
       "title": "Silence before speaking: Logotherapy helps process trauma, evil after October 7",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/nbcnews.png",
       "source": "Nbc News",
       "published_at": "2026-06-19 03:19:19",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "77186cec5d298079f49c6a244a52b95f",
-      "title": "Manitoulin high schooler pens third robotics book for kids",
-      "description": "Manitoulin Secondary School student Amara Wilson-Zegil has published 'Robofriends and the FIRST Robotics Competition,' the third illustrated children's book in her robotics-inspired series, now available on Amazon.",
-      "url": "https://www.ctvnews.ca/northern-ontario/article/manitoulin-high-schooler-pens-third-robotics-book-for-kids/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/SBNUNDK4ABHBTETGMJ7VRFQTXY.jpeg?auth=7c37d39e11227d6f9c581eb25e1b8a9c5192b17e30204b29feca5029f1c10447&smart=true&width=1920&height=1080",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-06-19 01:58:38",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "1d9160586403157f36af7c311c8f6c94",
-      "title": "Researchers using Webb telescope find \"Pink Planet\" is surrounded by salty clouds",
-      "description": "The \"Pink Planet,\" formally known as GJ504b, was discovered in 2013 and is technically not a planet but rather a \"planetary-mass companion.\"",
-      "url": "https://www.cbsnews.com/news/james-webb-telescope-pink-planet-salt-clouds/",
-      "image_url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/18/fe847aec-1b8b-42cd-a799-591d3d565aff/thumbnail/1200x630/2ab2de80ddaa55f012a94fbe724adf63/157-gj504b-exoplanet-final800px.jpg",
-      "source_icon": "https://n.bytvi.com/cbsnews.png",
-      "source": "Cbs News",
-      "published_at": "2026-06-19 01:49:56",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "c93c337fee7ff98eaaeef2918101e256",
-      "title": "Experts release updated USA-Australia World Cup prediction following latest Pulisic injury updates",
-      "description": "An update to the markets of Folarin Balogun has led experts to update predictions and odds for the United States-Australia Group D match on Thursday, June 18, 2026.",
-      "url": "https://www.oregonlive.com/betting/2026/06/experts-release-updated-usa-australia-world-cup-prediction-following-latest-pulisic-injury-updates.html",
-      "image_url": "https://www.oregonlive.com/resizer/v2/VAGIX4GFNZBKPICPOACRNRFBDE.png?auth=b7a228add2fe9ccafb898340530cb03bc254d2dd58af8a45d3fe4aff557603ec&smart=true&height=1200",
-      "source_icon": "https://n.bytvi.com/oregonlive.png",
-      "source": "Oregon Local News",
-      "published_at": "2026-06-19 00:55:00",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "7aedd6ddc58f2a49b34909e71946ea81",
-      "title": "Helium is more than party balloons. Why Australia needs to take this invisible gas seriously",
-      "description": "Helium quietly keeps MRI scanners, semiconductor factories and quantum computers running. But even though global supply is scarce, Australia may be venting a resource that could help secure its technological future.",
-      "url": "https://www.unsw.edu.au/newsroom/news/2026/06/helium-supply-chains",
-      "image_url": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/stock/2026-06-helium/adobestock_292101155.jpeg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
-      "source_icon": "https://n.bytvi.com/unsw_edu.png",
-      "source": "Unsw Sydney",
-      "published_at": "2026-06-19 00:09:00",
       "language": "english",
       "category": "science"
     }
