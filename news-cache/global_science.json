@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-20T10:25:07.623Z",
+  "last_updated": "2026-06-20T13:24:10.895Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "beb5fe663a5053f2209f5671f13948ec",
+      "title": "Using Plants, Astronauts Could Create Their Own Medicine",
+      "description": "A new pharmaceutical production method could allow astronauts on long space missions to \"grow\" fresh medicines on demand using plants. The work could also bring low-cost pharmaceutical production to resource-limited areas on Earth.",
+      "url": "https://www.universetoday.com/articles/using-plants-astronauts-could-create-their-own-medicine",
+      "image_url": "https://www.universetoday.com/article_images/Veggie-on-ISS-by-NASA-q5chql5x1h3we7zhq48c7wvc7uxgzuuk3tolpwz2v4_20260620_002601.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-20 00:26:51",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7fc6f069a9f934573cea3b0105a4bdd3",
+      "title": "New twisting technique gives scientists unprecedented control of quantum light",
+      "description": "Scientists control quantum light by twisting atom-thin layers of hBN, advancing future quantum technologies.",
+      "url": "https://interestingengineering.com/science/twisted-hbn-layers-control-quantum-light-sources",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/GettyImages-2231236691.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-19 23:56:46",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "23b84efbb54928094a64c1252662099a",
       "title": "Health Ministry investigates suspected Ebola case after traveler develops symptoms",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-06-18 23:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "502057f41fc5c0a8067030db8c2582ff",
-      "title": "Researchers Turn Old Junk Drawer Smartphones Into a Mini Cloud Computing Platform",
-      "description": null,
-      "url": "https://www.cnet.com/tech/mobile/researchers-turn-old-junk-drawer-smartphones-into-a-decent-mini-cloud-computing-platform/",
-      "image_url": "https://www.cnet.com/a/img/resize/377d736bd175c7b5fb51ec5c6108f0aa21bcde7a/hub/2026/06/18/37da2f9e-4f49-4268-b605-4584756d862f/uc-san-diego-smartphone-server-farm.jpg?auto=webp&fit=crop&height=614&width=1092",
-      "source_icon": "https://n.bytvi.com/cnet.png",
-      "source": "Cnet",
-      "published_at": "2026-06-18 22:48:55",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "154dd3a8a795f134b7fc0a96cce1d009",
-      "title": "Plutonium in Earth Rocks Signals Long-ago Cosmic Collision",
-      "description": "A small lump of rock pulled up from the Pacific Ocean seafloor in 1976 is giving scientists new clues about an ancient cosmic event. More than a hundred million years ago, two neutron stars collided. The resulting energetic kilonova sent a rain of long-lived elements, such as isotopes of plutonium, through space. Eventually, this stellar \"debris\" settled onto Earth. Some sank to the bottom of the ocean and got incorporated into a chunk of ferromanganese rock. Hidden inside were a few hundred atoms of plutonium radioisotopes. They provide the strongest clues about what created them in the merger and how long ago it happened.",
-      "url": "https://www.universetoday.com/articles/plutonium-in-earth-rocks-signals-long-ago-cosmic-collision",
-      "image_url": "https://www.universetoday.com/article_images/neutronstarmerger_BNS_20260618_203132.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-06-18 20:51:50",
       "language": "english",
       "category": "science"
     }
