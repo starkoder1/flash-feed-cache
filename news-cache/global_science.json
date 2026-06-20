@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-20T07:41:15.395Z",
+  "last_updated": "2026-06-20T10:25:07.623Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "23b84efbb54928094a64c1252662099a",
+      "title": "Health Ministry investigates suspected Ebola case after traveler develops symptoms",
+      "description": "Israel’s Health Ministry is investigating a suspected Ebola case after a traveler returning from the Democratic Republic of Congo developed fever and headache.",
+      "url": "https://www.jpost.com/health-and-wellness/article-899949",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/726398",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-19 22:01:43",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "84a8814bfcfdb2811a18ca8604fdf3f3",
+      "title": "This self-hosted research tool does what NotebookLM does, but without the daily limits",
+      "description": "NotebookLM set the standard, but this open-source alternative came closer than I expected.",
+      "url": "https://www.xda-developers.com/self-hosted-notebooklm-alternative-without-daily-limits/",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/05/open-notebook-on-desktop-pc-clock-and-lamp-in-view.jpeg?w=1600&h=900&fit=crop",
+      "source_icon": "https://n.bytvi.com/xda_developers.png",
+      "source": "Xda-developers",
+      "published_at": "2026-06-19 22:00:23",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0c64295e73712493999f721c6e8c219f",
+      "title": "A water treatment expert on what could actually fix the Reflecting Pool",
+      "description": "The Trump administration wanted the surface of the Lincoln Memorial Reflecting Pool to be “American flag blue.” A water-treatment expert explains why the pool is still algal green and why the bloom could keep coming back",
+      "url": "https://www.scientificamerican.com/article/a-water-treatment-expert-on-what-could-actually-fix-the-reflecting-pool/",
+      "image_url": "https://static.scientificamerican.com/dam/asset/4963ffb9-2432-47da-b749-235bbc3498d8/Algae-Reflecting-Pool.jpg?m=1781903735.279&w=1200",
+      "source_icon": "https://n.bytvi.com/scientificamerican.png",
+      "source": "Scientificamerican",
+      "published_at": "2026-06-19 22:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7b484b057aa92967693bed36bf5fc9e3",
+      "title": "Space news: Tiny moon explorers, a debate about the expanding universe, and more.",
+      "description": "In this space news roundup, Berly McCoy and Regina Barber of NPR's Short Wave talk about tiny autonomous \"transformers\" that can explore the moon, a debate about the expanding universe, and more.",
+      "url": "https://www.npr.org/2026/06/19/nx-s1-5856296/space-news-tiny-moon-explorers-a-debate-about-the-expanding-universe-and-more",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-06-19 21:57:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3f1c8e4ab7cd4f62a62ea0f791e84e64",
+      "title": "Hidden Mozart Manuscript Reveals Rare Lesson Notes and Music Never Performed Publicly Before",
+      "description": "Learn how a hidden manuscript was identified as Mozart's earliest known lesson notes and found to contain previously unknown compositions.",
+      "url": "https://www.discovermagazine.com/hidden-mozart-manuscript-reveals-rare-lesson-notes-and-music-never-performed-publicly-before-49273",
+      "image_url": "https://cdn.discovermagazine.com/assets/image/59669/mozart-monument-meta.jpg",
+      "source_icon": "https://n.bytvi.com/discovermagazine.png",
+      "source": "Discover Magazine",
+      "published_at": "2026-06-19 21:03:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2e0494994e5baba03d12e33fde1ab5e1",
+      "title": "A private company will build and launch NASA's next Mars orbiter in 2028 — and it's not SpaceX",
+      "description": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
+      "url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tGv7Lot9LU6cXC7HKFJ2QF-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-06-19 21:00:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "4e5041dad29852099737f4fa46204c15",
       "title": "Swiss delegation visit highlights McGill’s transatlantic partnerships in science and innovation",
@@ -530,78 +602,6 @@
       "published_at": "2026-06-18 20:51:50",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "badee51404476a9e8fe250a20e220380",
-      "title": "Hidden fungus inside desert moss could rewrite 470-million-year story of how plants moved onto land",
-      "description": "Mosses are survivors. They can dry into what looks like green dust, only to spring back to life minutes after rain. They can grow on rocks, in deserts, and there's talk of using them to terraform Mars someday. According to new research, mosses have also been hiding something.",
-      "url": "https://phys.org/news/2026-06-hidden-fungus-moss-rewrite-million.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/scientists-just-found.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-18 20:40:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8e39734ec156bbd9f625322df6539734",
-      "title": "Boston University Biomedical Engineer Ji-Xin Cheng Named National Academy of Inventors Fellow",
-      "description": "Precision medicine pioneer holds more than 30 patents and is the cofounder of multiple companies",
-      "url": "https://www.bu.edu/articles/2026/biomedical-engineer-ji-xin-cheng-named-national-academy-of-inventors-fellow/",
-      "image_url": "https://www.bu.edu/files/2026/02/crop-23-1266-CHENG-014.jpg",
-      "source_icon": "https://n.bytvi.com/bu_edu.png",
-      "source": "Bu Today",
-      "published_at": "2026-06-18 20:33:01",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "83e0a9ee9c26e3ac67a48c2be6403808",
-      "title": "A Solution to the Cocktail Party Problem—Hidden in the Brain",
-      "description": "In this video, professors Kamal Sen and David Boas showcase their research on how the brain filters noise.",
-      "url": "https://www.bu.edu/articles/2026/hearing-loss-brain-research/",
-      "image_url": "https://www.bu.edu/files/2026/02/25-1561-HEARING-009_featcrop.jpg",
-      "source_icon": "https://n.bytvi.com/bu_edu.png",
-      "source": "Bu Today",
-      "published_at": "2026-06-18 20:32:55",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "dd731ae258c56140dea105cbe860d6b7",
-      "title": "Biomedical Engineer Wilson Wong Is Boston University’s Innovator of the Year",
-      "description": "Biomedical engineer Wilson Wong, who is using synthetic biology to create new therapies, is Boston University’s Innovator of the Year.",
-      "url": "https://www.bu.edu/articles/2026/biomedical-engineer-wilson-wong-innovator-of-the-year/",
-      "image_url": "https://www.bu.edu/files/2026/05/26-1229-WONG-001_featfeatcrop.jpg",
-      "source_icon": "https://n.bytvi.com/bu_edu.png",
-      "source": "Bu Today",
-      "published_at": "2026-06-18 20:32:50",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "90531cb582e6b901b2f3b2c8bdcbb806",
-      "title": "Renato Rosaldo, Anthropologist Who Disrupted His Discipline, Dies at 85",
-      "description": "After his wife’s death while doing fieldwork, he rejected writing as a detached observer, setting off a profound shift in cultural anthropology.",
-      "url": "https://www.nytimes.com/2026/06/18/science/renato-rosaldo-dead.html",
-      "image_url": "https://static01.nyt.com/images/2026/06/18/multimedia/18rosaldo-02-twqz/18rosaldo-02-twqz-videoSixteenByNineJumbo1600.jpg",
-      "source_icon": "https://n.bytvi.com/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-06-18 20:30:49",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1f9d36f1e5cc6290ccd89de9dfa78bb1",
-      "title": "STAT+: FDA advisory panel endorses Moderna mRNA flu vaccine that was subject of controversy",
-      "description": "A panel of advisers to FDA gave its endorsement to a seasonal mRNA flu vaccine that was developed by Moderna and that earlier this year became the subject of controversy.",
-      "url": "https://www.statnews.com/2026/06/18/fda-mrna-flu-vaccine-vrbpac-advisers-endorse-moderna-shots/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2025/05/AdobeStock_525738206_Editorial_Use_Only-1024x576.jpeg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-06-18 20:26:25",
-      "language": "english",
-      "category": "health"
     }
   ]
 }
