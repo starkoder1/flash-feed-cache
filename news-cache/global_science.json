@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-21T08:20:37.661Z",
+  "last_updated": "2026-06-21T13:45:37.943Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "fafecec23c933b848bac57c417b34d60",
+      "title": "Climate change boosts soybean production but worsens bean quality",
+      "description": "A study published by Food Research International analyzed the triple effect of climate change on soybean quality—increased carbon dioxide (CO2), high temperatures and drought. Using predictive modeling powered by artificial intelligence (AI) and based on experimentally verified data, the study assessed how these pressures would affect the beans. It concluded that the seeds would change their composition, producing 50% more beans but of lower nutritional quality.",
+      "url": "https://phys.org/news/2026-06-climate-boosts-soybean-production-worsens.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/climate-change-boosts.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-06-21 00:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "146b4822bb67a5d72192f13da7780a9f",
+      "title": "Scientists propose radical new theory of consciousness - and claim it doesn't depend on flesh and blood",
+      "description": "Human consciousness is one of the strangest and most stubbornly elusive phenomena in nature. Now, researchers have proposed a radical theory.",
+      "url": "https://www.dailymail.com/sciencetech/article-15901497/Scientists-propose-radical-theory-consciousness.html",
+      "image_url": "https://i.dailymail.com/1s/2026/06/18/15/109442589-0-image-a-3_1781792583982.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-06-20 23:36:29",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0fc6d238b47611dde7b1d1ed82fa2649",
+      "title": "Mourners bury a 6-month-old Ebola victim in Congo outbreak's third orphanage death",
+      "description": "Mourners in eastern Congo have gathered to bury a 6-month-old girl who died from Ebola earlier this week, the region's third orphanage death linked to the outbreak.",
+      "url": "https://www.latimes.com/world-nation/story/2026-06-20/mourners-bury-6-month-old-ebola-victim-in-congo",
+      "image_url": "https://ca-times.brightspotcdn.com/dims4/default/c1b737e/2147483647/strip/false/crop/6434x4289+0+0/resize/1486x991!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7f%2F69%2Fc2f67509463ba92d1138c2f19d3b%2Fa7cbd0bf2ddb471281a6392537f4b1a1.jpg",
+      "source_icon": "https://n.bytvi.com/latimes.png",
+      "source": "Los Angeles Times",
+      "published_at": "2026-06-20 21:55:07",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fa4a4e40c7300158f6747421566412b9",
+      "title": "Butterflies may hold clues to longer lives",
+      "description": "Why do some butterflies live for months while others survive only weeks? Tufts University researcher Jessica Foley explains what Heliconius butterflies can teach us about aging.",
+      "url": "https://www.npr.org/2026/06/20/nx-s1-5862078/butterflies-may-hold-clues-to-longer-lives",
+      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
+      "source_icon": "https://n.bytvi.com/npr.png",
+      "source": "Npr",
+      "published_at": "2026-06-20 21:51:45",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "26c986c6944349aab6b4e84c73dac04b",
       "title": "Utah marks a year of battling measles, which is a concern for the entire U.S.",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/mit.jpg",
       "source": "Massachusetts Institute Of Technology",
       "published_at": "2026-06-19 18:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d6c37451c4269a0040bfc3c466827df2",
-      "title": "US-backed Ward 250 nuclear reactor achieves criticality under DOE program in Utah",
-      "description": "Valar Atomics' Ward 250 reactor achieved criticality in Utah, marking a major milestone for the DOE Reactor Pilot Program.",
-      "url": "https://interestingengineering.com/energy/doe-nuclear-reactor-pilot-program-criticality",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design-13-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-19 17:58:22",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "565dbedd568c4f24aa32a99b377c0222",
-      "title": "How animals communicate to work together across species boundaries",
-      "description": "An international team of researchers have published a new review in Animal Behavior revealing how communication enables cooperation between different animal species. The review, titled \"The ecology and evolution of cues and signals in animal interspecies cooperation,\" highlights how movements, visual displays, calls, and other behavioral cues and signals help partners coordinate interactions and align interests across species boundaries.",
-      "url": "https://phys.org/news/2026-06-animals-communicate-species-boundaries.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-animals-communicat.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-19 14:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "55ef0338b587dd9f004a93a34c5079af",
-      "title": "OpenAI Just Hired a Guy Accused of Terrible Things",
-      "description": "OpenAI hired the cofounder Character.AI, a startup linked to a spate of minor suicides. The post OpenAI Just Hired a Guy Accused of Terrible Things appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/openai-hires-noam-shazeer",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/openai-hires-noam-shazeer.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-19 14:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "2f778034d5036ebe0b041073b0724c15",
-      "title": "Unearthed bathhouse reveals a thriving Roman Nijmegen: 'The Romans did not regard this city as a backwater'",
-      "description": "Excavations in Nijmegen-West have uncovered large sections of a Roman bathhouse. It is the largest bathhouse complex from the Roman period in the Netherlands. Radboud researcher Stephan Mols can often be found at the excavation site. \"The new finds show that the Romans did not regard this city as a backwater. The buildings were even larger and more imposing than we had previously thought.\"",
-      "url": "https://phys.org/news/2026-06-unearthed-bathhouse-reveals-roman-nijmegen.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/unearthed-bathhouse-re-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-19 13:40:02",
       "language": "english",
       "category": "science"
     }
