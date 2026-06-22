@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-22T09:37:49.161Z",
-  "article_count": 50,
+  "last_updated": "2026-06-22T16:24:45.303Z",
+  "article_count": 49,
   "articles": [
+    {
+      "id": "215e661f0f9215ae486ebf980a1e98b4",
+      "title": "Noah's Ark vessel is 'real' as huge excavation gets green light",
+      "description": "Researchers from Noah's Ark Scans have been granted Turkish government permission to conduct a major excavation at the Durupinar Formation.",
+      "url": "https://www.express.co.uk/news/world/2220117/noah-s-ark-vessel-real-huge-excavation-gets-green-light",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2220117_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-06-22 00:26:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b96718c6ef5e5044895be0566f6ab20f",
+      "title": "Communication cues and signals are key to interspecies cooperation, new paper suggests",
+      "description": "NEWPORT, Ore. – Even in the animal world, teamwork requires communication – just ask the fish, dolphins, birds and butterflies who rely on other species for help with food, protection from prey and even parasite removal. A new review of the behaviors of animals who engage in interspecies cooperation, a type of behavior where animals from different species work together for mutual benefit, shows that the information exchanged through cues and signals play an important role in this unique kind of teamwork. Researchers reviewed a dozen documented types of interspecies cooperation, ranging from fish that clean other fishes to ants that guard butterfly larvae and humans who work with honeyguide birds to find bee nests. They found a striking commonality across many of these interactions. “We found that communication through cues and signals plays an important role in this relatively rare interaction; this helps animals work together in the moment,” said Kyra Bankhead, a doctoral student at Oregon State University’s Marine Mammal Institute and one of the study’s co-authors. “Animals can use sounds, movements or other signals to inform decisions about whether, when or how to cooperate with one another.” The findings were just published in the journal Animal Behavior. The work was led by Mauricio Cantor, a behavioral ecologist with OSU’s Marine Mammal Institute; Katie Dunkley of the University of Oxford; Dominic Cram of the University of East Anglia; and Jessica van der Wal of the University of Cape Town, South Africa. Within-species cooperation is well-documented and widespread, but less is known about interspecies cooperation, where animals must communicate effectively across species boundaries while coordinating complementary actions. “We often think of communication as something that happens between members of the same species, but many animals also exchange information with entirely different species to achieve shared goals,” said Cantor, who has extensively studied the cooperative fishing behavior of dolphins and humans. “These interactions remind us that cooperation is not limited to families, social groups or even members of the same species,” he said. “Studying how animals communicate across species boundaries helps us understand how cooperation evolves, and more generally, how interactions between species help shape the natural world.” Animals tend to cooperate across species boundaries in a few areas: cooperative foraging or hunting, where animals work together to increase success; food-for-cleaning services, where a cleaner such as a fish or shrimp removes parasites from the bodies of “client” species, which aids the health of the client; food-for-protection services, where food is exchanged for protection from predators; and shelter-for-protection, where shelter is provided in exchange for predator protection services. This new review of these behaviors clarifies the vital role communication plays in these interactions at three stages: identifying and/or attracting partners; initiating cooperation; and maximizing benefits of cooperation through coordination and preventing harm by one partner to the other. For example, when humans and dolphins work together to find and collect fish, a dolphin gives the human a visual cue that discloses where the fish school is, indicating the right time and place to cast a fishing net, which aids the dolphin in catching its own fish as the net traps the fish. While the new paper offers additional insights into interspecies communication, additional study is needed to better understand this behavior, the researchers said. Those questions include: how do naturally occurring cues and signals in interspecies cooperation compare to those in trained cooperative interactions, such as between humans and trained dogs, birds or other animals? And to what degree are these cues and signals learned or passed down through genetics? “We still have many unanswered questions about this behavior, and hope this work will spur further research,” Bankhead said.",
+      "url": "https://news.oregonstate.edu/news/communication-cues-and-signals-are-key-interspecies-cooperation-new-paper-suggests",
+      "image_url": "https://news.oregonstate.edu/sites/news.oregonstate.edu/files/styles/facebook_1200x/public/2026-06/55330802243_c8dcd9b35c_c.jpg?itok=-5_V-QS9",
+      "source_icon": "https://n.bytvi.com/oregonstate.png",
+      "source": "Oregon State University",
+      "published_at": "2026-06-21 22:20:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b74350855691bffe8c74204ab6fb6086",
+      "title": "Quantum mechanics theory may work without imaginary numbers, new analysis suggests",
+      "description": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In an article published in the journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers—real numbers can, in fact, also be used.",
+      "url": "https://phys.org/news/2026-06-quantum-mechanics-theory-imaginary-analysis.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/does-quantum-mechanics.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-06-21 22:20:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d95ce38cf70858b4bba5552b3e568de4",
+      "title": "I let NotebookLM build my source list, and it found sources I missed",
+      "description": "Source Discovery in NotebookLM helped me find sources I would've missed on my own and gave me an even better starting point.",
+      "url": "https://www.xda-developers.com/notebooklm-discover-sources-source-list/",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/notebooklm-feature.jpeg?w=1600&h=900&fit=crop",
+      "source_icon": "https://n.bytvi.com/xda_developers.png",
+      "source": "Xda-developers",
+      "published_at": "2026-06-21 22:00:22",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0f0dff1d90e619bef7b85b3205d2c00a",
+      "title": "Researchers use drones and AI to capture bird data",
+      "description": "Birds are going extinct at an alarming rate across the globe, but Australian researchers say technology could help turn the tide.",
+      "url": "https://www.abc.net.au/news/2026-06-22/drones-and-ai-help-bring-birds-back-from-brink/106749592",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/8b2bbeccc883ba4e3bbfc5e17c5bea77?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=181&width=862&height=485",
+      "source_icon": "https://n.bytvi.com/abc_net.png",
+      "source": "Abc",
+      "published_at": "2026-06-21 22:00:17",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a9b4a59e9505385b018af41371cd10f4",
+      "title": "California's water crisis driving higher interest in desalination as a new source",
+      "description": "From a fast-melting snowpack in the Sierra to over-pumped groundwater in the Central Valley and a drought on the Colorado River, California's water supply is facing enormous pressure. Increasingly, some believe the only real alternative is to draw water from the Pacific Ocean offshore.",
+      "url": "https://abc7news.com/post/californias-water-crisis-driving-higher-interest-desalination-collected-pacific-ocean-new-source/19323760/",
+      "image_url": "https://cdn.abcotvs.com/dip/images/19348644_062126-kgo-desal-pkg-img.jpg",
+      "source_icon": "https://n.bytvi.com/abc7news.jpg",
+      "source": "Abc7 News",
+      "published_at": "2026-06-21 21:59:17",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "aae52a3dcf210f3f1517a7484a0d2c8f",
       "title": "University of Hawaii AI data center aims to improve healthcare",
@@ -518,90 +590,6 @@
       "published_at": "2026-06-20 16:32:41",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "450a3f56452d24cd2582e9a1f5c94286",
-      "title": "Companies That Embraced AI Are Now Rotting Away in a Very Specific Way",
-      "description": "The work \"slopification\" is real. The post Companies That Embraced AI Are Now Rotting Away in a Very Specific Way appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/companies-embraced-ai-rotting-away",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/companies-embraced-ai-rotting-away.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-20 16:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "63a342bf8098baef20dee3251c8d2b4a",
-      "title": "Making Sense Of Mars’ Tiny Moon Of Phobos",
-      "description": "Understanding the Martian moon of Phobos’ origin hinges on decoding its interior. Japan’s Martian Moons Exploration (MMX) Phobos mission due for launch in late 2026 should help.",
-      "url": "https://www.universetoday.com/articles/making-sense-of-mars-tiny-moon-of-phobos",
-      "image_url": "https://www.universetoday.com/article_images/5263_12_Stickney_Crater_Phobos-full2_20260620_154548.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-06-20 15:34:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f892919441d313ed4d990dbb1d1a949a",
-      "title": "Who needs birth control when you have a smartphone?",
-      "description": "New research suggests smartphones may be contributing to America's declining birth rate, not by preventing pregnancy, but by replacing the real-world interactions that lead to relationships, intimacy, and family formation. Christine Emba joins Smerconish to discuss the latest.",
-      "url": "https://www.cnn.com/2026/06/20/us/video/who-needs-birth-control-when-you-have-a-smartphone",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-20-at-11-01-35-am-20260620150156276.png?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-20 15:14:07",
-      "language": "english",
-      "category": "entertainment"
-    },
-    {
-      "id": "ba389bb21f8d2b9f3f53e26d66481810",
-      "title": "Your brain can be trained, much like your muscles – a neurologist explains how to boost your brain health",
-      "description": "Challenging the brain by exposing it to new situations, tasks and skills can improve its efficiency, much like strength training does for our muscles. But ma...",
-      "url": "https://health.yahoo.com/conditions/neurological/articles/brain-trained-much-muscles-neurologist-140106051.html",
-      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/86073acb9d8c2d37b95d506061893f8f",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-06-20 14:01:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3bea6e1314caafecf8a98d5cfb0aa7a7",
-      "title": "Supermassive black holes may be surrounded by dark matter clusters, new 'echo map' technique suggests",
-      "description": "A technique called echo mapping suggests supermassive black holes, like that at the heart of the Milky Way, are surrounded by clusters of dark matter.",
-      "url": "https://www.space.com/astronomy/dark-universe/supermassive-black-holes-may-be-surrounded-by-dark-matter-clusters-new-echo-map-technique-suggests",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/X4frLnV3REqRWREh5aRwmL-1280-80.png",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-06-20 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ada19d7efbf5b2b111b64f378548d23a",
-      "title": "Microsoft Announces New Feature That Narcs on You to Your Boss",
-      "description": "\"Why is Teams designed to tattle on employees at every turn?\" The post Microsoft Announces New Feature That Narcs on You to Your Boss appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/microsoft-teams-wifi-surveillance-workers",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/microsoft-teams-wifi-surveillance-workers.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-20 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4ca1963c3948d97201473d62f8afdf36",
-      "title": "War Taught this Ukrainian Entrepreneur the Value of Resilience",
-      "description": "Salome Mikadze-Struk is no stranger to adversity. The daughter of refugees, she built a software-development business as an undergraduate at the height of the COVID-19 pandemic and kept it running despite the outbreak of war in her native Ukraine . Now, she’s drawing on her experiences to mentor tech-startup founders and speak publicly about the importance of resilience in entrepreneurship . Mikadze-Struk was studying at Georgetown University, in Washington, D.C., when COVID-19 struck. Classes went online, and she moved back to Ukraine. In the midst of that disruption she saw an opportunity to develop her business idea, called Movadex , by tapping Ukraine’s pool of talented young engineers. Then Russia invaded in early 2022, during her final semester. Taking online classes from bomb shelters and helping employees evacuate to safer parts of the country was surreal, she says, but the team kept the company afloat and she graduated later that year. In 2023, Mikadze-Struk took a hiatus from her business to pursue an MBA at Stanford University, which she completed this year. In her precious spare time she’s been advising startups and giving talks, using her unique perspective to promote the need for resilience in entrepreneurship—something she thinks is increasingly important in the software industry as AI coding tools upend old business models. “You need to be okay with risk, you need to be resilient. You need to be okay with disruption and okay with uncertainty,” she says, “because this is inevitably going to be part of this industry for the foreseeable future.” An Early Focus on Education Mikadze-Struk’s parents had settled in Ukraine after fleeing conflict in the Abkhazia region of Georgia in the early 1990s. “They left everything behind,” she says. “You can look on Google Maps and zoom in on where their houses were and it’s all rubble.” Despite this backstory, Mikadze-Struk says she and her sister had a conventional middle-class upbringing in Kyiv. Her father ran a small shop and her mother was a stay-at-home mom. Her parents placed an emphasis on education and encouraged her to study hard and take part in extracurricular programs such as Ukraine’s Junior Academy of Sciences , which introduces students to research. “They weren’t rich, so they knew that our way to make it in life was not through investments, but through merit-based accomplishments,” she says. When Mikadze-Struk was 14, her family discovered the newly launched Ukraine Global Scholars program, a nonprofit that helps talented students secure scholarships abroad. The program helped her win a full scholarship to the Emma Willard School, a private girl’s school in Troy, N.Y. Discovering Tech After graduating high school in 2018, Mikadze-Struk was accepted to Georgetown to study business administration. But it was outside the classroom that her career direction began to take shape. She won a startup competition with a medical device she had developed for a school project and, while the business idea didn’t go anywhere, it sparked an interest in entrepreneurship. Ukraine’s software industry was booming, and she began attending startup events and competitions in her home country the summer before starting college. There she met her eventual cofounder Nor Newman . Despite both being just 18, they saw a gap in the market. The pair noticed many founders had strong ideas but lacked the technical expertise to realize them, while talented engineering students often struggled to gain real-world experience . Newman had begun informally connecting startups with his college friends, but the pair soon saw commercial potential. “We realized we could actually create our own startup studio and help startups as a team, versus just connecting people,” says Mikadze-Struk. Then, when the COVID-19 pandemic struck in early 2020, halfway through her sophomore year, it brought both disruption and opportunity for Newman and Mikadze-Struk. While travel restrictions and lockdowns made life complicated, there was also a surge of companies looking to move their business online. “COVID really skyrocketed everything we were doing,” she says. Sensing an opportunity, Mikadze-Struk and Newman incorporated Movadex in Ukraine in early 2020. From the start, they decided to focus on not only providing engineering talent, but also helping startups with product development. Many times, says Mikadze-Struk, a founder’s vision for the software doesn’t line up with what users actually want. “What really helped us grow is not just the engineering or quality of code, but rather a holistic approach to creating a product and actually getting into the brain of the user,” she says. Navigating Adversity Back in Ukraine, Mikadze-Struk had to juggle this booming business with studying remotely—taking classes at night and working during the day. It was exhausting, she says, but it also allowed her to immediately apply what she learned in business classes to building her startup. Having successfully navigated the pandemic, Mikadze-Struk was dealt another wild card. In early 2022, Russia invaded Ukraine and her life was again turned upside down. It was particularly traumatic for her family, having already been forced from their home in Georgia once by war. In 2023, Mikadze-Struk took an extended leave from her company to pursue an MBA at Stanford. Christie Hemm Klok “For my parents to experience their daughters going through all the same things they had gone through was really heartbreaking,” she says. “But at the same time, because I’d heard so much about their story of resilience I had power in me to not fully break down.” On the day of the invasion the founders told employees to take the day off and emailed clients to warn of potential disruptions. The next couple of days were spent checking on staff and evacuating as many as possible to their headquarters in Lviv, in Western Ukraine. By the following Monday the business was back up and running. Soon afterward, they partnered with the Lviv IT Cluster business association’s nonprofit arm to help resettle refugees from the eastern part of Ukraine, where strikes were focused, and offer job placements. Throughout this period, Mikadze-Struk was also completing her final year at Georgetown remotely. “Half of my senior year was actually spent in bomb shelters,” she says. Promoting Resilience in Entrepreneurship That summer, Mikadze-Struk graduated with a bachelor’s degree in business administration and learned she had been accepted onto Stanford University’s MBA program. In 2023, she took an extended leave from Movadex and moved to California. She also gave birth to her daughter in 2024. Balancing studies and parenthood was already a full-time job, but she continued to engage with the startup ecosystem by volunteering as a startup mentor and public speaker. Now, after graduating from Stanford, she is stepping back into a more active leadership role at Movadex, where she hopes to drive the company’s expansion into the United States. She also wants to develop a stronger focus on helping customers understand and implement AI in their businesses. While AI is undeniably disrupting the tech industry, Mikadze-Struk, now an IEEE Senior Member, is fundamentally optimistic about its impact. “The way AI democratized access to building software and to prototyping...is just mind blowing,” she says. But it will require a significant shift in mind-set for engineers, especially junior developers hunting for jobs. They need to “fall in love with AI” and embrace it as a powerful copilot, she says. As these tools increasingly take over the nuts-and-bolts work of coding, engineers also need to nurture higher-level skills like systems thinking and architectural design. Perhaps most importantly, given the rapid pace at which the technology is evolving, engineers need to nurture their adaptability and resilience. “It’s both exciting and scary, because you don’t know what tomorrow will bring.”",
-      "url": "https://spectrum.ieee.org/mikadze-struk-resilience-in-entrepreneurship",
-      "image_url": "https://spectrum.ieee.org/media-library/photo-of-woman-sitting-with-her-face-turned-toward-the-camera.jpg?id=66957341&width=980",
-      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
-      "source": "Ieee Spectrum - Robotics",
-      "published_at": "2026-06-20 13:00:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
