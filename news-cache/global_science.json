@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-23T14:22:08.847Z",
+  "last_updated": "2026-06-23T17:44:19.133Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5380728d5e64525eef8337124ca27317",
+      "title": "Special buoys mark sensitive seagrass habitats",
+      "description": "Special buoys and voluntary no-anchor zones mark sensitive seagrass habitats.",
+      "url": "https://www.bbc.com/news/articles/ce37jenqk8xo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/cee3/live/9a82ef60-6e4f-11f1-b648-1b56797cb133.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-23 05:29:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f685b4856754c6b049329c0b788e57ae",
+      "title": "Unremitting fatigue: Seven medical reasons most people miss",
+      "description": "Fatigue is one of the most common complaints in medicine, but the good news is that in most cases, a basic evaluation by a family doctor will uncover the cause of the problem.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-898934",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725023",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-23 05:00:43",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "2d09c244e01e4e696152093093783a32",
+      "title": "MOD papers show chemicals washed down drain at base",
+      "description": "Renewed calls for forever chemical investigation following the release of historical site documents.",
+      "url": "https://www.bbc.com/news/articles/c1jy5xd2jkzo",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/15df/live/232b6850-457a-11f1-86ec-5992fe9627d8.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-23 05:00:23",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b3d0d17e18ac6e533f29edc7a9f201f0",
+      "title": "From hydrogen planes to AI data centres: Bertrand Piccard's blueprint for a green tech future",
+      "description": "'Be a pioneer, not a dinosaur’: Swiss explorer Bertrand Piccard is betting on hydrogen-powered flights to inspire a generation",
+      "url": "http://www.euronews.com/next/2026/06/23/from-hydrogen-planes-to-ai-data-centres-bertrand-piccards-blueprint-for-a-green-tech-futur",
+      "image_url": "https://images.euronews.com/articles/stories/09/80/87/88/1440x810_cmsv2_4ad7aee7-c605-5c25-9e00-bce209a15b83-9808788.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-06-23 05:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6262506819281fb926c7a834e9ecaf4e",
+      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+      "description": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries about the universe while paving the way for powerful future technologies in space and on Earth.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/nasa-cold-atom-lab-ultracold-bubbles-on-space-station.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-23 04:45:34",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "24b7e3432375c1602bf9b0defa0c5960",
+      "title": "Happy Asteroid Day! Prize-Winning Plan Focuses on Space Infrastructure",
+      "description": "A proposal to create a new network for monitoring cosmic threats to off-world infrastructure has won this year's Schweickart Prize, which recognizes bright ideas for planetary defense.",
+      "url": "https://www.universetoday.com/articles/asteroid-day-schweickart-prize-protect-space-infrastructure",
+      "image_url": "https://www.universetoday.com/article_images/260618-satellites2_20260623_033214.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-23 04:01:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "adc205fe1839bdfc622781f769d3d08e",
+      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
+      "description": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
+      "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o",
+      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/03f3/live/d6a07f80-6eb3-11f1-8d28-330d80923bb9.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-23 03:55:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f633821f2ab0326142966fb606209b03",
+      "title": "Source: Mass firings underway at agency that prevent terror attacks",
+      "description": "A source tells CNN President Trump's Acting Intel Chief, Bill Pulte, is slashing jobs at the Office of the Director of National Intelligence. It's not clear which positions are impacted. The NewsNight panel debated Pulte's experience to be making decisions about staffing cuts while maintaining national security.",
+      "url": "https://www.cnn.com/2026/06/22/politics/video/source-mass-firings-underway-at-agency-to-prevent-terror-attacks",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22738700-1993086-351-thumb-20260623025043052.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-06-23 02:59:07",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "a0831f60b8af323254cbf426eba98165",
       "title": "Japan aims to double proportion of female engineering students by 2040",
@@ -506,102 +602,6 @@
       "published_at": "2026-06-22 08:30:00",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "c35043c6a063d2ee6ca9b41bf07ef16a",
-      "title": "STAT+: Pharma goes on a spending spree, snapping up biotechs in a hurry",
-      "description": "Pharmaceutical companies are hungry to make deals, and they’re making more than they have in years.",
-      "url": "https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-3090432-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-06-22 08:30:00",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "1efcaea24298ecc1304c96c501f3bdb9",
-      "title": "Millions of people make this mistake with painkillers – and it's dangerous",
-      "description": "Painkillers are sold over the counter and are considered safe, but incorrect combinations, double dosages, and a lack of awareness regarding active ingredients can cause significant harm.",
-      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-898852",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/724956",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-06-22 08:01:45",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "1c209c1ed1fbf5038def4504edd89546",
-      "title": "Remember that star that was supposed to explode in 2024? It didn't, but it could still happen soon",
-      "description": "A new naked-eye star was supposed to grace our skies in 2024, but it never happened. Astronomers say that it's still on the books and could even happen soon.",
-      "url": "https://www.cbc.ca/news/science/t-coronae-borealis-9.7240370?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/a0185321-c0a7-430e-968c-c9b8cf5c1b14,1781803395179/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1024%2C576%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-06-22 08:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "68ddd95e31e8cf5d10bf972f6732b7a6",
-      "title": "Milan hospital deploys 4-ft-tall humanoid robot to assist wards and relay patient data",
-      "description": "Coverage here spans industrial robots, cobots, humanoids, drones, and service robots, along with the hardware and software that enable them to operate at scale.",
-      "url": "https://interestingengineering.com/ai-robotics/alter-ego-humanoid-robot-automates-hospital-logistics",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-22 07:40:19",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "584a7f2e25d733bc969da3e8df1a72ec",
-      "title": "FDA approves world's first mRNA-based flu vaccine, signaling start of a new illness-prevention era",
-      "description": "The vaccine, intended for people 50 and older, is based on mRNA technology and was found in an advanced trial to be more effective than a standard flu shot.",
-      "url": "https://www.jpost.com/health-and-wellness/article-900109",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/687023",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-06-22 07:01:49",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8742f4c07f022c02eb22842f4e635f30",
-      "title": "Transgene launches a clinical trial evaluating TG4070 with nivolumab",
-      "description": "Transgene announced the start of a randomized Phase 1 trial evaluating TG4070, its personalized neoantigen-based therapeutic vaccine, in combination with nivolumab for the treatment of non-small cell...",
-      "url": "https://www.marketscreener.com/news/transgene-launches-a-clinical-trial-evaluating-tg4070-with-nivolumab-ce7f5cd3db8ff12c",
-      "image_url": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2016-01-07T073902Z_1007120001_LYNXMPEC060FR_RTROPTP_2_OFRBS-TRANSGENE-STRATEGIE.JPG",
-      "source_icon": "https://n.bytvi.com/marketscreener.png",
-      "source": "Marketscreenerc",
-      "published_at": "2026-06-22 06:27:20",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "e7159b524a21cad784971791094327b9",
-      "title": "Woman finds rare pink grasshoppers in garden",
-      "description": "Usually, they get eaten by birds due to their inability to camouflage, making them a rare sight.",
-      "url": "https://www.bbc.com/news/articles/ckg74rjl7y1o",
-      "image_url": "https://ichef.bbci.co.uk/news/1024/branded_news/1f77/live/6da33740-6b1e-11f1-be36-65d2d6d55e70.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-22 05:14:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "215e661f0f9215ae486ebf980a1e98b4",
-      "title": "Noah's Ark vessel is 'real' as huge excavation gets green light",
-      "description": "Researchers from Noah's Ark Scans have been granted Turkish government permission to conduct a major excavation at the Durupinar Formation.",
-      "url": "https://www.express.co.uk/news/world/2220117/noah-s-ark-vessel-real-huge-excavation-gets-green-light",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2220117_1.jpg",
-      "source_icon": "https://n.bytvi.com/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-06-22 00:26:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
