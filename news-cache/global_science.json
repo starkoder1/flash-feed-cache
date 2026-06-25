@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-25T14:00:00.079Z",
+  "last_updated": "2026-06-25T18:01:37.318Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f8e5fd19dfa434bdeae3e7082ddf8d6e",
+      "title": "How To Dilute Uranium?",
+      "description": "In the 1990s, US and Russian scientists pulled off the ultimate nuclear magic trick: \"downblending\" weapons-grade uranium so it could never be used in a bomb. Now, the US and Iran are trying to repeat history.",
+      "url": "https://www.rferl.org/a/iran-nuclear-weapons/33787735.html",
+      "image_url": "https://gdb.rferl.org/689d5af5-ce5e-48f1-db32-08dd798c326b_w1080_h608.jpg",
+      "source_icon": "https://n.bytvi.com/rferl.png",
+      "source": "Rfe/rl",
+      "published_at": "2026-06-25 05:38:40",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "435e0a86b8a2f40269c46613a5b1210e",
+      "title": "First red squirrel kits born at sanctuary",
+      "description": "Sanctuary staff say the litter will help boost population numbers of an endangered British species.",
+      "url": "https://www.bbc.co.uk/news/articles/cly0xg8ezyzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7510/live/93bab4d0-6fb0-11f1-9d49-f71d5004325f.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-25 04:59:37",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "227ce2349d85f79556fed378c59c6988",
+      "title": "Strange ‘super-puff’ planets as big as Jupiter but lighter than cotton candy found",
+      "description": null,
+      "url": "https://www.independent.co.uk/space/giant-planets-super-light-cotton-candy-b3002643.html",
+      "image_url": "https://static.independent.co.uk/2026/06/25/02/Cotton_Candy_Planets_22496.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-06-25 04:19:40",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b59574321265e3b2aeecaa17f6ef8769",
+      "title": "Shorter front-leg strides can be an early warning sign of dementia in senior dogs",
+      "description": "Scientists have shown that the stride length of the front legs (but not the hind legs) of senior and geriatric dogs decreases as their cognitive performance worsens. In contrast, chronological age itself was a poor predictor of stride length. A similar reduction in step length has been well documented in people with dementia. These results suggest that a decline in stride length could be an early warning sign of canine dementia, and so an informative new tool for veterinarians.",
+      "url": "https://phys.org/news/2026-06-shorter-front-leg-early-dementia.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/old-beagle.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-06-25 04:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c5522b0f9257b1fb73f727dbf739245f",
+      "title": "American Hospital Dubai Science Park performs a complex robotic hysterectomy",
+      "description": "This reflects the hospital’s commitment to delivering world-class care through innovation, precision, and advanced surgical technology",
+      "url": "https://gulfnews.com/uae/health/american-hospital-dubai-science-park-performs-a-complex-robotic-hysterectomy-1.500585443",
+      "image_url": "https://media.assettype.com/gulfnews/2026-06-24/13msyyh9/PHOTO-2026-05-25-11-50-01.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-06-25 04:00:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "fe3c924a3c15b579ccb9b74441bb2c44",
       "title": "UP researchers identify new Mayon bacteria with antibiotic potential",
@@ -542,66 +602,6 @@
       "published_at": "2026-06-24 08:00:57",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "715f57d981b4ea76b81d12acadfa6250",
-      "title": "The Mediterranean secret to keeping your home cool in a heatwave",
-      "description": "Ancient techniques once suited to the Mediterranean now hold lessons for modern Britain",
-      "url": "https://www.independent.co.uk/news/science/uk-heatwave-keep-house-cool-colour-b3001914.html",
-      "image_url": "https://static.independent.co.uk/2026/06/24/7/47/iStock-1495102236.jpeg?width=1200&auto=webp&trim=0%2C494%2C0%2C126",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-06-24 07:49:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "df543736765fc5341c86f4b11c229645",
-      "title": "‘Exploding oil?!’ The Middle East is about to find out",
-      "description": null,
-      "url": "https://www.cnn.com/2026/06/24/business/exploding-oil-restarting-production",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1779979353-20260623185229997.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-24 07:00:25",
-      "language": "english",
-      "category": "tourism"
-    },
-    {
-      "id": "9ad55ad4b66d321e2e98271eabbe00a5",
-      "title": "New superconducting X-ray detector is up to 1,000 times more sensitive",
-      "description": "A groundbreaking superconducting X-ray spectrometer has begun operation at BESSY II, giving Europe its first TES-based system and boosting photon detection efficiency by up to 1,000 times. The advance enables scientists to explore atomically thin materials, nanostructures, and ultra-dilute samples with remarkable speed and sensitivity.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623083108.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/bessy-ii-superconducting-tes-array-x-ray-spectrometer.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-06-24 06:05:27",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "da978e0463954cc0b0f2b098c1733cc6",
-      "title": "Carvolix unveils a €10m financing",
-      "description": "The French medical technology company, at the commercial and clinical stages and focused on breakthrough AI-driven mini-robots and biometric implants, announced a €10m financing transaction...",
-      "url": "https://www.marketscreener.com/news/carvolix-unveils-a-128-10m-financing-ce7f5fdbda8dfe2c",
-      "image_url": "https://cdn.zonebourse.com/static/resize/1200/675//images/reuters/2024-03-08T101016Z_1_LYNXNPEK270AR_RTROPTP_3_USA-STOCKS.JPG",
-      "source_icon": "https://n.bytvi.com/marketscreener.png",
-      "source": "Marketscreenerc",
-      "published_at": "2026-06-24 05:52:18",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "40cfe6907b50f33abe921c8e6f5c4965",
-      "title": "Brain pacemaker could help Parkinson's patients walk again",
-      "description": "University of California, San Francisco (UCSF) scientists have developed a form of neurological pacemaker that adapts in real time to a patient’s ...",
-      "url": "https://refractor.io/brain/parkinsons-patients-walk-brain-pacemaker/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/bd953357b20511ae6fb01c84cab1a1e447cfeda6/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-24 05:41:11",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
