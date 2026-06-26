@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-26T17:28:54.260Z",
+  "last_updated": "2026-06-26T21:12:13.949Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b707a8b92bb9c48a516783d6df1d6644",
+      "title": "Tracking Trump’s projects and plans reshaping DC so far this term",
+      "description": "President Donald Trump has aggressively moved to leave his imprint on the nation’s capital in the year and a half since he returned to office.",
+      "url": "https://www.cnn.com/politics/triumphal-arch-new-ballroom-trump-dc-changes-vis",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-25-at-5-00-55-pm.png?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-06-26 09:00:26",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "beff1463e9d2a007959ced88cf6eee17",
+      "title": "Scientists reveal secrets of ancient scrolls burned by Mount Vesuvius nearly 2,000 years ago",
+      "description": "Researchers have recovered texts previously lost to history, revealing philosophical takes on ethics, the arts, human behavior and theology.",
+      "url": "https://www.nbcnews.com/world/italy/scientists-reveal-secrets-ancient-scrolls-burned-mount-vesuvius-nearly-rcna351178",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-06/260626-pompeii-4-rs-30a4d9.jpg",
+      "source_icon": "https://n.bytvi.com/nbcnews.png",
+      "source": "Nbc News",
+      "published_at": "2026-06-26 09:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "cb61367a85b747f336f231d100ce5b4f",
+      "title": "Uranus, Neptune May Be Magma Worlds, Not Ice Giants",
+      "description": "Uranus and Neptune remain two of the most mysterious objects in the solar system, primarily because they’ve only been visited by NASA’s Voyager 2 spacecraft in 1986 and 1989, respectively. Their “ice giant” moniker comes from longstanding hypotheses that their interiors are comprised of an icy mantle beneath their hydrogen/helium atmospheres. While Jupiter and Saturn are also comprised primarily of hydrogen and helium, Uranus and Neptune are hypothesized to have a layered structure comprised of icy elements within their interiors.",
+      "url": "https://www.universetoday.com/articles/uranus-neptune-may-be-magma-worlds-not-ice-giants",
+      "image_url": "https://www.universetoday.com/article_images/Picture1_750_20260626_080346.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-26 08:04:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d75026425cea70fde5a00b3fc7fb9ebe",
+      "title": "The government should not be using political standards to judge scientific grants",
+      "description": "Under recently proposed rules, federal grants could be terminated midstream for reasons having little to do with science or merit.",
+      "url": "https://www.bostonglobe.com/2026/06/26/opinion/scientific-grants-politics/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/P3DIHB2EUBEFZFOEWK6XIKFQUU.jpg?auth=30114f7b334e765e239629a798d6f57305419f6aee2bdf69bf98af5588099d2a&smart=true&width=7504&height=4536",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-06-26 08:00:01",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e66f95264a8682ef8640baeab0834982",
+      "title": "My favorite 52 Prime Day-level savings to shop from Walmart’s summer sale",
+      "description": "Amazon Prime Day is here, but I found the best deals from Walmart’s summer sale to shop instead.",
+      "url": "https://www.cnn.com/cnn-underscored/deals/walmart-deals-prime-day-2026-06-26",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/wavytalk-thermal-brush-cnnu-20260622123500866.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-06-26 07:19:16",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "557f1afca0692cf84858249b1d2a54f8",
+      "title": "A copper drug could boost memory in Alzheimer’s patients",
+      "description": "It clears out toxic proteins in the brain that cause memory loss",
+      "url": "https://theweek.com/health/trial-copper-drug-restores-memory-clears-alzheimers-proteins",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/ExSX5QQuCMNmPWs7KMExsP-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-06-26 06:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "87d6f6ecfa791ac6d02b6e6afa042dda",
+      "title": "TD Cowen kürt Top-Favoriten im Biotechnologie-Sektor",
+      "description": "TD Cowen kürt Top-Favoriten im Biotechnologie-Sektor",
+      "url": "https://de.investing.com/news/stock-market-news/td-cowen-kurt-topfavoriten-im-biotechnologiesektor-93CH-3537055",
+      "image_url": "https://i-invdn-com.investing.com/news/LYNXNPEC0Q1B5_L.jpg",
+      "source_icon": "https://n.bytvi.com/investing_de.png",
+      "source": "Investing - Ihr",
+      "published_at": "2026-06-26 05:41:34",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "61eddfff23d5e3688b872d095b34f399",
       "title": "World first: Human embryo model grows its own organs – in the lab",
@@ -518,90 +602,6 @@
       "published_at": "2026-06-25 13:21:43",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "9a0f674572fa977fdf2ec2e0b44c4e9e",
-      "title": "Tiny water droplets transmutate aniline into pyridine in ambient and catalyst-free conditions",
-      "description": "Aniline can now be transformed into pyridine without adding any catalysts, oxidants or toxic reagents. In a recent study published in the Journal of the American Chemical Society, researchers achieved skeletal editing, involving the reorganization of the carbon-nitrogen bonds within an aromatic ring, by turning an aqueous solution of aniline into a mist of microdroplets.",
-      "url": "https://phys.org/news/2026-06-tiny-droplets-transmutate-aniline-pyridine.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/tiny-water-droplets-tr.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-25 13:20:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "20029262010f92501db004b15c926c40",
-      "title": "Discovery of enzymes that control pores on leaf surfaces could lead to drought-resistant crops",
-      "description": "A research team at the Ruhr University Bochum Department of Molecular and Cellular Botany, led by Professor Christopher Grefen, has uncovered how plants form the tiny pores on their leaves responsible for gas exchange and water regulation. The scientists identified the two lipid-modifying enzymes GELP80 and GELP100 as deciding factors in the formation of functional stomata.",
-      "url": "https://phys.org/news/2026-06-discovery-enzymes-pores-leaf-surfaces.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/new-paths-for-developi.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-25 13:20:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "85878c97064947315fab47599fffd071",
-      "title": "Shocking memo reveals missing UFO-linked scientist was trying to escape a secret Pentagon network before vanishing",
-      "description": "New evidence tied to the missing Air Force general in New Mexico suggests the veteran officer was attempting to cut his ties to the Pentagon before he vanished without a trace.",
-      "url": "https://www.dailymail.com/sciencetech/article-15926277/missing-ufo-pentagon-scientist-william-mccasland-disappearance.html",
-      "image_url": "https://i.dailymail.com/1s/2026/06/24/23/109580077-0-image-a-43_1782340120563.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-06-25 13:15:20",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "869f10e33f276687411ab0e1b8f6f2fd",
-      "title": "Ted Cruz’s not-so-secret White House dreams have gotten JD Vance’s attention and annoyed Trump allies",
-      "description": "An ice cream social at a supporter’s house. A meet-and-greet with veterans. A roundtable with sheriffs. An evening rally at a sweltering barbecue joint and a winding photo line afterward.",
-      "url": "https://www.cnn.com/2026/06/25/politics/ted-cruz-2028-republican-nomination-jd-vance-trump-maga",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-2282338844.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-25 09:00:25",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "3f684cd5dd883ff21c9f9913062294e1",
-      "title": "Nike’s ‘mind-altering’ shoes are flying off shelves. Is this the era of ‘passive neuro-wearables’?",
-      "description": "Nike’s Mind shoe range has rapidly sold out across worldwide releases with buyers eager to get their hands on the “neuroscience-based footwear.”",
-      "url": "https://www.cnn.com/style/nike-mind-altering-shoes-neuro-wearables-intl-spc",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/008-nike-mind-1.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-25 08:47:45",
-      "language": "english",
-      "category": "sports"
-    },
-    {
-      "id": "d6d8bd95c0af9640e8a82940db442a42",
-      "title": "The 3.5 billion-year-old R&D lab right in front of us",
-      "description": "Below, Owen Jones shares five key insights from his new book, Force of Nature: Understanding Evolution’s Deepest Logic―and Putting It to Use . Jones is a professor of law and biology at Vanderbilt University. His research focuses, in part, on the implications of natural selection for everything from medicine to law to the way we make decisions. What’s the big idea? We are prone to make big, extremely consequential mistakes and miss important opportunities to improve the human condition anytime we overlook, underestimate, or misunderstand natural selection. Listen to the audio version of this Book Bite—read by Jones himself—in the Next Big Idea app , or buy the book . 1. Evolution is our present and our future—not just our past. A few years ago, a woman from Nevada arrived at a hospital with what should have been a treatable infection. Her doctors reached for the first antibiotic. It didn’t work. Nor did the second. By the end, they had tried every one of the 26 antibiotics available in the United States. When none of them worked, the patient died—just as she would have in the days before antibiotic drugs even existed. The bacteria that killed her weren’t exotic. They weren’t engineered in a lab. They had simply done what populations of organisms do every single day, all around us, and mostly without our noticing. They had evolved in reaction to selection pressures. The cost of misunderstanding how selection pressures work is far higher than most people realize. Most of us learned about natural selection in high school biology class. We learned that when you have heritable traits, variation in those traits, and differential reproductive success, you have the ingredients necessary for natural selection as a process to yield evolution as a result . In other words, traits that work will spread through subsequent populations until they become typical of the species. We learned in school that natural selection explains the relationship between species in the way plate tectonics explains the relationship between continents. We therefore thought it was mainly backward-looking and merely historical. But the truth is, it’s not. Natural selection—as constant as gravity—is running right now, all around. It’s running in your gut, on your kitchen counter, in the oceans, in hospitals, and in farm fields. And its operations even influence the way your brain works and how your brain influences your decision-making. Imagine it as a single, unsupervised factory that has been operating for 3.5 billion years to produce every living thing on Earth: every redwood, every blue whale, every gut microbe, every one of us. That’s how relentlessly productive it is. And it doesn’t stop just because we think we’re smart. If you want a single image of how fast a strong selection pressure can yield significant change, consider Chernobyl. After the 1986 nuclear reactor disaster, scientists entering the contamination zone found a fungus that wasn’t just surviving the radiation, it was thriving in it. In just five years, natural selection had adapted that fungus to do better in the presence of catastrophic radiation than without it. That’s evolution happening quickly on a human timescale. Once you start seeing natural selection as a constant, omnipresent, and sometimes speedy force, almost everything else in modern life starts looking different. So let me show you four places where it’s already costing us, helping us, or quietly running the show. 2. Why “kill it all” keeps backfiring. Start with that Nevada patient. When her doctors reached for those twenty-six antibiotics, they were doing exactly what we, as a culture, have been trained to do: Fight infection by trying to wipe it out. Total annihilation. We kept trying to make that work, until it stopped working reliably. Here’s the problem. Every time you use an antibiotic, you kill the bacteria that are easy to kill . You leave behind the ones that happened to have some resistance, and you hand those survivors the entire body-buffet. With plenty of food and now no competition, they multiply. Do that for a few decades, in individuals spread out across the globe, and you don’t just get superbugs. You make superbugs. The same pattern shows up in farming. We invent a pesticide that kills 99% of a crop’s pests. We celebrate. The 1% that survives happens to be resistant, and once they have all bred for a few seasons, the whole population is resistant. Importantly, the same pattern appears when treating certain types of cancer. We hit a tumor with the maximum tolerable dose of chemotherapy. We kill the cells that are easy to kill. The cells that survive are the ones most resistant to that treatment. They have no competitors left, so they reproduce and spread even more aggressively, often killing the patient in the process. What’s the alternative? It’s not to give up. It’s to play a different game. There’s an oncologist named Robert Gatenby who’s been running clinical trials in prostate cancer using something called adaptive therapy. Instead of trying to kill every cancer cell, he treats the patient just enough to keep the tumor in check, then backs off —deliberately leaving some drug-sensitive cells alive so they can outcompete the resistant ones. In his trials, that approach roughly doubled the lifespan of the patients who received that therapy. Farmers are doing a version of the same thing. In some regions, they now deliberately plant pesticide-free plots right next to fields treated with pesticides so that vulnerable pests survive and breed alongside resistant ones. Their offspring remain susceptible to the pesticide. Although this doesn’t eliminate the pests, it does keep them manageable. Attempted eradication often breeds a stronger enemy than the one you’re trying to wipe out. Sometimes the smarter play isn’t total victory. It’s a managed truce. 3. Nature is a 3.5 billion-year-old R&D lab, and the patents are free. Let’s flip the camera around. Because the same force that breeds superbugs is also the most extraordinary inventor the planet has ever seen. For 3.5 billion years, evolution has been running the largest research and development experiments in history. Every organism alive today is, in a sense, a working prototype that passed billions of field tests. Engineers have started noticing that most of those breakthroughs and methods that made them are sitting in plain sight, waiting to be borrowed. Let me give two examples—one mimicking a shape, and the other a method. First is Japan’s bullet train, the Shinkansen. For years, it had a problem: Every time it shot out of a tunnel, it produced a thunderclap. A member of the engineering team had been to a lecture on birds and noticed that kingfishers dive from the air into water with minimal splash because of the shape of their beaks. So, the nose of the train was redesigned to look like a kingfisher’s beak. The boom went away, the train ran faster, and it used less electricity. The second example—instead of copying existing traits—harnesses the process of natural selection to solve a computationally difficult problem. In 2004, NASA needed a tiny antenna for one of its smaller satellites; a fiendishly tricky shape problem with dozens of competing constraints. Human engineers specializing in antenna design tried, and the result didn’t meet the mission requirements. So, NASA handed the problem to specialists in a subfield of artificial intelligence known as evolutionary computation, which simulates natural selection inside a computer. They created two very rough parent programs for designing an antenna, and then bred them together, creating digital offspring that shared varying halves of each parent, and that also had some coding elements mutated from 0s to 1s, and vice versa. The offspring programs that performed best became the parents of the next generation. And that cycle was run over and over and over. The end program coded for an antenna that looks like a bent paper clip a child made in a hurry. It looks wrong, with weird kinks and angles. But it outperformed the best human design. It’s the one NASA sent into space. We tend to think of cutting-edge technology as something humans invent despite nature, high-tech versus the natural world. The truth is often closer to the opposite. The most exciting frontier in materials science, design, artificial intelligence, and medicine isn’t outthinking nature. It’s reading her notebook to learn from her designs and to adapt her methods. Three and a half billion years of R&D. The patents are free. And we’ve barely opened the file. 4. Why smart people get risk so wrong. In 1978, researchers asked a group of doctors and medical students at a leading medical school a question that should have been routine. They said: Imagine a disease that affects 1 person in 1,000. The test for it has a 5% false positive rate. Your patient just tested positive. What’s the chance they have the disease? The right answer is around 2%. Yet almost half of these highly trained subjects gave 95% as the answer. They were off by a factor of nearly 50! And these were not bad doctors. For a long time, the conclusion people drew from this was: Humans are bad at calculating conditional risks, so we need more statistics classes. But later researchers demonstrated that thinking was wrong. Or at least it’s not the whole story. Here’s what appears to be going on instead. For roughly 99% of human history, our ancestors never encountered a percentage or a risk framed with a decimal or percent sign. What they encountered was people and things and events, in whole numbers—or what’s called the language of “natural frequencies.” For example, 10 people went into that cave that smelled like bear, but only 3 people came out. This contrasts with the language of modern statistics, which would say that entering the cave carries a 0.7 risk of death. Our brains evolved to count individual things, not to manipulate decimals. Take that exact same medical question and rephrase it: Imagine 1,000 people. About one of them has the disease. Of the other 999 who don’t, about 50 will get a false positive on this test. Your patient just tested positive. What’s the chance they have the disease? Suddenly, it’s obvious. Because if only 1 patient out of 51 patients who test positive will have the disease, then the chance that any one person testing positive has the disease is roughly 2 in 100, meaning about 2%. One subsequent study showed that reframing statistics in terms of natural frequencies can boost doctors’ accuracy from 8% to 46%. Same problem. Same brains. Just a different format. Our brains were built to count whole people or whole events, not percentages. When the stakes are high, ask people to translate risks into whole numbers, or even people. That one reframing can change a decision that changes a life. 5. Your brain is often mismatched to the modern world. Here’s a strange thing about being human. Even when nothing is wrong with us—when we’re rested, well-fed, well-informed—we make decisions that, on paper, sometimes look completely irrational. We eat ice cream while trying to lose weight. We panic about plane crashes and shrug at car crashes. Behavioral economists have spent decades cataloging these quirks. But look through the lens of natural selection, and you see a different picture. Many of these “irrationalities” are not glitches at all. They are highly functional survival instincts that worked beautifully 100,000 years ago, but they just haven’t caught up to a world of refrigerators, enforceable contracts, and stock markets. There’s a great example in the research on what economists call the endowment effect. It’s when we refuse to sell something we have just acquired for far more than the maximum price we’d have paid to buy it an instant ago. That looks crazy. But even our close primate relatives share this behavioral leaning, suggesting it has ancient origins. Colleagues and I ran an experiment with chimpanzees. When we gave one a less-favorite food and offered it the opportunity to trade that for a more-preferred food, the chimp would very often decline to trade. But when rerunning the experiment with less-preferred and more-preferred toys—items that have no particular value for survival, health, or reproduction—the chimps traded happily. The “irrational” attachment isn’t random. In this case, it was sensitive to survival value. We later found that in humans the urge to hold on to something—the classic “bird in the hand” effect—was strongly linked to its evolutionary importance. The more useful an object would have been to our primate ancestors, the more reluctant people were to part with it. Remarkably, that factor alone predicted more than half the variation in people’s attachment to the objects. In some cases, our brains aren’t quirky, and our instincts aren’t broken. They’re just running on yesterday’s operating system. Once you see your own mind this way, you find it somewhat less mystifying. And you start designing your life—and your defaults, and your contracts, and your policies—for the brain you actually have, instead of the one you wish you had. Once we learn to see natural selection, we discover a library of solutions, a sharper way of thinking about risk, a kinder understanding of our own minds, and a real chance to work with and in awareness of selection pressures and processes instead of constantly tripping over them. This will help us design smarter technologies, wiser policies, and a more resilient future. This article originally appeared in Next Big Idea Club magazine and is reprinted with permission. Enjoy our full library of Book Bites—read by the authors!—in the Next Big Idea app .",
-      "url": "https://www.fastcompany.com/91564043/natural-selection-rd-lab",
-      "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/06/p-1-91564043-the-3-5-billion-year-rd-lab-we-can-all-access-but-barely-use.jpg",
-      "source_icon": "https://n.bytvi.com/fastcompany.png",
-      "source": "Fast Company",
-      "published_at": "2026-06-25 08:30:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "5bd6611abf0558446a62b02916c24f8a",
-      "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
-      "description": "It's an unusual time to be in the vaccine business. But in the view of those gathered at the BIO conference this week, it’s not altogether a bleak one.",
-      "url": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_376575094-1024x576.jpeg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-06-25 08:30:00",
-      "language": "english",
-      "category": "health"
     }
   ]
 }
