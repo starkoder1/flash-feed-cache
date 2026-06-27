@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-27T13:05:32.604Z",
+  "last_updated": "2026-06-27T16:54:43.925Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "9a2dfda963296337427cdfa901010afe",
+      "title": "Australia-based scientists solve decades-old mystery of how eye sees colour",
+      "description": "CANBERRA: Scientists have revealed the atomic structures of the eye molecules responsible for colour vision, solving a decades-old mystery.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/27/australia-based-scientists-solve-decades-old-mystery-of-how-eye-sees-colour",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/06/27/3980119.jpg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-06-27 04:04:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a3640f7bb1d9bea229a3135a9551ef9a",
+      "title": "Carles Lalueza-Fox, geneticist: ‘We each have more than one doppelgänger somewhere on the planet’",
+      "description": "In his latest book, the scientist explores paradoxes of human identity, such as people who not only look alike, but also share similar tastes and attitudes. He also discusses the dangers of defining who we are solely by our genes",
+      "url": "https://english.elpais.com/science-tech/2026-06-27/carles-lalueza-fox-geneticist-we-each-have-more-than-one-doppelganger-somewhere-on-the-planet.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/2HC35PI4DZBELJI6U23KLEZRSM.jpg?auth=40d82cbfc22bb0b6aba9af15b6dab841858518e1592be37b209b7be07854b732",
+      "source_icon": "https://n.bytvi.com/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-06-27 04:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "17e1781283cd7fd0844acdd28f70d552",
+      "title": "Tempe opens biointel lab to sharpen wastewater surveillance in fight against opioid crisis",
+      "description": "Tempe opens BioIntel Innovation Lab, expanding its wastewater surveillance partnership with ASU's BioDesign Center to better combat the opioid crisis and public health threats.",
+      "url": "https://www.abc15.com/news/region-southeast-valley/tempe/tempe-opens-biointel-lab-to-sharpen-wastewater-surveillance-in-fight-against-opioid-crisis",
+      "image_url": "https://ewscripps.brightspotcdn.com/dims4/default/19df55b/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcf.cdn.uplynk.com%2Fause1%2Fslices%2Ff03%2F5c3d34b8b29a45469a86c02775b7a2cf%2Ff0314fd47a8441a2bb66bc320e79ae00%2Fposter_d5094f2b05ef47659ebc05113a76f1a7.jpg",
+      "source_icon": "https://n.bytvi.com/abc15.png",
+      "source": "Abc 15",
+      "published_at": "2026-06-27 01:40:10",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ed88d518f909d0e03b341efa46d358d0",
+      "title": "How a robot could save NASA’s aging Swift space observatory",
+      "description": "The NASA Swift space observatory is in danger of falling from space after 22 years, but a rescue mission with the help of a robot is set to launch on June 30. NBC News’ Gadi Schwartz talks with Katalyst Space CEO Ghonhee Lee, the company partnering with NASA, about the historic mission.",
+      "url": "https://www.nbcnews.com/video/katalyst-space-robot-to-launch-on-mission-to-save-nasa-s-swift-space-observatory-265780293512",
+      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/mpx/2704722219/2026_06/1782523524479_now_staytuned_swift_space_260626_S3_1920x1080-2pc855.jpg",
+      "source_icon": "https://n.bytvi.com/nbcnews.png",
+      "source": "Nbc News",
+      "published_at": "2026-06-27 01:25:32",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "17a8c18e2c069654b611693ee2c463b5",
       "title": "US government allows Anthropic limited release of AI model that sparked cybersecurity concerns",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/newatlas.png",
       "source": "New Atlas",
       "published_at": "2026-06-26 05:03:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "9c72bf0016c72e3485eaf8c3a711d3df",
-      "title": "Listening for the echoes of black holes",
-      "description": "By analyzing X-ray reverberations and other astrophysical data, Erin Kara seeks to understand the most extreme objects in the universe.",
-      "url": "https://news.mit.edu/2026/listening-for-echoes-of-black-holes-erin-kara-0626",
-      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT-erin-kara_01-press.jpg?itok=fDfB1fV9",
-      "source_icon": "https://n.bytvi.com/mit.jpg",
-      "source": "Massachusetts Institute Of Technology",
-      "published_at": "2026-06-26 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0c72271ab2170ee1de1d7069b11290c8",
-      "title": "Largest black hole collision on record reveals clues on spacetime whirlpools",
-      "description": "Neil Lu, Australian National University/The ConversationCategory: Astronomy, ScienceTags: gravitational waves, Black hole, Relativity Space, Time, ...",
-      "url": "https://refractor.io/space/largest-black-hole-collision/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/a4a4bc3805b0440155269c6d196f1aebe09a81d6/_xlarge.webp",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-26 03:13:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d04e34baa482f7566c63cb20fa49eb3f",
-      "title": "Turn your room into a galaxy: The best Prime Day deals on star projectors for aspiring astronomers",
-      "description": "Whether light pollution is foiling your stargazing or you just want to transform a room, there are great star projector deals this Prime Day and I've picked out the best.",
-      "url": "https://www.space.com/entertainment/space-toys-lego/turn-your-room-into-a-galaxy-the-best-prime-day-deals-on-star-projectors-for-aspiring-astronomers",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9HPYdbV8FgMXLrwUBaRsTG-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-06-26 03:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "45790cb738179241889bcf1685cfcd7d",
-      "title": "Company with Alabama ties wins $95 million military laser research contract",
-      "description": "“This contract provides technical expertise to enhance the development of both test and data analysis capabilities,” the contract notice reads.",
-      "url": "https://www.al.com/news/2026/06/company-with-alabama-ties-wins-95-million-military-laser-research-contract.html",
-      "image_url": "https://www.al.com/resizer/v2/E3RI54D2HNHPHLR2EIWNB53IIQ.jpg?auth=3e22be41317a400c33fdc7ab838bd282e9e0fa766cda901d9be697104dd0a7cf&smart=true&height=1200",
-      "source_icon": "https://n.bytvi.com/al.png",
-      "source": "Alabama Local News",
-      "published_at": "2026-06-26 01:51:48",
       "language": "english",
       "category": "top"
     }
