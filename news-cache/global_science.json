@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-27T16:54:43.925Z",
+  "last_updated": "2026-06-27T20:47:56.008Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "fa12506a863e0c0f1e77fdd2e3e0b0d9",
+      "title": "Quiet regulation changes could censor vital research",
+      "description": "The changes would cement federal control of research grants, but there’s still time to act.",
+      "url": "https://www.bostonglobe.com/2026/06/27/opinion/federal-research-grants-omb-regulation/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/Q57UN75G36KH2WT42RBYUQAJP4.jpg?auth=6ee37b4a600218f0b2e7f8f61ebdf20e7db05f23f0112adfdbaaab9adb4154cb&smart=true&width=7818&height=5215",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-06-27 07:00:02",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0fb61e53c597ff4f003b3c266ecb4b42",
+      "title": "The shoreline that holds: October 7 post-trauma therapists embark on a healing retreat",
+      "description": "For years, many of these therapists have sat with survivors, bereaved parents, evacuated families, children who lost their sense of safety, and communities trying to return to life.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-900493",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727069",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-06-27 05:34:22",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "9a2dfda963296337427cdfa901010afe",
       "title": "Australia-based scientists solve decades-old mystery of how eye sees colour",
@@ -48,6 +72,18 @@
       "source_icon": "https://n.bytvi.com/nbcnews.png",
       "source": "Nbc News",
       "published_at": "2026-06-27 01:25:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4f7ad3f61972f987677f368d6682ad74",
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "description": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come to exist.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/super-puff-planets.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-27 01:09:31",
       "language": "english",
       "category": "science"
     },
@@ -566,42 +602,6 @@
       "published_at": "2026-06-26 05:41:34",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "61eddfff23d5e3688b872d095b34f399",
-      "title": "World first: Human embryo model grows its own organs – in the lab",
-      "description": "Chinese researchers have taken a big step toward a world in which we can cultivate organs for transplant, with the first-ever embryo-disc model that ...",
-      "url": "https://newatlas.com/biology/first-ever-human-embryo-lab-organs/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/4b7fa910f4578203aad68b01446670a116e54a12/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-26 05:25:33",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ff49d2833a54bde4df614dc6de556d18",
-      "title": "Watch live: Rocket Lab launching 'Ten Owl of Ten' mission for Synspective today",
-      "description": "Rocket Lab is poised to launch the \"Ten Owl of Ten\" mission from New Zealand today (June 26), adding to Japanese company Synspective's imaging constellation. Watch it live here.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-ten-owl-of-ten-mission-for-synspective-launch",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/uYioKVVXoyzKZ7cqYBRFPn-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-06-26 05:07:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6cdbec78cd1aef9609b83305ef29baec",
-      "title": "Your brain runs on autopilot – until a surprise triggers a memory update",
-      "description": "If you've ever wondered why you remember surprises so vividly, new research has uncovered a fundamental pathway that encodes novel information in the ...",
-      "url": "https://refractor.io/learning-memory/surprises-brain-record-information-differently/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/f758255edf5f2068f2e296e921c8aec5191b1965/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-26 05:03:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
