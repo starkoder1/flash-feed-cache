@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-28T07:42:50.069Z",
+  "last_updated": "2026-06-28T10:19:34.951Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "8156bb2a52223e941d97ec2eabb8df1e",
+      "title": "Astronomers Spot a Possible Supernova Remnant Near the Milky Way's Supermassive Black Hole",
+      "description": "NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton may have found a supernova remnant near the supermassive black hole at the center of the Milky Way galaxy. If confirmed as a supernova remnant, the ejected material is moving at about two million miles per hour and is about 1,700 years old.",
+      "url": "https://www.universetoday.com/articles/astronomers-spot-a-possible-supernova-remnant-near-the-milky-ways-supermassive-black-hole",
+      "image_url": "https://www.universetoday.com/article_images/sgrc_20260627_215737.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-27 21:58:53",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "0cf6de1d65ab5b2040d77a0fb4e4cb72",
       "title": "Scientists discover what triggers belly fat as we age",
@@ -590,18 +602,6 @@
       "published_at": "2026-06-26 18:14:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "67aac584a8cc2df2a96c6226ab0f6510",
-      "title": "China aims to generate world’s blackest car via hybrid nano-tech paint",
-      "description": "Chinese scientists have discovered a way to combine high-tech light-absorbing nano-technology with more conventional water-based carbon pigment spray ...",
-      "url": "https://newatlas.com/automotive/ultra-black-cb-cnt-hybrid-coating-robust-cars/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/4372879e2caf803e4b5449d96681cd13332cb35f/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-06-26 18:04:54",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
