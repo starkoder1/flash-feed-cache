@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-28T16:56:58.118Z",
+  "last_updated": "2026-06-28T20:50:59.753Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f54662b8f9c9f7a6388cb51be9e60632",
+      "title": "Can robots end our loneliness crisis?",
+      "description": "An experiment rolling out robots to keep the elderly company is showing surprising results.",
+      "url": "https://www.bostonglobe.com/2026/06/28/opinion/seniors-loneliness-robots-relationship-elliq/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/H5RSPDEFF3SWB4OAL6DFNXT4OU.jpg?auth=495a8eb33179ba509a194cdea86526c7204dc7bb9ff0255e027b79bdcb984b47&smart=true&width=3600&height=2488",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-06-28 07:00:02",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "2cfe85f1682b0b3a437ace99d6981f58",
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "description": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studies confirm the roads are durable, the technology could help tackle both marine pollution and overflowing landfills.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/paving-hawaiian-roads-with-recycled-plastics.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-06-28 06:53:54",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "86d1f68f84c994b1f592fb1d4659f83d",
+      "title": "Magnetic sperm and the ugliest shark: science stories of the week",
+      "description": "From a lupus breakthrough to why humans drift left when they walk, here are the most interesting scientific developments of the week",
+      "url": "https://theweek.com/science/magnetic-sperm-and-the-ugliest-shark-science-stories-of-the-week",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/vHNy8aBSNuxCxmb8g9bTRQ-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-06-28 06:25:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "639db092ee7feaf1e6d15a559be9a178",
+      "title": "Zoo repopulating one of UK's rarest butterflies",
+      "description": "Dartmoor Zoo hopes to repopulate rare black-veined white butterflies in the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/c07ymknp11do",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3463/live/47854d10-707c-11f1-a866-abbad6b6b076.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-28 06:10:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "030dc518ab69415b94441def8fb9a8a6",
+      "title": "'Lost' ant species reintroduced to woodland",
+      "description": "Southern red wood ants are considered a keystone species, benefiting the ecosystems around them.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4kxnpy9ko",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a975/live/f6b14210-70a6-11f1-88b6-991d05fc2cf9.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-28 06:07:52",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4aa193923b56a6071fc691adc1c8a350",
+      "title": "Why some trees might fall during extreme heat",
+      "description": "Scientists are studying how trees respond to hotter, drier conditions caused by climate change.",
+      "url": "https://www.bbc.co.uk/news/articles/c87241v13x8o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99ae/live/e6f72a10-7092-11f1-86cf-0fd142c2b6fb.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-28 06:07:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1849e319e97093a1ffe23fa5743313c4",
+      "title": "Listening to the One Place That Swallows Everything",
+      "description": "The event horizon of a black hole should be impossible to study. It’s the point of no return, the boundary where gravity grows so strong that not even light can escape, so by definition nothing can carry word of it back to us. Yet a team of scientists have found a way to reach it and found a hidden signal, a faint trace, never read before, carrying information from the very edge of the horizon in the instant before it formed. From it they measured the new black hole's spin and surface gravity, and opened a fresh way to test whether Einstein's theory survives in the most extreme gravity there is.",
+      "url": "https://www.universetoday.com/articles/listening-to-the-one-place-that-swallows-everything",
+      "image_url": "https://www.universetoday.com/article_images/m87_lo_april11_polarimetric_average_image_ml_deband-cc-8bit-srgb_20260628_053612.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-06-28 05:36:34",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "f91d0c3f9c5099fdb20962bb49839538",
       "title": "Support for closer science and technology ties at Asean meet in Laos",
@@ -518,90 +602,6 @@
       "published_at": "2026-06-26 21:48:45",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "e62014960c252ebefb7239999532d646",
-      "title": "31 New Species Found off Brazil Reveal a Fragile World in the Ocean’s Midwater",
-      "description": "Learn how shipboard DNA sequencing, 3D imaging, and deep-sea tools helped researchers identify delicate ocean animals within days.",
-      "url": "https://www.discovermagazine.com/31-new-species-found-off-brazil-reveal-a-fragile-world-in-the-ocean-s-midwater-49301",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59721/scicam-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-06-26 21:30:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1daf774d23507637aec43f90f1cf3b20",
-      "title": "Researchers discover surprising similarity in how humans and great apes giggle — reflecting ties to common ancestors: study",
-      "description": "“In a way, we are very similar to other great apes because we’ve been laughing in a similar way for 15 million years,” said study author Chiara De Gregorio, a primatologist at the University of Warwick in England.",
-      "url": "https://nypost.com/2026/06/26/science/researchers-discover-surprising-similarity-in-how-humans-and-great-apes-giggle/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fafrica-uganda-kibale-forest-reserve-132381328.jpg?w%3D1024",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-06-26 21:08:35",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "a0fe51f79822d41f1be78acb4c013e54",
-      "title": "Future generations being failed if more trees not planted, experts say",
-      "description": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yj76n4dko",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a2e/live/f8685390-7138-11f1-8546-8f19e4fe30f4.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-06-26 21:07:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "260bc803d4b10c247209d68bb6432b36",
-      "title": "The Nancy Grace Roman Space Telescope Arrives in Florida Ahead of Launch",
-      "description": "NASA’s Nancy Grace Roman Space Telescope arrived June 21st, at the agency’s Kennedy Space Center in Florida, marking the start of final prelaunch preparations before liftoff later this summer.",
-      "url": "https://www.universetoday.com/articles/the-nancy-grace-roman-space-telescope-arrives-in-florida-ahead-of-launch",
-      "image_url": "https://www.universetoday.com/article_images/romanillus_20260626_210516.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-06-26 21:05:20",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a5e74d55144eac9989dc61c5c3c95bd3",
-      "title": "Black hole's 'point of no escape' studied with the loudest gravitational waves ever heard",
-      "description": "The loudest crash of gravitational waves ever heard provides an intriguing way of studying event horizons, the boundaries at which nothing can escape the grip of these cosmic titans.",
-      "url": "https://www.space.com/astronomy/black-holes/black-holes-point-of-no-escape-studied-with-the-loudest-gravitational-waves-ever-heard",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JpCvY8s8SzErpcX8zqHPE4-1280-80.png",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-06-26 21:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0842f4f9a5966389ae5c5be85b8c7996",
-      "title": "Taking the ‘urban pulse’: A new way to diagnose cities",
-      "description": "A Yale-led study introduces a new framework for measuring, monitoring, and managing cities.",
-      "url": "https://environment.yale.edu/news/article/taking-urban-pulse-new-way-diagnose-cities",
-      "image_url": "https://environment.yale.edu/sites/default/files/styles/metatag_1080x1080/public/2026-06/Mexico-city-crosswalk_is1032513938.jpg?h=44b879e5&itok=iB2BCCR6",
-      "source_icon": "https://n.bytvi.com/yale.png",
-      "source": "Yalenews",
-      "published_at": "2026-06-26 20:42:59",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b950a27aa1a94619952e4e2b8e7d4934",
-      "title": "Airplane Crashes Into Skyscraper in China",
-      "description": "\"I don't think we can rule anything out at this point.\" The post Airplane Crashes Into Skyscraper in China appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/airplain-crashes-skyscraper-china",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/airplain-crashes-skyscraper-china.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-26 20:39:02",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
