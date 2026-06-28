@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-28T13:11:21.256Z",
+  "last_updated": "2026-06-28T16:56:58.118Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f91d0c3f9c5099fdb20962bb49839538",
+      "title": "Support for closer science and technology ties at Asean meet in Laos",
+      "description": "VIENTIANE: Delegates from Asean member states and China reaffirmed their commitment to strengthening ties in science, technology and innovation, while attending the 22nd ASEAN Ministerial Meeting on Science, Technology and Innovation (AMMSTI-22) in Vientiane on June 24.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/28/support-for-closer-science-and-technology-ties-at-asean-meet-in-laos",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/06/28/3981265.jpg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-06-28 04:03:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "868f28b4f2ff17f4b91da1fcf021b95f",
+      "title": "American Fusion moves 5MW Texatron fusion engine closer to independent validation",
+      "description": "American Fusion finalizes testing protocol for 5MW Texatron Fusion Engine, plans independent scientific and commercial validation.",
+      "url": "https://interestingengineering.com/energy/american-fusion-texatron-fusion-engine",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/Untitled-design166.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-06-28 04:01:47",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "bec3a9019e8e54194174ce12dc32282c",
+      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
+      "description": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b53/live/d4a6ceb0-725e-11f1-b4a5-2d0098f6c080.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-28 03:15:06",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "455d2f19f9d4eba80265239deebe5b47",
       "title": "Hot Jupiter CoRoT-2b Rotates Backward to Orbit",
@@ -566,42 +602,6 @@
       "published_at": "2026-06-26 20:39:02",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "216b5d93a986bec1340fc5a7918eeb74",
-      "title": "Japan's small cities may face higher care burdens under the compact city policy",
-      "description": "As populations decline and age across the developed world, compact city strategies, which oversee the consolidation of urban facilities and guide residents toward transit-served hubs, have become mainstream policies. Yet most evidence about their benefits comes from cities that are already compact. Far less is known about the social costs that may arise during the transition to compactness in the small and medium-sized cities (SMCs) most exposed to shrinkage.",
-      "url": "https://phys.org/news/2026-06-japan-small-cities-higher-burdens.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/japans-small-cities-ma.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-26 20:20:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5515f53e420dc279cdf48bcafe59ce66",
-      "title": "ROS-producing enzymes guide plant cell division and tissue patterning, gene-editing study shows",
-      "description": "Reactive oxygen species (ROS) produced naturally during cellular metabolism often cause oxidative damage to cells. However, these molecules also play an important role in normal cellular signaling. While ROS are established as essential signaling molecules in various organisms, their precise role in basic plant development and morphogenesis remains unclear.",
-      "url": "https://phys.org/news/2026-06-ros-enzymes-cell-division-tissue.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/beyond-oxidative-damag.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-06-26 20:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0301f87fa0d73c9e6f5e4541c8bfcac7",
-      "title": "Massive Data Center Cooks Nearby Residents Alive Amidst Deadly Heatwave",
-      "description": "A \"data heat island effect\" is the very last thing we need right now. The post Massive Data Center Cooks Nearby Residents Alive Amidst Deadly Heatwave appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/data-center-cooks-nearby-residents-heatwave",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/data-center-cooks-nearby-residents-heatwave.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-26 18:40:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
