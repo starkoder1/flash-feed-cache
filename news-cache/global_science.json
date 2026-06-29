@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-06-29T15:26:53.779Z",
+  "last_updated": "2026-06-29T18:03:07.335Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "032d4d0aa0bdf3a70c92d9bb76f46a97",
+      "title": "Call for stability to help farming industry",
+      "description": "A Cornish farmer says continuity is needed to deliver government plans for the future of farming.",
+      "url": "https://www.bbc.co.uk/news/articles/cly89ve0zjgo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e432/live/031a43d0-707a-11f1-a866-abbad6b6b076.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-29 05:23:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c97f376f0e99325024912977fc4ed423",
+      "title": "Storks industrial estate nest a 'major milestone'",
+      "description": "Storks from the Knepp Estate in Sussex are spotted nesting in an industrial estate near Guildford.",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xl7gj4yzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03b6/live/439f6f70-7331-11f1-873e-b188b9703f87.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-06-29 05:13:34",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "962f2721892d5df9c3e1f302a9992484",
+      "title": "Europe's best-value family camping destinations revealed",
+      "description": "New research has ranked the most affordable European countries for family camping holidays in 2026, based on campsite fees and car hire costs, with Portugal, Spain and Austria offering the best value.",
+      "url": "http://www.euronews.com/travel/2026/06/29/europes-best-value-family-camping-destinations-revealed",
+      "image_url": "https://images.euronews.com/articles/stories/09/81/31/94/1440x810_cmsv2_c1fcbc14-4327-548d-9ad6-8ac3ccc5126e-9813194.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-06-29 05:00:36",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "293a8566282d39b559982669a189d680",
+      "title": "AD FEATURE: Stunning portraits celebrate communities and researchers working together",
+      "description": "A new exhibition at the University of Salford captures how everyday people are helping shape research that makes a difference far beyond the campus",
+      "url": "https://www.manchestereveningnews.co.uk/special-features/stunning-portraits-celebrate-communities-researchers-34179399",
+      "image_url": "https://i2-prod.birminghammail.co.uk/incoming/article34179521.ece/ALTERNATES/s615/1_SIS-P-Anna-Hero.jpg",
+      "source_icon": "https://n.bytvi.com/manchestereveningnews.png",
+      "source": "Manchester Evening News",
+      "published_at": "2026-06-29 05:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "061abc99177d27b846adad0e4bf7e554",
+      "title": "STAT+: AI scientist company Edison Scientific tapped by team behind Metsera to create new biotechs",
+      "description": "Edison Scientific and investment firm Population Health Partners are teaming up to leverage AI agents in drug discovery and development.",
+      "url": "https://www.statnews.com/2026/06/29/edison-scientific-population-health-partners-deal-to-create-new-biotechs/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/06/AdobeStock_574188808-1024x576.jpeg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-06-29 04:30:00",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "4a9779074429371b52877355c70aa936",
       "title": "Feedback from Young Stars Influences Galaxy Evolution",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/sciencedaily.png",
       "source": "Science Daily",
       "published_at": "2026-06-27 18:54:36",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a45c9f6f83c712a99d9db05cb4dad632",
-      "title": "Tom Hanks Frets AI Could Voice Woody in Even More “Toy Story” Movies",
-      "description": "It's \"a scary thought.\" The post Tom Hanks Frets AI Could Voice Woody in Even More “Toy Story” Movies appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/tom-hanks-ai-woody-toy-story-forever",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/tom-hanks-ai-woody-toy-story-forever.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-27 18:49:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "00b1bc78c3cfa38e951462e3f239a77e",
-      "title": "Scientists break a 30-year record achieve superconduction at -190 degrees Fahrenheit",
-      "description": "By briefly subjecting a copper-oxide superconductor to extreme pressure and then rapidly releasing it, researchers achieved superconductivity at 151 kelvin.",
-      "url": "https://interestingengineering.com/science/superconductivity-at-normal-pressure",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/06/GettyImages-1494782731.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-06-27 18:30:20",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "3cb463378f02a0dd1fe0a782f2fb224a",
-      "title": "Event About How to Adapt to Extreme Heat Canceled Due to Brutal Heatwave",
-      "description": "Ouch. The post Event About How to Adapt to Extreme Heat Canceled Due to Brutal Heatwave appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/event-adapt-extreme-heat-canceled-heatwave",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/event-adapt-extreme-heat-canceled-heatwave.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-27 17:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6f71d212b42b2de8da16a3bcb493d552",
-      "title": "Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them",
-      "description": "\"We are concerned about job security because of robots.\" The post Korean Workers Vote to Go On Strike, Fearing Robots Could Replace Them appeared first on Futurism .",
-      "url": "https://futurism.com/robots-and-machines/korean-workers-strike-robots-replace",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/korean-workers-strike-robots-replace.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-06-27 16:51:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a7b2b3b649c2b06297b1ba944cc95c16",
-      "title": "Is the iPhone the most effective birth control ever invented?",
-      "description": "Smerconish speaks with Caitlin Myers, an economics professor at Middlebury College and co-author of a new study, about research suggesting the iPhone's early rollout may explain a significant share of America's declining birth rate.",
-      "url": "https://www.cnn.com/2026/06/27/us/video/is-the-iphone-the-most-effective-birth-control-ever-invented",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2026-06-27-at-12-12-17-pm-20260627161246116-20260627161311428-20260627161522512.png?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-06-27 16:28:34",
       "language": "english",
       "category": "science"
     }
