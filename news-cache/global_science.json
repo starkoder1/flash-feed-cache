@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-02T13:26:53.470Z",
+  "last_updated": "2026-07-02T17:24:59.271Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "09d7ad3b93e0466e395ac790166c0b94",
+      "title": "Scientists fear radio telescope may be shut in cuts",
+      "description": "The site is part of e-MERLIN, a globally significant group of seven radio telescopes across the UK.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qy3v15l98o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f997/live/68ef2e30-7568-11f1-bd47-e1ebd62de3b7.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-02 05:21:54",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f594af59c3a71949b14e4e36e2b62997",
+      "title": "Roman coins among finds along East West Rail route",
+      "description": "Work on 1,000 archaeological trial trenches has been completed in Bedfordshire and Cambridgeshire.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyex2g7v8o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/18e4/live/3a6f83a0-7556-11f1-ad35-0b5033d4b93e.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-02 05:21:25",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b29278601c87a23148f07a2b978b34d5",
+      "title": "Colorful songbirds face higher risk of extinction",
+      "description": "While prized as pets in some places, the pet trade is not entirely to blame. The post Colorful songbirds face higher risk of extinction appeared first on Popular Science .",
+      "url": "https://www.popsci.com/environment/colorful-songbirds-extinction-risk/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/07/colorful-birds-lead.png",
+      "source_icon": "https://n.bytvi.com/popsci.png",
+      "source": "Popular Science",
+      "published_at": "2026-07-02 03:55:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8da1b97aed3695a626d6d831cdaf6ecd",
+      "title": "Indian defense research institute head hails Japan’s lifting of arms export ban",
+      "description": "The defense research institute head also emphasized the need for Japan to diversify its defense equipment production sites to \"trusted\" partner countries.",
+      "url": "https://www.japantimes.co.jp/news/2026/07/02/japan/politics/india-japan-defense-cooperation/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/02/549396.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-07-02 01:50:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "97f7b5998fb11db052b0a78351d7c04d",
       "title": "From pureed meals to fresh greens: how space food is advancing to keep astronauts healthy",
@@ -24,6 +72,18 @@
       "source_icon": "https://n.bytvi.com/globalnews.png",
       "source": "Global News",
       "published_at": "2026-07-02 00:06:13",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "d0c8c19af4ca40371e2621602c5e4507",
+      "title": "The Space-Based Data Center Hype Machine Is Already In Orbit",
+      "description": "IEEE Spectrum argues that orbital data centers remain far from economically or technically practical despite Elon Musk's prediction that space will become the cheapest place to run AI within a few years. Deploying SpaceX's proposed million-satellite constellation would require enormous increases in launch and manufacturing capacity, while cooling, radiation, maintenance, latency, orbital debris, and astronomical interference present major unresolved obstacles. Longtime Slashdot reader xetdog shares the report: Consider this: There are roughly 14,500 active satellites in orbit. Musk's Starlink constellation accounts for about two thirds of those. Both the launch cadences and satellite-manufacturing capacity would have to scale up astronomically to deploy a million orbital data center satellites. For context, there have been roughly 7,000 orbital launches in all of human history. To loft 1 million satellites into low Earth orbit on SpaceX's Starship, which is designed to carry up to 60 satellites per vehicle, would require 16,666 launches exclusively devoted to satellite deployments. Considering that SpaceX launched a record 165 orbital missions in 2025, even at 10 times that cadence, it would take a decade. And how long would it take to build 1 million satellites, given Starlink's current pace of around 4,000 per year and a generous tenfold increase in capacity? Short of a manufacturing revolution, try 25 years. Dissipating heat in space also requires enormous radiators. As IEEE Spectrum editor Dina Genkina noted, startup Starcloud has sent only one Nvidia H100 GPU into orbit, and \"their radiator was too weak to let the chip run at full power.\" A single 700-watt H100 would require about 1.4 square meters of radiator area, while a 100-megawatt data center could need 2,500 radiators measuring 80 square meters each. So, why are the hyperscalers hyping orbital data centers? Answer: because it's lucrative. \"The Elon Musk part of it is honestly genius because he's got xAI building the data centers, SpaceX sending them to space, and Tesla building solar panels,\" Genkina says. \"It's almost like he's paying himself.\" Read more of this story at Slashdot.",
+      "url": "https://science.slashdot.org/story/26/07/02/0230210/the-space-based-data-center-hype-machine-is-already-in-orbit",
+      "image_url": "https://a.fsdn.com/sd/topics/space_64.png",
+      "source_icon": "https://n.bytvi.com/slashdot_org.png",
+      "source": "Slashdot",
+      "published_at": "2026-07-02 00:00:00",
       "language": "english",
       "category": "top"
     },
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/universetoday.png",
       "source": "Universe Today",
       "published_at": "2026-07-01 08:47:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8efa75115629d36ccf2191842d931883",
-      "title": "Photos: Akkuyu Unit 2 dome installed as Turkey progresses on its first nuclear plan",
-      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
-      "url": "https://interestingengineering.com/photo-story/akkuyu-unit-2-inner-containment-dome-installed-turkey",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-01 08:46:26",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "7e4c47c69b5d3303597b6c49590b7de9",
-      "title": "POWER Digest [July 2026]",
-      "description": "X-energy Advances 6-GW Nuclear Partnership With UK’s Centrica. Advanced nuclear reactor developer X-energy on June 2 said it submitted an application for the UK’s Generic Design Assessment (GDA)—the The post POWER Digest [July 2026] appeared first on POWER Magazine .",
-      "url": "https://www.powermag.com/power-digest-july-2026/",
-      "image_url": "https://www.powermag.com/wp-content/uploads/2023/07/powerdigest-wordcloud.jpg",
-      "source_icon": "https://n.bytvi.com/powermag.png",
-      "source": "Power Magazine",
-      "published_at": "2026-07-01 08:34:44",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1137f3605a466d5dd61c68a5bc0f794b",
-      "title": "Space Lasers Show How Venezuela’s Earthquakes Reshaped the Earth’s Crust",
-      "description": "New satellite imagery reveals how much terrain has shifted in the wake of the twin quakes.",
-      "url": "https://www.wired.com/story/space-lasers-show-venezuela-earthquakes-reshaped-earth-crust/",
-      "image_url": "https://media.wired.com/photos/6a4422d26c66c0772f06a930/16:9/w_2992,h_1683,c_limit/venezuela%20espacio%20terremoto.jpg",
-      "source_icon": "https://n.bytvi.com/wired.png",
-      "source": "Wired",
-      "published_at": "2026-07-01 08:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c1194d28a00f2ed867135b62f39c4079",
-      "title": "Galaxy Groups Hiding in the Universe’s Emptiest Places",
-      "description": "Even the universe’s emptiest regions, the vast voids that make up most of the volume of space, are not entirely empty. A new study using the CAVITY survey hunts for galaxy groups hiding within these voids, applying a friends of friends technique to chart how nearby galaxies cluster together despite the surrounding emptiness. The results paint a striking picture that most void galaxies actually live entirely solitary lives, yet where groups do form, they are small, loose and curiously indifferent to just how empty their void actually is. It raises a deceptively simple question that turns out to be anything but: in the universe’s quietest neighbourhoods, what makes some galaxies choose company while most remain alone?",
-      "url": "https://www.universetoday.com/articles/galaxy-groups-hiding-in-the-universes-emptiest-places",
-      "image_url": "https://www.universetoday.com/article_images/Cosmic_web_20260701_082941.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-01 08:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "127e91e4b597cd81e342f138afb027d9",
-      "title": "STAT+: The biotech scorecard for the third quarter: 15 stock-moving events to watch",
-      "description": "Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the third quarter.",
-      "url": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2019/04/GettyImages-1051187226-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-07-01 08:30:00",
       "language": "english",
       "category": "science"
     }
