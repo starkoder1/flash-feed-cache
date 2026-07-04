@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-04T09:58:40.189Z",
+  "last_updated": "2026-07-04T12:56:27.736Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "4d18323164ae36d3c6a095ed47702bc6",
+      "title": "Insect-borne diseases in the Amazon linked to land use and rural economies",
+      "description": "Diseases spread by insects in the Brazilian Amazon are not randomly distributed but form distinct regional patterns linked to land use, rural economies and environmental change, according to new research led by the Environmental Change Institute (ECI) at the University of Oxford.",
+      "url": "https://phys.org/news/2026-07-insect-borne-diseases-amazon-linked.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/insect-borne-diseases.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-04 00:40:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dd4399aecdaa817142f368339cbb69f0",
+      "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+      "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/56ca/live/27c54340-7734-11f1-9510-1546718f668b.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-04 00:23:47",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fac74c56bc91b976b1d6b004c05811cf",
+      "title": "How working memory could give rise to consciousness",
+      "description": "Working memory is the information we need to access to complete the tasks we’re engaged in right now, and scientists think it may be closely entwined with consciousness",
+      "url": "https://www.scientificamerican.com/article/how-working-memory-could-give-rise-to-consciousness/",
+      "image_url": "https://static.scientificamerican.com/dam/m/285f89e9e222c787/original/Vector-illustration-of-human-head-on-starry-space-background-Artificial-intelligence-or-cosmic-consciousness-concept-stock-illustration.jpg?m=1772748168.259&w=1200",
+      "source_icon": "https://n.bytvi.com/scientificamerican.png",
+      "source": "Scientificamerican",
+      "published_at": "2026-07-04 00:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "157256fe907abe5254c1e18cdd7cf565",
+      "title": "Take a tour of the new temporary Ontario Science Centre",
+      "description": "The Ontario Science Centre's new temporary home at Harbourfront Centre is now open. CBC's Alejandrina Alvarez takes you on a tour of the space.",
+      "url": "https://www.cbc.ca/player/play/9.7258176?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/6dc8d9fe-17a4-4284-ac23-4a2f1fb424c8,1783117775411/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1920%2C1080%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-07-03 22:39:37",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "816bc0720f8a18faa43d3e3e0480e74c",
+      "title": "A New Study into Dark Matter in the Bullet Cluster Could Disprove its Existence",
+      "description": "A study led by the University of Bonn presents new data that calls the existence of Dark Matter - a fundamental pillar of the current cosmological model - into question.",
+      "url": "https://www.universetoday.com/articles/a-new-study-into-dark-matter-in-the-bullet-cluster-could-disprove-its-existence",
+      "image_url": "https://www.universetoday.com/article_images/darkmatter-kipacamnh-1200_20260703_012755.webp",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-03 22:21:52",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "3db9924178f010abff847a610d22fa61",
       "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-03 00:33:26",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "c62c0a43c2a8246a34587525cc12cce7",
-      "title": "Scientists discover a protein switch that burns fat and blocks new fat cells",
-      "description": "A protein called “Mitch” may hold the key to a new generation of obesity treatments. Researchers found that disabling it in human cells boosts fat burning, increases energy use, and makes it harder for new fat cells to develop. The findings help explain why mice lacking Mitch were leaner, more athletic, and resistant to obesity.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260624115324.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/woman-weight-loss-success-before-after.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-03 00:22:49",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "117253a42c059e9aaac79708c084e8f2",
-      "title": "Single ion scans hidden 3D electromagnetic fields to improve quantum chip performance",
-      "description": "ETH Zurich researchers used a single trapped ion to create 3D electromagnetic field maps, offering a new way to improve quantum computing.",
-      "url": "https://interestingengineering.com/innovation/single-ion-3d-quantum-chip-mapping",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-53.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-03 00:11:17",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "730ac54e103b76202eaa5ef9df9b082e",
-      "title": "Postwar research compact fueled U.S. prosperity for eight decades, argues commentary",
-      "description": "As the United States celebrates 250 years of independence, Science has published a commentary by Johns Hopkins University President Ron Daniels highlighting the impact of the reimagining of the American university pioneered by Johns Hopkins in the late 19th century—and how the benefits of that shift and the later emergence of the compact between research universities and the federal government have been integral to the nation's success and prosperity.",
-      "url": "https://phys.org/news/2026-07-postwar-compact-fueled-prosperity-decades.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/johns-hopkins-universi.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-03 00:00:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3571b8328fc9ffec5ad8323eb02bf3e1",
-      "title": "New drone technology uses nature-inspired signals to predict failures before crashes",
-      "description": "Scientists developed a nature-inspired method that helps drones detect failures before losing control.",
-      "url": "https://interestingengineering.com/innovation/drones-early-warning-system-predict-failures",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-54.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-02 23:46:52",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "9f1fe5fede4cf303a296605f44f7affa",
-      "title": "Nanozymes map nanoparticle routes inside live cells without genetic engineering",
-      "description": "Nanoparticles are widely used in medicine to deliver drugs, genes or imaging agents to specific parts of the body. Once a nanoparticle reaches a cell, however, many things can happen—it can reach its target, be degraded, interact with proteins that help transport it, or interact with proteins that hinder its transport.",
-      "url": "https://phys.org/news/2026-07-nanozymes-nanoparticle-routes-cells-genetic.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/scientists-develop-nov-2.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-02 23:40:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
