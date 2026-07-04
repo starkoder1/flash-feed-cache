@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-04T12:56:27.736Z",
+  "last_updated": "2026-07-04T16:51:40.478Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "aa412fbdd33eb793b7df56275fb2611a",
+      "title": "Astronomers discover Earth’s new ‘next-door neighbor’ — a potentially habitable planet",
+      "description": "The exoplanet is approximately twice the size of Earth.",
+      "url": "https://nypost.com/2026/07/04/us-news/earths-new-next-door-neighbor-a-potentially-habitable-planet-discovered-by-astronomers/",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fwww-space-com-astronomy-exoplanets-133203803.jpg?w%3D1024",
+      "source_icon": "https://n.bytvi.com/nypost.png",
+      "source": "New York Post",
+      "published_at": "2026-07-04 04:44:52",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "9badb0000e10ec07980c82b167f67deb",
+      "title": "World's largest digital camera starts mapping the universe",
+      "description": "The Rubin observatory in Chile has begun its decade survey of the sky, snapping hundreds of images, to help researchers understand dark matter.",
+      "url": "http://www.euronews.com/my-europe/2026/07/04/worlds-largest-digital-camera-starts-mapping-the-universe",
+      "image_url": "https://images.euronews.com/articles/stories/09/82/11/51/1440x810_cmsv2_420374f1-3450-54ab-9661-842e4e30f72c-9821151.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-07-04 04:38:19",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "03bc47eb9d1dfd0a0614fddf1599e0d3",
+      "title": "Imaging technique reveals microplastics moving through the body",
+      "description": "Microplastics are everywhere, visible as small specks in water samples, tissue biopsies, and post-mortem examinations. Now scientists can actually see ...",
+      "url": "https://refractor.io/imaging-diagnostics/imaging-technique-microplastics-moving-body/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/e48697d3714169395281140ba51f9bceeb026361/_xlarge.jpeg",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-07-04 02:06:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "4d18323164ae36d3c6a095ed47702bc6",
       "title": "Insect-borne diseases in the Amazon linked to land use and rural economies",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/pocketgamer.jpg",
       "source": "Pocketgamer",
       "published_at": "2026-07-03 01:39:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "738e979c2ade1cf5461bbd4b38c8198d",
-      "title": "99% pure lithium extraction became possible with US scientists’ new electrochemical method",
-      "description": "Researchers from UChicago PME used electrochemical intercalation to extract 99% pure lithium from a solution where the ratio of sodium to lithium was 1,000 to 1.",
-      "url": "https://interestingengineering.com/energy/99-pure-lithium-extraction-method",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/battery-material.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-03 00:58:05",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d3615d6618f165d2e1136190469fa9a3",
-      "title": "South Korean team uses brain oxidant to activate Alzheimer’s prodrug",
-      "description": "KAIST researchers created a prodrug activated by hydrogen peroxide in diseased brains, reducing oxidative stress and amyloid buildup in mice.",
-      "url": "https://www.upi.com/Top_News/World-News/2026/07/02/alzheimer-prodrug-kaist/5831783039473/",
-      "image_url": "https://cdnph.upi.com/ph/st/th/5831783039473/2026/i/17830395774088/v1.5/South-Korean-team-uses-brain-oxidant-to-activate-Alzheimers-prodrug.jpg",
-      "source_icon": "https://n.bytvi.com/upi.jpg",
-      "source": "Upi",
-      "published_at": "2026-07-03 00:49:55",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a947fa3ef09862c3a0c6ae516b1aeb95",
-      "title": "'Milestone': Scientists claim to build synthetic cell, raising concerns in step toward artificial life",
-      "description": "University of Minnesota researchers say \"SpudCell\" is the most life-like synthetic cell yet, able to grow, divide and pass traits to offspring.",
-      "url": "https://www.foxnews.com/science/milestone-scientists-claim-build-synthetic-cell-raising-concerns-step-toward-artificial-life",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/scientists_in_lab.jpeg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-07-03 00:33:26",
       "language": "english",
       "category": "top"
     }
