@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-04T16:51:40.478Z",
+  "last_updated": "2026-07-04T20:42:24.383Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "9e7291ae9ee54dd39670af79a4d816d4",
+      "title": "Japan’s COF–graphene hybrid advances high-performance lithium–sulfur batteries",
+      "description": "A research team has developed a novel molecularly engineered material that could bring practical lithium–sulfur batteries a step closer to commercialization.",
+      "url": "https://interestingengineering.com/energy/japan-cof-graphene-hybrid-lithium-sulfur-batteries",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/battery-newone.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-04 08:23:44",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "12569609c46a9c01ca5dad3782e01f7d",
+      "title": "To swat or not? These scientists suggest we rethink our fear toward insects",
+      "description": "When a bug lands, do you swat or step back? We are taught to fear insects, but by looking closer at how they help our environment, we can trade our reflexive panic for wonder and learn to share our outdoor spaces, scientists say.",
+      "url": "https://www.cbc.ca/radio/sunday/insects-are-friends-not-foe-9.7242587?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/863dd827-af60-4b93-8fa1-aa3df93dc227,1782161138348/full/max/0/default.jpg?im=Crop%2Crect%3D%285%2C225%2C2026%2C1139%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-07-04 08:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "32cb52f07e3cf36ef8e8841872aea58b",
+      "title": "Gorilla bursts into laughter while being tickled for study",
+      "description": "Video captured in Coventry, England shows a gorilla bursting into laughter as a man tickles its foot. A University of Warwick study published on journal Natu...",
+      "url": "https://uk.news.yahoo.com/gorilla-bursts-laughter-while-being-080000543.html",
+      "image_url": "https://media.zenfs.com/en/kameraone_537/2a28aca2e4705b21e80931eb1a988982",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-07-04 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "aa412fbdd33eb793b7df56275fb2611a",
       "title": "Astronomers discover Earth’s new ‘next-door neighbor’ — a potentially habitable planet",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/newatlas.png",
       "source": "New Atlas",
       "published_at": "2026-07-03 04:32:23",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "e24365e633c7d306b070181d26958e64",
-      "title": "'It's a global issue': WSU researcher looks to Egypt to improve livestock efficiency - Thu, 02 Jul 2026 PST",
-      "description": "While Egypt has already seen historic success in the World Cup, one Washington State University researcher is exploring whether the country can also help solve food instability across the world.",
-      "url": "http://www.spokesman.com/stories/2026/jul/02/its-a-global-issue-wsu-researcher-looks-to-egypt-t/",
-      "image_url": "https://thumb.spokesman.com/3no4HvB7zTjq4dlhvXCkOQJlRU8=/2500x1405/smart/media.spokesman.com/photos/2026/07/02/6a46f1f9d8a2f.hires.jpg",
-      "source_icon": "https://n.bytvi.com/spokesman.png",
-      "source": "Spokesman",
-      "published_at": "2026-07-03 03:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "2a6242e14249ce95ff42b9cc56cf6839",
-      "title": "Scientists stunned as bumble bees solve a classic intelligence test",
-      "description": "Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick. The discovery adds to growing evidence that these tiny insects are far smarter and more adaptable than once believed.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/bumble-bee-problem-solving-experiment.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-03 02:53:35",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4e1dad63835dc7bf2b54450bd9cf0402",
-      "title": "Resonance Solstice tier list (July 2026) - Make the best crew you can",
-      "description": "Updated on July 3rd, 2026 - Version: 1.7.1 - Latest Addition: Margiela [The Stargazer] Here you’ll find a detailed Resonance Solstice tier list that includes all the game’s crew members, regardless of their rarity. ... [ MORE ]",
-      "url": "https://www.pocketgamer.com/resonance-solstice/tier-list/",
-      "image_url": "https://media.pocketgamer.com/artwork/na-37854-1770369463/pg-resonance-solstice-tier-list-header.jpeg",
-      "source_icon": "https://n.bytvi.com/pocketgamer.jpg",
-      "source": "Pocketgamer",
-      "published_at": "2026-07-03 01:39:00",
       "language": "english",
       "category": "top"
     }
