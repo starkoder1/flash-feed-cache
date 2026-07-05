@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-05T13:04:14.277Z",
+  "last_updated": "2026-07-05T16:53:14.268Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "04c6abcabc8e1c1d91e4464ab2ff7aad",
+      "title": "Review: I kicked myself out of my house to test this Jackery Explorer battery",
+      "description": "Let’s get one thing out of the way. I’m your resident science writer. Alien comets, tiny universes, and body parts are the sort of thing I’m used to ...",
+      "url": "https://newatlas.com/outdoors/review-jackery-explorer-battery-power-station/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/cfcd577b619560da9284d61bec66810806bf85f3/_xlarge.jpeg",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-07-05 04:03:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "997d201024ce1346b155215df62e2f89",
+      "title": "Book review: A biography of famed biologist George Schaller showcases his Alaska roots",
+      "description": "While his work took him around the globe, some of Schaller’s earliest and most vital work came in the Far North.",
+      "url": "https://www.adn.com/arts/books/2026/07/04/book-review-a-biography-of-famed-biologist-george-schaller-showcases-his-alaska-roots/",
+      "image_url": "https://www.adn.com/resizer/4qdDJ-IRFNfA0Op7_szWhfr_JQA=/cloudfront-us-east-1.images.arcpublishing.com/adn/NONFS2B2VBE4DOJNBVZYCU62O4.jpg",
+      "source_icon": "https://n.bytvi.com/adn.png",
+      "source": "Adn",
+      "published_at": "2026-07-05 02:38:15",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ded2cf9b48ff802a4020d88d9b6dc371",
+      "title": "Supermassive black hole's plasma jet in 'most detailed X-ray view ever'",
+      "description": "In April 2019, the Event Horizon Telescope (EHT) collaboration made history by releasing the first-ever image of a black hole – an object that, until ...",
+      "url": "https://refractor.io/space/plasma-jet-nasa/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/7adfb843b43e811afca1e8db7d57404f6b814de7/_xlarge.png",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-07-05 02:22:27",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "1dc3796d6769c252edd32db4e2d60ac9",
       "title": "Daily horoscope July 5, 2026: Today’s predictions for your star sign",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/wired.png",
       "source": "Wired",
       "published_at": "2026-07-03 18:13:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0bea28faecd3d3ff263c45b8216493cb",
-      "title": "Get Ready for Liftoff: Space Shuttle Endeavour’s New Exhibit Opens to the Public This Year",
-      "description": "The retired space shuttle will look launch-ready at its new home in California.",
-      "url": "https://gizmodo.com/get-ready-for-liftoff-space-shuttle-endeavours-new-exhibit-opens-to-the-public-this-year-2000780631",
-      "image_url": "https://gizmodo.com/app/uploads/2026/07/CSC-June-2026-Rush-8-%C2%A9MikeKelley-Large.jpg",
-      "source_icon": "https://n.bytvi.com/gizmodotech.png",
-      "source": "Gizmodo",
-      "published_at": "2026-07-03 18:00:30",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "19da30e1579c856b3fe385da012e9bd8",
-      "title": "Giant wheat starch granules—a leap forward in biological engineering with potential benefits for diet, manufacturing",
-      "description": "Scientists have grown wheat containing supersized starch granules—a leap forward in biological engineering with potential benefits for our daily diets and a raft of industrial applications.",
-      "url": "https://phys.org/news/2026-07-giant-wheat-starch-granules-biological.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/giant-wheat-starch-gra.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-03 18:00:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "254add4c431f04d6af4e9a14fa23024a",
-      "title": "Newfound family ties link Scythian elite burials across the Eurasian steppe",
-      "description": "A new ancient DNA study published in Science Advances provides evidence that political power among Scythian elites may have been inherited through family lineages that extended across multiple burial sites. By combining archaeology, anthropology and genetics, the new study offers fresh insight into how social inequality and political authority developed among ancient nomadic societies.",
-      "url": "https://phys.org/news/2026-07-newfound-family-link-scythian-elite.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-genomic-study-unco-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-03 18:00:09",
       "language": "english",
       "category": "science"
     }
