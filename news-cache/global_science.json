@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-05T06:59:04.168Z",
+  "last_updated": "2026-07-05T10:02:40.769Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ac294ad19a1bf7e0494587a8de129eb4",
+      "title": "Ben-Gurion University study finds step speed may predict longevity in older adults -study",
+      "description": "While medical care usually measures life expectancy through chronological age or the number of chronic illnesses, physical indicators like walking speed seem to be strong indicators of health.",
+      "url": "https://www.jpost.com/health-and-wellness/article-901395",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719131",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-04 19:31:34",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "b8d04b843c95efe4510d89c99a2d5e49",
+      "title": "Egypt uncovers lost Byzantine-era city and ancient tombs in two major archaeological finds",
+      "description": "Archaeologists also found four gold pieces placed inside the mouths of some of the deceased, known as ‘the golden tongue’",
+      "url": "https://www.independent.co.uk/news/science/archaeology/egypt-lost-city-ancient-tombs-dakhla-oasis-b3009005.html",
+      "image_url": "https://static.independent.co.uk/2026/07/04/18/38/AP26185475528592.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-07-04 19:01:51",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "3f83cba41855d3a0fd529a35d6239361",
       "title": "Researchers Built a Scuba Suit for Cyborg Cockroaches",
@@ -578,30 +602,6 @@
       "published_at": "2026-07-03 18:00:02",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "4cbf013c1a9b31fc418c337360448f7c",
-      "title": "A New Walking Shark Species Has Brown Freckles, White Dashes, and an Uncertain Future",
-      "description": "Learn more about the Dudgeon walking shark ( Hemiscyllium dudgeonae ), what makes it so unique, and why the speices is already threatened.",
-      "url": "https://www.discovermagazine.com/a-new-walking-shark-species-has-brown-freckles-white-dashes-and-an-uncertain-future-49327",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59779/h-dudgeonae-meta.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-03 18:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "bd0032c336450573b49b3d80efbeddbc",
-      "title": "Could humans someday explore Saturn's moon Titan, or will humanoid robots do it for us?",
-      "description": "Could humans ever set foot on Titan, or will AI-powered humanoid robots make the voyage instead?",
-      "url": "https://www.space.com/space-exploration/could-humans-someday-explore-saturns-moon-titan-or-will-humanoid-robots-do-it-for-us",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/n4is6GhGa2fqNrxrNE7jvj-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-07-03 18:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
