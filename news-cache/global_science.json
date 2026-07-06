@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-06T08:08:54.398Z",
-  "article_count": 50,
+  "last_updated": "2026-07-06T14:54:18.876Z",
+  "article_count": 40,
   "articles": [
+    {
+      "id": "02403bab2b85f1519358fce77b045e55",
+      "title": "Upside-down whales aren’t sick or hurt – they’re just resting",
+      "description": "This behaviour is unique, rather perplexing and not reported in other large whales.",
+      "url": "https://theconversation.com/upside-down-whales-arent-sick-or-hurt-theyre-just-resting-286139",
+      "image_url": "https://images.theconversation.com/files/744487/original/file-20260626-71-9mjsyh.png?ixlib=rb-4.1.0&rect=0%2C57%2C3118%2C1559&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-06 00:06:44",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "978f1d2209530da32e9f37328fc39759",
+      "title": "Nearby \"Super Earth\" Could Host Life After All",
+      "description": "Using the Hobby-Eberly Telescope at McDonald Observatory, astronomers have taken a closer look at a nearby exoplanet and discovered it may be more Earth-like than previously thought.Using the Hobby-Eberly Telescope at McDonald Observatory, astronomers have taken a closer look at a nearby exoplanet and discovered it may be more Earth-like than previously thought.",
+      "url": "https://www.universetoday.com/articles/nearby-super-earth-could-host-life-after-all",
+      "image_url": "https://www.universetoday.com/article_images/M-dwarf-deep-red-star-1024x768_20260705_224818.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-05 20:19:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "52ef2ef13e1f19c67bb51ab093d807dc",
       "title": "Astronomers Characterize \"Improbable\" System Shaped by Brown Dwarf",
@@ -458,150 +482,6 @@
       "published_at": "2026-07-04 15:01:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "ea9eabc5cf7f9b45a8a3c0a1a2ec1537",
-      "title": "Smerconish on America at 250: How the world sees us vs. what visitors actually find",
-      "description": "On America's 250th birthday, Michael Smerconish contrasts declining global perceptions of the U.S. with the overwhelmingly positive experiences of international visitors, arguing that firsthand encounters tell a very different story than opinion polls.",
-      "url": "https://www.cnn.com/2026/07/04/us/video/smerconish-on-america-at-250-how-the-world-sees-us-vs-what-visitors-actually-find",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2225925576-20260704143714930.jpg?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-07-04 14:51:25",
-      "language": "english",
-      "category": "entertainment"
-    },
-    {
-      "id": "8eb2dc6b1394e527de8c5410e6093b16",
-      "title": "America's shark attacks MAPPED: Deadly capital, little-known hotspot where sightings are surging... and the 'Great White Alley' shift beachgoers cannot ignore",
-      "description": "Shark sightings are on the rise and a hotspot has emerged in a surprising place in the north Atlantic, sparking new beach warnings and fears of shark attacks in unlikely states.",
-      "url": "https://www.dailymail.com/sciencetech/article-15945291/america-shark-attacks-map-deaths-sightings.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/04/14/109788039-0-image-a-53_1783172366997.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-04 14:17:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "782ce4d8b24c66254ba5299d007a70ba",
-      "title": "Will we eventually have to send our trash into space if we run out of room on Earth?",
-      "description": "Humans generate a lot of trash, but there are cheaper and safer ways to handle it than loading it on rockets.",
-      "url": "https://www.yahoo.com/lifestyle/articles/eventually-send-trash-space-run-140116222.html",
-      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/7e8d7a7e08027c1e99fa526591ba0722",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-07-04 14:01:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7c24e32ca44cab3ce555d864c221acfe",
-      "title": "Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content",
-      "description": "\"Surely we are going to get in trouble for doing this?\" The post Meta Paid Hundreds of Contractors to Pretend to Be Teenagers While Barraging Its Competitors’ AI With Disturbing Content appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/meta-contractors-competitor-ai-with-disturbing-content",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/meta-contractors-competitor-ai-with-disturbing-content.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-04 13:02:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "502059e8b2f765e806c6ee14ade578a0",
-      "title": "Archaeologists may have found ruins linked to Ark of the Covenant at Shiloh",
-      "description": "A team of archaeologists says they have made a groundbreaking discovery that could help them find one of the Bible's most legendary lost relics.",
-      "url": "https://www.the-express.com/news/science/210916/archaeologists-may-have-found-ruins-linked-ark-covenant-shiloh",
-      "image_url": "https://cdn-images.the-express.com/img/dynamic/15/590x/210916_1.jpg",
-      "source_icon": "https://n.bytvi.com/express.png",
-      "source": "Daily Express Us",
-      "published_at": "2026-07-04 13:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "e11104ce7d6bb5e44481cf5496f06830",
-      "title": "STEP tokamak gets modular fusion reactor core design to reduce downtime, boost maintenance",
-      "description": "UK engineers are rethinking the tokamak structure, replacing massive welded hulls with independent, modular rings.",
-      "url": "https://interestingengineering.com/energy/step-fusion-reactor-modular-core-design",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Step-Fusion.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-04 12:23:07",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "b9d36e09126be92638b24a3dac233163",
-      "title": "Self-Driving Taxi Company Annoyed by the Naughty Thing Passengers Keep Doing in Its Cabs",
-      "description": "\"You're not supposed to smoke in the vehicle.\" The post Self-Driving Taxi Company Annoyed by the Naughty Thing Passengers Keep Doing in Its Cabs appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/self-driving-taxi-company-annoyed-naughty-passengers",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/self-driving-taxi-company-annoyed-naughty-passengers_da8f16.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-04 12:01:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "c262246da19d9558f6c650f18aca42cb",
-      "title": "What did the night sky look like on the 1st Independence Day 250 years ago?",
-      "description": "As the U.S. celebrates its 250th birthday, here's what Benjamin Franklin and other colonists would have seen when they looked up on July 4, 1776.",
-      "url": "https://www.space.com/stargazing/what-did-the-night-sky-look-like-on-the-1st-independence-day-250-years-ago",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/oHXawDxQBRVjxkecq94p9a-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-07-04 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b3e52e7b2f132a2a9d300b63c82a296a",
-      "title": "The end of the America we know? Startling new images show how major cities could look in 250 years",
-      "description": "As America celebrates its 250th birthday, startling new visions suggest the nation that turns 500 could be almost unrecognizable.",
-      "url": "https://www.dailymail.com/sciencetech/article-15939027/america-major-cities-future-climate-inequality.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/03/19/109783063-0-image-a-57_1783103009497.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-04 11:59:27",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5948028475eea9828a945870637765e2",
-      "title": "Disney settlement could pay YouTube TV and DirecTV users",
-      "description": "Disney's $50 million antitrust settlement lets YouTube TV and DirecTV Stream subscribers file a claim form for a cash payment before the deadline.",
-      "url": "https://www.foxnews.com/science/disney-settlement-pay-youtube-tv-directv-users",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/disney-settlement.jpg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-07-04 11:48:52",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5f14840ed188c324e22a54675d071caa",
-      "title": "Scientists are using 'superworms' as a safer, efficient way to clean animal skeletons",
-      "description": "To clean animal skeletons used for research and education, scientists are turning to a new type of beetle larva. These \"superworms\" provide an efficient solution to a difficult challenge.",
-      "url": "https://www.npr.org/2026/07/04/nx-s1-5877609/scientists-are-using-superworms-as-a-safer-efficient-way-to-clean-animal-skeletons",
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
-      "source_icon": "https://n.bytvi.com/npr.png",
-      "source": "Npr",
-      "published_at": "2026-07-04 11:43:41",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e2502076d58bcad93dc997ec82b2b9ea",
-      "title": "The evidence against “ultra-processed” foods is weaker than you think",
-      "description": "In little more than a decade, the term “ultra-processed foods” (UPFs) has risen from an obscure academic coinage to one of the most potent ideas in the American food imagination. It has saturated media coverage of diet and disease, spawned a profusion of guides teaching shoppers how to spot UPFs at the supermarket, and animated [...]",
-      "url": "https://www.vox.com/future-perfect/494045/ultra-processed-foods-science-rcts",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2242251615.jpg?quality=90&strip=all&crop=0,10.753652697581,100,78.492694604838",
-      "source_icon": "https://n.bytvi.com/vox.png",
-      "source": "Vox",
-      "published_at": "2026-07-04 11:15:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
