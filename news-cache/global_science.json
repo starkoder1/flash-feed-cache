@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-06T14:54:18.876Z",
-  "article_count": 40,
+  "last_updated": "2026-07-06T18:03:48.997Z",
+  "article_count": 39,
   "articles": [
+    {
+      "id": "0d5d26a789251e60893ec312121fa265",
+      "title": "New Zealand cave reveals a time capsule to life before",
+      "description": "It contains fossils that are one million years old",
+      "url": "https://theweek.com/science/new-zealand-moa-eggshell-cave-million-year-old-fossils",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/crSrxT2P3PA5FGHh46CPya-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-07-06 06:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "60a7f26cb99f74e59cb3afd5b210b31c",
+      "title": "Mink numbers to be cut by 90% in Kent",
+      "description": "Conservationists hope to dramatically reduce mink numbers across Kent.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8ldg34l7zo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b355/live/234f32d0-76e4-11f1-9842-7718f5ead045.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-06 05:10:26",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0d24e9ea3c7f7e8563b340e06702c3a8",
+      "title": "Farnham backs public ownership of golf course site",
+      "description": "Campaigners want Les Mielles to be bought by the government and returned to nature.",
+      "url": "https://www.bbc.co.uk/news/articles/cdej58dn48po",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5bf1/live/92dd8b20-76ca-11f1-bd3f-0f791277aaa0.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-06 05:10:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1cdfbd90198e6de531dde036c6976836",
+      "title": "3D 'laser stirring' generates complex unobtainium-level alloys",
+      "description": "High-entropy alloys (HEAs) are metallurgy’s version of having your cake and eating it too, combining multiple elements to create unusual mixes of ...",
+      "url": "https://newatlas.com/materials/3d-printing-technique-high-entropy-alloy/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/27171d76ca6b00389e0a28b74fa5ca29a2c17e74/_xlarge.png",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-07-06 05:03:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "df22b9fd82b6b78d9e84cf8ad1d1939a",
+      "title": "Next-gen ramjet fuel propulsion system for future offensive, defensive missions tested",
+      "description": "A recent test demonstrated progress toward a high-performance, lower-cost propulsion option. The test also met the Department of War’s goal to provide superior advanced weapon systems that will outpace adversaries.",
+      "url": "https://interestingengineering.com/military/next-gen-ramjet-fuel-propulsion-system",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/ramjet-engine.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-06 04:28:24",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "02403bab2b85f1519358fce77b045e55",
       "title": "Upside-down whales aren’t sick or hurt – they’re just resting",
@@ -14,6 +74,18 @@
       "published_at": "2026-07-06 00:06:44",
       "language": "english",
       "category": "technology"
+    },
+    {
+      "id": "516a29556a38f5084f369ed452c9a4f3",
+      "title": "Cycling 30,000 kilometres to emulate the ultimate avian love story | Folio",
+      "description": "U of A researchers embark on a gruelling expedition to study the threatened whimbrel and test the limits of human endurance.",
+      "url": "https://www.ualberta.ca/en/folio/2026/07/cycling-30,000-kilometres-to-emulate-the-ultimate-avian-love-story.html",
+      "image_url": "https://www.ualberta.ca/en/folio/media-library/2026/07/260701-wings-of-survival-teaser-16x9-1600.jpg",
+      "source_icon": "https://n.bytvi.com/ualberta_ca.png",
+      "source": "University Of Alberta",
+      "published_at": "2026-07-06 00:00:00",
+      "language": "english",
+      "category": "science"
     },
     {
       "id": "978f1d2209530da32e9f37328fc39759",
@@ -398,90 +470,6 @@
       "published_at": "2026-07-04 19:01:51",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "3f83cba41855d3a0fd529a35d6239361",
-      "title": "Researchers Built a Scuba Suit for Cyborg Cockroaches",
-      "description": "The 3D-printed diving suit allowed cockroaches with electrodes attached to them to survive underwater for up to three hours.",
-      "url": "https://gizmodo.com/researchers-built-a-scuba-suit-for-cyborg-cockroaches-2000781231",
-      "image_url": "https://gizmodo.com/app/uploads/2026/07/3d-printed-suit-for-cyborg-insects-extends-operations-underwaterfac3c966-49a5-4cf9-b57e-b9f9b13666d1.jpg",
-      "source_icon": "https://n.bytvi.com/gizmodotech.png",
-      "source": "Gizmodo",
-      "published_at": "2026-07-04 18:00:08",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "a312aef8a520e319796f99c06f10ce56",
-      "title": "NASA accused of erasing UFOs from photographs before public release",
-      "description": "A NASA whistleblower claimed that the space agency knowingly covered up proof of alien life captured in everyday photos.",
-      "url": "https://www.dailymail.com/sciencetech/article-15951523/nasa-contractor-ufo-photo-erasing.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/03/21/109785551-0-image-a-10_1783111171925.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-04 17:27:55",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fda5625dd69d5e2abfd0b3133c58c1a7",
-      "title": "Surprise! Meta Says Now You Have to Pay a Monthly Subscription to Use Key Features of Your Already Expensive Smart Glasses",
-      "description": "\"Utterly bogus.\" The post Surprise! Meta Says Now You Have to Pay a Monthly Subscription to Use Key Features of Your Already Expensive Smart Glasses appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/meta-monthly-subscription-ai-glasses",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-monthly-subscription-ai-glasses.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-04 17:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4f1d02f4eccf999672a008de60585a67",
-      "title": "NASA’s most powerful X-ray telescope reveals Milky Way may stretch farther than previously known",
-      "description": "The discovery could mean astronomers will have to recalculate the size and mass of our galaxy.",
-      "url": "https://nypost.com/2026/07/04/world-news/nasas-chandra-telescope-reveals-milky-ways-outer-reaches-may-stretch-farther-than-previously-known/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F133258553.jpg?w%3D1024",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-07-04 16:43:08",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "fc527ca77ff7784e8511299cf4c1cbf2",
-      "title": "Peptide That Makes You Tan Linked to Skin Cancer, Doctor Warns",
-      "description": "\"I don't really see a medical benefit of it at all.\" The post Peptide That Makes You Tan Linked to Skin Cancer, Doctor Warns appeared first on Futurism .",
-      "url": "https://futurism.com/health-medicine/peptide-melanotan-skin-cancer-tanning-surgeon",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/peptide-melanotan-skin-cancer-tanning-surgeon.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-04 16:02:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b647c620795a39c04d46e635dbd6e202",
-      "title": "New technology might finally solve one of the greatest mysteries known to man — and Hollywood",
-      "description": null,
-      "url": "https://nypost.com/2026/07/04/lifestyle/new-technology-might-finally-solve-the-mystery-of-the-lost-ark/",
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Freplica-ark-covenant-gold-covered-132750432.jpg?w%3D1024",
-      "source_icon": "https://n.bytvi.com/nypost.png",
-      "source": "New York Post",
-      "published_at": "2026-07-04 16:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "dd1446cc0aaf40c56a256f55644efe37",
-      "title": "Tesla Slams Into Crowded Cafe, Killing One",
-      "description": "\"It was attempting to make a right-hand turn to go eastbound... and, unfortunately, did not make the turn and went over the sidewalk when it struck the female victim.\" The post Tesla Slams Into Crowded Cafe, Killing One appeared first on Futurism .",
-      "url": "https://futurism.com/advanced-transport/tesla-slams-crowded-cafe-killing-one",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/06/tesla-slams-crowded-cafe-killing-one.jpg",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-04 15:01:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
