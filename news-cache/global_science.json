@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-06T18:03:48.997Z",
-  "article_count": 39,
+  "last_updated": "2026-07-06T21:19:26.993Z",
+  "article_count": 45,
   "articles": [
+    {
+      "id": "4b4f2874031dde64a092eb8cd05d5f32",
+      "title": "For Families With Nonspeaking Autistic Children, a Fierce Debate Over Assisted Spelling",
+      "description": "Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities.",
+      "url": "https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html",
+      "image_url": "https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg",
+      "source_icon": "https://n.bytvi.com/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-07-06 09:00:26",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9257f7ef0e8a1050920f109ae6debde3",
+      "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
+      "description": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI.",
+      "url": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/AdobeStock_449364389-1024x576.jpeg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-07-06 08:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "7d3ff536916d5199144b9ddb821f8e37",
+      "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
+      "description": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now.",
+      "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/ANT_BRIEFING_SF_JPEG_01-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-07-06 08:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "d69ba9ec9ec8b71a79b4038747d1621d",
+      "title": "One factor can age your brain faster – and you can do something about it",
+      "description": "Glucose levels have been linked with the accelerated aging of the human brain in a new study by researchers in China, highlighting the benefits of ...",
+      "url": "https://refractor.io/brain/glucose-cause-brain-age-faster/",
+      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/be79f14a958451afbe96b80b29962ed7fe179d30/_xlarge.jpeg",
+      "source_icon": "https://n.bytvi.com/newatlas.png",
+      "source": "New Atlas",
+      "published_at": "2026-07-06 08:20:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "570352efbb1a234c64b7a95aef05f6e2",
+      "title": "China's space probe reaches asteroid after 1-billion-kilometer chase for first sample return",
+      "description": "China's Tianwen-2 space probe, which is set to bring back samples from an asteroid for research, has reached its target after traveling 1 billion kilometers (620 million miles) over more than a year, the Chinese space agency said Monday.",
+      "url": "https://phys.org/news/2026-07-china-space-probe-asteroid-billion.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chinas-space-probe-rea.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-06 08:17:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4f06dcf459dcae6a48c72444cc04db61",
+      "title": "Astronomers witness the birth of a magnetar for the first time",
+      "description": "A strange \"chirping\" signal from a distant supernova has revealed the birth of a magnetar, confirming that these incredibly magnetic neutron stars can power the universe's brightest stellar explosions. The discovery also marks the first time Einstein's general relativity has been used to explain the mechanics of a supernova.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030450.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/magnetar-powers-superluminous-supernova.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-06 08:15:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "99a16b8fa08f2046f4995a921db9fa5b",
+      "title": "What the Guadalupe River left behind",
+      "description": "Grateful to be alive, survivors still wondered about their possessions. Then, an army of strangers went on a mission to reunite them with the things the river stole.",
+      "url": "https://www.cnn.com/2026/07/06/us/texas-floods-guadalupe-river",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/09507528-00593736-generated-thumbnail.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-06 08:00:25",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "a551e4fba8fc0ecf8720e8e6593f832f",
+      "title": "ABC will trial using AI for journalism. What are the risks and benefits?",
+      "description": "The decision tracks with a long history of editors and journalists being early adopters of tech innovations.",
+      "url": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
+      "image_url": "https://images.theconversation.com/files/746031/original/file-20260706-57-octihq.jpg?ixlib=rb-4.1.0&rect=0%2C194%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-06 06:44:38",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "0d5d26a789251e60893ec312121fa265",
       "title": "New Zealand cave reveals a time capsule to life before",
@@ -444,30 +540,6 @@
       "source_icon": "https://n.bytvi.com/universetoday.png",
       "source": "Universe Today",
       "published_at": "2026-07-04 22:16:17",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ac294ad19a1bf7e0494587a8de129eb4",
-      "title": "Ben-Gurion University study finds step speed may predict longevity in older adults -study",
-      "description": "While medical care usually measures life expectancy through chronological age or the number of chronic illnesses, physical indicators like walking speed seem to be strong indicators of health.",
-      "url": "https://www.jpost.com/health-and-wellness/article-901395",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/719131",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-04 19:31:34",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "b8d04b843c95efe4510d89c99a2d5e49",
-      "title": "Egypt uncovers lost Byzantine-era city and ancient tombs in two major archaeological finds",
-      "description": "Archaeologists also found four gold pieces placed inside the mouths of some of the deceased, known as ‘the golden tongue’",
-      "url": "https://www.independent.co.uk/news/science/archaeology/egypt-lost-city-ancient-tombs-dakhla-oasis-b3009005.html",
-      "image_url": "https://static.independent.co.uk/2026/07/04/18/38/AP26185475528592.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-07-04 19:01:51",
       "language": "english",
       "category": "science"
     }
