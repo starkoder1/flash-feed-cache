@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-07T14:03:18.288Z",
+  "last_updated": "2026-07-07T17:50:27.738Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "64f20f85a0d3a38125f884ce9b8c9e6e",
+      "title": "Chris Packham emulates Sir David Attenborough's Life on Earth for the 21st Century",
+      "description": "The history of all living things is examined through five key species chosen for the way they move, feed and reproduce and also for their size and intelligence",
+      "url": "https://www.mirror.co.uk/tv/tv-news/chris-packham-evolution-bbc-series-37394989",
+      "image_url": "https://i2-prod.mirror.co.uk/incoming/article37395525.ece/ALTERNATES/s615/0_568685TITLEEvolution.jpg",
+      "source_icon": "https://n.bytvi.com/mirroruk.png",
+      "source": "Mirror",
+      "published_at": "2026-07-07 05:13:54",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8cfd2a3067fafd674b8fd0fed1811c5c",
+      "title": "Slug sleuths on the trail of gorging gastropods",
+      "description": "How predicting slugs' behaviour is helping farmers and their crops.",
+      "url": "https://www.bbc.co.uk/news/articles/cm200kxg3zlo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ab2/live/ec8b79e0-7934-11f1-b976-0b9c15b0ccfc.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-07 05:12:12",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ca510d4eb840b77789c6aa63b78e66b9",
+      "title": "Nature campaigners take on football club",
+      "description": "Kidderminster Harriers want to build several football pitches on nearby green belt land.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg777zjlk2o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ff40/live/775c7330-7953-11f1-a7ee-cf9ace21fa85.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-07 05:11:35",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1a22f56d0b89ac15a1bd31c109fdaae2",
+      "title": "US budget slashing risks losing global scientific edge to China",
+      "description": "Experts warn that cuts to US research funding is weakening the country’s scientific and technological capacity.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/us-budget-slashing-risks-losing-global-scientific-edge-to-china",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/07/image-1783399202.jpg?resize=1920%2C1080&quality=80",
+      "source_icon": "https://n.bytvi.com/aljazeera_us.png",
+      "source": "Al Jazeera",
+      "published_at": "2026-07-07 04:41:31",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "4bb36985c4453f1d85478d08890371e7",
+      "title": "New biobased polymers exhibit excellent tensile properties beyond polyolefins",
+      "description": "The research group of Professor Kotohiro Nomura, Tokyo Metropolitan University, in cooperation with the research groups of Senior Researcher Hiroshi Hirano and Director Seiji Higashi of the Osaka Research Institute of Industrial Science and Technology, and Associate Professor Hiroki Takeshita of The University of Shiga Prefecture, has developed biobased poly(ester amide)s from inedible biorenewables that can be easily chemically recycled and exhibit better mechanical (tensile) properties in film than commodity plastics.",
+      "url": "https://phys.org/news/2026-07-biobased-polymers-excellent-tensile-properties.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-biobased-polymers.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-07 04:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2ea0ea9f967fab52d81b44e6b8fc0e28",
+      "title": "Breaking Down Fundamental Analysis and What It Really Tells Investors",
+      "description": "Numbers don’t lie — but they do require interpretation. In a financial landscape crowded with noise, algorithms, and reactive sentiment, fundamental analysis stands apart as a disciplined, evidence-based framework for understanding what a business is actually worth. It’s the method behind Warren Buffett’s legendary picks, the backbone of institutional research desks, and increasingly, the tool... The post Breaking Down Fundamental Analysis and What It Really Tells Investors appeared first on Equity Insider .",
+      "url": "https://equity-insider.com/breaking-down-fundamental-analysis-and-what-it-really-tells-investors/",
+      "image_url": "https://equity-insider.com/wp-content/uploads/2026/07/fundamental-analysis-3.jpg",
+      "source_icon": "https://n.bytvi.com/equity_insider.png",
+      "source": "Equity Insider",
+      "published_at": "2026-07-07 03:53:08",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7542ce5192edd8794c76a5d88b34b551",
+      "title": "China’s submarine missile test looks routine. The real story is the panic it triggered",
+      "description": "All nuclear powers test missiles. Why do China’s tests provoke such a fierce response?",
+      "url": "https://theconversation.com/chinas-submarine-missile-test-looks-routine-the-real-story-is-the-panic-it-triggered-286947",
+      "image_url": "https://images.theconversation.com/files/746251/original/file-20260707-57-asjyd6.jpeg?ixlib=rb-4.1.0&rect=0%2C226%2C2048%2C1024&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-07 02:50:55",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "a13625e36e56960e4b858ba548d3d299",
+      "title": "Anthropic Releases Paper About Claude’s Mental ‘Workspace.’ Don’t Read It Uncritically",
+      "description": "Anthropic's paper and supplementary materials hint at consciousness, perhaps a bit hastily.",
+      "url": "https://gizmodo.com/anthropic-releases-paper-about-claudes-mental-workspace-dont-read-it-uncritically-2000782063",
+      "image_url": "https://gizmodo.com/app/uploads/2026/02/dario-amodei-1280x853.jpg",
+      "source_icon": "https://n.bytvi.com/gizmodotech.png",
+      "source": "Gizmodo",
+      "published_at": "2026-07-07 02:45:48",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "2b3523a7fd64319531f7c4c746ac4549",
       "title": "Chinese economist reportedly detained after pessimistic lecture, accounts wiped",
@@ -506,102 +602,6 @@
       "published_at": "2026-07-06 08:30:00",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "7d3ff536916d5199144b9ddb821f8e37",
-      "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
-      "description": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now.",
-      "url": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/ANT_BRIEFING_SF_JPEG_01-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-07-06 08:30:00",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "d69ba9ec9ec8b71a79b4038747d1621d",
-      "title": "One factor can age your brain faster – and you can do something about it",
-      "description": "Glucose levels have been linked with the accelerated aging of the human brain in a new study by researchers in China, highlighting the benefits of ...",
-      "url": "https://refractor.io/brain/glucose-cause-brain-age-faster/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/be79f14a958451afbe96b80b29962ed7fe179d30/_xlarge.jpeg",
-      "source_icon": "https://n.bytvi.com/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-07-06 08:20:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "570352efbb1a234c64b7a95aef05f6e2",
-      "title": "China's space probe reaches asteroid after 1-billion-kilometer chase for first sample return",
-      "description": "China's Tianwen-2 space probe, which is set to bring back samples from an asteroid for research, has reached its target after traveling 1 billion kilometers (620 million miles) over more than a year, the Chinese space agency said Monday.",
-      "url": "https://phys.org/news/2026-07-china-space-probe-asteroid-billion.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/chinas-space-probe-rea.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-06 08:17:17",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4f06dcf459dcae6a48c72444cc04db61",
-      "title": "Astronomers witness the birth of a magnetar for the first time",
-      "description": "A strange \"chirping\" signal from a distant supernova has revealed the birth of a magnetar, confirming that these incredibly magnetic neutron stars can power the universe's brightest stellar explosions. The discovery also marks the first time Einstein's general relativity has been used to explain the mechanics of a supernova.",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030450.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/magnetar-powers-superluminous-supernova.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-06 08:15:49",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "99a16b8fa08f2046f4995a921db9fa5b",
-      "title": "What the Guadalupe River left behind",
-      "description": "Grateful to be alive, survivors still wondered about their possessions. Then, an army of strangers went on a mission to reunite them with the things the river stole.",
-      "url": "https://www.cnn.com/2026/07/06/us/texas-floods-guadalupe-river",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/videothumbnails/09507528-00593736-generated-thumbnail.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-07-06 08:00:25",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "a551e4fba8fc0ecf8720e8e6593f832f",
-      "title": "ABC will trial using AI for journalism. What are the risks and benefits?",
-      "description": "The decision tracks with a long history of editors and journalists being early adopters of tech innovations.",
-      "url": "https://theconversation.com/abc-will-trial-using-ai-for-journalism-what-are-the-risks-and-benefits-286841",
-      "image_url": "https://images.theconversation.com/files/746031/original/file-20260706-57-octihq.jpg?ixlib=rb-4.1.0&rect=0%2C194%2C1920%2C960&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-07-06 06:44:38",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "0d5d26a789251e60893ec312121fa265",
-      "title": "New Zealand cave reveals a time capsule to life before",
-      "description": "It contains fossils that are one million years old",
-      "url": "https://theweek.com/science/new-zealand-moa-eggshell-cave-million-year-old-fossils",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/crSrxT2P3PA5FGHh46CPya-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/theweek.png",
-      "source": "The Week",
-      "published_at": "2026-07-06 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "60a7f26cb99f74e59cb3afd5b210b31c",
-      "title": "Mink numbers to be cut by 90% in Kent",
-      "description": "Conservationists hope to dramatically reduce mink numbers across Kent.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8ldg34l7zo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b355/live/234f32d0-76e4-11f1-9842-7718f5ead045.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-06 05:10:26",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
