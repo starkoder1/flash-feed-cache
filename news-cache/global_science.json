@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-08T17:17:25.166Z",
+  "last_updated": "2026-07-08T20:54:56.964Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3cc46eb1f5ff0e646a628762a4039a5a",
+      "title": "How Canadian researchers are using 'liquid biopsies' to find traces of tumours left after cancer treatment",
+      "description": "A Toronto-based team is launching a massive, years-long research project to study liquid biopsies, a novel technology meant to catch tiny traces of tumour DNA in the blood. The goal? Finding better ways to protect cancer survivors from having the disease come back, while sparing some from enduring costly, invasive treatments.",
+      "url": "https://www.cbc.ca/news/health/liquid-biopsy-treatment-9.7261615?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/96f90e7e-f470-4ef0-9bba-2ef310650eb6,1783449216116/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C33%2C2738%2C1540%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-07-08 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "4036b969a8d3e6c416a56045ab7cb1bb",
+      "title": "Shared vulnerability: Addressing child abuse In diverse Israeli communities",
+      "description": "Our children's futures depend entirely on our willingness to build bridges of trust, unique to every neighborhood, across Israel.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-901825",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728886",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-08 07:01:45",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "ee20c77b7b2e654b6ff582ef393daf22",
+      "title": "New Information in the Nazi Database: What You Need to Know About the SS",
+      "description": "Your grandfather appears in the SS files? What that might mean, how you can continue your research and who was even allowed to join the Nazi organization in the first place: You'll find answers to the most important questions here.",
+      "url": "https://www.spiegel.de/international/germany/new-information-in-the-nazi-database-what-you-need-to-know-about-the-ss-a-f7e09472-e9da-4b11-9846-87f1778116e3",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/e7a726e3-6764-44e0-a0cc-34a8bff60cba_w520_r2.08_fpx33.75_fpy45.jpg",
+      "source_icon": "https://n.bytvi.com/spiegel.png",
+      "source": "Der Spiegel",
+      "published_at": "2026-07-08 06:54:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "28d86ee54426bbda5e1d853690eda8fe",
+      "title": "The key global economic risks to watch in the second half of 2026",
+      "description": "After six months defined by war, an oil shock and a frenzied AI trade, economists say the rest of the year hangs on a chain of interlocking risks, with the fragile peace between the US and Iran as the key factor.",
+      "url": "http://www.euronews.com/business/2026/07/08/the-key-global-economic-risks-to-watch-in-the-second-half-of-2026",
+      "image_url": "https://images.euronews.com/articles/stories/09/82/72/06/1440x810_cmsv2_b4f2fb0b-25c3-523b-ae24-afd883302da1-9827206.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-07-08 06:18:40",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "16195efd7c93002664aff09b3bb1a4dd",
+      "title": "Poison apples: The danger hiding inside your favorite fruits",
+      "description": "Inside some of the sweetest fruits hides a chemical defense mechanism the plant developed for itself, and it is found precisely in the part most of us never eat: the seed or pit.",
+      "url": "https://www.jpost.com/health-and-wellness/article-901814",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/465775",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-08 06:02:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "9e52973567792bdc9c7c2e02b349bc76",
       "title": "New AI model reveals how neutron star mergers forge heavy elements",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-07 13:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "04dbc3e18526a5c0837de9891e98c6eb",
-      "title": "Philips Sonicare Sets New Benchmark in Oral Healthcare with Brand's First Electric Toothbrush Powered By On-Device AI and Real-Time Spatially Aware Guidance, Helping People Brush with Greater Coverage And Confidence",
-      "description": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Philips Sonicare unveils its most advanced toothbrush yet, with on-device AI, real-time guidance and smart pressure sensing for better daily care.",
-      "url": "http://www.businesswire.com/news/home/20260707873277/en/Philips-Sonicare-Sets-New-Benchmark-in-Oral-Healthcare-with-Brands-First-Electric-Toothbrush-Powered-By-On-Device-AI-and-Real-Time-Spatially-Aware-Guidance-Helping-People-Brush-with-Greater-Coverage-And-Confidence/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260707873277/en/2846249/21/Next_Gen_Diamond_Clean_9900_Prestige_Satin_Mauve_Halo.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-07-07 13:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "568a975e9d040afa0b7cff2b01ae76eb",
-      "title": "Forecast from state, WSU shows potential risks to water supplies",
-      "description": "Forecast helps policy-makers prepare for vulnerabilities in water supply, including pressures from increasing frequency of back-to-back droughts.",
-      "url": "https://news.wsu.edu/news/2026/07/07/forecast-from-state-wsu-shows-potential-risks-to-water-supplies/",
-      "image_url": "https://wpcdn.web.wsu.edu/news/uploads/sites/2797/2021/09/columbia-river_CEREO.jpg",
-      "source_icon": "https://n.bytvi.com/news_wsu.jpg",
-      "source": "Washington State University",
-      "published_at": "2026-07-07 13:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4a4d1c10bfb983e699e0ac209bf00ac9",
-      "title": "This Robotic Mouth Physically Replicates Human Speech Using Silicone and Air",
-      "description": "Developed by Professor Hideyuki Sawada at Kagawa University, the robot uses an air pump to simulate lungs, a silicone tongue to shape sounds, and eight artificial vocal cords to control pitch — physically reproducing speech rather than generating it digitally.",
-      "url": "https://interestingengineering.com/videos/this-robotic-mouth-physically-replicates-human-speech-using-silicone-and-air",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/1216353924534127.7srSIzpHtxjDqPwvw9KI_height640.png",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-07 12:58:10",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "b8b563080381cf27c571ceb6215b5481",
-      "title": "I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.",
-      "description": "The native plant movement says that we can combat environmental disaster from our own backyards. Is it really so simple?",
-      "url": "https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html",
-      "image_url": "https://static01.nyt.com/images/2026/07/19/magazine/19mag-native/19mag-native-mediumSquareAt3X.jpg",
-      "source_icon": "https://n.bytvi.com/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-07-07 09:02:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2412bc1c12fdc3d203ef42df8d84357f",
-      "title": "Canada's universities are recruiting hundreds of international researchers. They're not just coming from Trump's America",
-      "description": "Half the recipients of new federal funding program, the Canada Impact+ Research Training Awards, are from 4 countries.",
-      "url": "https://www.thestar.com/news/canada/canadas-universities-are-recruiting-hundreds-of-international-researchers-theyre-not-just-coming-from-trumps-america/article_561a2194-d296-4f96-b007-b67d2f5e32d9.html",
-      "image_url": "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/8/d1/8d17c5ef-93bd-587c-a413-d0d66d7a511c/6a48054c4126c.image.jpg?resize=300%2C211",
-      "source_icon": "https://n.bytvi.com/thestar.png",
-      "source": "The Star",
-      "published_at": "2026-07-07 09:00:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
