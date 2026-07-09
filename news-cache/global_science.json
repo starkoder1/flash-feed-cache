@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-09T14:26:55.526Z",
+  "last_updated": "2026-07-09T17:46:22.301Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c6a576632d52ee6a2fd6dc85a285c170",
+      "title": "Does Space Speed Up Ageing? A New Study Says Yes!",
+      "description": "Scientists at UCF have found that the harsh conditions of spaceflight, radiation and weightlessness combined, can trigger changes in the liver that closely resemble accelerated ageing, and remarkably, the same genetic fingerprints show up in real astronaut blood samples. The discovery could shape how we protect future Mars explorers, and might just hold clues to slowing ageing back here on Earth too.",
+      "url": "https://www.universetoday.com/articles/does-space-speed-up-ageing-a-new-study-says-yes",
+      "image_url": "https://www.universetoday.com/article_images/Tracy_Caldwell_Dyson_in_Cupola_ISS_20260709_054437.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-09 05:44:59",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d7902ce60289bd851a18d4f1fe8152fb",
+      "title": "Scientists Heard the Fireball No Camera Could See",
+      "description": "When a fireball streaked across the Alaska sky in broad daylight, the cameras meant to capture it saw nothing useful. Undeterred, scientists turned to sound waves too low for human ears and faint tremors picked up by earthquake sensors, piecing together an extraordinary account of the object's final seconds. What they discovered points to a surprising new way of tracking dangers falling from space, whether we can see them coming or not.",
+      "url": "https://www.universetoday.com/articles/scientists-heard-the-fireball-no-camera-could-see",
+      "image_url": "https://www.universetoday.com/article_images/2013_Chelyabinsk_meteor_trace_1_20260709_051901.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-09 05:19:25",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7b7f1e83229a463479956b162f88d071",
+      "title": "Eggs of extinct singing insect brought back to UK",
+      "description": "Species Recovery Trust hopes to reintroduce the New Forest cicadas not seen in UK since the 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5168jz88no",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/99c6/live/2435abd0-7ac1-11f1-b541-536d253827b8.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-09 05:13:15",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "315851199e7917caaa9f05a2e7891ef8",
+      "title": "Rare moth find in town park sparks hopes of others",
+      "description": "The six-belted clearwing is found by conservationists at Rough Park who hope to spot it elsewhere.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyjvpep5eo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ab0c/live/dfa3ae10-7ac8-11f1-b541-536d253827b8.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-09 05:12:46",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "649df1a81335917702b01d682e741979",
+      "title": "How beachgoers are turning snaps into science",
+      "description": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f45/live/bd57e680-7ac0-11f1-b541-536d253827b8.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-09 05:06:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "902c70d0fc6a6d3b015ee7f7aaa02e21",
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "description": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/chip-dna-writer.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-09 02:48:06",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "320a61e0652a7742ae2a6cc78886b088",
       "title": "Heidelberg physicists just united two opposing quantum theories",
@@ -530,78 +602,6 @@
       "published_at": "2026-07-08 00:34:05",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "0c830e7326ddecc5d21a27ff7a9bb726",
-      "title": "University of Victoria launches second satellite as it vies to become hub for space industry",
-      "description": "A satellite built by students and researchers at the University of Victoria has launched into orbit, where it will remain for the next decade.",
-      "url": "https://www.ctvnews.ca/vancouver/vancouver-island/article/university-of-victoria-launches-second-satellite-as-it-vies-to-become-hub-for-space-industry/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/MBY4EGLBS5EEDFOLNIEDZSWXRU.png?auth=1525e18a340cb555dc04b99f0b73c1e16f99737ca3ee27842e8256d6b65f4e51&smart=true&width=1293&height=727",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-07-08 00:25:05",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "113f3a96e309e696a58df93d192625c6",
-      "title": "US startup moves one-mile underground reactor closer to reality with key prototype",
-      "description": "Deep Fission delivers prototype reactor canister to Kansas, advancing underground SMR testing before nuclear fuel.",
-      "url": "https://interestingengineering.com/energy/deep-fission-underground-reactor-ca",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-70.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-08 00:01:39",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "25453e82c3bdc01c6f921ea838541162",
-      "title": "'Extreme' marine heatwave expected for parts of UK",
-      "description": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg888vpz4do",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/93d0/live/6f3985b0-7a27-11f1-b450-9f402cd7a05e.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-07 23:45:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "eddb0e2cae00f2c402ec58d045390abc",
-      "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
-      "description": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
-      "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c16e/live/c1b8aea0-79ba-11f1-8257-1765759c449e.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-07 23:44:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "802f2ed1b4fb261ae4d80f033d470ea3",
-      "title": "Incredible new material makes heat programmable",
-      "description": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch modes, and remember its settings without continuous power. The innovation could lead to smarter infrared sensors, better energy technologies, and memory devices that use light and heat instead of electrical charges.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/device-flexible-control-of-heat.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-07 23:28:50",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5a026abc1a21bc904936119c15cd228b",
-      "title": "Amber heat-health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
-      "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/9e34/live/0fb0e970-7a0a-11f1-92a1-2dcee5cd2863.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-07 23:10:07",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
