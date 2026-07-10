@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-10T13:53:42.281Z",
+  "last_updated": "2026-07-10T17:39:53.688Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "bc083627bbab5f83a418ebb8fe5a4db1",
+      "title": "This Singapore bat colony could unlock the future of medicine",
+      "description": "Scientists have designed anti-inflammatory drugs inspired by bats, with clinical trials launching in early 2027",
+      "url": "https://www.telegraph.co.uk/global-health/science-and-disease/singapore-bat-colony-could-unlock-the-future-of-medicine/",
+      "image_url": "https://www.telegraph.co.uk/content/dam/global-health/2026/07/09/TELEMMGLPICT000494553473_17836000360010_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg",
+      "source_icon": "https://n.bytvi.com/telegraph.png",
+      "source": "The Telegraph",
+      "published_at": "2026-07-10 05:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "88a39e00e3369d73f9d08f4b36d21638",
+      "title": "Housework and child care barriers to women’s recurrent education, government says",
+      "description": "The annual white paper said recurrent education will become increasingly important in light of rapid technological innovations such as artificial intelligence.",
+      "url": "https://www.japantimes.co.jp/news/2026/07/10/japan/women-recurrent-education-barriers/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/10/550958.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-07-10 03:28:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "39db0dd4d2bffdb3c1d73bd8e854a57b",
+      "title": "Australia’s government has woken up to the risks of AI. More ambition is needed",
+      "description": "AI’s risks and harms are already affecting Australians. There are new ones coming.",
+      "url": "https://theconversation.com/australias-government-has-woken-up-to-the-risks-of-ai-more-ambition-is-needed-287059",
+      "image_url": "https://images.theconversation.com/files/747062/original/file-20260710-71-xd8uyh.jpg?ixlib=rb-4.1.0&rect=0%2C1667%2C7205%2C3602&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-10 02:26:51",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "3125746b364c2c74ccd20daac9176ec1",
+      "title": "How 'Star City' Reimagined the Space Race With Soviets as the Stars",
+      "description": "How do you capture the mood of the 1960s space race in a fictional universe where the Soviets beat the Americans to the moon? The production team for Apple TV's \"Star City\" series rose to the challenge.",
+      "url": "https://www.universetoday.com/articles/how-star-city-reimagined-the-space-race-with-soviets-as-the-stars",
+      "image_url": "https://www.universetoday.com/article_images/StarCity13x_20260710_014114.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-10 02:20:48",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "169e0e567278b57d62bd408e2544f7e9",
       "title": "Robots operated by humans complete surgeries in proof-of-concept trial",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/interestingengineering.png",
       "source": "Interesting Engineering",
       "published_at": "2026-07-09 08:35:05",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "6a096314ffa19082018c4817116fb1b1",
-      "title": "How bacteria could help create a new generation of anti-cancer medicines",
-      "description": "Researchers decode nature's recipe for making powerful anti-cancer compounds.",
-      "url": "https://gulfnews.com/lifestyle/health-fitness/how-bacteria-could-help-create-a-new-generation-of-anti-cancer-medicines-1.500602067",
-      "image_url": "https://media.assettype.com/gulfnews/import/2020/07/13/Major-study-finds-fatty-acid-that-kills-cancer-cells_173494b5168_large.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "source_icon": "https://n.bytvi.com/gulfnews.png",
-      "source": "Gulf News",
-      "published_at": "2026-07-09 08:16:39",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4a18461a1a50435da3fa46724db481dd",
-      "title": "Young giant gas planet Beta Pic B refuses to reveal its origin",
-      "description": "The young planetary system of the 23-million-year-old star Beta Pictoris (short: Beta Pic) is regarded as an iconic circumstellar dust disk, which hosts at least three giant gas planets. Discovered in 2008 by direct imaging, Beta Pic b is the most massive of those planets, measuring approximately 11 Jupiter masses. It orbits its host star on a wide trajectory, taking about 23 years for one revolution.",
-      "url": "https://phys.org/news/2026-07-young-giant-gas-planet-beta.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/young-giant-gas-planet.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-09 08:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0100b167235321b694420e54b27cd3c6",
-      "title": "5 things that high-performing ‘superteams’ do differently",
-      "description": "Below, Ron Friedman shares five key insights from his new book, Superteams: The Science and Secrets of High-Performing Teams . Trained as a psychologist, Ron began his career studying human motivation in the lab and teaching at colleges and universities. He later brought those insights into the corporate world, helping organizations understand public opinion and craft more persuasive messages grounded in behavioral science. What’s the big idea? Exceptional team performance isn’t a talent problem, but rather a design problem. When we create the right conditions for people to do their best work, extraordinary results follow. Listen to the audio version of this Book Bite—read by Ron himself—in the Next Big Idea App , or buy the book . 1. Average teams make burnout inevitable Let me give you a snapshot of how the average team operates. The average worker spends 18 hours a week in meetings and 11 hours digging through messages. That’s three-quarters of their week—gone. What’s left for real work? A little over a day. How do you cram a week’s work into a single day? You come in early, you stay late, or you work on weekends. That can serve you in the short term, but work like that for months or years and, invariably, you’re going to burn out. Superteams are much more intentional with their time. Meetings are a last resort, not a default. They’re 50% better at avoiding unnecessary meetings. And they’re 54% less likely to schedule recurring meetings. Superteams also schedule dedicated focus time. Things like meeting-free days, when people can do deep work without being expected to respond to messages during the day. Except they don’t call them meeting-free days—they call them “get things done days” because they want to reinforce the purpose of the initiative. In Superteams , I take you through the exact strategies the best teams use to replace the barrage of meetings and messages with opportunities for focused work. For now, if I had to boil down how Superteams get more done into a simple formula, it would be this: Minimize distractions and maximize focus. 2. You can’t be a Superteam if you lose half your week to meetings If you’re like most people, you lose close to half your week to meetings. And for leaders, it’s even worse because the higher you rise, the more meetings you’re expected to attend. Most people recognize that bad meetings waste their time. What they don’t realize is that even good meetings come with a cost. The first cost happens before the meeting even starts. Simply knowing that you have a meeting coming up makes it harder to focus. It’s called predistraction and it happens for two reasons: Your attention splits. Part of you is focused on what you need to prepare or say, which makes it harder to think. You’re less willing to start a difficult task because you know it will be interrupted. So, you end up procrastinating on your most important work. Then there’s what happens after the meeting ends. Your brain doesn’t reset right away. Part of your attention is stuck replaying what you just discussed. That leaves you with less mental firepower for your next task. Psychologists call this attention residue . The more meetings you attend, the more scattered your focus. How do the best teams fend off unnecessary meetings? The simple fix is meeting guidelines. At most organizations, just about anyone can call a meeting for any reason. There’s no guidance on when a meeting is warranted. The unfortunate truth is that a lot of people use meetings as a crutch. It feels productive to call a meeting, and it allows you to procrastinate until the meeting happens. The best teams clarify when meetings are truly necessary and work together to get clear on what deserves a meeting and what doesn’t. Within my team, we have one blanket guideline: no decision, no meeting. If you have an update, that’s an email or a Loom. If you have a question, that’s a call or an email. Or, a meeting guideline from the content marketing company Percolate: no spectators. If you’re not participating, you don’t need to be there. That’s not a criticism—it’s respect for your time. “The best teams clarify when meetings are truly necessary and work together to get clear on what deserves a meeting and what doesn’t.” Another way of protecting people’s time is to limit meetings to 15 minutes. It’s a practice taken from the Obama White House. Need longer? No problem. All you need to do is get clearance from the team’s leader. These practices free up people’s time so they can focus on work that moves the ball forward. 3. On the best teams, teammates are more motivating than the boss Superteams don’t just collaborate well; they make each other better. And that word, better , can take on many forms. The first way teammates on Superteams make each other better is by making excellence the norm. When you’re surrounded by people who do good work, there’s a natural urge to reciprocate and do your part. And we see that in the data. In Superteams, 94% agree that their teammates motivate them to do their best work. But they don’t just inspire more effort; they also foster more accountability. We asked workers who they worry more about disappointing when things go wrong, their manager or their team? In Superteams, 82% were more concerned with letting down their teammates. On average teams, it was a 50/50 split. We work harder when we know our teammates are counting on us. “Knowing your team has your back gives you the courage to take on bigger challenges and take more intelligent risks.” Another way Superteams elevate those around them is by raising confidence. Knowing your team has your back gives you the courage to take on bigger challenges and take more intelligent risks. And those risks are often the difference between stagnation and progress. In Superteams, it’s not just about getting work done; it’s about bringing out the best in each other. 4. Superteams keep reinventing themselves One of the key strengths of Superteams is that they’re constantly improving, and we’ve found three reasons why: They’ve built a strong feedback culture. Their leaders excel at delivering feedback. But the feedback doesn’t just flow top-down—it’s peer-to-peer. Superteams also seek out feedback from peers, which leads to continuous learning and improvement. They run more experiments : 50% more, in fact. These can be as small as testing a landing page or as big as launching a new product line. The key is to always be working on something that yields new learnings and growth. They reward innovation. One example I love comes from 3M, the company that’s best known for Scotch Tape and Post-it Notes. They’ve been around for over 120 years, and a big part of their success comes from a practice they call the Thirty Percent Rule. To qualify for a bonus, a division has to generate 30% of its revenue from products launched in the past four years. It’s a great way of ensuring that your team isn’t coasting on with what’s working now—they’re equally focused on what’s next. 5. The best leaders want you to fail One reason Superteams keep getting better over time is that they’re willing to experiment. But experimentation works only when people feel safe enough to take intelligent risks. At most companies, getting better is surprisingly difficult because improvement requires risk-taking and failure. Trying something new often involves making mistakes. And unless a team feels comfortable making those mistakes, learning becomes impossible. In our research, we found that the best leaders make risk-taking and learning feel safe by doing three things: They open up about mistakes they’ve made in their career. This teaches people that mistakes aren’t something to hide. They’re something to learn from. When they don’t know something, they admit it. This gives everyone permission to be honest. And it makes it clear no one is expected to have all the answers. They make it clear that if you’re not making mistakes, you’re not learning. Reid Hoffman, cofounder of LinkedIn, used to tell his team there that he didn’t want perfection. In fact, he wanted them to fail about 15% of the time. His view was that avoiding mistakes doesn’t mean you’re doing everything right. It means you’re not moving fast enough. Reed Hastings, cofounder of Netflix, had a similar mindset. When too many of Netflix’s shows were hits, he would get concerned because it meant the team wasn’t taking enough risks. What both of these examples illustrate is that on high-performing teams, perfection isn’t the goal. Progress is the goal. But getting there requires freedom to make mistakes. This article originally appeared in Next Big Idea Club magazine and is reprinted with permission. Enjoy our full library of Book Bites—read by the authors!—in the Next Big Idea app .",
-      "url": "https://www.fastcompany.com/91567753/5-things-that-high-performing-superteams-do-differently",
-      "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-91567753-thigns-that-superteams-do-differently.jpg",
-      "source_icon": "https://n.bytvi.com/fastcompany.png",
-      "source": "Fast Company",
-      "published_at": "2026-07-09 08:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "c6c0bd0b03a13252b55a9d7453422670",
-      "title": "'He gave us 10 extra years': Australian-first immune centre opens in Canberra",
-      "description": "The Centre for Personalised Medicine at Canberra Hospital uses cutting-edge technology to identify the causes of complex immune conditions to tailor treatments for patients.",
-      "url": "https://www.abc.net.au/news/2026-07-09/canberra-hospital-opens-first-personalised-medicine-centre/106896636",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/87dfdc8f6a90c846a42952c1b23d6753?impolicy=wcms_crop_resize&cropH=814&cropW=1448&xPos=0&yPos=136&width=862&height=485",
-      "source_icon": "https://n.bytvi.com/abc_net.png",
-      "source": "Abc",
-      "published_at": "2026-07-09 07:57:23",
       "language": "english",
       "category": "top"
     }
