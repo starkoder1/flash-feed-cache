@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-12T09:41:49.797Z",
+  "last_updated": "2026-07-12T12:52:11.755Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "67f9c4ef3f3a386c3c3098ed0ab9249d",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-11 23:58:40",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "22c97bd7954c3ff051db016807b24b8b",
+      "title": "Wally Funk, Aviation Pioneer and Oldest Woman to Travel to Space, Dies at 87",
+      "description": "Wally Funk, an aviation pioneer who was the oldest woman to launch into space, has died. She was 87.",
+      "url": "https://www.universetoday.com/articles/wally-funk-aviation-pioneer-and-oldest-woman-to-travel-to-space-dies-at-87",
+      "image_url": "https://www.universetoday.com/article_images/dims.apnews_20260711_155725.webp",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-11 23:14:14",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ef4d00db9d64d53fdc6e617d88d818d2",
+      "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
+      "description": "Virtual fences could make managing grazing livestock on farms more flexible and more efficient while improving animal welfare. A new study by the University of Göttingen shows that virtual fences trigger behavior in cattle similar to that caused by conventional electric fences, in terms of how they move around the field. This finding puts commonly expressed concerns about animal welfare into perspective. The results were published in the journal Animal.",
+      "url": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/drawing-the-line-virtu.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-11 23:00:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "338669ab1379acb8e3efa3215c5bc84e",
       "title": "5 Big Bang Theory Spinoffs That Should Happen After Stuart Fails To Save The Universe",
@@ -566,42 +602,6 @@
       "published_at": "2026-07-10 22:03:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "b0c360b0766f43f0e0d66d37623d0e38",
-      "title": "Sweden’s Medieval Graves Placed Children With Unrelated Adults, Including Infant Girls Buried Among Men",
-      "description": "Learn how ancient DNA shows that children in medieval Sweden often shared graves with adults of the same sex rather than close biological relatives.",
-      "url": "https://www.discovermagazine.com/sweden-s-medieval-graves-placed-children-with-unrelated-adults-including-infant-girls-buried-among-men-49365",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59835/medevial-swedish-church-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-10 21:45:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "79a47eefeb2b4bcb300d6b9cad421933",
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2897/live/340b2400-7c96-11f1-9b18-bb5b415621a9.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-10 21:30:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fe5af2403e1f475c278cca5ba730d56a",
-      "title": "Astrophysicist Avi Loeb on Pentagon's 4th UFO files release",
-      "description": "The Pentagon released more UFO files on Friday, its fourth tranche since May. Avi Loeb, Baird professor of science at Harvard University and leader of the White House UAP council, joins with analysis.",
-      "url": "https://www.cbsnews.com/video/astrophysicist-avi-loeb-pentagon-4th-ufo-files-release/",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/10/67bf2fd2-3f7f-49e5-9fa9-f67ce02986fd/thumbnail/1200x630/c3f6ac228b5abad892a8dbad602e2cf8/cbsn-fusion-astrophysicist-avi-loeb-pentagon-4th-ufo-files-release-thumbnail.jpg",
-      "source_icon": "https://n.bytvi.com/cbsnews.png",
-      "source": "Cbs News",
-      "published_at": "2026-07-10 21:18:16",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
