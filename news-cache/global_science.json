@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-12T06:25:26.367Z",
+  "last_updated": "2026-07-12T09:41:49.797Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "338669ab1379acb8e3efa3215c5bc84e",
+      "title": "5 Big Bang Theory Spinoffs That Should Happen After Stuart Fails To Save The Universe",
+      "description": "Stuart Fails to Save the Universe and Young Sheldon have renewed interest in the best parts of The Big Bang Theory, which should expand further.",
+      "url": "https://screenrant.com/big-bang-theory-spinoffs-after-stuart-fails-to-save-the-world/",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/untitled-design-2026-07-10t220311-159.jpg",
+      "source_icon": "https://n.bytvi.com/screenrant.png",
+      "source": "Screenrant",
+      "published_at": "2026-07-11 21:30:21",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a33b9762d5186e67c0988c4c74c7f01e",
+      "title": "Photos: 2,031hp Hennessey Venom F5 is America’s 300mph answer to Bugatti and Koenigsegg",
+      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/photo-story/hennessey-venom-f5-family-2031-hp-f5m-goodwood-2026",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-11 20:21:36",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "18a84f80d9e12606141446ee30aaf3e1",
+      "title": "MIT scientist explains how the theory we're living in a simulation could prove Christianity right",
+      "description": "A leading computer scientist believes the simulation theory, the idea that we live in a simulated reality, could actually strengthen Christianity.",
+      "url": "https://www.dailymail.com/sciencetech/article-15960417/mit-scientist-simulation-theory-christianity.html",
+      "image_url": "https://i.dailymail.com/1s/2026/07/09/22/109920769-0-image-a-20_1783631541282.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-07-11 19:49:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4d66dee3f6d16d56591eb5919842fe8e",
+      "title": "Jerusalem saves historic Bikur Cholim building after backlash over haredi seminary plan",
+      "description": "Opponents propose turning it into a cultural or arts center, heritage campus, performance venue, cafes and community spaces, or a museum on Jerusalem medicine and preservation.",
+      "url": "https://www.jpost.com/health-and-wellness/article-902176",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729403",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-11 19:34:09",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "7861ba57a032b23f789808fdc000e126",
       "title": "Palantir Insiders Disgusted by Company’s Leadership",
@@ -554,54 +602,6 @@
       "published_at": "2026-07-10 21:18:16",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "664d3a02e70f8ce04095cf08df164728",
-      "title": "'Surgie' the humanoid robot makes history with world-first live animal surgeries",
-      "description": "Humanoid robots have performed two surgeries in pigs for the first time, a new development researchers say may be a potential gamechanger for hospitals in the future.",
-      "url": "https://abc7news.com/post/humanoid-robot-surgie-makes-history-perform-2-gall-blader-surgeries-pigs-worlds-first-live-animal/19482175/",
-      "image_url": "https://cdn.abcotvs.com/dip/images/19482314_071026-abc-robot-surgery-img.jpg",
-      "source_icon": "https://n.bytvi.com/abc7news.jpg",
-      "source": "Abc7 News",
-      "published_at": "2026-07-10 20:59:15",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "05477df8ff2e287258c32f4b57339e13",
-      "title": "Ancient Ocean Survivors Help Reveal What Really Caused Earth's Worst Mass Extinction",
-      "description": "Learn how the metabolisms of ancient ocean animals revealed why some species survived the Great Dying while others vanished.",
-      "url": "https://www.discovermagazine.com/ancient-ocean-survivors-help-reveal-what-really-caused-earth-s-worst-mass-extinction-49366",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/59833/great-dying-specimin-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-10 20:50:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6afde44cfbb3278655ea57349d238eb5",
-      "title": "Ontario government investing over $250,000 to advance lithium processing in northwestern Ontario",
-      "description": "A new research project in Thunder Bay will look at whether a forest industry by-product could be useful in lithium processing. Rock Tech Lithium, a mining company hoping to build a lithium refinery in Red Rock, will lead the research in partnership with Thunder Bay Pulp and Paper.",
-      "url": "https://www.cbc.ca/player/play/9.7266299?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/1576875a-7b4b-46e2-b4cc-7d0a8c4aca17,1783714504293/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C276%2C5712%2C3213%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-07-10 20:15:44",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ff47ac8b7a610177a83e38a445b1a796",
-      "title": "Helping one of Britain's rarest butterflies",
-      "description": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0nxt78b.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-10 20:14:46",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
