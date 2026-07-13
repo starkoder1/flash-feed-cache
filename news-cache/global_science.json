@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-13T01:28:25.822Z",
+  "last_updated": "2026-07-13T06:44:01.218Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3d98693a252bb03cb946d1b184f2fa1c",
+      "title": "Photos: Son builds Bugatti-styled robot dog mobility chair for his father with MS",
+      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/photo-story/unitree-go2-w-robot-dog-bugatti-mobility-chair",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-12 18:07:40",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7f9523d3c74b7eabda0bf16d53943471",
+      "title": "Trump Administration Scrapping Nuclear Energy Rules Requiring Plants to Keep Radiation Levels “As Low as Reasonably Achievable”",
+      "description": "Horrifying. The post Trump Administration Scrapping Nuclear Energy Rules Requiring Plants to Keep Radiation Levels “As Low as Reasonably Achievable” appeared first on Futurism .",
+      "url": "https://futurism.com/science-energy/trump-nuclear-regulation-radiation-energy",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/trump-nuclear-regulation-radiation-energy.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-12 18:02:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "a77a189a76f0fe7813c65879995e4b36",
+      "title": "Why space games still struggle with the scale of the universe",
+      "description": "\"Space is big. You just won't believe how vastly, hugely, mind-bogglingly big it is.\"",
+      "url": "https://www.space.com/entertainment/space-games/why-space-games-still-struggle-with-the-scale-of-the-universe",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/a3EutkdWgkxi29KZGSMJuE-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-07-12 16:00:00",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "0036a4fa30536c1131f8927f4130b220",
+      "title": "OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything",
+      "description": "Another OpenAI product bites the dust. The post OpenAI Is Shutting Down Its Browser That Was Supposed to Change Everything appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/openai-shutting-down-browser",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-shutting-down-browser.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-12 15:01:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "96f5123fc399e2c6f383f66c11a5de16",
+      "title": "Why are some people mosquito magnets and others unbothered? A medical entomologist points to metabolism, body odor and mindset",
+      "description": "Mosquitoes can track down potential hosts using the CO2 released by humans’ metabolic processes, a medical entomologist explains.",
+      "url": "https://www.yahoo.com/lifestyle/articles/why-people-mosquito-magnets-others-140803253.html",
+      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/6dcc24d2fad9728a9e7c1fb071b0f6a9",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-07-12 14:08:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8c3adbfbbab1a0e34b44af33266f7f3c",
+      "title": "Journalist Alarmed When He’s Fired, But Company Keeps Posting AI Slop Under His Name",
+      "description": "It was a \"slap in the face.\" The post Journalist Alarmed When He’s Fired, But Company Keeps Posting AI Slop Under His Name appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/fired-journalist-ai-posts-in-his-name",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/fired-journalist-ai-posts-in-his-name.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-12 14:01:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "bc0d9603687e91f6f2a75f815f90a29c",
+      "title": "149 million views! Artemis II moon mission breaks NASA's streaming record",
+      "description": "The Artemis II astronauts made an impact on potentially hundreds of millions of people during their mission, according to NASA figures.",
+      "url": "https://www.space.com/space-exploration/artemis/149-million-views-artemis-ii-moon-mission-breaks-nasas-streaming-record",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/PppwsZmRsj2FZVY5y3RVj7-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-07-12 14:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f4324d2987e7e1143b6b2685202eebc0",
+      "title": "Scientists fire next-gen electromagnetic railgun in first open-range trial",
+      "description": "The French-German Research Institute of Saint-Louis (ISL) has successfully conducted the first outdoor free-flight test of its electromagnetic railgun.",
+      "url": "https://interestingengineering.com/military/next-gen-electromagnetic-railgun-trial",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/image-1920x1080-2026-07-12T105954.776.png",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-12 13:43:04",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "d26d0e70d6ebd23b957445ec84737edd",
       "title": "Alzheimer's tau protein has a surprising secret role in memory",
@@ -506,102 +602,6 @@
       "published_at": "2026-07-11 12:00:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "319eef4d2dad57b5b323ead6e217fc50",
-      "title": "Climate Scientists Aghast at How Bad Things Are Getting, and So Fast",
-      "description": "\"Extreme events are so far outside anything we have expected.\" The post Climate Scientists Aghast at How Bad Things Are Getting, and So Fast appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/climate-scientists-aghast-bad-fast",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/climate-scientists-aghast-bad-fast.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-11 11:02:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9c673ddc858de945e739af7a6aaecec1",
-      "title": "Wimbledon 2026 opened with a 148 mph serve—here’s how tennis players brains track such fast balls",
-      "description": "Tennis players can return high-speed balls using a combination of reaction and predicting the future",
-      "url": "https://www.scientificamerican.com/article/wimbledon-2026-opened-with-a-148-mph-serve-heres-how-tennis-players-brains-track-such-fast-balls/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/0a5d0d3c-a12d-47f8-b158-af7c1348b145/wimbledon.jpg?m=1783515278.376&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-07-11 11:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "33b5e091ff2ad94ba539098d02c040a8",
-      "title": "Tech Bros Puzzled by Why AI Hasn’t “Massively Disrupted” Books Yet",
-      "description": "\"People are still reading human made books. Why is that?\" The post Tech Bros Puzzled by Why AI Hasn’t “Massively Disrupted” Books Yet appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/tech-bros-puzzled-ai-disrupted-books-knowledge",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/tech-bros-puzzled-ai-disrupted-books-knowledge.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-11 10:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "638593d12f1e195436778bb41af832c4",
-      "title": "White House appoints Harvard astronomer Avi Loeb to lead new UFO study group",
-      "description": "Harvard astrophysicist Avi Loeb has been appointed as the head of a new White House group to study UFOs, or unidentified anomalous phenomena, as they're now known.",
-      "url": "https://www.space.com/space-exploration/search-for-life/white-house-appoints-harvard-astronomer-avi-loeb-to-lead-new-ufo-study-group",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/HCpKHDh766AsMdrQnNmWTU-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-07-11 10:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "67efa5e212bd7cd7b78d3720e8d386c5",
-      "title": "The science of the perfect penalty: As England face Norway, scientists reveal why players should aim high and wide at the goal - just like Harry Kane",
-      "description": "Researchers analysed various popular penalty methods, and found that shots are most successful when they're high and wide.",
-      "url": "https://www.dailymail.com/sciencetech/article-15959189/science-perfect-penalty-high-wide-harry-kane.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/08/15/109882877-0-image-a-61_1783521315087.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-11 08:14:58",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "2388c34a7abf27412150346a31a271d7",
-      "title": "Breakthrough Israeli study finds potential path to reversing hearing loss",
-      "description": "The researchers identified a unique biological mechanism that could enable the regeneration of sensory hair cells in the inner ear – a process previously thought to be impossible in humans.",
-      "url": "https://www.jpost.com/science/article-902034",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729176",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-11 08:05:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8d11e384eebe0870778641895d66e032",
-      "title": "Tire particles may contaminate crops and enter food chain, Israeli study finds",
-      "description": "Around the world, some 1.5 billion tires are produced each year, and tire-wear particles are increasingly recognized as one of the largest sources of microplastic pollution.",
-      "url": "https://www.jpost.com/science/article-902032",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729173",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-11 08:05:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6f30ad62f1b13d7846c138ea10355ef1",
-      "title": "This tiny mouse thrives where humans can barely breathe",
-      "description": "At the top of a 6,739-metre Andean volcano, where the air is thin, temperatures are almost always below freezing and humans struggle to survive, a tiny leaf-eared mouse has made itself at home — dining on toxic plants.",
-      "url": "https://www.cbc.ca/news/science/andean-mouse-high-altitude-9.7266140?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/0c42dc83-2328-4acc-b30b-ba3d37b72907,1783717810241/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C10%2C1710%2C961%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-07-11 08:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
