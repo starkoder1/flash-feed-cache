@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-13T06:44:01.218Z",
+  "last_updated": "2026-07-13T10:48:30.761Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "278ff994faba1413a1e3020e9e285f64",
+      "title": "China Successfully Tests Reusable Long March-10B",
+      "description": "On Friday, July 10th, China achieved a major milestone as its Long March-10B completed a its maiden test flight, which included the retrieval of its first stage booster.",
+      "url": "https://www.universetoday.com/articles/china-successfully-tests-reusable-long-march-10b",
+      "image_url": "https://www.universetoday.com/article_images/Screenshot_2026-07-12_at_13-50-50_Long_March-10B_first_landing_-_YouTube_20260712_205209.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-12 20:56:55",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e1169a0b67ad585b6d3599774ccc26bd",
+      "title": "Textbook chemistry gains blue-light upgrade to build complex drug molecules in fewer steps",
+      "description": "In drug discovery, building complex molecules quickly is the name of the game.",
+      "url": "https://phys.org/news/2026-07-textbook-chemistry-gains-blue-complex.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/blue-lights-and-textbo-1.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-12 19:11:55",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "61591ebd2b9a03f52f8d6524edf27f3e",
+      "title": "Climate change leaves northern tree swallows more vulnerable those in the southern US",
+      "description": "Tree swallows in the northern U.S. and Canada face the greatest risk from climate change despite responding to temperature the same way as tree swallows in the southern U.S., according to a new study led by Cornell researchers that analyzed nearly 95,000 nests across five decades. The findings, published in Proceedings of the National Academy of Sciences, reveal a critical timing squeeze for tree swallows in the northern half of the United States and Canada, putting them at risk.",
+      "url": "https://phys.org/news/2026-07-climate-northern-tree-swallows-vulnerable.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2019/treeswallow.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-12 19:00:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "3d98693a252bb03cb946d1b184f2fa1c",
       "title": "Photos: Son builds Bugatti-styled robot dog mobility chair for his father with MS",
@@ -566,42 +602,6 @@
       "published_at": "2026-07-11 12:13:12",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "cc31251929b81946d3f3a16a3a89879e",
-      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-      "description": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd5/live/0a1f8470-7d1c-11f1-926f-c90d1bcfbc84.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-11 12:06:47",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "63a04d44ccb3ce51715f26b50bd9aec9",
-      "title": "RSPB buys 'magical' 96-hectare landscape to reconnect habitats",
-      "description": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx78nk7g25o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5944/live/6a836790-79ee-11f1-af3a-6f11866b2c27.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-11 12:01:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "610aef0c34cced33346ee82b8ab15bb7",
-      "title": "Scientists Say They’ve Identified an Earth-Like Planet Right Next Door",
-      "description": "\"This one's exciting.\" The post Scientists Say They’ve Identified an Earth-Like Planet Right Next Door appeared first on Futurism .",
-      "url": "https://futurism.com/space/scientists-discover-earth-like-planet-right-next-door",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/scientists-discover-earth-like-planet-right-next-door.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-11 12:00:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
