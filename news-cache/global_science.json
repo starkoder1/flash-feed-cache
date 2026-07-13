@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-13T17:47:53.201Z",
+  "last_updated": "2026-07-13T20:47:41.727Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "50dde5070216e04a82fd08c8f589cbc8",
+      "title": "STAT+: A breakthrough in pancreatic cancer has experts excited — and braced for what’s to come",
+      "description": "Pancreatic cancer specialists are excited about the biggest breakthrough in the field in decades. They are also looking around the corner to what comes next.",
+      "url": "https://www.statnews.com/2026/07/13/pancreatic-cancer-daraxonrasib-opportunities-challenges/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/C0529825-Pancreatic_cancer_coloured_CT_scan-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-07-13 08:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "708b361e1cd04e732b61c27f1bff57b8",
+      "title": "Water Tower Research inicia cobertura de Solvonis Therapeutics",
+      "description": null,
+      "url": "https://es.investing.com/news/company-news/water-tower-research-inicia-cobertura-de-solvonis-therapeutics-93CH-3738406",
+      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
+      "source_icon": "https://n.bytvi.com/esinvesting.png",
+      "source": "Investing",
+      "published_at": "2026-07-13 08:01:05",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "df2de27f4941022f1a524c8205b2bc5f",
+      "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+      "description": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/quantum-mechanics-math-theory.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-13 07:22:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "603880148631b2d895b939fd1a53e7d0",
+      "title": "Ask Dr. Universe: A planet's color tells you a lot about it - Mon, 13 Jul 2026 PST",
+      "description": "Dr. Universe: How do planets get their color? – Adelynn, 10, Georgia",
+      "url": "http://www.spokesman.com/stories/2026/jul/13/ask-dr-universe-a-planets-color-tells-you-a-lot-ab/",
+      "image_url": "https://thumb.spokesman.com/-bpKO08lerM06rh2mY_g7-WV4Yk=/2500x1405/smart/media.spokesman.com/photos/2026/07/10/6a511503a5449.image.jpg",
+      "source_icon": "https://n.bytvi.com/spokesman.png",
+      "source": "Spokesman",
+      "published_at": "2026-07-13 07:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "48d3a8a447367847257733aeeb1cc63e",
+      "title": "US healthcare watchdog announces $5.56 b. in expected savings despite administration fraud claims",
+      "description": "The decline complicates the Trump administration's portrayal of an unprecedented crackdown on healthcare fraud.",
+      "url": "https://www.jpost.com/health-and-wellness/article-902312",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729618",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-13 06:34:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5d08b5916d3fbfacb25b50e728c53e69",
+      "title": "Photos: Forget the drone. This robot runs beside you at 18 mph and shoots your 4K footage",
+      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/photo-story/mondo-robotics-beni-all-terrain-camera-robot",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-13 06:28:06",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ac1191a165b47f5764018175b582c62b",
+      "title": "Watching Dawn and Dusk on a Distant Hot Jupiter",
+      "description": "Astronomers using the James Webb Space Telescope have caught an extreme, tidally locked exoplanet in the act of showing two very different faces at once, a fierce, wind battered hemisphere and a comparatively gentler half. The discovery not only reveals a planet with a genuine weather system violent enough to tear water apart, it hints at a missing ingredient in how scientists model alien atmospheres altogether.",
+      "url": "https://www.universetoday.com/articles/watching-dawn-and-dusk-on-a-distant-hot-jupiter",
+      "image_url": "https://www.universetoday.com/article_images/opo1731a_20260713_054524.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-13 05:51:06",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "7ed0c6e26ef023d471a9551c4f8c6f99",
       "title": "Listening for the Universe's Faintest Whispers, a Billion Supernovae at Once",
@@ -518,90 +602,6 @@
       "published_at": "2026-07-12 05:01:44",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "131da5d16843daa0cc709b857a5a536f",
-      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
-      "description": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to the changing conditions survived and went on to dominate the seas, offering a glimpse of how modern marine life could respond to climate change.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/modern-and-paleozoic-fauna.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-12 04:02:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6cf2ae57d9bf33cae9223a06e6a74ee7",
-      "title": "World's 1st fusion factory in Livermore aims to be clean energy source for commercial use",
-      "description": "Fusion energy moved from theory to reality at Lawrence Livermore National Laboratory, and now Livermore-based Inertia is working to scale the technology for commercial use. The company is developing technology aimed at bringing fusion energy to the power grid and helping meet future energy demands with a cleaner energy source.",
-      "url": "https://abc7news.com/post/inertia-worlds-1st-fusion-factory-lawrence-livermore-national-laboratory-aims-clean-energy-source-commercial-use/19482659/",
-      "image_url": "https://cdn.abcotvs.com/dip/images/19488586_071026-kgo-commercial-fusion-split-img.jpg",
-      "source_icon": "https://n.bytvi.com/abc7news.jpg",
-      "source": "Abc7 News",
-      "published_at": "2026-07-12 01:54:49",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1d94181cb092b955b665e2d60c1f1f8e",
-      "title": "WATCH: Humanoid robots step up to the operating table",
-      "description": "ABC News' Leslie Lopez gets an inside look at \"Surgie,\" a robot guided by surgeons during real operations that could become a future game changer for hospitals.",
-      "url": "https://abcnews.com/video/134674628/",
-      "image_url": "https://i.abcnewsfe.com/a/75fe4c32-a070-4141-a02d-0c47b43fbc9c/260711_gma_lopez_robots3_hpMain_16x9.jpg?w=992",
-      "source_icon": "https://n.bytvi.com/abcnews.png",
-      "source": "Abc News",
-      "published_at": "2026-07-12 01:29:13",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1844b0615e11f37c57547b98b4d33941",
-      "title": "Opinion: The more we learn about cannabis, the less the conversation should be about the leaf",
-      "description": "How the search to understand a taboo plant led to one of medicine’s most surprising discoveries.",
-      "url": "https://www.adn.com/opinions/2026/07/11/opinion-the-more-we-learn-about-cannabis-the-less-the-conversation-should-be-about-the-leaf/",
-      "image_url": "https://www.adn.com/resizer/n25FMS-F7ApwG2ItdJGT1Q0SkK4=/cloudfront-us-east-1.images.arcpublishing.com/adn/Z5JX4XIEVBCXLN2PAIYIXHIB3E.JPG",
-      "source_icon": "https://n.bytvi.com/adn.png",
-      "source": "Adn",
-      "published_at": "2026-07-12 01:03:39",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "67f9c4ef3f3a386c3c3098ed0ab9249d",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6771/live/98eee880-7c5e-11f1-bee8-53ce494e1abc.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-11 23:58:40",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "22c97bd7954c3ff051db016807b24b8b",
-      "title": "Wally Funk, Aviation Pioneer and Oldest Woman to Travel to Space, Dies at 87",
-      "description": "Wally Funk, an aviation pioneer who was the oldest woman to launch into space, has died. She was 87.",
-      "url": "https://www.universetoday.com/articles/wally-funk-aviation-pioneer-and-oldest-woman-to-travel-to-space-dies-at-87",
-      "image_url": "https://www.universetoday.com/article_images/dims.apnews_20260711_155725.webp",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-11 23:14:14",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ef4d00db9d64d53fdc6e617d88d818d2",
-      "title": "Drawing the line: Virtual fences trigger the same cattle behavior as physical ones",
-      "description": "Virtual fences could make managing grazing livestock on farms more flexible and more efficient while improving animal welfare. A new study by the University of Göttingen shows that virtual fences trigger behavior in cattle similar to that caused by conventional electric fences, in terms of how they move around the field. This finding puts commonly expressed concerns about animal welfare into perspective. The results were published in the journal Animal.",
-      "url": "https://phys.org/news/2026-07-line-virtual-trigger-cattle-behavior.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/drawing-the-line-virtu.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-11 23:00:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
