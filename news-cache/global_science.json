@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-14T13:03:08.153Z",
+  "last_updated": "2026-07-14T17:00:47.736Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "8f5f4d5e9c067564bea5e06a87d195e4",
+      "title": "Release News: Qiskit v2.5 is here!",
+      "description": "Technical release summary for Qiskit SDK v2.5, including top new features and performance improvements.",
+      "url": "https://research.ibm.com/blog/qiskit-2-5-release-summary",
+      "image_url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/Qiskit_v2_5_Blog_Image_2_2e6e0c50ac.png",
+      "source_icon": "https://n.bytvi.com/ibm.png",
+      "source": "International Business Machines Corporation",
+      "published_at": "2026-07-14 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0608e1d096d216aae8945a85161947e6",
+      "title": "SoftBank’s Masayoshi Son Sees Fusion Power as Key to AI’s Future",
+      "description": "SoftBank Group Corp. founder Masayoshi Son said that in the not-so-distant future, nuclear fusion technology will offer the most realistic solution for powering AI data centers’ ballooning needs.",
+      "url": "https://financialpost.com/pmn/business-pmn/softbanks-masayoshi-son-sees-fusion-power-as-key-to-ais-future",
+      "image_url": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/776529929.jpg",
+      "source_icon": "https://n.bytvi.com/financialpost.png",
+      "source": "Financial Post",
+      "published_at": "2026-07-14 03:30:08",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "20c5dd9a4f4d39dd1e1d01cdbcd65d1f",
+      "title": "Tolling the Strait? NewsNight rolls the tape",
+      "description": "President Donald Trump has floated placing a 20% toll on all cargo shipped through the Strait of Hormuz, but since the war began, key members of his administration have ruled out similar proposals. NewsNight rolls the tape of Vice President J.D. Vance, Secretary of State Marco Rubio, and Defense Secretary Pete Hegseth objecting to the tolling of international waterways.",
+      "url": "https://www.cnn.com/2026/07/13/politics/video/tolling-the-strait-newsnight-rolls-the-tape",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/thumb-22801538-2681733-145-thumb.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-14 03:09:06",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "6bcab814b0602771da09cb86d13df99a",
+      "title": "Sweet discovery: Astronomers find complex sugar drifting between stars",
+      "description": "In a sweet discovery, astronomers find sugar lurking in the space between stars",
+      "url": "https://gulfnews.com/world/americas/sweet-discovery-astronomers-find-complex-sugar-drifting-between-stars-1.500606629",
+      "image_url": "https://media.assettype.com/gulfnews/2026-07-13/het5i70w/preview.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-07-14 03:02:25",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "5e4c72d32bd7931a1586917f259b1e6f",
+      "title": "Most of the moon's water likely remains chemically bound in its deep interior",
+      "description": "After decades of analyzing reams of lunar rocks back here on Earth, the canonical view of the moon was that it was anhydrous; that it had extraordinarily little water. That all began to change in 2009 with new data from NASA's Lunar Crater Observation and Sensing Satellite (LCROSS) and the much-ballyhooed evidence of water ice in the moon's permanently shaded polar regions (PSRs).",
+      "url": "https://phys.org/news/2026-07-moon-chemically-bound-deep-interior.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/most-of-moons-water-li.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-14 02:20:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "43a006ab64d55ebd5c82677e70ff469d",
       "title": "Could liquids help people breathe? New UH research seeks answers",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/jpost.png",
       "source": "Jpost",
       "published_at": "2026-07-13 06:34:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5d08b5916d3fbfacb25b50e728c53e69",
-      "title": "Photos: Forget the drone. This robot runs beside you at 18 mph and shoots your 4K footage",
-      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
-      "url": "https://interestingengineering.com/photo-story/mondo-robotics-beni-all-terrain-camera-robot",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-13 06:28:06",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ac1191a165b47f5764018175b582c62b",
-      "title": "Watching Dawn and Dusk on a Distant Hot Jupiter",
-      "description": "Astronomers using the James Webb Space Telescope have caught an extreme, tidally locked exoplanet in the act of showing two very different faces at once, a fierce, wind battered hemisphere and a comparatively gentler half. The discovery not only reveals a planet with a genuine weather system violent enough to tear water apart, it hints at a missing ingredient in how scientists model alien atmospheres altogether.",
-      "url": "https://www.universetoday.com/articles/watching-dawn-and-dusk-on-a-distant-hot-jupiter",
-      "image_url": "https://www.universetoday.com/article_images/opo1731a_20260713_054524.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-13 05:51:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7ed0c6e26ef023d471a9551c4f8c6f99",
-      "title": "Listening for the Universe's Faintest Whispers, a Billion Supernovae at Once",
-      "description": "Buried a kilometre underground in Japan, one of the world's most sensitive detectors may have caught its first faint trace of a sound scientists have been straining to hear for decades, the combined whisper of every supernova that has ever exploded across the universe. It is not yet a confirmed discovery, but if it holds up, it could rewrite how we trace the life and death of stars.",
-      "url": "https://www.universetoday.com/articles/listening-for-the-universes-faintest-whispers-a-billion-supernovae-at-once",
-      "image_url": "https://www.universetoday.com/article_images/Kamiokande89_20260713_052535.jpeg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-13 05:37:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d8008f62b39eb262f9406af1e77455da",
-      "title": "Rare floodplain meadow given to wildlife trust",
-      "description": "Floodplain meadows are one of the rarest habitats in England, says the wildlife trust.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy3d5r68jo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d1f/live/63099d50-79fc-11f1-bb84-55f328ecb8d7.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-13 05:14:39",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "369ba01dbe6a7446b2d25666bf24f8d0",
-      "title": "Dune project aims to aid rare toads and beetles",
-      "description": "Cumbria is one of the natterjack toad's last strongholds in Britain, a conservationist says.",
-      "url": "https://www.bbc.co.uk/news/articles/c1ky94x8m1ro",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ed5c/live/645f8d40-7e16-11f1-8b53-af2203b75821.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-13 05:10:44",
       "language": "english",
       "category": "science"
     }
