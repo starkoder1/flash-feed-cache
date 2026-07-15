@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-15T13:06:41.463Z",
+  "last_updated": "2026-07-15T17:03:17.965Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "dcfe0c5653b6810a893935fabe1f6ffc",
+      "title": "Dr. Maya Rosman recommends this summer fruit",
+      "description": "They are beautiful and delicious, but also healthy. This is what cherries can do for your health.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-901515",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/728452",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-15 05:01:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ccc62980471d2294e3bf8685f60bdc5e",
+      "title": "After a Billion Kilometres, China's Asteroid Hunter Finally Arrives",
+      "description": "After chasing a small asteroid across a billion kilometres of space, China's Tianwen-2 probe has finally caught up, closing to within twenty kilometres of its target and beginning detailed scientific study. What it uncovers next could help settle a genuinely intriguing question, whether this quiet companion of Earth is simply another asteroid, or a long lost piece of the Moon itself.",
+      "url": "https://www.universetoday.com/articles/after-a-billion-kilometres-chinas-asteroid-hunter-finally-arrives",
+      "image_url": "https://www.universetoday.com/article_images/First_look_at_Kamooalewa_from_Tianwen-2_20260715_044947.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-15 04:55:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2f256092266b6d1de8f0bc5c538ad62d",
+      "title": "MSU scientists are creating heart organoids — and wiring them to talk to the brain",
+      "description": "Uncovering new insights into future brain-heart communication",
+      "url": "https://msutoday.msu.edu/news/2026/07/heart-organoids",
+      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/5a1567c6cd2041bd860aa928ffe4007b?v=0d72dc9f",
+      "source_icon": "https://n.bytvi.com/msutoday.jpg",
+      "source": "Michigan State University",
+      "published_at": "2026-07-15 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "532ae60de14d7f188e1641b26738a340",
+      "title": "Why there’s ‘raspberry sugar’ in space",
+      "description": "Evidence of erythrulose ‘particularly relevant’ for origin-of-life research",
+      "url": "https://theweek.com/science/why-theres-raspberry-sugar-in-space",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/8t5NM6iabvTVTcHNFURYK6-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-07-15 01:25:03",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "bc3ffeca72bb29aa87b8e10d270e5e10",
+      "title": "Wash. Post: ‘Trump’s sons invest heavily in defense tech as father’s administration pours money in’",
+      "description": "Washington Post Silicon Valley Correspondent Elizabeth Dwoskin on her report about President Trump's oldest sons and the investments she says they have made that are benefiting from new Pentagon priorities and spending.",
+      "url": "https://www.cnn.com/2026/07/14/politics/video/ac360-trump-sons-defense-profits",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/dwoskinthumb.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-15 01:12:57",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "a4e269e5d9ef7ec7726b6ced669dee8a",
       "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-14 08:00:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "cddaad43dd53947d90068109446f90be",
-      "title": "Sugar in space? Astronomers find sweet clue to the origin of life",
-      "description": "It turns out the universe has something of a sweet tooth. Astronomers have detected a new type of sugar floating in deep space that may hold clues to how life first emerged on Earth.",
-      "url": "http://www.euronews.com/next/2026/07/14/sugar-in-space-astronomers-find-sweet-clue-to-the-origin-of-life",
-      "image_url": "https://images.euronews.com/articles/stories/09/83/70/26/1440x810_cmsv2_38662fb5-7c31-5a8e-8fea-b725d01e9cd0-9837026.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-07-14 07:43:09",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "c7e60e2bcc8a1145603e3eec365346a2",
-      "title": "Nine out of 10 elderly dementia sufferers become less agitated after marijuana treatment, study finds",
-      "description": "Medications such as morphine, Valium and Haldol have been found to have limited effectiveness in treating dementia-related agitation",
-      "url": "https://www.independent.co.uk/news/science/dementia-symptoms-treatment-cannabis-marijuana-cbd-thc-alzheimers-b3013866.html",
-      "image_url": "https://static.independent.co.uk/2022/11/16/11/newFile.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-07-14 07:39:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4cbae4daaf8fd3bb06a16b5887b4620c",
-      "title": "Photos: A turboprop burning 9 gph with no type rating needed — meet Carbon Cub ULT",
-      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
-      "url": "https://interestingengineering.com/photo-story/cubcrafters-carbon-cub-ult-turboprop-mosaic",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-14 07:14:01",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "09929ce53d5be1cd5de59a580be15b52",
-      "title": "On This Day, July 14: NASA's New Horizons gets closest look yet at Pluto",
-      "description": "On July 14, 2015, the New Horizons space probe came within 7,800 miles of Pluto, providing NASA scientists with the clearest photographs and most detailed measurements they've ever seen of the dwarf planet.",
-      "url": "https://www.upi.com/Top_News/2026/07/14/On-This-Day-NASAs-New-Horizons-gets-closest-look-yet-at-Pluto/4241783999760/",
-      "image_url": "https://cdnph.upi.com/ph/st/th/4241783999760/2026/upi/c21409e5139136add333760aa88fbe76/v1.5/On-This-Day-NASAs-New-Horizons-gets-closest-look-yet-at-Pluto.jpg",
-      "source_icon": "https://n.bytvi.com/upi.jpg",
-      "source": "Upi",
-      "published_at": "2026-07-14 07:00:07",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "2e53954e4e802c0fe70651bbea54c145",
-      "title": "Insulet Partners with Calm to Bring Mindfulness and Well-Being Tools to the Diabetes Community, Featuring a New Sleep Story Narrated by Lila Moss",
-      "description": "ACTON, Mass.--(BUSINESS WIRE)--Insulet Corporation (NASDAQ: PODD) (Insulet or the Company), the global leader in tubeless insulin pump technology with its Omnipod® brand of products, today announced a global partnership with Calm, a leading consumer mental health company, to provide emotional well-being resources for people living with diabetes, their caregivers, and healthcare professionals. The partnership launches Calm’s first-ever integrated content partnership and collection with a MedTech",
-      "url": "http://www.businesswire.com/news/home/20260713826584/en/Insulet-Partners-with-Calm-to-Bring-Mindfulness-and-Well-Being-Tools-to-the-Diabetes-Community-Featuring-a-New-Sleep-Story-Narrated-by-Lila-Moss/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260713826584/en/1711909/21/INSULET_Logo_RGB_No_tag.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-07-14 07:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
