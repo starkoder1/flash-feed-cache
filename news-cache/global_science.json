@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-16T17:01:18.983Z",
+  "last_updated": "2026-07-16T20:43:41.564Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "6107e9248ca557dcaecf8553ac71d31c",
+      "title": "Verso display più luminosi ed efficienti",
+      "description": "Scoperto come prolungare la vita dei Led 'quantum dot'",
+      "url": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/07/16/verso-display-piu-luminosi-ed-efficienti-_7d3986b1-d61d-427b-8a1b-9657b1fbdc55.html",
+      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/24a96651744f22ed9b69914ebe4213ac.jpg",
+      "source_icon": "https://n.bytvi.com/ansa.png",
+      "source": "Ansa",
+      "published_at": "2026-07-16 08:03:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "815dc3872441426c923e3bc3be3af414",
+      "title": "ICYMI: ONS to only lay groundwork for labour market statistical improvements in August",
+      "description": "This all started all the way back in 2023 already, with the falling response rate to the Labour Force Survey (LFS) being the main issue. As such, the UK stats office eventually announced a move to transition to a Transformed Labour Force Survey (TLFS) instead. That \"in order to improve the quality of the labour market data based on a more adaptive and responsive survey\". That took a long while to prepare for and eventually the ONS pushed back the timeline for said transition from November 2026 to some time next year instead. In the latest update today, the ONS says that: \"In August, we will set out the path towards transitioning the TLFS to become our headline measure for labour market statistics in 2027. Data from the TLFS, following implementation in April of the final elements of agreed design changes, indicates improved responses particularly in later waves of the survey. Further, we are working to ensure our priority statistics are ready for assessment against the standards required for Accredited Official Statistics status. We will provide an update on Labour Market Statistics when we publish the outcome of our first TLFS Readiness assessment in August.\" The update is encouraging but it's still way too early to be optimistic about anything. The ONS has kicked the can down the road on this issue for so long that it feels like a given already that the UK labour market data comes with a caveat of data quality issues. For something that important, needing to question the data and numbers for nearly three years now is quite damning. That especially when there are still jarring evidence of data hiccups in the meantime. ONS' director-general for Surveys and Economic and Social Statistics, James Benford, tried to clarify the latest one: \"Three weeks ago, I shared that the achieved sample size for the LFS will dip slightly and temporarily, following an operational issue that led to under-allocation of interviewers in that survey. This issue has now been corrected, and we are currently conducting a lessons-learned exercise. I am confident our methods can manage the impact on the quality of the statistics, and we will publish our estimates of the impact in our next labour market release.\" Who knows when and if all this will actually be able to be addressed in 2027, as they say it will be next. This article was written by Justin Low at investinglive.com.",
+      "url": "https://investinglive.com/news/icymi-ons-to-only-lay-groundwork-for-labour-market-statistical-improvements-in-august/",
+      "image_url": "https://investinglive.com/cms/OrchardCore.Admin/logo.png",
+      "source_icon": "https://n.bytvi.com/forexlive.png",
+      "source": "Forexlive",
+      "published_at": "2026-07-16 05:20:23",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ccb237ff0b23d4d14ad5257f239510e3",
+      "title": "What happened to the brains of people who ate an avocado every day for half a year?",
+      "description": "Avocados are considered one of the healthiest foods, but when researchers examined whether eating them daily improves brain function, the results managed to surprise even them.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-901910",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729027",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-16 05:03:07",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "5634fddbf4fceb033f3f4a995c228473",
       "title": "Interview with President Ronald J. Daniels on campus construction, foreign affairs and 150th anniversary",
@@ -566,42 +602,6 @@
       "published_at": "2026-07-15 08:30:00",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "2091069890df5d9f1cc2e8e0b41fd30e",
-      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
-      "description": "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’ Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt. Then the bow appeared. More than 1,000ft (305 metres) below the surface of the Labrador Sea, off the coast of Canada, the skeleton of the final ship used by the famed polar explorer Ernest Shackleton appeared in its silty grave. Continue reading...",
-      "url": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
-      "image_url": "https://i.guim.co.uk/img/media/361a4fe8ba748a28c2f7c2d8d3589c2494dc2b18/124_130_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c776c283a3b0134608d3618ef375f038",
-      "source_icon": "https://n.bytvi.com/theguardian.jpg",
-      "source": "The Guardian",
-      "published_at": "2026-07-15 08:00:49",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "9470be7504dfb178715ca3fb83b81369",
-      "title": "More than 700,000 specimens of insects and plants to be digitised to 'unlock' critical information",
-      "description": "£1.8m of funding has been granted for the digitisation project",
-      "url": "https://www.scotsman.com/arts-and-culture/more-than-700000-specimens-of-insects-and-plants-to-be-digitised-to-unlock-critical-information-8793753",
-      "image_url": "https://www.scotsman.com/jpim-static/image/2026/07/14/15/39/Dr-Vladimir-Blagoderov-Principal-Curator-of-Invertebrates-at-National-Museums-Scotland-examines-a-mo.jpeg?width=1200&auto=webp&trim=0%2C143%2C0%2C142",
-      "source_icon": "https://n.bytvi.com/scotsman.png",
-      "source": "The Scotsman",
-      "published_at": "2026-07-15 08:00:46",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d5f7db959c0528edf8472b12580bbe56",
-      "title": "Around 700,000 specimens to be digitised in project to document biodiversity",
-      "description": "Insects and plants are among the items that will be digitised.",
-      "url": "https://www.independent.co.uk/news/science/national-museums-scotland-britain-ireland-natural-history-museum-glasgow-b3015145.html",
-      "image_url": "https://static.independent.co.uk/2026/07/15/09/14075828-684b37bc-7a7e-4998-bd21-f1287ef62b8d.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-07-15 08:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
