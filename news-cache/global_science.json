@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-17T16:57:40.141Z",
+  "last_updated": "2026-07-17T20:41:44.169Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3ab4e037b6d1704f3571798b59decd02",
+      "title": "A physicist explains the overlooked problem that could doom Elon Musk’s Mars colonization plans: dust",
+      "description": "Astrophysicist and science writer Adam Becker discusses why the dream of life on Mars may be out of reach, maybe for centuries to come.",
+      "url": "https://www.businessinsider.com/dust-could-sink-mars-ambitions-2026-7",
+      "image_url": "https://i.insider.com/6a59745054f98752617762d3?width=1200&format=jpeg",
+      "source_icon": "https://n.bytvi.com/insider.png",
+      "source": "Insider",
+      "published_at": "2026-07-17 08:11:01",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "c55eb962d32ca3e61e82956d9e18e061",
+      "title": "Linnaeus who developed scientific nomenclature Crossword Clue",
+      "description": "Answer help for Plate Spinning, featuring one of today's clues: Linnaeus who developed scientific nomenclature, from USA TODAY Daily Crossword Puzzle creators.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/07/17/linnaeus-who-developed-scientific-nomenclature-crossword-clue/90952780007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-07-17 08:10:15",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c128eabd062bdd22fa05caca82f3625c",
+      "title": "‘It’s beautiful’: Astronomers find atmosphere on a nearby Earth-like planet",
+      "description": "Exoplanet could have life-supporting water on its surface",
+      "url": "https://www.irishtimes.com/science/space/2026/07/17/its-beautiful-astronomers-find-atmosphere-on-a-nearby-earth-like-planet/",
+      "image_url": "https://www.irishtimes.com/resizer/v2/PNORXKLIUAUVCTU4DIO6YT3734.jpg?auth=e74698a03b2d78585ba2fed5e0e5627647136612b26e7cf7b450a3de4f94b88c&smart=true&width=630&height=350",
+      "source_icon": "https://n.bytvi.com/irishtimes.png",
+      "source": "The Irish Times",
+      "published_at": "2026-07-17 07:59:13",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "786e38cd78353166f05e4b99e1b5f6ae",
+      "title": "Robert Laidlow: Reality Eaters album review",
+      "description": "BBC Philharmonic/Havlat/Kaziboni/Piatti Quartet (NMC) Einstein’s field equations, Newton’s universal law and artificial intelligence are among the subjects of Laidlow’s ambitious orchestral works Robert Laidlow is as at home in the realms of science and technology as he is in the world of classical music. As this NMC debut album demonstrates, his intricate, wildly imaginative work is eminently approachable, even if the core concepts are highly complex. Warp, a terse, 12-minute piano concerto, proposes a musical solution to Einstein’s field equations as the intrepid Joseph Havlat boldly goes where no pianist has gone before amid the distorting fabric of orchestral space-time. Strident orchestral lines spiral ever upwards, stretching instruments to their limits, while the piano maintains its course towards a serene conclusion. Handsomely recorded, the BBC Philharmonic and Vimbayi Kaziboni offer vibrantly detailed support. Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
+      "image_url": "https://i.guim.co.uk/img/media/de996d8c5e81d6a1208206745a33ed18e2764d4c/46_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=885312acdff74ea60f4c02fca0b64709",
+      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
+      "source": "Theguardiantheguardian",
+      "published_at": "2026-07-17 06:30:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "114fb06224d14c79317d18596cc8c039",
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "description": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-17 06:04:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d41ed9effc35d291ddecb4ff463465ae",
+      "title": "Curlew chicks released to boost species numbers",
+      "description": "Curlew Country is hoping to improve the birds' chances by making sure they get the best start.",
+      "url": "https://www.bbc.co.uk/news/articles/c6212gynxd5o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/623c/live/63757060-8100-11f1-b983-cbe246fcd5da.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-17 05:06:18",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "7dbee03660a416ffb0a7c7d7aeb87a1c",
       "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
@@ -530,78 +602,6 @@
       "published_at": "2026-07-16 13:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "0d17dce18649e739660c6b97441b0a51",
-      "title": "CATalyst Council Releases Second Edition of “Puppocalypse, Kitten Craze” Report, Confirming Its Veterinary Visit Forecast with Q2 2026 Data",
-      "description": "NORTH CANTON, Ohio--(BUSINESS WIRE)--CATalyst Council released the second edition of “Puppocalypse, Kitten Craze, and the Expectations Reset: What Pet Demographics Reveal About U.S. Veterinary Visits Through 2035,” updating its original forecast with second-quarter 2026 veterinary visit data and new corroborating research. The original white paper, published in June, forecast combined U.S. clinical visit growth of −2% to 0% through 2031, well below the 2% to 3% the industry had expected. The up",
-      "url": "http://www.businesswire.com/news/home/20260716218427/en/CATalyst-Council-Releases-Second-Edition-of-%E2%80%9CPuppocalypse-Kitten-Craze%E2%80%9D-Report-Confirming-Its-Veterinary-Visit-Forecast-with-Q2-2026-Data/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260716218427/en/2852009/21/CatalystCouncil_2026_Logo_RGB.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-07-16 13:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "828a8b49b3ec1ab17758f3e1515c302b",
-      "title": "Single-reactor process yields 90% pure hydrogen fuel from mixed plastic waste",
-      "description": "A process called Alkaline Thermal Treatment (ATT) has been tested to turn mixed plastic waste into high-purity hydrogen fuel.",
-      "url": "https://interestingengineering.com/energy/single-reactor-yields-pure-hydrogen-fuel",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IE.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-16 12:48:27",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "974939fdf5ccc3966244120f1eeb2ba9",
-      "title": "Merck KGaA invests €25m in a new testing center in Germany",
-      "description": "The group is strengthening its analytical capabilities in Europe to support the development and commercialization of biologic therapies.",
-      "url": "https://www.marketscreener.com/news/merck-kgaa-invests-128-25m-in-a-new-testing-center-in-germany-ce7f5ed3d88cf625",
-      "image_url": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4187989_800.jpg",
-      "source_icon": "https://n.bytvi.com/marketscreener.png",
-      "source": "Marketscreenerc",
-      "published_at": "2026-07-16 12:47:36",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "f83d603dbf9cfcca1f820c3345941f29",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9403/live/b01f09c0-8110-11f1-926f-c90d1bcfbc84.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-16 12:44:26",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6107e9248ca557dcaecf8553ac71d31c",
-      "title": "Verso display più luminosi ed efficienti",
-      "description": "Scoperto come prolungare la vita dei Led 'quantum dot'",
-      "url": "https://www.ansa.it/canale_scienza/notizie/frontiere/2026/07/16/verso-display-piu-luminosi-ed-efficienti-_7d3986b1-d61d-427b-8a1b-9657b1fbdc55.html",
-      "image_url": "https://www.ansa.it/webimages/img_1280x720/2026/7/16/24a96651744f22ed9b69914ebe4213ac.jpg",
-      "source_icon": "https://n.bytvi.com/ansa.png",
-      "source": "Ansa",
-      "published_at": "2026-07-16 08:03:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "815dc3872441426c923e3bc3be3af414",
-      "title": "ICYMI: ONS to only lay groundwork for labour market statistical improvements in August",
-      "description": "This all started all the way back in 2023 already, with the falling response rate to the Labour Force Survey (LFS) being the main issue. As such, the UK stats office eventually announced a move to transition to a Transformed Labour Force Survey (TLFS) instead. That \"in order to improve the quality of the labour market data based on a more adaptive and responsive survey\". That took a long while to prepare for and eventually the ONS pushed back the timeline for said transition from November 2026 to some time next year instead. In the latest update today, the ONS says that: \"In August, we will set out the path towards transitioning the TLFS to become our headline measure for labour market statistics in 2027. Data from the TLFS, following implementation in April of the final elements of agreed design changes, indicates improved responses particularly in later waves of the survey. Further, we are working to ensure our priority statistics are ready for assessment against the standards required for Accredited Official Statistics status. We will provide an update on Labour Market Statistics when we publish the outcome of our first TLFS Readiness assessment in August.\" The update is encouraging but it's still way too early to be optimistic about anything. The ONS has kicked the can down the road on this issue for so long that it feels like a given already that the UK labour market data comes with a caveat of data quality issues. For something that important, needing to question the data and numbers for nearly three years now is quite damning. That especially when there are still jarring evidence of data hiccups in the meantime. ONS' director-general for Surveys and Economic and Social Statistics, James Benford, tried to clarify the latest one: \"Three weeks ago, I shared that the achieved sample size for the LFS will dip slightly and temporarily, following an operational issue that led to under-allocation of interviewers in that survey. This issue has now been corrected, and we are currently conducting a lessons-learned exercise. I am confident our methods can manage the impact on the quality of the statistics, and we will publish our estimates of the impact in our next labour market release.\" Who knows when and if all this will actually be able to be addressed in 2027, as they say it will be next. This article was written by Justin Low at investinglive.com.",
-      "url": "https://investinglive.com/news/icymi-ons-to-only-lay-groundwork-for-labour-market-statistical-improvements-in-august/",
-      "image_url": "https://investinglive.com/cms/OrchardCore.Admin/logo.png",
-      "source_icon": "https://n.bytvi.com/forexlive.png",
-      "source": "Forexlive",
-      "published_at": "2026-07-16 05:20:23",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
