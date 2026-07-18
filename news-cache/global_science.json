@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-18T12:46:08.970Z",
+  "last_updated": "2026-07-18T16:42:43.954Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "caec4393858d4732506d4e35594fdee5",
+      "title": "Children of Holocaust survivors face higher schizophrenia risk, Israeli study finds",
+      "description": "It’s known that the adult children of many Holocaust survivors suffer from trauma as a result of growing up with them and hearing about their horrific experiences, or when the parents refuse to share",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-902730",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730175",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-18 04:31:28",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "ca0b3216abe2c7d1e9f7f4f523221bac",
+      "title": "Moon phase today: What the Moon will look like on July 18",
+      "description": "See the Moon phase expected for July 18, 2026 as well as when the next Full Moon is expected.",
+      "url": "https://mashable.com/science/moon-phase-today-july-18-2026",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/06PUplbIITKvN3SdX3pz3DN/hero-image.fill.size_1200x675.v1783936869.jpg",
+      "source_icon": "https://n.bytvi.com/mashable_us.jpeg",
+      "source": "Mashable",
+      "published_at": "2026-07-18 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "778679ce5069823196968e6a499fc048",
+      "title": "5 Star Trek Episodes That Predicted The Future",
+      "description": "Some of Star Trek's most ambitious and accurate predictions originated in single episodes that preceded actual technological inventions by decades.",
+      "url": "https://screenrant.com/star-trek-episodes-predicted-future/",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/captain-kirk-spock-and-the-crew-pose-in-front-of-the-enterprise-in-front-of-star-trek-the-original-series-art.jpg",
+      "source_icon": "https://n.bytvi.com/screenrant.png",
+      "source": "Screenrant",
+      "published_at": "2026-07-18 03:38:30",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "10289ba92be2c0d4ae9e57683cc26804",
+      "title": "Game On: ‘Fitness Boxing 3: Your Personal Trainer’ lands on Switch 2",
+      "description": "Nintendo's boxing game is now on Switch 2, a 'Star Trek' game expansion, and 'Palworld' 1.0 is now playable. Rick Damigella reports.",
+      "url": "https://www.cnn.com/2026/07/17/entertainment/video/hollywood-entertainment-videogames-nintendo-switch-boxing-star-trek-voyager-across-the-unknown-palworld",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-22813048-7116-28-still.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-18 02:10:36",
+      "language": "english",
+      "category": "entertainment"
+    },
+    {
+      "id": "714b8d84e5deb2c23ab46b220d31ba29",
+      "title": "Second half of summer to bring chances for rain but heatwave threat persists",
+      "description": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_weather/1200/cpsprodpb/5e6a/live/7a2346d0-8113-11f1-9ec3-fd524648df46.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-18 01:05:29",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "0274c07a08512f085f28d67ac97953c9",
       "title": "What Latin America Has Taught Us About Building Scholarly Infrastructure",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-17 06:04:57",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "d41ed9effc35d291ddecb4ff463465ae",
-      "title": "Curlew chicks released to boost species numbers",
-      "description": "Curlew Country is hoping to improve the birds' chances by making sure they get the best start.",
-      "url": "https://www.bbc.co.uk/news/articles/c6212gynxd5o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/623c/live/63757060-8100-11f1-b983-cbe246fcd5da.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-17 05:06:18",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7dbee03660a416ffb0a7c7d7aeb87a1c",
-      "title": "New Alzheimer's drug repairs DNA damage and reduces brain inflammation",
-      "description": "A drug originally developed for spinal cord injury may offer a fresh approach to treating Alzheimer’s disease. In mouse studies, KCL-286 repaired dangerous DNA damage, reduced inflammation, and targeted multiple disease-related pathways instead of focusing on just amyloid or tau. Since it has already cleared an initial human safety trial, researchers believe it could move more quickly into Alzheimer’s clinical testing.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260711010118.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/genetic-neuroscience-human-brain-dna-mutation-health.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-17 04:19:36",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2d632a5d276f294a15c9df432f76248c",
-      "title": "Ancient Egyptian princesses knew their way around weapons of war",
-      "description": "Analysis of six mummies from ancient Egypt challenges the idea that the bows and daggers buried with some royal women were merely ceremonial.",
-      "url": "https://www.sciencenews.org/article/ancient-egyptian-princesses-weapons-war",
-      "image_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/071626_TM_egyptian-warrior-princesses_main.jpg?w=800",
-      "source_icon": "https://n.bytvi.com/sciencenews.png",
-      "source": "Science News",
-      "published_at": "2026-07-17 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4d317d804db9086119d486c614007f67",
-      "title": "Chiseled Egyptian princesses knew their way around weapons",
-      "description": "Before they were mummies, four royal sisters wielded the daggers, bows, and arrows 4,000 years ago. The post Chiseled Egyptian princesses knew their way around weapons appeared first on Popular Science .",
-      "url": "https://www.popsci.com/science/egyptian-princesses-weapons-mummies/",
-      "image_url": "https://www.popsci.com/wp-content/uploads/2026/07/Egyptian-Princess-Dagger.png?quality=85",
-      "source_icon": "https://n.bytvi.com/popsci.png",
-      "source": "Popular Science",
-      "published_at": "2026-07-17 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f5b8e6f91eab78476ae168caba2f4f20",
-      "title": "Weddings, jealousy, children and breakups: surprising bonds some users form with AI",
-      "description": "The study, led by CSIC and the Polytechnic University of Valencia (UPV), finds that some users form emotional bonds with AI similar to those in romantic relationships.",
-      "url": "http://www.euronews.com/next/2026/07/17/weddings-jealousy-children-and-breakups-the-unexpected-bonds-users-form-with-ai",
-      "image_url": "https://images.euronews.com/articles/stories/09/83/53/50/1440x810_cmsv2_b9884e9c-5b8c-5f82-b480-f02437cec553-9835350.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-07-17 03:57:13",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
