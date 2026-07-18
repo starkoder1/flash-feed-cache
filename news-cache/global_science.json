@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-18T16:42:43.954Z",
+  "last_updated": "2026-07-18T20:36:32.793Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "e92a1dd3dbb6a8b60606dc381ec9f7ed",
+      "title": "Science word of the day: Neuroplasticity",
+      "description": null,
+      "url": "https://www.livescience.com/health/neuroscience/science-word-of-the-day-neuroplasticity",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LnXiAuAb3itbEE9FEojtDi-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/livescience.png",
+      "source": "Livescience",
+      "published_at": "2026-07-18 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "1a2459cfb75dbf1853b412c6041acb2c",
+      "title": "Andy Burnham to become UK Prime Minister on Monday",
+      "description": "Andy Burnham has been confirmed as the new leader of Britain’s governing Labour Party, and will become the country’s seventh prime minister in a decade on Monday. CNN's Clare Sebastian reports.",
+      "url": "https://www.cnn.com/2026/07/18/world/video/burnham-uk-prime-minister-tiktok-sebastian-pkg-tsi-071812aseg2-cnni-world-fast",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/12a-2-20260718065150057.jpg?c=original",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-18 07:00:59",
+      "language": "english",
+      "category": "sports"
+    },
+    {
+      "id": "1269bfc49891b016506bbe27f71f1fc2",
+      "title": "Quantum computing – what is the thing that’ll be way bigger and smarter than AI?",
+      "description": "'Quantum computers could help us probe parts of the universe we have never seen.'",
+      "url": "https://metro.co.uk/2026/07/18/quantum-computing-thing-thatll-even-bigger-smarter-ai-28540469/",
+      "image_url": "https://metro.co.uk/wp-content/uploads/2026/07/SEI_304518036-c7a5.jpg?quality=90&strip=all",
+      "source_icon": "https://n.bytvi.com/metro.png",
+      "source": "Metro",
+      "published_at": "2026-07-18 07:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7f4d847ae2479b1d746e1da0f314ac1a",
+      "title": "Researchers working on artificial placentas for premature babies",
+      "description": "The aim of the technology is to give babies born too soon a few more weeks to grow and develop in womb-like conditions, and a better chance of a long and healthy life.",
+      "url": "https://www.abc.net.au/news/2026-07-18/artificial-placenta-research-for-premature-babies/106929330",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/11da5d8680ad131e25f9e1e699159ccc?impolicy=wcms_crop_resize&cropH=406&cropW=719&xPos=0&yPos=174&width=862&height=485",
+      "source_icon": "https://n.bytvi.com/abc_net.png",
+      "source": "Abc",
+      "published_at": "2026-07-18 05:48:57",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "caec4393858d4732506d4e35594fdee5",
       "title": "Children of Holocaust survivors face higher schizophrenia risk, Israeli study finds",
@@ -554,54 +602,6 @@
       "published_at": "2026-07-17 08:11:01",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "c55eb962d32ca3e61e82956d9e18e061",
-      "title": "Linnaeus who developed scientific nomenclature Crossword Clue",
-      "description": "Answer help for Plate Spinning, featuring one of today's clues: Linnaeus who developed scientific nomenclature, from USA TODAY Daily Crossword Puzzle creators.",
-      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/07/17/linnaeus-who-developed-scientific-nomenclature-crossword-clue/90952780007/",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
-      "source_icon": "https://n.bytvi.com/usatoday.jpg",
-      "source": "Usa Today",
-      "published_at": "2026-07-17 08:10:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c128eabd062bdd22fa05caca82f3625c",
-      "title": "‘It’s beautiful’: Astronomers find atmosphere on a nearby Earth-like planet",
-      "description": "Exoplanet could have life-supporting water on its surface",
-      "url": "https://www.irishtimes.com/science/space/2026/07/17/its-beautiful-astronomers-find-atmosphere-on-a-nearby-earth-like-planet/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/PNORXKLIUAUVCTU4DIO6YT3734.jpg?auth=e74698a03b2d78585ba2fed5e0e5627647136612b26e7cf7b450a3de4f94b88c&smart=true&width=630&height=350",
-      "source_icon": "https://n.bytvi.com/irishtimes.png",
-      "source": "The Irish Times",
-      "published_at": "2026-07-17 07:59:13",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "786e38cd78353166f05e4b99e1b5f6ae",
-      "title": "Robert Laidlow: Reality Eaters album review",
-      "description": "BBC Philharmonic/Havlat/Kaziboni/Piatti Quartet (NMC) Einstein’s field equations, Newton’s universal law and artificial intelligence are among the subjects of Laidlow’s ambitious orchestral works Robert Laidlow is as at home in the realms of science and technology as he is in the world of classical music. As this NMC debut album demonstrates, his intricate, wildly imaginative work is eminently approachable, even if the core concepts are highly complex. Warp, a terse, 12-minute piano concerto, proposes a musical solution to Einstein’s field equations as the intrepid Joseph Havlat boldly goes where no pianist has gone before amid the distorting fabric of orchestral space-time. Strident orchestral lines spiral ever upwards, stretching instruments to their limits, while the piano maintains its course towards a serene conclusion. Handsomely recorded, the BBC Philharmonic and Vimbayi Kaziboni offer vibrantly detailed support. Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/jul/17/robert-laidlow-reality-eaters-album-review",
-      "image_url": "https://i.guim.co.uk/img/media/de996d8c5e81d6a1208206745a33ed18e2764d4c/46_0_1695_1356/master/1695.jpg?width=140&quality=85&auto=format&fit=max&s=885312acdff74ea60f4c02fca0b64709",
-      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
-      "source": "Theguardiantheguardian",
-      "published_at": "2026-07-17 06:30:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "114fb06224d14c79317d18596cc8c039",
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "description": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/neutrinos-interaction-camera.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-17 06:04:57",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
