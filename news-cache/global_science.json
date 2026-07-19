@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-19T09:43:03.451Z",
+  "last_updated": "2026-07-19T12:48:37.207Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "d2e010ea5e3a62cefe49177c7f2cee32",
+      "title": "The hidden cost of the night shift and how to sleep it off",
+      "description": "More than three million people in the UK work night shifts, which can greatly impact their health. What can be done to help them?",
+      "url": "https://www.bbc.co.uk/news/articles/cp9errxl97go",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b5c/live/1c3f9550-8064-11f1-926f-c90d1bcfbc84.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-19 00:01:55",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5b61ea42fb57d59586ee4fc1a4c103cc",
+      "title": "Roi Et poverty relief scheme opens doors",
+      "description": "A pilot poverty alleviation programme launched in Roi Et that will be expanded nationwide if successful.",
+      "url": "https://www.bangkokpost.com/thailand/general/3288037/roi-et-poverty-relief-scheme-opens-doors",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "source_icon": "https://n.bytvi.com/bangkokpost.png",
+      "source": "Bangkok Post",
+      "published_at": "2026-07-18 23:08:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b876b920337438e9926ae99f08d34ee4",
+      "title": "Daily horoscope July 19 2026: Today’s predictions for your star sign",
+      "description": "Mars in Gemini aligns with Saturn in Aries, energising productivity and practicality.",
+      "url": "https://metro.co.uk/2026/07/19/daily-horoscope-july-19-2026-predictions-star-sign-29164330/",
+      "image_url": "https://metro.co.uk/wp-content/uploads/2023/04/SEC_152845384-9ad1.jpg?quality=90&strip=all",
+      "source_icon": "https://n.bytvi.com/metro.png",
+      "source": "Metro",
+      "published_at": "2026-07-18 23:01:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "da6e1aac599f5abe30138989c4ca65b1",
+      "title": "US accelerates development of next-gen chemical protection suits for fighters with new program",
+      "description": "Numat's protection suits incorporate metal-organic frameworks (MOFs)—highly porous engineered materials designed to capture and neutralize hazardous chemical and biological agents.",
+      "url": "https://interestingengineering.com/military/us-chemical-protection-suits-warfighter",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/suit-chemical.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-18 22:53:17",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "6729e0d796c760c43688aba5ac2cc867",
       "title": "Rain gardens can help filter out toxic pollution in Bay Area cities, new study shows",
@@ -554,54 +602,6 @@
       "published_at": "2026-07-17 20:37:30",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "8e0047d2156adb04a7ec08e1d7225e43",
-      "title": "US startup joins nuclear alliance to power hyperscale computing with microreactors",
-      "description": "NANO Nuclear Energy joins Virginia's nuclear consortium to support advanced reactors for computing data centers.",
-      "url": "https://interestingengineering.com/energy/nano-nuclear-joins-virginia-consortium-data-centers",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Untitled-design-2026-07-18T015104.496.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-17 20:22:18",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "9694d71868506db6a5038851a0b9105a",
-      "title": "Why doesn't Europe have AC?",
-      "description": "Is AC a luxury or a necessity? In this episode of \"Make It Make Sense,\" Cato Institute research fellow Chelsea Follett joins James Hohmann to discuss Europe's cultural and regulatory resistance to air conditioning. The conversation explores the dangers of modern \"degrowthism\" and climate fatalism, contrasting them with a solutions-oriented, pro-technology mindset.",
-      "url": "https://www.washingtonpost.com/podcasts/make-it-make-sense/the-us-has-ac-europe-doesnt-why/",
-      "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://podcast.posttv.com/podcast/20260717/t_1784319030779_name_MIMS_RSS_Social_2400x1300.png&w=1600&h=900",
-      "source_icon": "https://n.bytvi.com/washingtonpost.png",
-      "source": "The Washington Post",
-      "published_at": "2026-07-17 20:10:30",
-      "language": "english",
-      "category": "environment"
-    },
-    {
-      "id": "6c83f49df68fe76151e040341381ad1c",
-      "title": "How a tiny mouse survives where almost nothing else can",
-      "description": "Scientists once thought no mammals could survive at this altitude. But a tiny mouse living almost 22,000 feet up in the Andes is proving them wrong and offering clues about life in extreme conditions.",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5887487/how-a-tiny-mouse-survives-where-almost-nothing-else-can",
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
-      "source_icon": "https://n.bytvi.com/npr.png",
-      "source": "Npr",
-      "published_at": "2026-07-17 19:57:44",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "748f51c96cefd1628e9fd294b0737b3d",
-      "title": "The Climate Issue newsletter: The dangers of global dimming",
-      "description": "Oliver Morton, our planetary affairs editor, reflects on a warming Earth",
-      "url": "https://www.economist.com/science-and-technology/2026/07/17/the-climate-issue-newsletter-the-dangers-of-global-dimming",
-      "image_url": "https://www.economist.com/content-assets/images/20260717_DOP902.jpg",
-      "source_icon": "https://n.bytvi.com/economist.png",
-      "source": "The Economist",
-      "published_at": "2026-07-17 19:51:44",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
