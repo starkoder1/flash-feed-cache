@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-19T01:25:24.539Z",
+  "last_updated": "2026-07-19T06:21:35.806Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3781951c27fb2b1fc34b814a305226ef",
+      "title": "HalluSquatting AI attack could hijack your computer",
+      "description": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.",
+      "url": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/tech-worker-at-laptop-coworking-space.jpeg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-07-18 16:00:22",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "5941f983801d63d6163333e6fb15e8eb",
+      "title": "Seasonal gene switch locks fruit flies in winter mode",
+      "description": "Researchers at Washington State University have discovered a molecular \"winter lock\" that keeps animals in a less active winter state until favorable conditions return, a discovery that could improve pest control and lead to a better understanding of seasonal health conditions in humans.",
+      "url": "https://phys.org/news/2026-07-seasonal-gene-fruit-flies-winter.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/study-reveals-a-winter.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-18 16:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7f83df432d3e86a6f98a08209d853ec0",
+      "title": "Editorial: Dig, baby, dig: What Alaska’s mineral wealth could become",
+      "description": "A new critical minerals program could connect research, resource development and industries across the state.",
+      "url": "https://www.adn.com/opinions/editorials/2026/07/18/editorial-dig-baby-dig-what-alaskas-mineral-wealth-could-become/",
+      "image_url": "https://www.adn.com/resizer/YpY4I8wLkXEk23oeRj74nYmEV3M=/cloudfront-us-east-1.images.arcpublishing.com/adn/KOJQK4GLUREV7IO2CGER7XD4IM.JPG",
+      "source_icon": "https://n.bytvi.com/adn.png",
+      "source": "Adn",
+      "published_at": "2026-07-18 15:54:32",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "819a4e1c707f2b223f1097eefc0a8e4b",
+      "title": "I used NotebookLM and Claude Projects to organize five years of notes, and only one finished the job",
+      "description": "One is built for research, the other worked with what I actually had",
+      "url": "https://www.xda-developers.com/used-notebooklm-and-claude-projects-to-organize-five-years-of-notes-only-one-finished-the-job/",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/claude-code-and-notebooklm-on-desktop-pc-lamp-and-clock-in-view.jpeg",
+      "source_icon": "https://n.bytvi.com/xda_developers.png",
+      "source": "Xda-developers",
+      "published_at": "2026-07-18 14:30:10",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6f674d347a6761fbe1d3d7a600c57ed5",
+      "title": "As Much of the East Coast Is Choking on Wildfire Smoke, Texas Is Drowning in Life-Threatening Floods",
+      "description": "It's the perfect storm of extreme weather events. The post As Much of the East Coast Is Choking on Wildfire Smoke, Texas Is Drowning in Life-Threatening Floods appeared first on Futurism .",
+      "url": "https://futurism.com/science-energy/wildfire-smoke-texas-flooding-el-nino-climate-disaster",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/wildfire-smoke-texas-flooding-el-nino-climate-disaster.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-18 14:30:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "e31129145ccc45ed2676554d9214f92d",
+      "title": "Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots",
+      "description": "\"We have to prepare to ensure there are safeguards in place.\" The post Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots appeared first on Futurism .",
+      "url": "https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/striking-workers-hyundai-korea-humanoid-robots-labor.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-18 14:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "29f5bff9bb53227bb2074769c4762bca",
+      "title": "Blasting Rock Without Explosives",
+      "description": "Open pit mines are replacing traditional explosives with liquid oxygen gas expansion systems that fracture rock through rapid pressure expansion. The controlled process reduces vibration, noise, and flying debris while improving safety and operational efficiency.",
+      "url": "https://interestingengineering.com/videos/blasting-rock-without-explosives",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/YOUTUBE_d3e8e8.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-18 13:42:18",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "fe9ed46ca6430cdda16ae42cf28c51aa",
+      "title": "Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist",
+      "description": "\"Meta didn't answer several questions about how this will work. How could we? The feature doesn't exist!\" The post Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/meta-exec-describes-facial-recognition-feature",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-exec-describes-facial-recognition-feature.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-18 13:30:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "18604241d72ff93a9d13d9aa7c3bd5c2",
       "title": "The Space Robotics Startup Whose Robots Have Already Worked Outside the ISS",
@@ -506,102 +602,6 @@
       "published_at": "2026-07-17 17:40:01",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "9e9098bd25c6ce483652946b851b40f9",
-      "title": "Is that the time? Why messaging matters with crises on the horizon",
-      "description": "Framing environmental risks in terms of how much time is left, rather than a future date, makes them feel more urgent and increases public engagement.",
-      "url": "https://phys.org/news/2026-07-messaging-crises-horizon.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/time-left-for-earth.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-17 17:20:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a14550af9223953ab7ff96b163eb3424",
-      "title": "'RNA can do things which we have never seen before': New study challenges assumptions about what RNA was up to at the dawn of life",
-      "description": "RNA can fold into more complex configurations than scientists thought, raising questions about how important these 3D structures were when life on Earth began.",
-      "url": "https://www.livescience.com/health/genetics/rna-can-do-things-which-we-have-never-seen-before-new-study-challenges-assumptions-about-what-rna-was-up-to-at-the-dawn-of-life",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Y6enVC3SK3DHCwXdJTe8oe-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/livescience.png",
-      "source": "Livescience",
-      "published_at": "2026-07-17 17:20:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "dc69e0cb1d7cf84237a1a8cec1907e99",
-      "title": "The Roman Space Telescope Will Find Ancient Black Holes By Watching How They Eat Stars",
-      "description": "When supermassive black holes (SMBH) in a certain mass range eat a star, they first tear it apart in a Tidal Disruption Event (TDE). By detecting TDE across cosmic time, astronomers can chart the growth of SMBH as the Universe aged. The Nancy Grace Roman Space Telescope will help, by finding about 100 TDEs every year.",
-      "url": "https://www.universetoday.com/articles/the-roman-space-telescope-will-find-ancient-black-holes-by-watching-how-they-eat-stars",
-      "image_url": "https://www.universetoday.com/article_images/TDE_20260716_211937.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-17 17:19:51",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f4a30fe04d0d44a4a01c2c05f941a3d8",
-      "title": "Children's Museum Of Discovery To Host Science and Engineering Night",
-      "description": "The event will offer families an evening of hands-on activities focused on science, technology, reading, engineering, art and math.",
-      "url": "https://patch.com/california/san-diego/childrens-museum-discovery-host-science-engineering-night",
-      "image_url": "https://patch.com/img/cdn20/users/54855/20260717/011535/styles/patch_image/public/sdcdm-science-engineering-night-2___17131401555.jpg",
-      "source_icon": "https://n.bytvi.com/patch.png",
-      "source": "Patch",
-      "published_at": "2026-07-17 17:15:48",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "dfd9d38bf4996068353cd82b7084db0a",
-      "title": "Earth's largest particle accelerator opens new window into the early universe just after the Big Bang: 'A c...",
-      "description": "According to one researcher, this observation \"promises new insights into the evolution of the early universe.\"",
-      "url": "https://www.yahoo.com/news/science/articles/earths-largest-particle-accelerator-opens-170000861.html",
-      "image_url": "https://media.zenfs.com/en/space_311/35ba7fe0a917e68c7e26c3dd5216ff7d",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-07-17 17:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7d43fc86d7b7a4fa835ae1aa2126ca4c",
-      "title": "Earth's largest particle accelerator opens new window into the early universe just after the Big Bang: 'A culmination of a decades-long quest'",
-      "description": "According to one researcher, this observation \"promises new insights into the evolution of the early universe.\"",
-      "url": "https://www.space.com/science/particle-physics/earths-largest-particle-accelerator-opens-new-window-into-the-early-universe-just-after-the-big-bang-a-culmination-of-a-decades-long-quest",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/XtCZyjWTZdzZrnJKUuDjEK-1280-80.png",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-07-17 17:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c411ba8b4d301e7b22191c51566e958e",
-      "title": "US scientists develop ultrathin coating that could enable faster, safer solid-state batteries",
-      "description": "Researchers at the Argonne National Laboratory have developed a faster method to find protective nanoscale coatings that can stabilize promising but fragile sulfide-based solid-state batteries.",
-      "url": "https://interestingengineering.com/innovation/us-scientists-ultrathin-coating-safer-batteries",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IE-60.jpeg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-17 16:59:14",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "956f64425f3ee78b1ad715efa45050dd",
-      "title": "Xencor presenteert XmAb819-data op ESMO-congres",
-      "description": null,
-      "url": "https://nl.investing.com/news/company-news/xencor-presenteert-xmab819data-op-esmocongres-93CH-858610",
-      "image_url": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg",
-      "source_icon": "https://n.bytvi.com/investing_nl.jpg",
-      "source": "Investing",
-      "published_at": "2026-07-17 13:17:09",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
