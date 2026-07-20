@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-20T06:37:43.456Z",
+  "last_updated": "2026-07-20T10:38:57.079Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "2744e62c273cde34d7e4bd7c812f7f42",
+      "title": "Urgent warning to brace for catastrophic 'Ring of Fire' disaster as global megaquake chain reaction sparks fears for MILLIONS in its path: 'Super overdue'",
+      "description": "A geophysicist has warned that a long string of major earthquakes around Asia could soon make their way to the US, and a devastating rupture is possible within the next four years.",
+      "url": "https://www.dailymail.com/sciencetech/article-15985961/warning-earthquake-ring-fire.html",
+      "image_url": "https://i.dailymail.com/1s/2026/07/17/21/110094399-0-image-a-11_1784321978715.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-07-19 21:51:59",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f40aed3b30812a4a38407fccf289866b",
+      "title": "China prepares to hit asteroid using projectile with 26 times the speed of sound",
+      "description": "China is preparing its first planetary defense mission to strike an asteroid at Mach 26 speed before 2030.",
+      "url": "https://interestingengineering.com/space/china-prepares-to-hit-asteroid-projectile",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/image-1920x1080-2026-07-19T190906.646.png",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-19 21:07:29",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "87fb08a4cbb0b35f248a4984147db58d",
+      "title": "All eyes on World Cup final; how police use facial recognition tech; ‘wellbeing poverty’ on the rise",
+      "description": "Want to get this in your inbox every weekday? Sign up for the Morning Mail here , and finish your day with our Afternoon Update newsletter Good morning. Today the biggest World Cup ever seen reached its crescendo as Spain and Argentina chased glory in an epic final matchup. We have all the action and reaction as events unfolded in New Jersey. Meanwhile, the US has launched fresh airstrikes to “swiftly punish” Iran after American soldiers were killed in Jordan and Tehran continues its attacks across the Middle East. How are we feeling? | Nearly 2.2 million Australians are living below the wellbeing poverty line , with the share of people reporting “very low life satisfaction” doubling over the past decade. Asbestos scare | Parents were assured that asbestos-contaminated play sand posed a low risk to children’s health based on a supplier’s own assessment – which was not independently verified. AI scrutiny | The use of AI in automated decision-making by government departments and agencies will be subject to tough rules . Online safety | Social media companies could soon be forced to identify anonymous accounts accused of online vilification in Victoria. ‘We will defeat them’ | The National party’s Bridget McKenzie has claimed at a conference of the populist right in London that conservatives are at war against “leftwing globalists” . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/morning-mail-monday-ntwnfb",
+      "image_url": "https://i.guim.co.uk/img/media/f3c4deacb68605ac2191b656ff443996644182f2/1182_0_5911_4729/master/5911.jpg?width=140&quality=85&auto=format&fit=max&s=d312aee2cf9e1c9db12c3f80c55cdbc4",
+      "source_icon": "https://n.bytvi.com/theguardian.jpg",
+      "source": "The Guardian",
+      "published_at": "2026-07-19 20:40:21",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ca1f6b664c546d68320d93255482f678",
+      "title": "New trial of AI-powered traffic lights will be a test for who gets priority on public roads",
+      "description": "Australia’s first AI traffic-light trial could cut delays. It also raises hard questions about fairness, safety and who gets priority on public roads.",
+      "url": "https://theconversation.com/new-trial-of-ai-powered-traffic-lights-will-be-a-test-for-who-gets-priority-on-public-roads-287193",
+      "image_url": "https://images.theconversation.com/files/747683/original/file-20260714-78-3yugzy.jpg?ixlib=rb-4.1.1&rect=0%2C108%2C4898%2C2449&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-19 20:05:52",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "1ad3bec7d1bb2e6e09f1e5c7372f2f9f",
+      "title": "NASA's Perseverance Rover Uncovers Evidence of 4 Billion Year Old Impacts",
+      "description": "Old rocks exposed on the rim of Jezero Crater preserve a roughly 4-billion-year-old cosmic “weather report” from the solar system’s most dynamic era.",
+      "url": "https://www.universetoday.com/articles/nasas-perseverance-rover-uncovers-evidence-of-4-billion-year-old-impacts",
+      "image_url": "https://www.universetoday.com/article_images/1_-_PIA26574_-_Selfie_20260719_160426.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-19 20:00:11",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "eb8fecb046297ddda5b67027fe36b45d",
+      "title": "NZ parties want to make rooftop solar more affordable. We found cost isn’t everything",
+      "description": "Both major parties want to boost household solar. But new research suggests wider uptake also depends on policy certainty, design and long-term returns.",
+      "url": "https://theconversation.com/nz-parties-want-to-make-rooftop-solar-more-affordable-we-found-cost-isnt-everything-286534",
+      "image_url": "https://images.theconversation.com/files/747713/original/file-20260714-57-vlh4kc.jpg?ixlib=rb-4.1.1&rect=0%2C5%2C5555%2C2777&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-19 19:41:24",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e34767834eb0d43bff070378bad09bcd",
+      "title": "How sweepstakes entry data can reach scammers",
+      "description": "Sweepstakes entry data can fuel marketing profiles and reach scammers. The Epsilon fraud case revealed how targeted lists harmed older adults.",
+      "url": "https://www.foxnews.com/tech/sweepstakes-entry-data-reach-scammers",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/laptop-and-cash.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-07-19 18:47:15",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "8ba55807f9d5d6f11af0156457114c03",
       "title": "Mallomar wins the 2026 Great Goat Graze-Off",
@@ -518,90 +602,6 @@
       "published_at": "2026-07-18 14:30:10",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "6f674d347a6761fbe1d3d7a600c57ed5",
-      "title": "As Much of the East Coast Is Choking on Wildfire Smoke, Texas Is Drowning in Life-Threatening Floods",
-      "description": "It's the perfect storm of extreme weather events. The post As Much of the East Coast Is Choking on Wildfire Smoke, Texas Is Drowning in Life-Threatening Floods appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/wildfire-smoke-texas-flooding-el-nino-climate-disaster",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/wildfire-smoke-texas-flooding-el-nino-climate-disaster.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 14:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "e31129145ccc45ed2676554d9214f92d",
-      "title": "Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots",
-      "description": "\"We have to prepare to ensure there are safeguards in place.\" The post Striking Workers Bring Car Factory to a Screeching Halt Over Humanoid Robots appeared first on Futurism .",
-      "url": "https://futurism.com/robots-and-machines/striking-workers-hyundai-korea-humanoid-robots-labor",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/striking-workers-hyundai-korea-humanoid-robots-labor.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 14:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "29f5bff9bb53227bb2074769c4762bca",
-      "title": "Blasting Rock Without Explosives",
-      "description": "Open pit mines are replacing traditional explosives with liquid oxygen gas expansion systems that fracture rock through rapid pressure expansion. The controlled process reduces vibration, noise, and flying debris while improving safety and operational efficiency.",
-      "url": "https://interestingengineering.com/videos/blasting-rock-without-explosives",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/YOUTUBE_d3e8e8.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-18 13:42:18",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "fe9ed46ca6430cdda16ae42cf28c51aa",
-      "title": "Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist",
-      "description": "\"Meta didn't answer several questions about how this will work. How could we? The feature doesn't exist!\" The post Top Meta Exec Describes Controversial Facial Recognition Feature in Detail After the Company Claimed It Didn’t Exist appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/meta-exec-describes-facial-recognition-feature",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/meta-exec-describes-facial-recognition-feature.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 13:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "18604241d72ff93a9d13d9aa7c3bd5c2",
-      "title": "The Space Robotics Startup Whose Robots Have Already Worked Outside the ISS",
-      "description": "GITAI is a space robotics startup founded in Japan in 2016 by CEO Sho Nakanose and now headquartered in Torrance, California. Its vision: provide a safe and affordable means of labor in space.",
-      "url": "https://interestingengineering.com/videos/the-space-robotics-startup-whose-robots-have-already-worked-outside-the-iss",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IEX-6-1907.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-18 13:03:07",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "5cfc1beb643ff8f69da87d0027a0fc12",
-      "title": "Hollywood Minute: Tiny Vinyl turntable now spinning",
-      "description": "The company behind Target's Tiny Vinyl records has launched its own turntable and accessories line for the little records. Rick Damigella reports.",
-      "url": "https://www.cnn.com/2026/07/18/entertainment/video/hollywood-entertainment-music-vinyl-records-tiny-vinyl-turntable",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-22815791-40066-still.jpg?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-07-18 13:00:26",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "736bfdcde72cf76f49a96ed794c10bc6",
-      "title": "Family Horrified When They’re Forced to Sell Their Beloved Home to Make Way for AI Data Centers",
-      "description": "\"It's literally a billion-dollar company stealing land from smaller people, people who can't fight back.\" The post Family Horrified When They’re Forced to Sell Their Beloved Home to Make Way for AI Data Centers appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/family-sell-home-data-center-georgia-power",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/family-sell-home-data-center-georgia-power.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 13:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
