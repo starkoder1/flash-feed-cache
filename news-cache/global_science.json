@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-20T10:38:57.079Z",
+  "last_updated": "2026-07-20T13:45:12.138Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "be9528e458d5be688d66a23770790882",
+      "title": "Fantastic Four Just Gave The Thing His Most Radical Redesign In 65 Years",
+      "description": "Fantastic Four's newest space adventure is teasing a core team with abilities unlike we've ever seen, but not all is as it seems, indeed.",
+      "url": "https://screenrant.com/fantastic-four-thing-radical-redesign-midnight/",
+      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/midnight-fantastic-four-1-clayton-crain-variant-connecting-cover.jpg",
+      "source_icon": "https://n.bytvi.com/screenrant.png",
+      "source": "Screenrant",
+      "published_at": "2026-07-20 01:15:11",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "c64dc623e179dd6f6f430dad689be409",
+      "title": "Made by Waterloo: Why the future of robotics is being built in Waterloo",
+      "description": "Alumni‐founded Clearpath shows how local talent, research infrastructure and values position Canada to lead in advanced robotics",
+      "url": "https://uwaterloo.ca/news/made-waterloo-why-future-robotics-being-built-waterloo",
+      "image_url": "https://uwaterloo.ca/news/sites/ca.news/files/styles/feature_large/public/clearpath-robotics-ryan-gariepy-sit-swith-robots-laughing-wide-shot-good-dsc08902-20260430-sc-crop.jpg?itok=KmuCk_k5",
+      "source_icon": "https://n.bytvi.com/uwaterloo_ca.png",
+      "source": "University Of Waterloo",
+      "published_at": "2026-07-20 00:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "2c9304b4362d1587d7668898c4a124a5",
+      "title": "Daily horoscope July 20 2026: Today’s predictions for your star sign",
+      "description": "The Moon in Libra goes head to head with Saturn as the planet begins its retrograde.",
+      "url": "https://metro.co.uk/2026/07/20/daily-horoscope-july-20-2026-predictions-star-sign-29164470/",
+      "image_url": "https://metro.co.uk/wp-content/uploads/2023/04/SEC_152845384-9ad1.jpg?quality=90&strip=all",
+      "source_icon": "https://n.bytvi.com/metro.png",
+      "source": "Metro",
+      "published_at": "2026-07-19 23:01:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "22163a761c773616a2cbcf7d78e02ebc",
+      "title": "How the sun goes to 'sleep' could reveal future space weather when it wakes",
+      "description": "Scientists have developed a new way to predict the strength of the sun's next activity cycle up to seven years before it reaches its peak.",
+      "url": "https://phys.org/news/2026-07-sun-reveal-future-space-weather.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/how-the-sun-goes-to-sl.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-19 23:00:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1bcb291ee54d2f237ee9ccf1e4413691",
+      "title": "Centuries before farming, hunter-gatherers introduced fish to the Norwegian mountains",
+      "description": "Archaeologists have uncovered the remains of 7,000-year-old fish traps in the mountains of southern Norway, indicating that fish were intentionally introduced to upland lakes by Mesolithic hunter-fisher-gatherers and showing that human management of nature was not limited to agricultural societies.",
+      "url": "https://phys.org/news/2026-07-centuries-farming-hunter-fish-norwegian.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/centuries-before-farmi.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-19 23:00:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "2744e62c273cde34d7e4bd7c812f7f42",
       "title": "Urgent warning to brace for catastrophic 'Ring of Fire' disaster as global megaquake chain reaction sparks fears for MILLIONS in its path: 'Super overdue'",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-18 19:44:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "b7e17d013095d73222c5dce8754b9f49",
-      "title": "US firm gets license to commercialize patented seawater uranium extraction technology",
-      "description": "Developed with support from the DOE and PNNL researchers, the licensed technology is designed to extract uranium from seawater using advanced adsorbent materials.",
-      "url": "https://interestingengineering.com/energy/us-commercialize-seawater-uranium-extraction-tech",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/uranium-2.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-18 19:00:22",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "3781951c27fb2b1fc34b814a305226ef",
-      "title": "HalluSquatting AI attack could hijack your computer",
-      "description": "HalluSquatting exploits AI coding assistants that hallucinate fake repository names, letting attackers register those names and deliver malware.",
-      "url": "https://www.foxnews.com/tech/hallusquatting-ai-attack-could-hijack-your-computer",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/tech-worker-at-laptop-coworking-space.jpeg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-07-18 16:00:22",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "5941f983801d63d6163333e6fb15e8eb",
-      "title": "Seasonal gene switch locks fruit flies in winter mode",
-      "description": "Researchers at Washington State University have discovered a molecular \"winter lock\" that keeps animals in a less active winter state until favorable conditions return, a discovery that could improve pest control and lead to a better understanding of seasonal health conditions in humans.",
-      "url": "https://phys.org/news/2026-07-seasonal-gene-fruit-flies-winter.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/study-reveals-a-winter.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-18 16:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7f83df432d3e86a6f98a08209d853ec0",
-      "title": "Editorial: Dig, baby, dig: What Alaska’s mineral wealth could become",
-      "description": "A new critical minerals program could connect research, resource development and industries across the state.",
-      "url": "https://www.adn.com/opinions/editorials/2026/07/18/editorial-dig-baby-dig-what-alaskas-mineral-wealth-could-become/",
-      "image_url": "https://www.adn.com/resizer/YpY4I8wLkXEk23oeRj74nYmEV3M=/cloudfront-us-east-1.images.arcpublishing.com/adn/KOJQK4GLUREV7IO2CGER7XD4IM.JPG",
-      "source_icon": "https://n.bytvi.com/adn.png",
-      "source": "Adn",
-      "published_at": "2026-07-18 15:54:32",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "819a4e1c707f2b223f1097eefc0a8e4b",
-      "title": "I used NotebookLM and Claude Projects to organize five years of notes, and only one finished the job",
-      "description": "One is built for research, the other worked with what I actually had",
-      "url": "https://www.xda-developers.com/used-notebooklm-and-claude-projects-to-organize-five-years-of-notes-only-one-finished-the-job/",
-      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/06/claude-code-and-notebooklm-on-desktop-pc-lamp-and-clock-in-view.jpeg",
-      "source_icon": "https://n.bytvi.com/xda_developers.png",
-      "source": "Xda-developers",
-      "published_at": "2026-07-18 14:30:10",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
