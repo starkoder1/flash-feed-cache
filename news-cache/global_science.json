@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-20T01:30:20.819Z",
+  "last_updated": "2026-07-20T06:37:43.456Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "8ba55807f9d5d6f11af0156457114c03",
+      "title": "Mallomar wins the 2026 Great Goat Graze-Off",
+      "description": "The hungry guy defended his title in the world’s only professional eating competition for goats. The post Mallomar wins the 2026 Great Goat Graze-Off appeared first on Popular Science .",
+      "url": "https://www.popsci.com/environment/mallomar-wins-2026-great-goat-graze-off/",
+      "image_url": "https://www.popsci.com/wp-content/uploads/2026/07/goat-grass-eating-contest.png?quality=85",
+      "source_icon": "https://n.bytvi.com/popsci.png",
+      "source": "Popular Science",
+      "published_at": "2026-07-19 18:26:37",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2e873c736b2e609c04a0ee7c04ca97f1",
+      "title": "A Jupiter-sized exoplanet orbiting a Sun-like star has been discovered",
+      "description": "Astronomers have discovered a Jupiter-sized exoplanet orbiting a star located about 910 light-years from Earth. But while this discovery provides a better understanding of the universe, further studies will need to be conducted in the future.",
+      "url": "https://www.notebookcheck.net/A-Jupiter-sized-exoplanet-orbiting-a-Sun-like-star-has-been-discovered.1346606.0.html",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-Jupiter-sized-exoplanet-orbiting-a-Sun-like-star-has-been-discovered.jpg",
+      "source_icon": "https://n.bytvi.com/notebookcheck.png",
+      "source": "Notebookcheck",
+      "published_at": "2026-07-19 16:15:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6a3715d3d85500aa338dfd1870efd340",
+      "title": "Born to boogie? Babies can feel the beat from just three months old - but don't bust a move until their first birthday",
+      "description": "Long before they can walk, talk or utter their first 'mama', babies are already tuning into the beat.",
+      "url": "https://www.dailymail.com/sciencetech/article-15988571/Boogie-Babies-beat-THREE-months.html",
+      "image_url": "https://i.dailymail.com/1s/2026/07/19/12/110113015-0-image-a-16_1784461665276.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-07-19 14:22:45",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0b0471bbc83636232ab9449d85ad9e3f",
+      "title": "What happens if someone dies in space?",
+      "description": "If an astronaut were to die on Mars, neither cremation nor burial would be good options.",
+      "url": "https://www.yahoo.com/news/science/articles/happens-someone-dies-space-142008106.html",
+      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/90a4797be86f598b31cba2d10f1607ac",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-07-19 14:20:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dc9bf8e4cc10979ad12ce2ad91e18764",
+      "title": "Spotify Doubles Down on AI Slop As It’s Being Flooded With It",
+      "description": "\"I'm gonna go out on a limb and say we don't want this.\" The post Spotify Doubles Down on AI Slop As It’s Being Flooded With It appeared first on Futurism .",
+      "url": "https://futurism.com/artificial-intelligence/spotify-ai-slop-lorde",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/spotify-ai-slop-lorde.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-19 14:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e16d67f4f634fe56fa47d339741a6444",
+      "title": "Amazon’s Robotaxi Company Recalls Its Fleet After One of its Cars Got Confused by Heavy Smoke",
+      "description": "It blocked emergency vehicles from reaching a fire. The post Amazon’s Robotaxi Company Recalls Its Fleet After One of its Cars Got Confused by Heavy Smoke appeared first on Futurism .",
+      "url": "https://futurism.com/advanced-transport/amazon-robotaxi-confused-smoke-recall",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/amazon-robotaxi-confused-smoke-recall.jpg?quality=85",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-07-19 13:30:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "48022e333151654c8e403889bc571866",
       "title": "Abu Dhabi launches date palm documentation initiative",
@@ -530,78 +602,6 @@
       "published_at": "2026-07-18 13:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "f3970696e5c2927204f08377c12469f3",
-      "title": "This fusion beam can drill 12 miles into Earth",
-      "description": "The deepest hole ever drilled took almost 20 years — and still barely scratched the planet. Now MIT spinout Quaise Energy has raised $134 million to drill deeper, faster — not with drill bits, but with millimeter-wave energy beams that vaporize solid rock.",
-      "url": "https://interestingengineering.com/videos/this-fusion-beam-can-drill-12-miles-into-earth",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Quaise-Thumb-1.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-18 12:42:47",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d1d7e7fb473038a7275e7bdc9c4a6c75",
-      "title": "Nuclear-powered ship design with dual molten salt reactors wins approval from US body",
-      "description": "KRISO has gained approval from ABS for a new 15,000 TEU container ship design powered by Molten Salt Reactors.",
-      "url": "https://interestingengineering.com/energy/nuclear-powered-ship-design-salt-reactors",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Nuclear-ship.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-18 12:39:57",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "05f3a105aab76f35edc5b31526cca756",
-      "title": "The most important thing about the big new federal housing law",
-      "description": "Physicists have longed for a theory of everything, a single framework that would explain every force in the universe. After the better part of a century, they’re still looking. But social science, improbably, may have beaten them to it. In 2021, three British writers — John Myers, Sam Bowman, and Ben Southwood — published an [...]",
-      "url": "https://www.vox.com/future-perfect/496019/housing-congress-washington-road-to-build-yimby",
-      "image_url": "https://platform.vox.com/wp-content/uploads/sites/2/2026/07/GettyImages-2285617192.jpg?quality=90&strip=all&crop=0,10.723165084465,100,78.55366983107",
-      "source_icon": "https://n.bytvi.com/vox.png",
-      "source": "Vox",
-      "published_at": "2026-07-18 12:30:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "fa906cc4df6e62aa14d65a9c1e925d9a",
-      "title": "AI-Pilled Tech CEO Convinced He Has the Perfect Solution for Online Dating, Announces Harebrained App Idea",
-      "description": "\"Think about the most un-human parts of the dating app experience.\" The post AI-Pilled Tech CEO Convinced He Has the Perfect Solution for Online Dating, Announces Harebrained App Idea appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/ai-mcleod-ceo-online-dating-overtone-app",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-mcleod-ceo-online-dating-overtone-app.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 12:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "4fe975d9862259be0ffef1339f41bbc2",
-      "title": "World Cup audience stayed bipartisan despite Trump's prominent role, CNBC survey finds",
-      "description": "Nearly half of registered voters watched the 2026 World Cup, with income and education shaping viewership more than party affiliation, the survey found.",
-      "url": "https://www.cnbc.com/2026/07/18/world-cup-viewership-trump-democrats-republicans-poll.html",
-      "image_url": "https://image.cnbcfm.com/api/v1/image/108237460-17649576512025-12-05t175459z_1605929009_up1elc51do3rx_rtrmadp_0_soccer-worldcup-draw.jpeg?v=1784298827&w=1200&h=675",
-      "source_icon": "https://n.bytvi.com/cnbc.png",
-      "source": "Cnbc",
-      "published_at": "2026-07-18 12:00:02",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "91d3c05ce5ae89adeed8130bc8105b75",
-      "title": "Data Centers Are Making Electricity Brutally Expensive for the Public",
-      "description": "It's a problem decades in the making. The post Data Centers Are Making Electricity Brutally Expensive for the Public appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/data-centers-electricity-ai-public-utility-rates",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/data-centers-electricity-ai-public-utility-rates.jpg?quality=85",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-18 12:00:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
