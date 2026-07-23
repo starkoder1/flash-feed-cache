@@ -1,84 +1,84 @@
 {
-  "last_updated": "2026-07-23T17:07:55.067Z",
+  "last_updated": "2026-07-23T20:50:39.445Z",
   "files": [
     {
       "name": "global_business.json",
-      "last_updated": "2026-07-23T17:07:55.045Z",
+      "last_updated": "2026-07-23T20:50:39.424Z",
       "article_count": 10
     },
     {
       "name": "global_crime.json",
-      "last_updated": "2026-07-23T17:07:55.053Z",
+      "last_updated": "2026-07-23T20:50:39.431Z",
       "article_count": 10
     },
     {
       "name": "global_entertainment.json",
-      "last_updated": "2026-07-23T17:07:55.048Z",
+      "last_updated": "2026-07-23T20:50:39.427Z",
       "article_count": 10
     },
     {
       "name": "global_environment.json",
-      "last_updated": "2026-07-23T17:07:55.050Z",
+      "last_updated": "2026-07-23T20:50:39.429Z",
       "article_count": 10
     },
     {
       "name": "global_health.json",
-      "last_updated": "2026-07-23T17:07:55.049Z",
+      "last_updated": "2026-07-23T20:50:39.427Z",
       "article_count": 10
     },
     {
       "name": "global_politics.json",
-      "last_updated": "2026-07-23T17:07:55.051Z",
+      "last_updated": "2026-07-23T20:50:39.430Z",
       "article_count": 10
     },
     {
       "name": "global_science.json",
-      "last_updated": "2026-07-23T17:07:55.046Z",
+      "last_updated": "2026-07-23T20:50:39.425Z",
       "article_count": 10
     },
     {
       "name": "global_sports.json",
-      "last_updated": "2026-07-23T17:07:55.047Z",
+      "last_updated": "2026-07-23T20:50:39.426Z",
       "article_count": 10
     },
     {
       "name": "global_technology.json",
-      "last_updated": "2026-07-23T17:07:55.044Z",
+      "last_updated": "2026-07-23T20:50:39.423Z",
       "article_count": 10
     },
     {
       "name": "global_world.json",
-      "last_updated": "2026-07-23T17:07:55.054Z",
+      "last_updated": "2026-07-23T20:50:39.432Z",
       "article_count": 10
     },
     {
       "name": "india_business.json",
-      "last_updated": "2026-07-23T17:07:55.058Z",
+      "last_updated": "2026-07-23T20:50:39.435Z",
       "article_count": 10
     },
     {
       "name": "india_entertainment.json",
-      "last_updated": "2026-07-23T17:07:55.059Z",
+      "last_updated": "2026-07-23T20:50:39.436Z",
       "article_count": 10
     },
     {
       "name": "india_politics.json",
-      "last_updated": "2026-07-23T17:07:55.056Z",
+      "last_updated": "2026-07-23T20:50:39.434Z",
       "article_count": 10
     },
     {
       "name": "india_sports.json",
-      "last_updated": "2026-07-23T17:07:55.057Z",
+      "last_updated": "2026-07-23T20:50:39.435Z",
       "article_count": 10
     },
     {
       "name": "india_technology.json",
-      "last_updated": "2026-07-23T17:07:55.060Z",
+      "last_updated": "2026-07-23T20:50:39.437Z",
       "article_count": 10
     },
     {
       "name": "india_top.json",
-      "last_updated": "2026-07-23T17:07:55.055Z",
+      "last_updated": "2026-07-23T20:50:39.433Z",
       "article_count": 10
     }
   ]
