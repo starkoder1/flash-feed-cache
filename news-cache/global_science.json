@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-24T13:14:38.784Z",
+  "last_updated": "2026-07-24T17:19:44.055Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7637ab93d67aa0a388cfa6f0d5195e64",
+      "title": "Rare night heron spotted at National Trust site",
+      "description": "The small bird, which is widespread across Africa, Asia, the Americas and Europe, is seen on camera.",
+      "url": "https://www.bbc.co.uk/news/articles/cy078pej4jxo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f415/live/a6d6a320-8686-11f1-b976-0b9c15b0ccfc.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-24 05:17:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8f03598c18bcaaca148737dcc530b525",
+      "title": "Almirall H1 2026 Results",
+      "description": "BARCELONA, Spain--(BUSINESS WIRE)--Almirall, S.A. (ALM), a global pharmaceutical company dedicated to medical dermatology, today announced its financial results for the first half of 2026. The company delivered solid H1 2026 results, with Net Sales growing 7.5% YoY to €602.7 MM and EBITDA increasing 23.7% YoY to €150.7 MM. The results are in line with Almirall’s long-term growth trajectory, and the company reiterated its full-year 2026 guidance of 9-12% Net Sales growth and EBITDA of €270 MM to",
+      "url": "http://www.businesswire.com/news/home/20260723299901/en/Almirall-H1-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
+      "image_url": "https://mms.businesswire.com/media/20260723299901/en/1637877/21/ALM_LOGO.jpg",
+      "source_icon": "https://n.bytvi.com/businesswire.png",
+      "source": "Businesswire",
+      "published_at": "2026-07-24 05:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f312379a75e435e238b879632bf86721",
+      "title": "A dangerous new phase of war is breaking all the oil market’s constraints",
+      "description": "A dangerous new phase of war is breaking all the oil market’s constraints",
+      "url": "https://www.cnn.com/2026/07/24/business/oil-prices-inflation-bonds-iran-war",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286551721.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-07-24 04:01:25",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "47b624c15dbea9e755385e188fd1b2c3",
+      "title": "Does using a reusable cup make you less likely to protest climate change? We tracked 2,800 Australians to find out",
+      "description": "Taking small, personal actions doesn’t seem to stop people from seeing the big picture on climate change.",
+      "url": "https://theconversation.com/does-using-a-reusable-cup-make-you-less-likely-to-protest-climate-change-we-tracked-2-800-australians-to-find-out-288197",
+      "image_url": "https://images.theconversation.com/files/749919/original/file-20260724-57-oeu9tn.jpg?ixlib=rb-4.1.1&rect=0%2C575%2C6872%2C3436&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-24 03:39:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e75bc50d5d1c9c87474181b90fadf817",
+      "title": "Spin-Reversing Comet May Face Self-Destruction",
+      "description": "Comets are known for providing breathtaking observations of their long and shiny tails when they travel too close to the Sun. This happens because comets are made of ice and primarily orbit far from the Sun, but as their icy core heats up it evaporates, resulting in the aforementioned breathtaking observations. But while evaporating comets make for great public photos, scientists who study comets are focused on these snowballs of gas and dust and how they are remnants of the origins of the solar system about 4.6 billion years ago.",
+      "url": "https://www.universetoday.com/articles/spin-reversing-comet-may-face-self-destruction",
+      "image_url": "https://www.universetoday.com/article_images/STScI-01KKH8ZMJNEDZ0VG0TN1HS3VQQ.jpg_750_20260724_024608.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-24 02:52:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9e626bfe2fc6553c64741d15d1531204",
+      "title": "Wrong frequency? Astronomers rethink where to hunt for alien signals",
+      "description": "A new study by PhD researcher Louisa Mason (UoM) suggests astronomers may be missing potential alien signals by focusing too narrowly on radio frequencies.",
+      "url": "https://interestingengineering.com/space/wrong-frequency-astronomers-rethink-where-to-hunt-for-alien-signals",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/IE-14.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-24 02:30:51",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e4d13e0b2d565afd704ea97596b71dca",
+      "title": "Should Scientists Have Research \"Reserves\" on the Moon?",
+      "description": "The worlds of the Solar System offer up exciting and (so far) mostly pristine places for planetary scientists to study. As space missions continue to travel to Mars, Europa, asteroids, and other worlds, questions keep coming up about keeping them safe for continued exploration and observations.",
+      "url": "https://www.universetoday.com/articles/should-scientists-have-research-reserves-on-the-moon",
+      "image_url": "https://www.universetoday.com/article_images/Far_side_of_the_Moon_20260724_014558.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-24 02:14:17",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "aa4351f36f8eb693e3f6aabda0644782",
       "title": "Stuart Fails To Save The Universe's Title Sequence Explained: How It Connects To TBBT",
@@ -518,90 +602,6 @@
       "published_at": "2026-07-23 08:25:42",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "29a6e76bf2c9c6db99b9b1b3fcd1769e",
-      "title": "World’s first: Mountain biker rides across flying balloon at 3,280 feet, then skydives",
-      "description": "Get the trending tech news, latest news and features on how breakthroughs in science and tech are shaping art, gaming, and society on Interesting Engineering",
-      "url": "https://interestingengineering.com/culture/mountain-bike-hot-air-balloon-world-first-skydive",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-23 07:00:43",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "866b85673901b6cfa2331201b7fd3894",
-      "title": "His restaurant put edible ants on the menu. Now he could face one year in prison",
-      "description": "The owner of a two-Michelin-starred restaurant in South Korea is facing hefty fines and up to a year’s jail time for garnishing a sherbet dessert with ants.",
-      "url": "https://www.cnn.com/2026/07/23/travel/south-korea-restaurant-ant-dessert-jail-intl-hnk",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/ants-from-the-us-credit-ministry-of-food-and-drug-safety-bmp.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-07-23 06:35:58",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "84053bb1a999654cd83107e00b3968fd",
-      "title": "Butterfly city blooms in shadow of office blocks",
-      "description": "A patch of land in Hull city centre has been allowed to grow wild to create a haven for insects.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vp75q4yeo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2395/live/4b40ed30-85bf-11f1-a407-4750df4c0797.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-23 05:03:22",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "69346e15353af889e67c0d94fa3a813d",
-      "title": "The baby has a fever: From what number should you start to panic? A guide for parents",
-      "description": "A fever in a young baby is not just another symptom. Dr. Itay Gal explains to new parents how to measure temperature and when to contact a doctor immediately.",
-      "url": "https://www.jpost.com/health-and-wellness/parenting/article-902229",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/729510",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-23 05:01:42",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "1593df4de4215624c46cb9b514e99118",
-      "title": "Orcas spotted ramming into giant fish carcasses and watching them explode for fun",
-      "description": "Behaviour may also be strategy to portion food for juveniles, researchers say",
-      "url": "https://www.independent.co.uk/news/science/orcas-giant-fish-explode-fun-b3019353.html",
-      "image_url": "https://static.independent.co.uk/2026/07/22/9/49/Killer-whales-with-whale-shark-carrion-in-their-mouths.jpeg?width=1200&auto=webp&trim=15%2C0%2C16%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-07-23 04:01:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f681cfb00257439dcff6607b67a2cb75",
-      "title": "Video reveals orcas smashing fish to smithereens, possibly for fun",
-      "description": "The behavior could be a strategy to help younger orcas feed, or it may just be for their own amusement, researchers say",
-      "url": "https://www.scientificamerican.com/article/video-reveals-orcas-smashing-fish-to-smithereens-possibly-for-fun/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/b296a26b-725e-4acf-9114-d89dcbb31889/orcas.jpg?m=1784759196.726&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-07-23 04:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c8a73f84756bed7d723ed4763c641fb1",
-      "title": "Watch orcas smashing fish to smithereens, possibly for fun",
-      "description": "The behavior could be a strategy to help younger orcas feed, or it may just be for their own amusement, researchers say",
-      "url": "https://www.scientificamerican.com/video/video-reveals-orcas-smashing-fish-to-smithereens-possibly-for-fun/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/d9a92664-bc58-4b9f-8efd-406f09226d97/orca-still.jpg?m=1784815093.963&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-07-23 04:01:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
