@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-25T16:43:38.495Z",
+  "last_updated": "2026-07-25T20:39:40.453Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7a2a71771d871b91069a44e0b8420a9a",
+      "title": "Science word of the day: Lithics",
+      "description": null,
+      "url": "https://www.livescience.com/archaeology/science-word-of-the-day-lithics",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/6vPcfKWWTYkYvBASXLKaAV-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/livescience.png",
+      "source": "Livescience",
+      "published_at": "2026-07-25 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ac19da71cabba2259a9c8d72ffcf5239",
+      "title": "Everything you need to know about the hosepipe ban",
+      "description": "The hosepipe ban is in place due to high demand for water during heatwaves and dry weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gdd7nlyno",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9949/live/f2fc8eb0-8774-11f1-b430-afa19a42b819.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-25 06:58:22",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9e1f125374dbe7c5ad8c32ffeadb0072",
+      "title": "Living near green spaces can reduce long-term stress during pregnancy, Israeli-led study finds",
+      "description": "Bar-Ilan University researchers found greener neighborhoods were linked to lower stress hormone levels in pregnant women, highlighting the health benefits of residential green spaces.",
+      "url": "https://www.jpost.com/health-and-wellness/pregnancy-and-birth/article-903504",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731234",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-25 06:01:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4fae1ee4d8ede2ac7265cf8d4c3b8f41",
+      "title": "Trump hails ‘nuclear renaissance’ as advanced reactors achieve early milestones",
+      "description": "Trump hails ‘nuclear renaissance’ as advanced reactors achieve early milestones",
+      "url": "https://gulfnews.com/business/energy/trump-hails-nuclear-renaissance-as-advanced-reactors-achieve-early-milestones-1.500619642",
+      "image_url": "https://media.assettype.com/gulfnews/2026-07-25/4lnmmyqa/Georgia-power.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-07-25 05:21:30",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "74b36556c210f335df3cb083f1aa2db8",
+      "title": "One in five Israeli women who get cosmetic procedures show signs of addiction, study finds",
+      "description": "Hebrew University researchers found low body esteem and problematic social media use were the strongest risk factors. \"We wanted to understand the psychological factors,\" they told the Post.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-903497",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/731225",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-25 05:02:02",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "6c60494722c85c9e36e6e2a351721f65",
       "title": "Venus may be tearing itself apart from within",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/scientificamerican.png",
       "source": "Scientificamerican",
       "published_at": "2026-07-24 11:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0f3b0994149feb5cf8ef8d6ebed0f308",
-      "title": "Astrological scales Crossword Clue",
-      "description": "Answer help for Ends on a Positive Note, featuring one of today's clues: Astrological scales, from USA TODAY Daily Crossword Puzzle creators.",
-      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/07/24/astrological-scales-crossword-clue/91033218007/",
-      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
-      "source_icon": "https://n.bytvi.com/usatoday.jpg",
-      "source": "Usa Today",
-      "published_at": "2026-07-24 08:10:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "210b0b15a0c0ec848e86367f74899ad1",
-      "title": "Science word of the day: Parsec",
-      "description": null,
-      "url": "https://www.livescience.com/space/science-word-of-the-day-parsec",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/JWGnfdG8S4XVEZMsRnEkqg-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/livescience.png",
-      "source": "Livescience",
-      "published_at": "2026-07-24 08:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "96146cd188889a0db8c10e9b9d4fcbc0",
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "description": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/3i-atlas-interstellar-object-tianwen-1-orbiter.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-24 07:47:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4a8e291d43b373fe9b8b890e3d4cc32e",
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "description": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/apoe2-helps-neurons-repair-dna-and-resist-aging.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-24 06:00:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "45edaa83407752439aa0d622335c3270",
-      "title": "How lost shipping containers helped map the world’s ocean currents",
-      "description": "Thousands of shipping containers vanish every year—what becomes of them?",
-      "url": "https://www.scientificamerican.com/article/how-lost-shipping-containers-helped-map-the-worlds-ocean-currents/",
-      "image_url": "https://static.scientificamerican.com/dam/m/34d318736d8452dc/original/GettyImages-1304027960web.jpg?m=1742495098.69&w=1200",
-      "source_icon": "https://n.bytvi.com/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-07-24 05:30:00",
       "language": "english",
       "category": "science"
     }
