@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-25T12:57:01.556Z",
+  "last_updated": "2026-07-25T16:43:38.495Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "6c60494722c85c9e36e6e2a351721f65",
+      "title": "Venus may be tearing itself apart from within",
+      "description": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/huge-rift-valleys-on-venus.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-25 03:19:19",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "830bd58092a26ad925af8ee960fd0f8c",
+      "title": "Scientists discover the Sun contains 55% more silver than expected",
+      "description": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/close-up-sun-surface-solar-flares.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-07-25 01:55:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "db811bd025384fe6cc9ca311d2a162b8",
+      "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellit...",
+      "description": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and en...",
+      "url": "https://www.yahoo.com/news/science/articles/spacexs-starship-megarocket-makes-softest-014017857.html",
+      "image_url": "https://media.zenfs.com/en/space_311/2439c47eeed505d2913530a79536d01b",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-07-25 01:40:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4ee031729a041064f784431a4b2f79a6",
+      "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
+      "description": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and ended with a huge surprise.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EBaFFerS5NjWzK94MM58t6-1280-80.png",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-07-25 01:40:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fc5e70d6ff26737722417d03d3ec404f",
+      "title": "‘Biohacker’ Bryan Johnson claims he cloned himself as a newborn to harvest organs",
+      "description": "A tech entrepreneur turned “biohacker” diagnosed with an incurable disease claims that he cloned himself as a newborn baby and plans to harvest the organs as a “frontier of new paths” to reverse aging.",
+      "url": "https://nypost.com/2026/07/24/us-news/biohacker-bryan-johnson-claims-he-cloned-himself-as-a-newborn-to-harvest-ograns/",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Feccentric-billionaire-obsessed-living-forever-21751981.jpg?w%3D1024",
+      "source_icon": "https://n.bytvi.com/nypost.png",
+      "source": "New York Post",
+      "published_at": "2026-07-25 01:37:59",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "6cefff36dfac54bd31b689b94b502a26",
       "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/scientificamerican.png",
       "source": "Scientificamerican",
       "published_at": "2026-07-24 05:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a2474dda5d2039c873bc941afb18f1ba",
-      "title": "Play area aims to interest children in rare habitat",
-      "description": "A science centre hopes play is the key to making children care about the future of chalk streams.",
-      "url": "https://www.bbc.co.uk/news/articles/c74gev9399yo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8738/live/808718e0-86c6-11f1-bf7f-25405e28486d.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-24 05:20:55",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7637ab93d67aa0a388cfa6f0d5195e64",
-      "title": "Rare night heron spotted at National Trust site",
-      "description": "The small bird, which is widespread across Africa, Asia, the Americas and Europe, is seen on camera.",
-      "url": "https://www.bbc.co.uk/news/articles/cy078pej4jxo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f415/live/a6d6a320-8686-11f1-b976-0b9c15b0ccfc.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-24 05:17:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8f03598c18bcaaca148737dcc530b525",
-      "title": "Almirall H1 2026 Results",
-      "description": "BARCELONA, Spain--(BUSINESS WIRE)--Almirall, S.A. (ALM), a global pharmaceutical company dedicated to medical dermatology, today announced its financial results for the first half of 2026. The company delivered solid H1 2026 results, with Net Sales growing 7.5% YoY to €602.7 MM and EBITDA increasing 23.7% YoY to €150.7 MM. The results are in line with Almirall’s long-term growth trajectory, and the company reiterated its full-year 2026 guidance of 9-12% Net Sales growth and EBITDA of €270 MM to",
-      "url": "http://www.businesswire.com/news/home/20260723299901/en/Almirall-H1-2026-Results/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260723299901/en/1637877/21/ALM_LOGO.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-07-24 05:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f312379a75e435e238b879632bf86721",
-      "title": "A dangerous new phase of war is breaking all the oil market’s constraints",
-      "description": "A dangerous new phase of war is breaking all the oil market’s constraints",
-      "url": "https://www.cnn.com/2026/07/24/business/oil-prices-inflation-bonds-iran-war",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2286551721.jpg?c=original/w_800",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-07-24 04:01:25",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "47b624c15dbea9e755385e188fd1b2c3",
-      "title": "Does using a reusable cup make you less likely to protest climate change? We tracked 2,800 Australians to find out",
-      "description": "Taking small, personal actions doesn’t seem to stop people from seeing the big picture on climate change.",
-      "url": "https://theconversation.com/does-using-a-reusable-cup-make-you-less-likely-to-protest-climate-change-we-tracked-2-800-australians-to-find-out-288197",
-      "image_url": "https://images.theconversation.com/files/749919/original/file-20260724-57-oeu9tn.jpg?ixlib=rb-4.1.1&rect=0%2C575%2C6872%2C3436&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-07-24 03:39:39",
       "language": "english",
       "category": "science"
     }
