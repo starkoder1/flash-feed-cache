@@ -1,8 +1,68 @@
 {
   "category": "global_health",
-  "last_updated": "2026-07-26T12:54:32.483Z",
+  "last_updated": "2026-07-26T16:44:30.250Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c4623a514c439d9b7ed9582786419174",
+      "title": "I submerged the new Garmin Cirqa fitness tracker in a foot of water for 30 mins — here’s what happened",
+      "description": "I tested the Garmin Cirqa's water resistance to confirm whether or not it can really survive extended periods in water. Here's what I learned.",
+      "url": "https://www.tomsguide.com/wellness/fitness-trackers/i-submerged-the-new-garmin-cirqa-fitness-tracker-in-a-foot-of-water-for-30-mins-heres-what-happened",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9xrPCYVjy4LGyZrnRc3Z3R-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/tomsguide.png",
+      "source": "Tom's Guide",
+      "published_at": "2026-07-26 04:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "8e7a0c307bba49964a43ae85753e26a5",
+      "title": "I'm a personal trainer — this is the one lower-body exercise I wish everyone over 50 did each week",
+      "description": "The wall sit builds lower-body strength and is low-impact for your joints; we take a look at the benefits if you're over 50, plus a variation to try.",
+      "url": "https://www.tomsguide.com/wellness/workouts/im-a-personal-trainer-this-is-the-one-lower-body-exercise-i-wish-everyone-over-50-did-each-week",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/npUVwgYvTLKPjnTcGpRLJH-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/tomsguide.png",
+      "source": "Tom's Guide",
+      "published_at": "2026-07-26 04:15:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "9bf9a063b786ea08a8d7a18ccf13ade7",
+      "title": "Bantayan hospital now offers surgical procedures",
+      "description": "LAPU-LAPU CITY, Cebu — The Bantayan District Hospital is now equipped to offer some surgical procedures after the provincial government upgraded its operating room with new medical equipment. The upgrade allows the island hospital to provide selected life-saving and scheduled surgeries locally, sparing some Bantayan residents from having to travel to mainland Cebu for treatment, [...]... Keep on reading: Bantayan hospital now offers surgical procedures",
+      "url": "https://cebudailynews.inquirer.net/750738/bantayan-hospital-now-offers-surgical-procedures",
+      "image_url": "https://cebudailynews.inquirer.net/files/2026/01/Bantayan-1-620x352.png",
+      "source_icon": "https://n.bytvi.com/inquirer.png",
+      "source": "Inquirer",
+      "published_at": "2026-07-26 04:09:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "74e88afa2b903e4e084ff8f5736becc5",
+      "title": "Some people are getting shut out when it comes to GLP-1 drugs. Here’s why.",
+      "description": "People with obesity in the United States are being sorted between haves and have-nots.",
+      "url": "https://www.adn.com/nation-world/2026/07/25/some-people-are-getting-shut-out-when-it-comes-to-glp-1-drugs-heres-why/",
+      "image_url": "https://www.adn.com/resizer/rcaiD_creeG8x5OXbUGTDNTctuQ=/cloudfront-us-east-1.images.arcpublishing.com/adn/IL6ZSKHVHM63JXLQ4J7HNGMKPQ.jpg",
+      "source_icon": "https://n.bytvi.com/adn.png",
+      "source": "Adn",
+      "published_at": "2026-07-26 03:38:58",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "3e1a77bfbcecac9ef95d8ee06e48c677",
+      "title": "Sir John Key officiates high-profile LA wedding for Kiwi tech millionaire Jamie Beaton",
+      "description": "The former PM had guests in stitches at tech mogul Jamie Beaton’s LA nuptials.",
+      "url": "https://www.nzherald.co.nz/lifestyle/sir-john-key-officiates-high-profile-la-wedding-for-kiwi-tech-millionaire-jamie-beaton/PFPNBQLUCJFS7IX5R7WWNWERXQ/",
+      "image_url": "https://www.nzherald.co.nz/resizer/v2/MZQMRX3ETJEURDT6M6RUKGSCQU.jpg?auth=d668c97c595dd440ce3f7ee422caef9bddac14c9a656eb16807991ac0c23c296&smart=true&width=300&height=300",
+      "source_icon": "https://n.bytvi.com/nzherald.png",
+      "source": "Nzherald",
+      "published_at": "2026-07-26 02:00:00",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "46e10343ceb660d52f25c0f8163c0a53",
       "title": "Common medication used to treat bipolar disorder and depression may help fight dementia",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-25 07:41:32",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "d41740ba65be77e787275ef0e404d1d2",
-      "title": "'Good' ratings across the board in the latest CQC healthcare inspection round-up",
-      "description": null,
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/good-ratings-across-board-latest-34347441",
-      "image_url": "https://i2-prod.manchestereveningnews.co.uk/incoming/article34347543.ece/ALTERNATES/s615/0_Little-Hulton-Health-Centre.jpg",
-      "source_icon": "https://n.bytvi.com/manchestereveningnews.png",
-      "source": "Manchester Evening News",
-      "published_at": "2026-07-25 07:21:19",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "555effab293242718567a110e44556b8",
-      "title": "New nail gel ban 'already in force' as August change also planned across the UK",
-      "description": "Big change for the rules for salon and at-home products amid health concerns over ingredients",
-      "url": "https://www.mirror.co.uk/lifestyle/new-nail-gel-ban-already-37475063",
-      "image_url": "https://i2-prod.mirror.co.uk/incoming/article37475070.ece/ALTERNATES/s615/0_GettyImages-1476857681.jpg",
-      "source_icon": "https://n.bytvi.com/mirroruk.png",
-      "source": "Mirror",
-      "published_at": "2026-07-25 07:08:21",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "6153371016c7edf2f5f09482dc1aaa65",
-      "title": "The secret to a trimmer midriff revealed: Why shedding stubborn belly fat is all to do with your gut health",
-      "description": "If you want a trimmer tummy, it might be time to focus on your gut. Top nutritionist Emma Bardwell reveals the secret to shedding stubborn belly fat and beating the daily bloat.",
-      "url": "https://www.dailymail.com/health/article-15976279/Video-secret-trimmer-midriff-revealed-shedding-stubborn-belly-fat-gut-health.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/14/12/110003029-0-image-a-2_1784029489166.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-25 07:08:04",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "25e8b9b25918e970f715fcfc9aa6aa27",
-      "title": "‘Ozempic face’ and hair loss: what evidence is there for weight-loss drug side-effects?",
-      "description": "Research into GLP-1 medications is not always robust but complaints such as digestive problems are well known Weight loss jabs such as Wegovy and Mounjaro have boomed in popularity, and so have reports of myriad side-effects. This week researchers have suggested GLP-1 medications could be associated with hair loss. It can be hard to keep tabs on which of these unintentional outcomes have been the subject of expert scrutiny and which remain little more than hearsay. We take a look at some of the most talked about side-effects and explore which have been studied – and which remain unproven. Continue reading...",
-      "url": "https://www.theguardian.com/science/2026/jul/25/weight-loss-drug-side-effects-evidence-nausea-ozempic-face",
-      "image_url": "https://i.guim.co.uk/img/media/d4b8b2444691b428255d1047cf8fdb5a66a26bad/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a4bcea5144aece1d27134469b8159579",
-      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
-      "source": "Theguardiantheguardian",
-      "published_at": "2026-07-25 07:00:36",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "26716cdd9e9a6e94341f64aff33eecec",
-      "title": "Men need more than mental health talk",
-      "description": "They need Congress to pass legislation that expands mental health care and saves lives.",
-      "url": "https://www.bostonglobe.com/2026/07/25/opinion/men-mental-health-congress/",
-      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/PQRHFD7KLBFUVJCMT3IO62O4GE.jpeg?auth=07ba6b520ae914ccce7a8035595d1bb336770c407f3dc6e2badaedafb50881c8&smart=true&width=2400&height=1350",
-      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
-      "source": "The Boston Globe",
-      "published_at": "2026-07-25 07:00:01",
-      "language": "english",
-      "category": "politics"
     }
   ]
 }

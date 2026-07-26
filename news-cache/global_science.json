@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-26T12:54:32.480Z",
+  "last_updated": "2026-07-26T16:44:30.247Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "3c67468db0d5ee8f872301384d95d2a2",
+      "title": "Monster 20-foot great white named 'Big Rose' spotted as shark sightings surge 1,000% off US coast",
+      "description": "A team of shark experts ventured to a remote island in search of a mysterious population of enormous great whites measuring up to 20 feet long.",
+      "url": "https://www.dailymail.com/sciencetech/article-15994425/great-white-shark-big-rose-nova-scotia.html",
+      "image_url": "https://i.dailymail.com/1s/2026/07/23/15/110209003-0-image-a-40_1784816995387.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-07-26 01:48:50",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "231b624f11d4383aa903e6b66d638fe7",
       "title": "How to see July's full Buck Moon as it rises in the night sky",
@@ -590,18 +602,6 @@
       "published_at": "2026-07-24 20:33:26",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "42dda00a55bb82f1e3e12a500e613be2",
-      "title": "Trump officials herald a 'golden age' of science. Critics say it's a distraction",
-      "description": "White House officials say they are ushering in a new \"golden age\" of science, with changes to grantmaking and priorities like AI and quantum computing. Democrats say it masks damage to U.S. science.",
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5904455/trump-officials-herald-a-golden-age-of-science-critics-say-its-a-distraction",
-      "image_url": "https://media.npr.org/include/images/facebook-default-wide.jpg",
-      "source_icon": "https://n.bytvi.com/npr.png",
-      "source": "Npr",
-      "published_at": "2026-07-24 20:25:59",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
