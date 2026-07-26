@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-26T06:28:02.471Z",
+  "last_updated": "2026-07-26T09:49:51.337Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "e42a9eddfc6dc95fbf364d5ff9941118",
+      "title": "JWST May Be Missing Water Hidden Deep Within Mini-Neptune Worlds",
+      "description": "Sub-Neptune exoplanets, exoplanets that are slightly smaller than Neptune, have been designated as the most common type of planet in the Milky Way Galaxy based on their vast discovery numbers, totaling almost 3,300 out of the more than 6,300 confirmed exoplanets to date. Despite these numbers, the characteristics of sub-Neptunes remain relatively unknown. This is primarily due to our own solar system not having its own sub-Neptune to use as an analog, along with their atmospheres being thick and hazy. As a result, this makes telescopic observations, even from powerful instruments like NASA’s James Webb Space Telescope, extremely difficult.",
+      "url": "https://www.universetoday.com/articles/jwst-may-be-missing-water-hidden-deep-within-mini-neptune-worlds",
+      "image_url": "https://www.universetoday.com/article_images/TOI_270_d_NASA_illustration_occluded-1380.png_750_20260725_213447.png",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-25 21:40:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b6d699b9c55d07da597002b3f5dc60a1",
+      "title": "Irrational decision or helpful evolutionary adaptation? A philosopher on the rationality wars behind ‘nudge’ policy",
+      "description": "People use cognitive shortcuts to make choices that sometimes have outcomes that don’t serve their own interests or preferences. But to call these choices ir...",
+      "url": "https://www.yahoo.com/news/science/articles/irrational-decision-helpful-evolutionary-adaptation-210128628.html",
+      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/b55a6d57175364889b020a2d340d47ab",
+      "source_icon": "https://n.bytvi.com/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-07-25 21:01:28",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "90378549080d37c1d01ebf4a7123b03d",
+      "title": "WHO releases new guidelines to prevent drowning as 2.5 meter waves expected in Israel",
+      "description": "According to WHO data, about 300,000 people die from drowning every year. Children and young people under the age of 29 account for 57% of all victims.",
+      "url": "https://www.jpost.com/health-and-wellness/article-903615",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/702583",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-25 21:00:50",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f855c2e644a5768a9d6df55abf8d76a4",
+      "title": "Mysterious white object that 'popped through the clouds' forces pilots to swerve midair: 'It scared the hell out of me'",
+      "description": "An airline passenger flying over Hawaii claims that pilots had a near-miss with a UFO that was eerily similar to an incident just released in the Pentagon's declassified files.",
+      "url": "https://www.dailymail.com/sciencetech/article-15983099/Mysterious-white-object-popped-clouds-forces-pilots-swerve-midair-scared-hell-me.html",
+      "image_url": "https://i.dailymail.com/1s/2026/07/21/18/110163963-0-image-a-3_1784654447054.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-07-25 19:03:44",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "56d1ecd68f25df4134b0a997e56cc4ff",
       "title": "Eye Implant That Restores Vision to the Blind Cleared for Sale",
@@ -554,54 +602,6 @@
       "published_at": "2026-07-24 20:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "076d96f893ef16a34571d752c4fe3ad3",
-      "title": "How the American Public Really Feels About the Booming Space Economy in 2026",
-      "description": "In democracies, opinion polls are one of the most common ways to measure public and therefore political support for an issue. Because space exploration is still closely tied to the government policy and funding, public opinion can play an important role in shaping America’s space priorities. In May 2026, Global Strategy Group (GSG) surveyed 1,000 U.S. voters and found broad support for space exploration. The report, [The Next Frontier: Public Attitudes Towards Space and the Space Economy](https://globalstrategygroup.com/wp-content/uploads/2026/06/GSGs-The-Next-Fronter-Public-Attitudes-Toward-Space-and-the-Space-Economy.pdf), reveals an electorate that is enthusiastic about a future beyond Earth, but views it through a practical, Earth-focused lens.",
-      "url": "https://www.universetoday.com/articles/how-the-american-public-really-feels-about-the-booming-space-economy-in-2026",
-      "image_url": "https://www.universetoday.com/article_images/BlackMarble_2016_Americas_composite_20260724_194103.png",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-24 19:41:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5f1ca950e8ebc49c0ec5c4d5df83a73c",
-      "title": "Scientists turn modern biobanks into a new window on human evolution",
-      "description": "For more than a century, scientists have sought to reconstruct human evolution using diverse lines of evidence, including fossils, genetic variation across populations and ancient DNA. Building on these approaches, researchers are increasingly using large population biobanks to investigate how natural selection continues to shape the genomes of living populations.",
-      "url": "https://phys.org/news/2026-07-scientists-modern-biobanks-window-human.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/scientists-turn-modern-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-24 19:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4fa98896651a6212688e3ef78b696ae0",
-      "title": "Trump's Science Report: Visa Migrants 'Sideline' Many American Scientists",
-      "description": "Federal spending on science should first benefit Americans and American scientists, says a new strategic plan by President Donald Trump's top science advisor. The post Trump’s Science Report: Visa Migrants ‘Sideline’ Many American Scientists appeared first on Breitbart .",
-      "url": "https://www.breitbart.com/economy/2026/07/24/trumps-science-report-says-visa-programs-sideline-american-scientists/",
-      "image_url": "https://media.breitbart.com/media/2026/07/GettyImages-2264232661-640x335.png",
-      "source_icon": "https://n.bytvi.com/breitbart.png",
-      "source": "Brietbart",
-      "published_at": "2026-07-24 19:30:42",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "df570225b4dd21e5991d9af4814f0e29",
-      "title": "SpaceX Investors in Meltdown Over All the Money They’ve Lost",
-      "description": "\"Elon has ruined me.\" The post SpaceX Investors in Meltdown Over All the Money They’ve Lost appeared first on Futurism .",
-      "url": "https://futurism.com/space/spacex-investors-elon-musk-fanboys-meltdown-losses-stock",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/spacex-investors-elon-musk-fanboys-meltdown-losses-stock.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-24 19:17:42",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
