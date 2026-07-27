@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-27T06:53:59.947Z",
+  "last_updated": "2026-07-27T11:00:56.349Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "cbed6bb41c04618109ed8ea26e9240f4",
+      "title": "UK’s North–South life expectancy divide widens as study finds shocking differences",
+      "description": "UK life expectancy is now also lowest of all comparable high-income countries, apart from Germany and the US",
+      "url": "https://www.independent.co.uk/news/uk/home-news/life-expectancy-uk-north-south-divide-b3021807.html",
+      "image_url": "https://static.independent.co.uk/2026/07/26/11/410985d9d308c5c2b92bd9b2c27c8d0eY29udGVudHNlYXJjaGFwaSwxNzg1MTQ3MDI1-2.85408324.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-07-26 22:56:12",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e39ceeb19ab017c596fbc1ed90da27d6",
+      "title": "How did Jimothy the raccoon survive? Thanks to his mom, most likely. - Sun, 26 Jul 2026 PST",
+      "description": "As a neuroscientist who studies raccoon and rats, I see the viral story of Jimothy the raccoon as a compelling tale of an animal overcoming disability and surviving in the wild. Jimothy, the unique-looking raccoon living in Seattle, became an internet celebrity over the course of a week this month, thanks to a viral Instagram post that has amassed millions of views and thousands of comments cheering for the proverbial underdog. Jimothy has even been honored with a city proclamation.",
+      "url": "http://www.spokesman.com/stories/2026/jul/26/how-did-jimothy-the-raccoon-survive-thanks-to-his-/",
+      "image_url": "https://thumb.spokesman.com/digPvPhW3hl47XzYbYN-UYthsU0=/2500x1405/smart/media.spokesman.com/photos/2026/07/26/6a668cc0cda0c.hires.jpg",
+      "source_icon": "https://n.bytvi.com/spokesman.png",
+      "source": "Spokesman",
+      "published_at": "2026-07-26 22:35:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "668cf91d5c4c9f226601a19ca20c5ef7",
+      "title": "Is Electrolyte Breakthrough a better alternative to Liquid I.V.?",
+      "description": "The new BIOptimizers Electrolyte Breakthrough packets are designed for daily hydration with magnesium, potassium and essential minerals.",
+      "url": "https://www.usatoday.com/story/shopping/health-wellness/2026/07/26/bioptimizer-new-electrolyte-breakthrough-hydration-packets/91056298007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/26/USAT/91056454007-bi-optimizers-electrolyte-breakthrough-hero.png?crop=2999,1687,x0,y0&width=1600&height=800&format=pjpg&auto=webp",
+      "source_icon": "https://n.bytvi.com/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-07-26 19:24:39",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "66b477fbd0e9cefd0ff2e80c8fc603fd",
       "title": "Industrial policy in the information economy",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/interestingengineering.png",
       "source": "Interesting Engineering",
       "published_at": "2026-07-25 12:53:17",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "101a185b9826481fc4665d585a46cb8e",
-      "title": "Could We Send a Spacecraft to a Black Hole?",
-      "description": "Black holes represent some of the most extreme environments in the universe. They’re the sources of the strongest consistent gravitational fields, which allows us to test Einstein’s Theory of General Relativity to an extent that’s impossible with small objects. But we’re also reaching our limit of what we can learn about one remotely. So various authors have put forward ideas for how we might eventually send a probe directly to a black hole to observe it up close. One of the most vocal of those authors is Cosimo Bambi of Fudan University in Shanghai - and he recently released a paper, available in pre-print on arXiv, about what it would take for us to send a gram-size probe to a nearby black hole.",
-      "url": "https://www.universetoday.com/articles/could-we-send-a-spacecraft-to-a-black-hole",
-      "image_url": "https://www.universetoday.com/article_images/A_stellar_black_hole_20260725_124508.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-25 12:45:14",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d30d3070251f144102a4931679c5e605",
-      "title": "Urgent warning to brace for cyber apocalypse as expert reveals how rogue AI could devastate America in a single DAY",
-      "description": "Daily Mail spoke with a cyber warfare expert who warned that the shocking security breach carried out by a rogue AI could be the first in a new generation of hacking nightmares unleashed on the world.",
-      "url": "https://www.dailymail.com/sciencetech/article-16000255/openai-chatgpt-ai-hack-warning.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/23/21/110217195-0-image-a-26_1784838896774.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-25 12:37:20",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e9beaba404cb80b377c9f48daab8ab5b",
-      "title": "Quantum Zeno effect could freeze tomorrow’s quantum computers mid-calculation",
-      "description": "New research in the New Journal of Physics suggests the quantum Zeno effect could freeze quantum computations as systems increase in size.",
-      "url": "https://interestingengineering.com/science/quantum-zeno-effect-in-quantum-systems",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/quantum-zeno-effect.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-25 12:29:31",
       "language": "english",
       "category": "top"
     }
