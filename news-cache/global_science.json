@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-27T14:08:00.140Z",
-  "article_count": 50,
+  "last_updated": "2026-07-27T17:28:22.299Z",
+  "article_count": 49,
   "articles": [
+    {
+      "id": "834f6589be79ab74816deffdc3f2585e",
+      "title": "Volunteer scheme credited with changing man's life",
+      "description": "Michael Reynolds, 27, says the scheme helps him to \"get away from day-to-day life\".",
+      "url": "https://www.bbc.co.uk/news/articles/cy45l8p34eyo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f5f1/live/c1692ec0-8752-11f1-b2ab-0dd01740f9f6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-27 05:25:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6035bbbdc9b61092756dea641f72896f",
+      "title": "'Off the scale' haul of nitrous oxide cans found",
+      "description": "Litterpickers say they found 82 in a day, and normally find between three and 12.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjeew63n0o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/655b/live/73da4500-876f-11f1-b430-afa19a42b819.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-27 05:23:59",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "60f7b9ef55c98f989dc4e6cf83f511bc",
+      "title": "The nature reserve where 'magical' glow worms thrive",
+      "description": "The nature reserve in Sussex is seen as a 'stronghold' for the near threatened glow worm.",
+      "url": "https://www.bbc.co.uk/news/articles/c151gkzd008o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c795/live/71074f00-8105-11f1-b8b2-1fedac836136.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-27 05:14:29",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bbaa333e8063657ca1da442c4ac671c0",
+      "title": "Why scientists watched grass grow for 170 years",
+      "description": "Started by Victorians, Rothamsted Research are monitoring how grass grows.",
+      "url": "https://www.bbc.co.uk/news/articles/c934nq2wwnqo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/11cd/live/deddc360-8768-11f1-b279-1737aab624f9.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-27 05:07:47",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8bf261a72d0d701e0f93b11e56f91d16",
+      "title": "What are the traps that lurk for children with ADHD in the summer?",
+      "description": "The summer vacation is a time of letting loose, but there are children for whom the lack of frameworks and increased free time are confusing and make things difficult. This is how you cope.",
+      "url": "https://www.jpost.com/health-and-wellness/parenting/article-902839",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730347",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-27 05:00:56",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "526cf2bdd12d99a3731a0b18ff74dc01",
+      "title": "Exclusively breastfeeding infants linked to higher allergy rates in young children, study finds",
+      "description": "Children who were exclusively breastfed had an 82% higher risk in the first year, 62% at age two, and 54% at age three.",
+      "url": "https://www.jpost.com/health-and-wellness/article-903552",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/725033",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-27 04:30:36",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "15cdf6af611d5e144bfe001c01267cf3",
+      "title": "China develops alloy that can withstand extreme heat, could be used in reactors, hypersonic missiles, rocket nozzles",
+      "description": "The innovation creates material that remains structurally stable under extreme heat while continuing to bear heavy mechanical loads.",
+      "url": "https://interestingengineering.com/news/china-alloy-withstands-extreme-heat",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/heat-alloy-.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-27 02:17:18",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "1e97205d2f4941834742680bfa5ee8c8",
       "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
@@ -506,102 +590,6 @@
       "published_at": "2026-07-25 17:54:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "48c3c6cea0e8e11e69e589555aa68b88",
-      "title": "MIT Is Blanketing Its Entire Campus in AI-Powered Security Cameras",
-      "description": "\"At least they also closed down libraries to save money for the AI cameras.\" The post MIT Is Blanketing Its Entire Campus in AI-Powered Security Cameras appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/mit-surveillance-ai-cameras-monitoring-library",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/mit-surveillance-ai-cameras-monitoring-library.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-25 17:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e56805a1314dc6044a0141bc5086a0e5",
-      "title": "More than 250,000 flee wildfires in France and Spain",
-      "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8783/live/30d9e7b0-880f-11f1-afbe-b9a38c21b1d6.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-25 16:43:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f104534627a12c2047e8a96643922279",
-      "title": "US scientists use atomic channels to purify rare earths without toxic solvents",
-      "description": "The new approach relies on a layered form of manganese oxide—a mineral material with the right size layers to allow ions to slip in and out and to differentiate rare earth elements.",
-      "url": "https://interestingengineering.com/science/cleaner-way-to-separate-rare-earth-minerals",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/separate-rare-earth-elements.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-25 16:39:33",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "381afe97c32925de9cd4d8b63056d529",
-      "title": "AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale",
-      "description": "\"The world's best AI training data is setting on a shelf.\" The post AI Companies Are Buying Antique Books, Ingesting Their Contents to Train Models, and Then Destroying Them at Incredible Scale appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/ai-companies-destroying-rare-books",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/ai-companies-destroying-rare-books.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-25 16:02:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "bb5b48f2147286d08faf224dc81fea5e",
-      "title": "We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the...",
-      "description": "'I believe that we, as a crew, saved space station Mir that day'",
-      "url": "https://www.yahoo.com/news/science/articles/talk-astronaut-michael-foale-1997-160000712.html",
-      "image_url": "https://media.zenfs.com/en/space_311/9127be5f8febc07405b0bf5e26f6ff62",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-07-25 16:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "19d987719341d0d4e4448085e4455186",
-      "title": "Six Years Ago, I Indulged My Husband’s Biggest Fantasy. Now It’s Eating Me Alive.",
-      "description": "Once ... just once ... I'd like to try anything else.",
-      "url": "https://slate.com/advice/2026/07/male-advice-fantasy-men-lingerie-cross-dressing.html?via=rss",
-      "image_url": "https://compote.slate.com/images/396291bf-e427-48c9-a603-14208da6bd8e.gif?crop=1560%2C1040%2Cx0%2Cy0",
-      "source_icon": "https://n.bytvi.com/slate_usa.png",
-      "source": "Slate",
-      "published_at": "2026-07-25 16:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "2605bbeb903a96067dd69dad0359905d",
-      "title": "Man speaks after conducting research on cheapest routes to japa",
-      "description": "A man who conducted a deep research on 'japa' has gone viral on social media after sharing his worrying findings. Netizens reacted massively to the post.",
-      "url": "https://www.legit.ng/people/1721375-japa-man-conducts-extensive-research-cheapest-routes-move-posts-findings/",
-      "image_url": "https://cdn.legit.ng/images/1200x675/24d4d83ed57dd2c3.jpeg?v=1",
-      "source_icon": "https://n.bytvi.com/legit.png",
-      "source": "Legit Nigeria",
-      "published_at": "2026-07-25 15:19:03",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "ccd3959b2753837bcaa9046eaecd5381",
-      "title": "SpaceX's Starship blasts off in first rocket launch since IPO",
-      "description": "Elon Musk's aerospace company, SpaceX, launched its massive Starship rocket in its first test flight since the company went public. Since achieving the largest IPO in history, SpaceX's stock has dropped drastically. Mark Strassmann takes a look.",
-      "url": "https://www.cbsnews.com/video/spacexs-starship-blasts-off-in-first-rocket-launch-since-ipo/",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/1d6ea273-8565-4d38-b42c-b398e7e61b6e/thumbnail/1200x630/07e3232744cabc50977d1a748e6919e3/cbsn-fusion-spacexs-starship-blasts-off-in-first-rocket-launch-since-ipo-thumbnail.jpg",
-      "source_icon": "https://n.bytvi.com/cbsnews.png",
-      "source": "Cbs News",
-      "published_at": "2026-07-25 15:01:24",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
