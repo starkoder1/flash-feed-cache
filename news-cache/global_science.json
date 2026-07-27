@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-27T11:00:56.349Z",
+  "last_updated": "2026-07-27T14:08:00.140Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1e97205d2f4941834742680bfa5ee8c8",
+      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+      "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
+      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b2e4/live/a5e80750-894d-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-27 02:04:10",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7ae4f3d711b13546902a64eed7e56877",
+      "title": "Black Hole Collisions Tell a Tale of Repeating Mergers",
+      "description": "A black hole merger is one of the Universe's most energetic and massive events. During such a collision, two black holes orbit closer and closer until they collide and become a much more massive black hole. The event also gives off radiation and, as it happens, gravitational waves. They help tell the story of the two objects involved in the collision.",
+      "url": "https://www.universetoday.com/articles/black-hole-collisions-tell-a-tale-of-repeating-mergers",
+      "image_url": "https://www.universetoday.com/article_images/MIT-LIGO-Anniversary-01-press_0_20260727_014441.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-27 01:57:57",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "54e3227dde2c705e9f9edb21fa5dded6",
+      "title": "'Time traveller from 2045' shares one earth-shattering 2028 prediction",
+      "description": "A man who claims to be a time traveller from the year 2045 has made a series of unverified predictions about what the world will be like over the coming years.",
+      "url": "https://www.express.co.uk/news/world/2233148/time-traveller-from-2045-shares-one-earth-shattering-2028-prediction",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/78/590x/2233148_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-07-27 00:45:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ad3a9ed3617e43fbc94fabbb35290c0f",
+      "title": "Older people’s media literacy can be boosted in just 60 minutes – new study",
+      "description": "Imagine a world where nobody clicks on misleading content online. Media literacy can get us there.",
+      "url": "https://theconversation.com/older-peoples-media-literacy-can-be-boosted-in-just-60-minutes-new-study-287880",
+      "image_url": "https://images.theconversation.com/files/749034/original/file-20260721-85-xol6xs.jpg?ixlib=rb-4.1.1&rect=0%2C138%2C2120%2C1060&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-07-27 00:03:18",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "23d9182d0b657e021c19247c42d479ee",
+      "title": "New Research Shows How Clouds Shape the Interiors of sub-Neptunes",
+      "description": "Scientists at ASU's School of Earth and Space Exploration have demonstrated how clouds in a sub-Neptune's atmosphere shape the interior structure of the planet.",
+      "url": "https://www.universetoday.com/articles/new-research-shows-how-clouds-shape-the-interiors-of-sub-neptunes",
+      "image_url": "https://www.universetoday.com/article_images/cover_new_final_20260726_230959.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-26 23:12:32",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "cbed6bb41c04618109ed8ea26e9240f4",
       "title": "UK’s North–South life expectancy divide widens as study finds shocking differences",
@@ -542,66 +602,6 @@
       "published_at": "2026-07-25 15:01:24",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "15d04845b1aefff8a1d14dd5bf6fed7d",
-      "title": "The Universe can outrun light without breaking Einstein’s rules",
-      "description": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/universe-expansion-funnel-evolution-timeline.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-25 13:17:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ea6a373891d8db406d0d5ab66db7ed6c",
-      "title": "Scientists discover 'natural Ozempic' using AI that could reduce appetite without common side effects",
-      "description": "Stanford researchers say naturally occurring peptide shows promise in early animal studies.",
-      "url": "https://gulfnews.com/lifestyle/health-fitness/scientists-discover-natural-ozempic-using-ai-that-could-reduce-appetite-without-common-side-effects-2-1.500620024",
-      "image_url": "https://media.assettype.com/gulfnews/2026-07-25/i2y7hvig/IMG6128.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "source_icon": "https://n.bytvi.com/gulfnews.png",
-      "source": "Gulf News",
-      "published_at": "2026-07-25 13:11:35",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "687b3596d7ee4cd68bee94723cd24027",
-      "title": "NASA helped me uncover proof that God exists... here's the simple formula that shows the Bible was right all along",
-      "description": "A scientist claims to have solved one of humanity's oldest mysteries with an equation he says provides mathematical proof that God is real.",
-      "url": "https://www.dailymail.com/sciencetech/article-15930367/nathanael-israel-nasa-data-god-formula.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/23/17/110212203-0-image-a-59_1784823137287.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-25 13:04:40",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "a50cd94cf8167ea67a15eb680fb21e39",
-      "title": "Poetry for Engineers: A Martian Rover Sends a Postcard Home",
-      "description": "Already, I’ve almost forgotten rain; I know I will never know that again. I move forward with the powers you gave me to live up to my name, Curiosity. This is a land without leaves, fronds, or spines. If there are plants, they are small and supine, dust hidden, like light here, filtered and sand softened, at home in the thin air, thousands of motes so small they seem to be fluid, more fog than firmament. Shadows, few and far from here, I know I must go to them to see if they hold order or mayhem or just another common rock or two. If a machine can miss the Earth, I do.",
-      "url": "https://spectrum.ieee.org/poem-martian-rover",
-      "image_url": "https://spectrum.ieee.org/media-library/mars-rover-on-rocky-terrain-beneath-stylized-golden-circles-and-wave-lines-on-black-sky.jpg?id=67527268&width=980",
-      "source_icon": "https://n.bytvi.com/ieee_spectrum.png",
-      "source": "Ieee Spectrum - Robotics",
-      "published_at": "2026-07-25 13:00:01",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "0608479ec9da3a25018470eab71d41a6",
-      "title": "US nuclear fusion engine secures key research permit for up to 1 GW power systems",
-      "description": "American Fusion secured state certification for twelve Texatron Fusion Engine models ahead of upcoming operational trials.",
-      "url": "https://interestingengineering.com/energy/us-nuclear-fusion-firm-research-permit",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/07/Texatron.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-25 12:53:17",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
