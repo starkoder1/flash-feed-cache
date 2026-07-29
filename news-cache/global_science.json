@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-29T17:02:54.582Z",
+  "last_updated": "2026-07-29T20:42:14.227Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "cf12a97ac36ce280d74afe2345ba7c62",
+      "title": "Researchers convert CO2 into recyclable plastics that are tough, flexible, or rubber-like",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/csu-co2-recyclable-plastics-closed-loop",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-07-29 08:31:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "14286b7b32e743d42453ac124a7e9439",
+      "title": "STAT+: In the biotech industry, a most-wanted fugitive was long hiding in plain sight",
+      "description": "Ronald Fischer, a most-wanted fugitive, was long hiding in the biotech industry in plain sight, and using an alias more extensively than has been previously reported.",
+      "url": "https://www.statnews.com/2026/07/29/ronald-fischer-fugitive-used-alias-forged-cv-held-biotech-executive-jobs/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/07/fischer-3-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-07-29 08:30:00",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "3256a1182dd7ead6b2ed2c607680c11d",
+      "title": "Opinion: The VA could help America win the biotechnology race with China",
+      "description": "“Together, HHS, the VA, and the DOD form a strong American innovation ecosystem — one that China and other competitors cannot easily replicate,” writes former VA Secretary David Shulkin.",
+      "url": "https://www.statnews.com/2026/07/29/biotech-race-china-veterans-affairs-va/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2024/10/AdobeStock_275725426-1024x576.jpeg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-07-29 08:30:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5434a0bb534afcdb5c6ab0a72653d5d5",
+      "title": "Science word of the day: Allele",
+      "description": null,
+      "url": "https://www.livescience.com/health/genetics/science-word-of-the-day-allele",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BE9iqfNuNNhLRo8mvhDssZ-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/livescience.png",
+      "source": "Livescience",
+      "published_at": "2026-07-29 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a86fc12ccbbfd4964c58237521900ee9",
+      "title": "Evinova Launches Strategic Partnership with Merck KGaA, Darmstadt, Germany to Define the Future of Clinical Development",
+      "description": "BAAR, Switzerland--(BUSINESS WIRE)--Evinova, a global leader in AI-native clinical development technology, today announced a new multi-year strategic collaboration to accelerate global clinical development with Merck KGaA, Darmstadt, Germany, a leading science and technology company. Merck KGaA, Darmstadt, Germany will adopt the end-to-end capabilities of the Evinova AI-Native platform covering all modules of study design, document authoring, and downstream automation to significantly reduce ti",
+      "url": "http://www.businesswire.com/news/home/20260728223289/en/Evinova-Launches-Strategic-Partnership-with-Merck-KGaA-Darmstadt-Germany-to-Define-the-Future-of-Clinical-Development/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
+      "image_url": "https://mms.businesswire.com/media/20260728223289/en/2860965/21/Evinova_logo.jpg",
+      "source_icon": "https://n.bytvi.com/businesswire.png",
+      "source": "Businesswire",
+      "published_at": "2026-07-29 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "02ff597746f6e5e4be08a998af1204b1",
+      "title": "'El Diablo Viste de Prada 2' se estrena en Disney+: Anne Hathaway y Meryl Streep se reecuentran en la secuela 20 años después",
+      "description": "La película logró recaudar más de 690 millones de dólares en cines",
+      "url": "https://www.marca.com/tiramillas/cine/2026/07/29/diablo-viste-prada-2-estrena-disney-anne-hathaway-meryl-streep-reecuentran-secuela-20-anos-despues.html",
+      "image_url": "https://objetos-xlk.estaticos-marca.com/files/article_main_microformat/uploads/2026/07/27/6a67a47794ac6.jpeg",
+      "source_icon": "https://n.bytvi.com/marca.png",
+      "source": "Marca Claro",
+      "published_at": "2026-07-29 07:30:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "56a65115878b2c22c261653c8ee6233c",
+      "title": "Let science decide psychedelic therapy’s future",
+      "description": "Massachusetts should keep its pilot program and let patients — and the evidence — guide the future of psychedelic-assisted therapy.",
+      "url": "https://www.bostonglobe.com/2026/07/29/opinion/psychedelic-therapy-program-treatments/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/T5SDG4BFOZBVFNVYREDRTJY35Y.jpeg?auth=d506d458f70402ffe72d80cf0f6ab9a43f763e15838893b180950ac9626311db&smart=true&width=2400&height=1350",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-07-29 07:00:01",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "b54810e2889350b2c403b68114e1a428",
       "title": "Coffee with olive oil – the truth is revealed",
@@ -518,90 +602,6 @@
       "published_at": "2026-07-28 12:00:07",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "22a4fe5a74a5a71e9a6e2e190a649fdf",
-      "title": "Astronomers find strongest evidence yet that Betelgeuse has a companion",
-      "description": "At long last, astronomers have firm evidence that Betelgeuse, one of the most famous stars in the night sky, is not alone. Using the European Southern Observatory's Very Large Telescope (ESO's VLT), a team led by French researcher Miguel Montargès obtained the clearest image yet of what is likely Betelgeuse B, the star orbiting Betelgeuse. \"This is the conclusion of a century-long quest,\" Montargès says.",
-      "url": "https://phys.org/news/2026-07-astronomers-strongest-evidence-betelgeuse-companion.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/astronomers-find-stron.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-28 12:00:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8075d0a72c83d30d91827340973d4616",
-      "title": "Researchers break a fundamental rule of optics using simple semiconductor nanoclusters",
-      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
-      "url": "https://interestingengineering.com/science/optical-nonreciprocity-semiconductor-nanoclusters",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-28 08:37:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "9a8639a169a855b57bf725c477af3f01",
-      "title": "How India’s tech partnerships can transform Africa’s mineral industry",
-      "description": "How can Africa leverage its mineral wealth through strategic partnerships with India? This article explores the potential for technological advancement and industrial growth in the continent.",
-      "url": "https://www.iol.co.za/sundayindependent/dispatch/how-indias-tech-partnerships-can-transform-africas-mineral-industry-8b2d4ff8-4900-44db-b7e2-dca20d437ba3",
-      "image_url": "https://image-prod.iol.co.za/16x9/800?source=https://iol-prod.appspot.com/image/c0dcbead5a4fcface04eb684d8176e21b458b060/2000&operation=CROP&offset=0x104&resize=2000x1125",
-      "source_icon": "https://n.bytvi.com/iol.png",
-      "source": "Iol",
-      "published_at": "2026-07-28 07:52:28",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1735bd7f80cd371524778b4b18e45d0e",
-      "title": "Royal Academy signs Mongolia MoU to boost research and development ties",
-      "description": "PHNOM PENH: The Royal Academy of Cambodia (RAC) and the Volunteer Center of Mongolia (VCM) have signed a memorandum of understanding (MoU) to establish a comprehensive framework for academic cooperation, cultural exchanges and sustainable development initiatives between the two countries.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/28/royal-academy-signs-mongolia-mou-to-boost-research-and-development-ties",
-      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/07/28/4031393.png",
-      "source_icon": "https://n.bytvi.com/thestar_my.png",
-      "source": "The Star",
-      "published_at": "2026-07-28 06:02:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "30cdd49701a8a7e2bc97d53117a59113",
-      "title": "Medincell Continues to Strengthen and Renew its Board of Directors with the Proposed Appointment of Dr. Elisabeth Svanberg",
-      "description": "MONTPELLIER, France--(BUSINESS WIRE)--Medincell (Euronext Paris: MEDCL) today announced that its Board of Directors will propose the appointment of Dr. Elisabeth Svanberg as an independent director at the Company's Annual General Meeting on September 30, 2026. A highly experienced international life sciences executive, Dr. Svanberg would bring deep expertise in global pharmaceutical development, governance, executive compensation and global health as Medincell advances its next phase of growth.",
-      "url": "http://www.businesswire.com/news/home/20260727995451/en/Medincell-Continues-to-Strengthen-and-Renew-its-Board-of-Directors-with-the-Proposed-Appointment-of-Dr.-Elisabeth-Svanberg/?feedref=JjAwJuNHiystnCoBq_hl-R2sso4tCp8l0Yad2mB4_VJcgiwDl5F89IquLVWUqfRVgLxDkSKfgoruKb9yWl5as-PbWreMWuYBefATrZ0EPTVwBy5zzcjujtbJhwuWD3GRBSvR87oUDgbHejiywQBpbg%3D%3D",
-      "image_url": "https://mms.businesswire.com/media/20260727995451/en/2087784/21/medincell-logo2023-blue.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-07-28 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "625680163b284d0f1390b2bb5df76922",
-      "title": "JWST Could Spot Volcanic \"Exo-Ios\" Around Super-Jupiters",
-      "description": "Jupiter’s moon, Io, is the most volcanically active planetary body in the solar system, boasting hundreds of active volcanoes spewing molten lava into space. This occurs from a process called tidal heating where Jupiter’s massive gravity constantly stretches and compresses the much smaller moon during the latter’s non-circular orbit. However, a lesser-known fact is that Io’s volcanic gases fuel Jupiter’s aurorae by traveling along Jupiter’s magnetic field lines, resulting in Jupiter’s bright aurorae observed by spacecraft and Earth-based telescopes. But what if this same phenomenon could be used to detect Io-like exomoons, also called exo-Ios, orbiting Jupiter-like exoplanets?",
-      "url": "https://www.universetoday.com/articles/jwst-could-spot-volcanic-exo-ios-around-super-jupiters",
-      "image_url": "https://www.universetoday.com/article_images/STScI-01JNCRZW5BQBZAS3X7RAT0EFGS.jpg_750_20260728_055108.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-28 05:56:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7bd19d44d8399b76fb86bf6234e45360",
-      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
-      "description": "NASA’s Swift Observatory observed a supermassive black hole ripping apart a star more than 30,000 light-years from the center of a distant galaxy. The extraordinary flare briefly outshone its entire host galaxy in ultraviolet light and revealed a black hole about a million times the Sun’s mass.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/black-hole-vs-star-tidal-disruption-event.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-28 05:54:39",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
