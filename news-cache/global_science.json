@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-29T13:42:00.922Z",
+  "last_updated": "2026-07-29T17:02:54.582Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b54810e2889350b2c403b68114e1a428",
+      "title": "Coffee with olive oil – the truth is revealed",
+      "description": "Olive oil is the king of the Mediterranean diet, but combining it with coffee will not balance hormones or burn fat. A sober look at the viral trend and marketing promises during menopause.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-902844",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730355",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-07-29 05:01:26",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "abf48fc1ba444762189bdf52fd02ec92",
+      "title": "The cost of memory: How organisms balance thinking and sensing",
+      "description": "Remembering the past can help living organisms make better decisions, but memory comes at a cost. Whether it is an animal searching for food or a single cell responding to its surroundings, storing and using information requires energy and resources. So, when is memory worth the effort?",
+      "url": "https://phys.org/news/2026-07-memory.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/the-cost-of-memory-how.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-29 04:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ce610ced29546e08df7cd68c893b69c9",
+      "title": "New tools at MSU are helping engineer the future of medicine",
+      "description": "Michigan State University researchers are leveraging advanced PET-MRI scanning, radiopharmaceuticals, and 3D bioprinting to transform precision healthcare.",
+      "url": "https://msutoday.msu.edu/news/2026/07/tools-drive-one-health-forward",
+      "image_url": "https://msu-p-001.sitecorecontenthub.cloud/api/public/content/99926cf607bf4f0892ce3e16e6ae1876?v=6e4b6235",
+      "source_icon": "https://n.bytvi.com/msutoday.jpg",
+      "source": "Michigan State University",
+      "published_at": "2026-07-29 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "db4259170456e9a978d0b0dbc0334058",
+      "title": "Podcasts and Shows",
+      "description": "Explore UC Davis podcasts and shows featuring science, innovation, campus voices and conversations with Chancellor Gary S. May and the Aggie community.",
+      "url": "https://www.ucdavis.edu/news/podcasts-and-shows",
+      "image_url": "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/podcast-hero.jpg?h=8e58fdb5&itok=s4gT6baU",
+      "source_icon": "https://n.bytvi.com/ucdavis_edu.png",
+      "source": "University Of California, Davis",
+      "published_at": "2026-07-29 01:45:33",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "dbcbe1fc43d3c75bc0a98df7dd7deb4d",
       "title": "A Wandering Black Hole Meets a Wandering Star",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/sciencedaily.png",
       "source": "Science Daily",
       "published_at": "2026-07-28 05:54:39",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "c5696ee2d25c23f48399ceea68fce485",
-      "title": "On the frontline fighting the UK's 'most dangerous plant'",
-      "description": "A County Tyrone group says it has made progress tackling Giant Hogweed.",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b733/live/a8fb3860-86a8-11f1-926f-c90d1bcfbc84.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-28 05:23:45",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a7a6a2f81c0092f72a8dc03f1e762ebf",
-      "title": "Where is best to see the Buck Moon?",
-      "description": "July's full moon is due on Wednesday, here's some of the best places to watch it where you live.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g4dmpn77o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8c23/live/e66e5880-89a0-11f1-8c68-81d45f5a03af.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-28 05:16:43",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fbca48907188357b4619740a58096d57",
-      "title": "Criticism over planned solar panels on greenfield site",
-      "description": "If approved, the project would see 72 solar panels installed on the site in Guernsey.",
-      "url": "https://www.bbc.co.uk/news/articles/c05qn402406o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1751/live/f6e3cf10-89a5-11f1-a85a-79136c2d298e.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-28 05:07:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e7e56e6c7f5935cc22a2afd2ea957574",
-      "title": "Scientists create an “electron lighthouse” with laser light",
-      "description": "Scientists have created an “electron lighthouse” that uses laser light to launch and steer electrons through a semiconductor without an applied electrical field. The quantum effect could eventually improve optical sensors, communications, imaging, and information storage.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/electron-lighthouse.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-07-28 05:03:12",
       "language": "english",
       "category": "top"
     }
