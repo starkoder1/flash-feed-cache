@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-07-31T13:27:33.277Z",
+  "last_updated": "2026-07-31T17:16:55.275Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c6f11b5f57305ef80c3c671e85da9914",
+      "title": "Where to see the biggest solar eclipse since 1999",
+      "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely.",
+      "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0040/live/ba1ceac0-8b5e-11f1-b422-3b36120ef864.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-31 05:09:42",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "292e067dce950112952ca6c80e018957",
+      "title": "'Upsetting' that camp fire likely led to rare habitat blaze",
+      "description": "The area's National Trust countryside manager says nesting birds, reptiles, small mammals and amphibians will have died.",
+      "url": "https://www.bbc.co.uk/news/articles/c86nge7qp59o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67d2/live/ac5b5da0-8c2a-11f1-9fe2-97492b603d93.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-07-31 05:04:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3f012a17949779aaaea83c5b70098d53",
+      "title": "Millionaire biohacker's startling admission after 'cloning himself as a newborn'",
+      "description": "Bryan Johnson, a 48-year-old venture capitalist and biohacking influencer, has made a confession after cloning his own cells.",
+      "url": "https://www.express.co.uk/news/us/2234679/millionaire-biohacker-s-admission-after-cloning-himself-newborn",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/198/590x/2234679_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-07-31 04:56:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e334c001e1590a8f09eec870f59a4550",
+      "title": "Mercury's Weak Magnetic Field Periodically Traps Solar Wind",
+      "description": "The planet Mercury is the first planet from the Sun but also one shrouded in mystery. This is primarily due to the limited number of spacecrafts that have visited it, but this limited data has provided scientists with new and exciting characteristics previously thought impossible. One fascinating aspect is its magnetic field, which was first discovered in March 1974, which both surprised and puzzled scientists due to the planet’s small size, which is measured at about half the size of the continental United States from coast to coast.",
+      "url": "https://www.universetoday.com/articles/mercurys-weak-magnetic-field-periodically-traps-solar-wind",
+      "image_url": "https://www.universetoday.com/article_images/mercury-has-part-time-radiation-belts-mercury_messenger.jpg_750_20260731_032941.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-07-31 03:32:07",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5cee586fdcd3a6ff40facc04f263f534",
+      "title": "Japan signs deal to join EU’s Horizon Europe framework",
+      "description": "The move is aimed at encouraging Japanese companies, universities and research institutions to take part in international joint research projects.",
+      "url": "https://www.japantimes.co.jp/news/2026/07/31/japan/horizon-europe-framework-japan/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/31/554741.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-07-31 03:26:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ba56fc5f1adf4f315b8bb31a1d6cb717",
+      "title": "New report highlights health of the UK's plankton communities",
+      "description": "Researchers from the University of Plymouth have led the production of a new report highlighting the impact of climate change on marine plankton and pelagic habitats in U.K. waters. Published by the Marine Climate Change Impacts Partnership (MCCIP), the report discusses the latest evidence showing major large-scale shifts already happening in plankton communities.",
+      "url": "https://phys.org/news/2026-07-highlights-health-uk-plankton-communities.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/university-leads-new-r.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-07-31 02:40:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "78e216c44228ceeb01de3e8a7b5c195f",
+      "title": "How Big Bang Theory stars were convinced to return to spin-off Stuart Fails to Save the Universe",
+      "description": "The multiverse is full of surprises – with major stars from The Big Bang Theory making a surprise return to the franchise.",
+      "url": "https://www.radiotimes.com/tv/comedy/stuart-fails-to-save-the-universe-penny-kaley-cuoco-cameo-exclusive-newsupdate/",
+      "image_url": "https://images.immediate.co.uk/production/volatile/sites/3/2026/04/brain-posehn-kevin-sussman-lauren-lapkus-9f1a20d.jpg?resize=768,512",
+      "source_icon": "https://n.bytvi.com/radiotimes.png",
+      "source": "Radio Times",
+      "published_at": "2026-07-31 02:00:14",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "d972e345ab0a89e10006abd1611ef750",
       "title": "Sports venues are offering facial recognition to let people in. What are the risks?",
@@ -518,90 +602,6 @@
       "published_at": "2026-07-30 07:31:51",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "d079bd0fc567005ef4ace478287d2baa",
-      "title": "The next revolution in medicine isn't about living longer. It's about living better",
-      "description": "Dr. Sivan Berger Achituv, \"We're not trying to help people live to 120. We're trying to give them more healthy years. We want to move longevity medicine from private clinics to the wider public\"",
-      "url": "https://www.jpost.com/health-and-wellness/article-904086",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732042",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-30 07:31:51",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "3df1059da7aecdcf6f661cd299b61632",
-      "title": "WI Ranked Among America's Best States By U.S. News and World Report",
-      "description": "The ranking evaluates all 50 states across categories, including healthcare, education, economy, infrastructure and more.",
-      "url": "https://patch.com/wisconsin/across-wi/wi-ranked-among-americas-best-states-u-s-news-world-report",
-      "image_url": "https://patch.com/img/cdn20/users/920517/20260730/031105/styles/patch_image/public/wisconsin-flag-patch-2___30030758952.jpg",
-      "source_icon": "https://n.bytvi.com/patch.png",
-      "source": "Patch",
-      "published_at": "2026-07-30 07:11:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7277d9888140e3de5ac067abd244e811",
-      "title": "MN Ranked America's 3rd-Best State By U.S. News and World Report",
-      "description": "The ranking evaluates all 50 states across categories, including healthcare, education, economy, infrastructure and more.",
-      "url": "https://patch.com/minnesota/across-mn/mn-ranked-americas-3rd-best-state-u-s-news-world-report",
-      "image_url": "https://patch.com/img/cdn20/shutterstock/920517/20260730/030238/styles/patch_image/public/shutterstock-194098391___30025943893.jpg",
-      "source_icon": "https://n.bytvi.com/patch.png",
-      "source": "Patch",
-      "published_at": "2026-07-30 07:02:50",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "eefaf52bed912e9499dc61dcbbb17001",
-      "title": "Protecting Global Health",
-      "description": "Discover how UC Davis One Health research connects human, animal and environmental health to predict pandemics and address emerging disease threats.",
-      "url": "https://www.ucdavis.edu/research/discoveries/medical-discoveries/protecting-global-health",
-      "image_url": "https://www.ucdavis.edu/sites/default/files/styles/sf_landscape_16x9/public/media/images/one-health-discovery-250-uc-davis.webp?h=707772c7&itok=2qKB7USb",
-      "source_icon": "https://n.bytvi.com/ucdavis_edu.png",
-      "source": "University Of California, Davis",
-      "published_at": "2026-07-30 05:09:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "00680f5d092a6ada6a4e7767b4c3ccab",
-      "title": "Strange never-before-seen material found at Hiroshima atomic bombing site",
-      "description": "Discovery offers unprecedented insights into how matter behaves under extreme conditions",
-      "url": "https://www.independent.co.uk/news/science/hiroshima-atomic-bombing-site-strange-material-b3024257.html",
-      "image_url": "https://static.independent.co.uk/2026/07/30/4/02/Prefectural-Industry-Promotion-Building-after-the-bombing-of-Hiroshima.jpeg?width=1200&auto=webp&trim=40%2C0%2C40%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-07-30 05:07:13",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3217d75cfa655b0df82f29e2bdf4b9d5",
-      "title": "40 a day could protect the brain and reduce dementia risk",
-      "description": "A simple action that some of us do and some of us do not, can help the brain tune itself and thereby assist sleep and mood – and also reduce the risk of dementia.",
-      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-902846",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730362",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-07-30 05:01:31",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "415ae3b0841f9c91749e4c55656d8f6b",
-      "title": "Butterflies thrive in micro-reserve garden",
-      "description": "Typical gardens would only have between five and 10 different species of butterfly.",
-      "url": "https://www.bbc.co.uk/news/articles/cy45ng9352xo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ec7/live/c4c6bb10-8b57-11f1-8322-5bf52455cf04.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-30 05:00:28",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
