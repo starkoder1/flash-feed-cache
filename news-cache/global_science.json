@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-02T16:44:23.956Z",
+  "last_updated": "2026-08-02T20:41:55.300Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "cc7fc7cb429ccc19d340acc7866c51f3",
+      "title": "‘I have an understanding housemate’: the student who makes videos of fungus on faeces",
+      "description": "Alfred Drummond-Herdman’s extraordinary timelapses have been viewed by millions – and led him to identify new species Alfred Drummond-Herdman is possibly the only person in the UK who is sent animal faeces in the post out of goodwill. His bedroom in Edinburgh is full of the stuff: clothes have been removed from his wardrobe and cupboards, replaced with terrariums and plastic containers housing sections of cowpats, grouse droppings and rabbit pellets. “I have a very understanding housemate,” he says. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/aug/02/alfred-drummond-herdman-animal-dung-fungi-films-aoe",
+      "image_url": "https://i.guim.co.uk/img/media/059a3cd5a3a7fa85bbe95c346182ad24d8570b0d/569_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d8e1414606e2f6420a0a9c759e9a536c",
+      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
+      "source": "Theguardiantheguardian",
+      "published_at": "2026-08-02 08:00:15",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5ca4e95b4c9f7debe937b60c06320fd0",
+      "title": "Healthy smoothie that looks innocent – could quickly become a medical problem",
+      "description": "A green smoothie has become the new symbol of health, but for people with a tendency toward kidney stones, it could pose a problem.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-902847",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730365",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-02 07:37:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e45d6e20c56b8e2bf2d82904624b1c34",
+      "title": "One electrode, one pass: Researchers clean salt and recover metals from toxic wastewater",
+      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
+      "url": "https://interestingengineering.com/science/electrochemical-wastewater-desalination-metal-recovery",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-02 07:28:55",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fb25416304c51218e82c881cf2c74e2e",
+      "title": "Beaver dams 'helping boost drought resilience'",
+      "description": "Research shows beavers are create more wetland areas since being reintroduced to the wild.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr7z150d7o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0643/live/dc67d460-8cd9-11f1-8ec3-799cd4e1eebe.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-02 06:07:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "670db354f551c466f50d48f0876a1e83",
+      "title": "Injured peregrine reunion 'brought tears to eyes'",
+      "description": "The bird of prey was found injured on the ground but was nursed back to health over a month.",
+      "url": "https://www.bbc.co.uk/news/articles/cx257jdxw9yo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e75/live/36a8b8b0-8cf1-11f1-a573-93159e2b55da.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-02 05:58:41",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0a02bc7e11288e3c4dae3aacf74499b9",
+      "title": "Hundreds of dead fish in river linked to heatwave",
+      "description": "The Environment Agency believes the fish were killed as a result of the heat and drain water.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgd4d3280yo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fefa/live/003b00f0-8e2f-11f1-9802-ed93799f16b7.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-02 04:50:40",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "31672dcd4462ce056d75ca109855eecc",
       "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
@@ -530,78 +602,6 @@
       "published_at": "2026-08-01 00:08:10",
       "language": "english",
       "category": "entertainment"
-    },
-    {
-      "id": "5965e4685c25756f4cfd08989cfd590e",
-      "title": "Interstellar Travel: The Space Age and Nuclear Rockets",
-      "description": "Given the state of our technology, it would take a spacecraft a ridiculously long time to reach even the nearest star in our galaxy. However, scientists continue to ponder ways in which we could achieve the dream of interstellar spaceflight. Here are a few of their best ideas.",
-      "url": "https://www.universetoday.com/articles/interstellar-travel-the-space-age-and-nuclear-rockets",
-      "image_url": "https://www.universetoday.com/article_images/0_VF-zCn9kcI9ZnKN-_20260730_205755.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-07-31 23:45:44",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1f77f1d84b5470760eee3dd2ebae83b1",
-      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
-      "description": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
-      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0150/live/4ad75cf0-8cc5-11f1-a7ab-8b30adf0800a.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-07-31 23:43:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "77fa41cbb48773fa3e8c6ac4ca2447ff",
-      "title": "SpaceX’s Falcon 9 Rocket Is About to Crash Into the Moon—and It Could Be Visible From Earth",
-      "description": "The impact will kick up a plume of debris so high, it’ll likely be visible through some telescopes. Astronomers will be watching.",
-      "url": "https://www.wired.com/story/spacex-falcon-9-rocket-crash-into-moon/",
-      "image_url": "https://media.wired.com/photos/6a6ce4d0afbe242a6bbbf131/16:9/w_2496,h_1404,c_limit/GettyImages-2287699812.jpg",
-      "source_icon": "https://n.bytvi.com/wired.png",
-      "source": "Wired",
-      "published_at": "2026-07-31 23:38:56",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "376eff32213c526271c6b6d785eddc7e",
-      "title": "One of Elon Musk's discarded SpaceX rockets will crash into the moon at 5,400 mph next week - and is set to carve out a new crater on the lunar surface",
-      "description": "The rocket's upper stage will unintentionally slam into the moon on Wednesday, with the explosive impact expected to be the equivalent to three tons of TNT.",
-      "url": "https://www.dailymail.com/news/article-16020943/One-Elon-Musks-discarded-SpaceX-rockets-crash-moon-5-400-mph-week-set-carve-new-crater-lunar-surface.html",
-      "image_url": "https://i.dailymail.com/1s/2026/08/01/00/110378227-0-image-a-102_1785540283845.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-07-31 23:27:50",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4986201626eef160f30d071dc6fc7974",
-      "title": "Fish pathogens once limited to Asia and US emerge in Brazilian farms",
-      "description": "For the first time in Brazil, scientists have identified the presence of bacteria that cause columnaris disease, a serious disease in farmed fish intended for human consumption. Previously, different species of the genus Flavobacterium had only been detected in fish farms in Asia and the United States.",
-      "url": "https://phys.org/news/2026-07-fish-pathogens-limited-asia-emerge.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/study-detects-for-the.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-07-31 22:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c4aff84acd2dddc7d578f84e987aff57",
-      "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
-      "description": "Astronomers found seven rare quasar gravitational lens candidates using AI, providing a powerful new tool for studying black hole and galaxy evolution.",
-      "url": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/iBVm8PKXYUPVtBmoa5hKNV-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-07-31 22:00:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
