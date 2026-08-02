@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-02T09:47:47.124Z",
+  "last_updated": "2026-08-02T12:54:29.844Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "6e944d3a692a2421293e43bd9ede6938",
+      "title": "Britons with green fingers are drawn overwhelmingly to brightly-coloured flowers - with red the most popular",
+      "description": "Scientists at the Royal Horticultural Society have found that those with green fingers are drawn overwhelmingly to vivid, saturated flower colours, with red topping the list.",
+      "url": "https://www.dailymail.com/sciencetech/article-16022397/Britons-green-fingers-drawn-overwhelmingly-brightly-coloured-flowers-red-popular.html",
+      "image_url": "https://i.dailymail.com/1s/2026/08/02/00/110390221-0-image-a-4_1785626030543.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-08-01 23:20:27",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1006707e43f2332134b35a036800db59",
+      "title": "A mental health reset: How to manage phone habits, sleep, and relationships to improve life",
+      "description": "Living longer is not enough. By changing our habits, strengthening our relationships, and choosing gratitude and purpose, we can protect our mental health and live better as we age.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-904076",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732048",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-01 23:02:56",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "7ffaa13293abcfce0bd95a23d0167394",
+      "title": "Cash-strapped UCLA researchers researchers turn to OnlyFans — with a wild twist",
+      "description": "UCLA researchers are turning to OnlyFans to market their withering Marmot research program.",
+      "url": "https://nypost.com/2026/08/01/us-news/cash-strapped-ucla-researchers-turn-to-onlyfans-to-fund-california-study/",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fresearch-program-studying-large-underground-136204033.jpg?w%3D1024",
+      "source_icon": "https://n.bytvi.com/nypost.png",
+      "source": "New York Post",
+      "published_at": "2026-08-01 22:55:53",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "32a99407ed6385c72b732df81bf54d5c",
       "title": "Scientists build four-lane highway for light inside a single photonic chip",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/discovermagazine.png",
       "source": "Discover Magazine",
       "published_at": "2026-07-31 21:46:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4275d968e314576f2bc5c36a3c2206b2",
-      "title": "This Freakish Fungus That Turns Ants into Zombies May Be Hiding Inside Amazon Mosses",
-      "description": "Learn how the fungus that turns ants into zombies also overruns mosses, revealing the bizarre way that it manipulates the insects it infects.",
-      "url": "https://www.discovermagazine.com/this-freakish-fungus-that-turns-ants-into-zombies-may-be-hiding-inside-amazon-mosses-49483",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60079/camponotus-nidulans-ants-in-octoblepharum-moss-meta.jpeg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-31 21:29:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "864a6a3ad39fe7ccfda076beb19c71cc",
-      "title": "Why Breakthrough Therapies in Biotech Are Losing the Commercial Battle",
-      "description": "“You could have the cure for cancer, but if you can’t execute, it doesn’t matter.”",
-      "url": "https://www.newsweek.com/why-breakthrough-therapies-in-biotech-are-losing-the-commercial-battle-12272635",
-      "image_url": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2247134075.jpg?w=1600&h=900&q=88",
-      "source_icon": "https://n.bytvi.com/newsweek.png",
-      "source": "Newsweek",
-      "published_at": "2026-07-31 21:23:40",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "50ffc46069ca839d893665f22ec7e39e",
-      "title": "Ghost DNA in Living Humans Reveals Two Unknown Ancient Human Lineages",
-      "description": "Learn how researchers uncovered two ancient human lineages without sequenced ancient DNA from either population.",
-      "url": "https://www.discovermagazine.com/ghost-dna-in-living-humans-reveals-two-unknown-ancient-human-lineages-49485",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60078/dna-genome-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-31 21:09:00",
       "language": "english",
       "category": "science"
     }
