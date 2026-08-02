@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-02T12:54:29.844Z",
+  "last_updated": "2026-08-02T16:44:23.956Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "31672dcd4462ce056d75ca109855eecc",
+      "title": "Mysterious Milky Way object accelerates protons beyond one quadrillion electron volts",
+      "description": "Scientists have identified LHAASO J1912+1014u as a cosmic accelerator that can push protons beyond one quadrillion electron volts. The finding may help reveal where the Milky Way’s most energetic cosmic rays come from and how they influence the galaxy.",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260731034150.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/nasa-fermi-gamma-ray-space-telescope-high-energy-particles.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-02 02:59:35",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "6e944d3a692a2421293e43bd9ede6938",
       "title": "Britons with green fingers are drawn overwhelmingly to brightly-coloured flowers - with red the most popular",
@@ -588,18 +600,6 @@
       "source_icon": "https://n.bytvi.com/space.png",
       "source": "Space",
       "published_at": "2026-07-31 22:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "42516274a29ffad3179dd98d28df5c77",
-      "title": "A Young Person’s 200,000-Year-Old Skull Fragment Suggests Diverse Human Populations in Ancient Spain",
-      "description": "Learn how a skull fragment from inland Spain is adding to evidence that human evolution in Europe followed no single path.",
-      "url": "https://www.discovermagazine.com/a-young-person-s-200-000-year-old-skull-fragment-suggests-diverse-human-populations-in-ancient-spain-49486",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60080/ancient-human-skull-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-07-31 21:46:00",
       "language": "english",
       "category": "science"
     }
