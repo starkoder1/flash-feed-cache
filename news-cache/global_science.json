@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-02T06:25:43.967Z",
+  "last_updated": "2026-08-02T09:47:47.124Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "32a99407ed6385c72b732df81bf54d5c",
+      "title": "Scientists build four-lane highway for light inside a single photonic chip",
+      "description": "A honeycomb lattice of magnetic rods lets light flow around defects while freeing up chip space that older photonic designs left unused.",
+      "url": "https://interestingengineering.com/science/four-lane-highway-light-photonic-chip",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/four-lane-highway.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-01 19:29:34",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "73fa6e159db8437c4c5c72661029f7d6",
+      "title": "Electron cooling tames highly charged ions in Penning trap for first time",
+      "description": "Researchers at Technical University of Darmstadt and the GSI Helmholtz Center for Heavy Ion Research have succeeded for the first time in decelerating highly charged ions from the GSI accelerator to low energies and subsequently storing them in a Penning trap. They were also successful in performing the first electron cooling of highly charged ions in such a trap. The results have been published in Physical Review X (PRX).",
+      "url": "https://phys.org/news/2026-07-electron-cooling-highly-ions-penning.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/decelerated-ions---a-m-1.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-01 19:20:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "cd4f376fdf4f43c87055a91b555d7160",
+      "title": "Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows",
+      "description": "\"The public has been asked to accept a significant expansion of surveillance based on the promise that it would dramatically improve public safety.\" The post Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows appeared first on Futurism .",
+      "url": "https://futurism.com/future-society/flock-surveillance-atlanta-fbi-data-crime-case-solve",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/07/flock-surveillance-atlanta-fbi-data-crime-case-solve.jpg?quality=85&w=2048",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-08-01 19:02:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "dce16592a2a3a01690ead269cf93e5d6",
       "title": "OpenAI’s Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/discovermagazine.png",
       "source": "Discover Magazine",
       "published_at": "2026-07-31 21:09:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f35edfb66a0025b1710b9930e6aaba86",
-      "title": "Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason",
-      "description": "\"Unfortunately, we are no longer able to authenticate how the manuscript fully evolved from origin to completion.\" The post Major Publisher Cans $2.4 Million Book Deal After Author Was Accused of Using AI, for a Very Cynical Reason appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/major-publisher-million-book-deal-author-accused-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/major-publisher-million-book-deal-author-accused-ai.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-07-31 20:59:39",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "152f2afc9d78312c01e84486a3cdaaa0",
-      "title": "Photos: Triumph Speed Twin 1200 TFC — Ohlins, Brembo, Akrapovic, and 750 lucky owners",
-      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
-      "url": "https://interestingengineering.com/photo-story/triumph-speed-twin-1200-tfc",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-07-31 20:44:18",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "81afb46c68e85c76f96088d137bb18c5",
-      "title": "Live-Forever Nut, 48, Reveals Creepy Way He Controls Girlfriend, 30",
-      "description": "X/Bryan Johnson A millionaire obsessed with living forever is now shifting his research to focus on his much younger girlfriend, but critics say his new project goes too far and seems controlling. Bryan Johnson, 48, stars in Netflix’s Don’t Die: The Man Who Wants to Live Forever and is known for taking extreme measures to try to reverse his biological age . On Tuesday, he shared details about a new grueling protocol for his girlfriend, Kate Tolo, 30, on Instagram . Read more at The Daily Beast.",
-      "url": "https://www.thedailybeast.com/live-forever-nut-bryan-johnson-48-reveals-creepy-way-he-controls-girlfriend-30/",
-      "image_url": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/NB64UCS6QVADBHTULHBCH4YREY.png?auth=86556fd4e4b6c03a56f67ffffd1e142f728eb353c33656b06d18c57c51e4753f&smart=true&width=1251&height=704",
-      "source_icon": "https://n.bytvi.com/thedailybeast.png",
-      "source": "The Daily Beast",
-      "published_at": "2026-07-31 20:33:42",
       "language": "english",
       "category": "science"
     }
