@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-03T06:50:45.995Z",
+  "last_updated": "2026-08-03T11:11:35.921Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b19df5a81c15431f6c6069bc68db7e25",
+      "title": "Flipping the script: USask research focuses on therapy dog’s perspective",
+      "description": "At the Pawsitive Connections Lab at the University of Saskatchewan, Dr. Colleen Dell is flipping the script and uncovering how dogs feel while performing their therapy tasks.",
+      "url": "https://globalnews.ca/news/12007060/usask-research-focus-therapy-dogs/",
+      "image_url": "https://globalnews.ca/wp-content/uploads/2026/08/therapy-dog-web-photo.jpg?quality=65&strip=all",
+      "source_icon": "https://n.bytvi.com/globalnews.png",
+      "source": "Global News",
+      "published_at": "2026-08-02 21:23:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "39722d25a8dced5c521af373383b4e4a",
+      "title": "A cooperative approach to reproductive success",
+      "description": "Fertilization is often imagined as a frantic race, with millions of sperm competing for a single prize. But new research by a team of evolutionary biologists from Syracuse University, the University of Siena in Italy and the University of Szeged in Hungary reveals a more surprising reality, where success can depend less on competition and more on cooperation.",
+      "url": "https://phys.org/news/2026-08-cooperative-approach-reproductive-success.html",
+      "image_url": "https://scx2.b-cdn.net/gfx/news/2026/a-cooperative-approach.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-02 20:40:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "862b2938fd9f6e49395d4af36f9d7976",
+      "title": "No time to retire: Why growing older does not have to mean slowing down",
+      "description": "Growing older should not mean withdrawing from life. By protecting our health, challenging our minds, and staying connected, we can continue to grow, learn, and find purpose at any age.",
+      "url": "https://www.jpost.com/health-and-wellness/article-904081",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732050",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-02 19:04:43",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "682e341790c149ecb754d535790a988c",
       "title": "Fake ShinyHunters sextortion email uses Carnival breach data",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-08-01 12:50:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "afa853982a5836aed307f97e685ffb13",
-      "title": "Tiny aerosol particles could supercharge tropical storm clouds",
-      "description": "Scientists discovered unusually high water-vapor supersaturation inside deep tropical clouds, creating conditions in which tiny aerosol particles could intensify storm updrafts. The finding suggests earlier studies may have missed the effect because they were looking in the wrong types of clouds.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012138.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/cumulonimbus-rain-clouds.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-01 12:47:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2c4ddc1c4d7f914f6befc4ffef7c3150",
-      "title": "The Big Bang Theory Finally Explains Its First-Ever Recast After 20 Years",
-      "description": "A decade since the recast happened, Chuck Lorre and Bill Prady effectively explains why The Big Bang Theory's first-ever recast had to happen.",
-      "url": "https://screenrant.com/stuart-fails-to-save-the-universe-penny-kaley-cuoco-the-big-bang-theory-recast-explain/",
-      "image_url": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/07/penny-in-stuart-fails-to-save-the-universe.jpg",
-      "source_icon": "https://n.bytvi.com/screenrant.png",
-      "source": "Screenrant",
-      "published_at": "2026-08-01 12:30:11",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f55d46ff0a4a3a49b4154fbff78d7610",
-      "title": "FTC Concerned About Meta Surveillance of Users of Erectile Dysfunction Apps",
-      "description": "\"These two tools automatically tracked and disclosed certain [actions] to Meta.\" The post FTC Concerned About Meta Surveillance of Users of Erectile Dysfunction Apps appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/hims-hers-mark-zuckerberg-meta-ftc-lawsuit-privacy",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/hims-hers-mark-zuckerberg-meta-ftc-lawsuit-privacy.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 12:01:00",
       "language": "english",
       "category": "science"
     }
