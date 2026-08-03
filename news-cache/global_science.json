@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-03T11:11:35.921Z",
-  "article_count": 50,
+  "last_updated": "2026-08-03T14:11:50.328Z",
+  "article_count": 46,
   "articles": [
+    {
+      "id": "00686646b29181f7e0eb731ab6465809",
+      "title": "New museum find shows nature can’t stop inventing seahorses",
+      "description": "No one has ever seen one of these fish alive. But they are most likely still swimming in a part of the sea we hardly ever visit.",
+      "url": "https://theconversation.com/new-museum-find-shows-nature-cant-stop-inventing-seahorses-288274",
+      "image_url": "https://images.theconversation.com/files/750423/original/file-20260728-57-b6m4cl.png?ixlib=rb-4.1.1&rect=0%2C30%2C932%2C466&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-03 00:30:28",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "7cd89000bbf045aaaaee09ab1d9a3358",
+      "title": "Quiz: How Quickly Can You Name Every Country That Matches Its Continent’s First Letter?",
+      "description": "Put your geography knowledge to the test by identifying countries that match their continent’s first letter.",
+      "url": "https://www.mentalfloss.com/quizzes/geography/countries-matching-continent-first-letter",
+      "image_url": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1249,h_702,x_0,y_0/c_fill,w_2880,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kyq7tc74t0ktj0np8c.jpg",
+      "source_icon": "https://n.bytvi.com/mentalfloss.png",
+      "source": "Mental Floss",
+      "published_at": "2026-08-03 00:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f453c71fafb99fdbb7867d5eb4892b9c",
+      "title": "STAT+: Senate measure would block Trump plan to politicize federal grants, for now",
+      "description": "A White House proposal to subject research grants to political scrutiny meets at least a temporary roadblock in the Senate.",
+      "url": "https://www.statnews.com/2026/08/02/senate-would-block-white-house-control-over-research-grants/",
+      "image_url": "https://www.statnews.com/wp-content/uploads/2026/06/GettyImages-2279417128-1024x576.jpg",
+      "source_icon": "https://n.bytvi.com/statnews.png",
+      "source": "Stat",
+      "published_at": "2026-08-02 23:55:12",
+      "language": "english",
+      "category": "health"
+    },
     {
       "id": "b19df5a81c15431f6c6069bc68db7e25",
       "title": "Flipping the script: USask research focuses on therapy dog’s perspective",
@@ -516,90 +552,6 @@
       "source_icon": "https://n.bytvi.com/france24.png",
       "source": "France 24",
       "published_at": "2026-08-01 14:39:16",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "00c04775bfe79e7af440764ed6fb604d",
-      "title": "How an unexpected observation, a 10th-century recipe and an explorer’s encounter with a cabbage thief upend what we know about collard greens’ journey to the American South",
-      "description": "Collards may have arrived in southern Morocco via early Muslim traders, and Morocco may have been a stop in the journey the vegetables took to America.",
-      "url": "https://www.yahoo.com/news/science/articles/unexpected-observation-10th-century-recipe-140110106.html",
-      "image_url": "https://media.zenfs.com/en/the_conversation_us_articles_815/a452535f2f930d9caf7bb5ac3f908879",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-08-01 14:01:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7fa379d9022345748d806187fd807978",
-      "title": "Columbia Economist Baffled as to Why the Masses Aren’t Rising Up Against Elon Musk",
-      "description": "\"To have a trillionaire in our midst ruptures the social bargain in such a dramatic way.\" The post Columbia Economist Baffled as to Why the Masses Aren’t Rising Up Against Elon Musk appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/economist-adam-tooze-baffled-masses-protest-trillionaire-elon-musk",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/economist-adam-tooze-baffled-masses-protest-trillionaire-elon-musk.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 14:01:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "57e0174f0980de06424118391ac5e2bb",
-      "title": "Dinosaur-killing asteroid may have caused firestorms 17 times hotter than the thermal limit lethal to humans",
-      "description": "The dinosaurs may not have starved through a years-long winter. New evidence suggests a blanket of ultrafine impact dust set the planet on fire within hours.",
-      "url": "https://www.space.com/astronomy/asteroids/dinosaur-killing-asteroid-may-have-caused-firestorms-17-times-hotter-than-the-thermal-limit-lethal-to-humans",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7dmce2wt2v3uHHCYqZoi8E-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-08-01 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "50282cc25283eeb460d301dc81632c7f",
-      "title": "The Diarrhea Lettuce Company Has Been Linked to Forced Labor",
-      "description": "Horrifying. The post The Diarrhea Lettuce Company Has Been Linked to Forced Labor appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/diarrhea-lettuce-taylor-farms-prison-labor",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/diarrhea-lettuce-labor-prison-slavery-incarceration-taylor-farms.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 13:02:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "733bc2626476032a6e822b7f125f08b9",
-      "title": "Ant brains reveal how evolution turned hunger into parenting",
-      "description": "Ant parenting may have evolved from the same brain systems that once controlled hunger. Researchers found that two chemical signals push clonal raider ants toward either caring for larvae or leaving to forage, with the balance changing as the ants grow older. Similar signals are involved in mammalian caregiving, suggesting that evolution may have followed the same basic blueprint across very different animals.",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729051519.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/clonal-raider-ants-tending-to-larvae.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-01 13:01:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9d26d66d92fffd68fb3ecf6fcc88dc10",
-      "title": "US modular reactor platform cuts synthetic jet fuel plant costs by over 50%",
-      "description": "A US firm has raised $43 million to commercialize a modular platform that cuts synthetic aviation fuel plant costs by more than 50%.",
-      "url": "https://interestingengineering.com/innovation/us-modular-reactor-platform-cuts-synthetic-jet-fuel-plant-costs-by-over-50",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/Lydian-manufacturing-plant-in-Boston.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-01 13:00:10",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ebdb56d76998d06a84840701c1e2e1cd",
-      "title": "Free diver, 21, wants to 'give back' to the ocean that has helped him",
-      "description": "Iesetyn Morgan regularly free dives and shares the footage of marine life on social media.",
-      "url": "https://www.bbc.co.uk/news/videos/c20e942zpd0o",
-      "image_url": "https://ichef.bbci.co.uk/images/ic/1920x1080/p0p1xd35.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-01 12:50:03",
       "language": "english",
       "category": "science"
     }
