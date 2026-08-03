@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-03T14:11:50.328Z",
-  "article_count": 46,
+  "last_updated": "2026-08-03T17:46:04.760Z",
+  "article_count": 45,
   "articles": [
+    {
+      "id": "bb227c1041c4aea89bdf65f32142f436",
+      "title": "Volunteers clear brook to reduce flood risk",
+      "description": "With a hot summer drying out Syston Brook, volunteers have prepared the waterway ready for rain.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwr53qrw7o",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5074/live/ece0deb0-8ac0-11f1-9997-a1a12b7801e6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-03 05:09:06",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "523fcaadaffe2fa2541c955135d752c2",
+      "title": "How many cm can a child really gain from growth hormone treatment?",
+      "description": "Growth hormone deficiency is only one of the reasons for short stature in children, which is why a comprehensive and accurate medical evaluation is necessary before starting treatment.",
+      "url": "https://www.jpost.com/health-and-wellness/parenting/article-902848",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730368",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-03 05:01:28",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "1c512e30f54dda7dafc6d243bfedffdc",
+      "title": "Chinese scientists reveal most effective way to destroy doomsday asteroid",
+      "description": "Researchers say findings provide an important foundation for designing defences against large asteroids",
+      "url": "https://www.independent.co.uk/space/doomsday-asteroid-nuke-destroy-china-b3026166.html",
+      "image_url": "https://static.independent.co.uk/2026/08/03/3/11/Illustration-of-the-giant-asteroid-collision-in-outer-space.jpeg?width=1200&auto=webp&trim=106%2C0%2C107%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-08-03 04:44:54",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b48b8996ba0d5910704ec8a5476af065",
+      "title": "Giant waves are sweeping Mars’ atmosphere into space",
+      "description": "The solar wind may be stripping away Mars’ atmosphere by creating giant rolling waves along its outer edge. Data from MAVEN and Tianwen-1 show that these waves form plasma clouds that carry atmospheric particles into space. The process is concentrated on one side of Mars and may have played a major role in drying out the once potentially habitable planet.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/mars-atmosphere-solar-wind.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-03 04:07:54",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "00686646b29181f7e0eb731ab6465809",
       "title": "New museum find shows nature can’t stop inventing seahorses",
@@ -492,66 +540,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-08-01 17:51:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "83df8dc43b3bf294347968953446e387",
-      "title": "We Are Mildly Horrified by This AI Startup That Coerced People Into Getting Tattoos of Its Logo in Exchange for a Job Interview",
-      "description": "\"If you're reaching out to us to apply for a job, you might want to take notes.\" The post We Are Mildly Horrified by This AI Startup That Coerced People Into Getting Tattoos of Its Logo in Exchange for a Job Interview appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/ai-startup-coerced-tattoos-logo-job-interview",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/horrified-ai-startup-tattoos-logo.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 17:02:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "41ede34421c9417d7bd5a411b432c493",
-      "title": "Humanoid robot skin senses people before contact",
-      "description": "Gene.01's sensor-filled smart skin detects workers before contact occurs, but Generative Bionics has yet to release detailed workplace safety data.",
-      "url": "https://www.foxnews.com/tech/humanoid-robot-skin-senses-people-before-contact",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/daniele-pucci-generative-bionics-humanoid-robot.jpg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-08-01 16:30:40",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c5b1e3f0232292deb566b2447b7dcf6d",
-      "title": "Scientists Forced to Go on OnlyFans After Their Funding Was Cut",
-      "description": "Gotta fund your research somehow. The post Scientists Forced to Go on OnlyFans After Their Funding Was Cut appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/scientists-onlyfans-trump-cut-research",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/scientists-onlyfans-trump-cut-research.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 16:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3b51bca4ff79b53df32136316553e0a0",
-      "title": "Powerful nuclear detector takes first beam, supporting critical US security missions",
-      "description": "The GRETA spectrometer is now operational at the Facility for Rare Isotope Beams, aiding national security and science.",
-      "url": "https://interestingengineering.com/science/powerful-us-nuclear-detector-takes-first-beam",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/GREATA.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-01 14:53:45",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "abd6f1ac42da2f28e48f61791b45cccc",
-      "title": "Scientists study Greenland's melting ice",
-      "description": "A scientific expedition is underway in Greenland to study the island’s rapidly melting ice. A team of researchers will spend six weeks investigating whether the loss of glaciers could disrupt a major Atlantic Ocean current system, potentially affecting Europe’s climate. Catherine Viette has more.",
-      "url": "https://www.france24.com/en/video/20260801-scientists-study-greenland-s-melting-ice",
-      "image_url": "https://s.france24.com/media/display/0e40ea42-8da9-11f1-b465-005056a97e36/w:1024/p:16x9/EN-20260801-140736-140933-CS.jpg",
-      "source_icon": "https://n.bytvi.com/france24.png",
-      "source": "France 24",
-      "published_at": "2026-08-01 14:39:16",
       "language": "english",
       "category": "science"
     }
