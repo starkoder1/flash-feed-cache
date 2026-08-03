@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-03T17:46:04.760Z",
+  "last_updated": "2026-08-03T20:53:29.593Z",
   "article_count": 45,
   "articles": [
+    {
+      "id": "64586465dd2287080282145f9a0ff6c0",
+      "title": "NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
+      "description": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.",
+      "url": "https://www.foxnews.com/science/nasa-langley-new-wind-tunnel",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nasa-leaders-and-local-officials-gather-for-ribbon-cuttung-ceremony.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-08-03 07:17:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1e240d83eb82f2c36a1b87e30e213842",
+      "title": "Scientists say this is the reason some relationships flourish and others flop - Mon, 03 Aug 2026 PST",
+      "description": "The search for a formula to explain why some relationships flourish and others fall apart has taken many forms. Today, that framework is known as attachment theory. Across TikTok, users invoke labels such as “anxious,” “avoidant” and “secure” to explain why they fall in love, fight and walk away from their personal connections.",
+      "url": "http://www.spokesman.com/stories/2026/aug/03/scientists-say-this-is-the-reason-some-relationshi/",
+      "image_url": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
+      "source_icon": "https://n.bytvi.com/spokesman.png",
+      "source": "Spokesman",
+      "published_at": "2026-08-03 07:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "d74c029d8d798dbcad86e4efb9782512",
+      "title": "Scientists find most efficient way to destroy a doomsday asteroid",
+      "description": null,
+      "url": "https://www.independent.co.uk/bulletin/news/doomsday-asteroid-nuclear-china-scientists-b3026210.html",
+      "image_url": "https://static.independent.co.uk/2026/08/03/3/11/Illustration-of-the-giant-asteroid-collision-in-outer-space.jpeg?width=1200&auto=webp&trim=106%2C0%2C107%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-08-03 06:58:12",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "5d30368f6d7a00294e8e261e0aed3807",
+      "title": "Scientists develop new lightbulb-inspired reactor that could transform industrial decarbonization",
+      "description": "Researchers at NUS have developed a chemical reactor that harnesses the same heat-generating principle to power industrial chemical reactions.",
+      "url": "https://interestingengineering.com/innovation/lightbulb-inspired-reactor-transform-industrial-decarbonization",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/lightbulb-reactor.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-03 06:22:48",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "d148d78f644affbfb71c7d64be8e7e08",
+      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
+      "description": "Researchers employ technology in a bid to identify and retrieve remains in Spain’s Valley of the Fallen, in Manuel Correa’s emotional documentary Perched on the Sierra de Guadarrama mountain range overlooking Madrid is the Valle de los Caídos , a colossal memorial site constructed under the Franco regime. Supposedly a symbol of atonement and reconciliation, it has been criticised as an emblem of fascist glorification; it was where Franco was buried until his exhumation in 2019 . There are, however, tens of thousands more bodies are trapped inside; in the aftermath of the White Terror, the corpses of those executed under the dictatorship were clandestinely removed from mass graves and deposited in the monument’s crypt. Both thought-provoking and heartwrenching, Manuel Correa’s documentary follows three grieving families and their fight to rescue their loved ones from this horrifying limbo. Here, architecture emerges as a means of oppression. Through examining various construction blueprints, the film lays bare how the crypt was specifically designed for maximum inaccessibility. The bodies of the victims were meant to languish, hidden away, in perpetuity, as does the evidence of the dictatorship’s barbarity. To combat these efforts to bury history, Correa founded the Office of Documentary Research, where activists, geographers, and architects wade through the fog of secrecy with state-of-the-art technology. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
+      "image_url": "https://i.guim.co.uk/img/media/3c4dd656b150e2faf02443306f570ddc2e89c02d/0_185_2469_1975/master/2469.jpg?width=140&quality=85&auto=format&fit=max&s=74b757c0dc9854b233984afa86ba93ca",
+      "source_icon": "https://n.bytvi.com/theguardian.jpg",
+      "source": "The Guardian",
+      "published_at": "2026-08-03 06:00:43",
+      "language": "english",
+      "category": "crime"
+    },
     {
       "id": "bb227c1041c4aea89bdf65f32142f436",
       "title": "Volunteers clear brook to reduce flood risk",
@@ -480,66 +540,6 @@
       "source_icon": "https://n.bytvi.com/nypost.png",
       "source": "New York Post",
       "published_at": "2026-08-01 22:55:53",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "32a99407ed6385c72b732df81bf54d5c",
-      "title": "Scientists build four-lane highway for light inside a single photonic chip",
-      "description": "A honeycomb lattice of magnetic rods lets light flow around defects while freeing up chip space that older photonic designs left unused.",
-      "url": "https://interestingengineering.com/science/four-lane-highway-light-photonic-chip",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/four-lane-highway.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-01 19:29:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "73fa6e159db8437c4c5c72661029f7d6",
-      "title": "Electron cooling tames highly charged ions in Penning trap for first time",
-      "description": "Researchers at Technical University of Darmstadt and the GSI Helmholtz Center for Heavy Ion Research have succeeded for the first time in decelerating highly charged ions from the GSI accelerator to low energies and subsequently storing them in a Penning trap. They were also successful in performing the first electron cooling of highly charged ions in such a trap. The results have been published in Physical Review X (PRX).",
-      "url": "https://phys.org/news/2026-07-electron-cooling-highly-ions-penning.html",
-      "image_url": "https://scx2.b-cdn.net/gfx/news/hires/2026/decelerated-ions---a-m-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-01 19:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cd4f376fdf4f43c87055a91b555d7160",
-      "title": "Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows",
-      "description": "\"The public has been asked to accept a significant expansion of surveillance based on the promise that it would dramatically improve public safety.\" The post Flock Surveillance Cameras Are Actually Horrible for Fighting Crime, FBI Data Shows appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/flock-surveillance-atlanta-fbi-data-crime-case-solve",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/flock-surveillance-atlanta-fbi-data-crime-case-solve.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 19:02:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "dce16592a2a3a01690ead269cf93e5d6",
-      "title": "OpenAI’s Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported",
-      "description": "Is OpenAI trying to spin us a yarn? The post OpenAI’s Escaped Models Were Allegedly Rampaging More Extensively Than Previously Reported appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/openai-escaped-models-rampaging-extensively",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/07/openai-escaped-models-rampaging-extensively.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-01 18:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a3af546ce41af3b442a3d05aa547012e",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-01 17:51:46",
       "language": "english",
       "category": "science"
     }
