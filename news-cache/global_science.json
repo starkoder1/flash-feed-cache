@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-04T13:42:41.586Z",
+  "last_updated": "2026-08-04T17:28:26.178Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1fd381918b91f32230cc50f8eeca4cc2",
+      "title": "Young white-tailed eagles released on Exmoor",
+      "description": "Up to 20 additional young birds will be released over the next three years.",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0jz3d4yo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/25a0/live/80796850-8f4d-11f1-9818-6fa9a4d75fb0.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-04 05:24:16",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f6f1af38e2bff47d4fb3e00ca204f9d2",
+      "title": "Greener streets linked to longer sleep, study suggests",
+      "description": "The way a neighbourhood looks could influence how well people sleep, new research suggests, adding to growing evidence that urban design can affect public health.",
+      "url": "http://www.euronews.com/health/2026/08/04/greener-streets-linked-to-longer-sleep-study",
+      "image_url": "https://images.euronews.com/articles/stories/09/86/07/13/1440x810_cmsv2_55419ad0-ddff-5a96-9539-08255fb3001a-9860713.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-08-04 05:09:09",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6446d392db45e833beb8c79e3debac9f",
+      "title": "Curlew revival continues at nature reserve",
+      "description": "Birds from previous releases pair up and return to nest at the site on the Isle of Sheppey.",
+      "url": "https://www.bbc.co.uk/news/articles/cly54v48n0zo",
+      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b42/live/26594570-8fc5-11f1-9754-a39c928de36f.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-04 05:08:37",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c9fa3f2ffd46abaf13b284fcdc08b9c1",
+      "title": "A 27-kg. load on the neck: The hidden cost of smartphone use",
+      "description": "Sound like we're exaggerating? This is the load placed on your neck the more you bend – and these are the long-term damages it can cause.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-904213",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732227",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-04 05:00:59",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "15a31125167ba8dc05ee7d132a4182b8",
+      "title": "Have you heard of biotech beauty? We took a closer look",
+      "description": "A new generation of female entrepreneurs are leading a monumental shift in the beauty industry, replacing fossil fuel-derived ingredients with bio-based alternatives.",
+      "url": "https://www.cnn.com/2026/08/04/style/biotech-beauty-biodance-emma-lewisham-reome",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/img-4634.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-08-04 04:39:43",
+      "language": "english",
+      "category": "education"
+    },
+    {
+      "id": "de8cb817a966475fe96cc66d346f06d1",
+      "title": "South Korea’s KEPCO E&C advances marine reactor plan",
+      "description": "KEPCO E&C is seeking state-backed research for its 200 MWt BANDI marine reactor as S. Korean shipbuilders compete in offshore nuclear power.",
+      "url": "https://www.upi.com/Top_News/World-News/2026/08/03/offshore-nuclear-power-bandi-marine-reactor/7081785811045/",
+      "image_url": "https://cdnph.upi.com/ph/st/th/7081785811045/2026/i/17858112085965/v1.5/South-Koreas-KEPCO-EC-advances-marine-reactor-plan.jpg",
+      "source_icon": "https://n.bytvi.com/upi.jpg",
+      "source": "Upi",
+      "published_at": "2026-08-04 02:43:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "9b054230559facfee5c15bfc9009e7d0",
       "title": "Experimental AI systems have been going on hacking sprees",
@@ -530,78 +602,6 @@
       "published_at": "2026-08-03 06:22:48",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "d148d78f644affbfb71c7d64be8e7e08",
-      "title": "Atlas of Disappearance review – forensic quest for thousands of forgotten victims of the Spanish civil war",
-      "description": "Researchers employ technology in a bid to identify and retrieve remains in Spain’s Valley of the Fallen, in Manuel Correa’s emotional documentary Perched on the Sierra de Guadarrama mountain range overlooking Madrid is the Valle de los Caídos , a colossal memorial site constructed under the Franco regime. Supposedly a symbol of atonement and reconciliation, it has been criticised as an emblem of fascist glorification; it was where Franco was buried until his exhumation in 2019 . There are, however, tens of thousands more bodies are trapped inside; in the aftermath of the White Terror, the corpses of those executed under the dictatorship were clandestinely removed from mass graves and deposited in the monument’s crypt. Both thought-provoking and heartwrenching, Manuel Correa’s documentary follows three grieving families and their fight to rescue their loved ones from this horrifying limbo. Here, architecture emerges as a means of oppression. Through examining various construction blueprints, the film lays bare how the crypt was specifically designed for maximum inaccessibility. The bodies of the victims were meant to languish, hidden away, in perpetuity, as does the evidence of the dictatorship’s barbarity. To combat these efforts to bury history, Correa founded the Office of Documentary Research, where activists, geographers, and architects wade through the fog of secrecy with state-of-the-art technology. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/aug/03/atlas-of-disappearance-review-forensic-quest-for-families-robbed-of-graves-by-franco",
-      "image_url": "https://i.guim.co.uk/img/media/3c4dd656b150e2faf02443306f570ddc2e89c02d/0_185_2469_1975/master/2469.jpg?width=140&quality=85&auto=format&fit=max&s=74b757c0dc9854b233984afa86ba93ca",
-      "source_icon": "https://n.bytvi.com/theguardian.jpg",
-      "source": "The Guardian",
-      "published_at": "2026-08-03 06:00:43",
-      "language": "english",
-      "category": "crime"
-    },
-    {
-      "id": "bb227c1041c4aea89bdf65f32142f436",
-      "title": "Volunteers clear brook to reduce flood risk",
-      "description": "With a hot summer drying out Syston Brook, volunteers have prepared the waterway ready for rain.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwr53qrw7o",
-      "image_url": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5074/live/ece0deb0-8ac0-11f1-9997-a1a12b7801e6.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-03 05:09:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "523fcaadaffe2fa2541c955135d752c2",
-      "title": "How many cm can a child really gain from growth hormone treatment?",
-      "description": "Growth hormone deficiency is only one of the reasons for short stature in children, which is why a comprehensive and accurate medical evaluation is necessary before starting treatment.",
-      "url": "https://www.jpost.com/health-and-wellness/parenting/article-902848",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/730368",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-08-03 05:01:28",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "1c512e30f54dda7dafc6d243bfedffdc",
-      "title": "Chinese scientists reveal most effective way to destroy doomsday asteroid",
-      "description": "Researchers say findings provide an important foundation for designing defences against large asteroids",
-      "url": "https://www.independent.co.uk/space/doomsday-asteroid-nuke-destroy-china-b3026166.html",
-      "image_url": "https://static.independent.co.uk/2026/08/03/3/11/Illustration-of-the-giant-asteroid-collision-in-outer-space.jpeg?width=1200&auto=webp&trim=106%2C0%2C107%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-08-03 04:44:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b48b8996ba0d5910704ec8a5476af065",
-      "title": "Giant waves are sweeping Mars’ atmosphere into space",
-      "description": "The solar wind may be stripping away Mars’ atmosphere by creating giant rolling waves along its outer edge. Data from MAVEN and Tianwen-1 show that these waves form plasma clouds that carry atmospheric particles into space. The process is concentrated on one side of Mars and may have played a major role in drying out the once potentially habitable planet.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042816.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/mars-atmosphere-solar-wind.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-03 04:07:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "00686646b29181f7e0eb731ab6465809",
-      "title": "New museum find shows nature can’t stop inventing seahorses",
-      "description": "No one has ever seen one of these fish alive. But they are most likely still swimming in a part of the sea we hardly ever visit.",
-      "url": "https://theconversation.com/new-museum-find-shows-nature-cant-stop-inventing-seahorses-288274",
-      "image_url": "https://images.theconversation.com/files/750423/original/file-20260728-57-b6m4cl.png?ixlib=rb-4.1.1&rect=0%2C30%2C932%2C466&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-08-03 00:30:28",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
