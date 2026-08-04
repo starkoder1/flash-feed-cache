@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-04T17:28:26.178Z",
+  "last_updated": "2026-08-04T21:01:17.672Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "cf100be68742a8035b35f22037fa540e",
+      "title": "Photos: BYD Qin Max launches with 9-minute flash charging, 391-mile range and 321 hp",
+      "description": "Check latest photos on New Innovations, Robots, Engineering, Science, Space and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/photo-story/byd-qin-max-flash-charging-ev-sedan",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-04 07:52:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "34e359a1aa2ad717778290fe5e5d4999",
+      "title": "The lost Mozart manuscripts — and the delight of discovery",
+      "description": null,
+      "url": "https://www.bostonglobe.com/2026/08/04/opinion/lost-mozart-notebook-discovery-history/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/5DOYJCBO75D43DHC567S6GHQSY.jpg?auth=3fe84e9ce085c851538a8ae59bcc60407038e4ba085ea5920e1c1edb1ea6cc39&smart=true&width=1375&height=1967",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-08-04 07:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e9116653a738c88fc30621ee22ead681",
+      "title": "MDMA-assisted psychotherapy may help soldiers with PTSD reduce symptoms, rebuild lives, study finds",
+      "description": "While under the influence of MDMA, patients are believed to be able to engage with traumatic memories while experiencing emotional regulation, trust, and psychological safety.",
+      "url": "https://www.jpost.com/health-and-wellness/article-904489",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732608",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-04 05:31:42",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "4e7ff6cd3f2607e961105721001f6876",
+      "title": "Booze for breakfast - shocking report exposes MP's drinking culture in Parliament",
+      "description": "The Institute of Alcohol Studies is the first study to systematically survey MPs and parliamentary staff about their experiences of alcohol at work.",
+      "url": "https://www.express.co.uk/news/uk/2235249/booze-breakfast-shocking-report",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/1/590x/2235249_1_nb.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-08-04 05:29:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "1fd381918b91f32230cc50f8eeca4cc2",
       "title": "Young white-tailed eagles released on Exmoor",
@@ -554,54 +602,6 @@
       "published_at": "2026-08-03 12:03:10",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "64586465dd2287080282145f9a0ff6c0",
-      "title": "NASA opens first major new wind tunnel in more than 40 years at Virginia facility",
-      "description": "NASA's new wind tunnel has a diameter of 20 feet and stands 24 feet tall, with wind speeds of up to 117 miles per hour. It will help test technology for future space missions.",
-      "url": "https://www.foxnews.com/science/nasa-langley-new-wind-tunnel",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nasa-leaders-and-local-officials-gather-for-ribbon-cuttung-ceremony.jpg?ve=1&tl=1",
-      "source_icon": "https://n.bytvi.com/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-08-03 07:17:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1e240d83eb82f2c36a1b87e30e213842",
-      "title": "Scientists say this is the reason some relationships flourish and others flop - Mon, 03 Aug 2026 PST",
-      "description": "The search for a formula to explain why some relationships flourish and others fall apart has taken many forms. Today, that framework is known as attachment theory. Across TikTok, users invoke labels such as “anxious,” “avoidant” and “secure” to explain why they fall in love, fight and walk away from their personal connections.",
-      "url": "http://www.spokesman.com/stories/2026/aug/03/scientists-say-this-is-the-reason-some-relationshi/",
-      "image_url": "https://media.spokesman.com/graphics/2020/08/sr_placeholder.png",
-      "source_icon": "https://n.bytvi.com/spokesman.png",
-      "source": "Spokesman",
-      "published_at": "2026-08-03 07:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d74c029d8d798dbcad86e4efb9782512",
-      "title": "Scientists find most efficient way to destroy a doomsday asteroid",
-      "description": null,
-      "url": "https://www.independent.co.uk/bulletin/news/doomsday-asteroid-nuclear-china-scientists-b3026210.html",
-      "image_url": "https://static.independent.co.uk/2026/08/03/3/11/Illustration-of-the-giant-asteroid-collision-in-outer-space.jpeg?width=1200&auto=webp&trim=106%2C0%2C107%2C0",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-08-03 06:58:12",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "5d30368f6d7a00294e8e261e0aed3807",
-      "title": "Scientists develop new lightbulb-inspired reactor that could transform industrial decarbonization",
-      "description": "Researchers at NUS have developed a chemical reactor that harnesses the same heat-generating principle to power industrial chemical reactions.",
-      "url": "https://interestingengineering.com/innovation/lightbulb-inspired-reactor-transform-industrial-decarbonization",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/lightbulb-reactor.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-03 06:22:48",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
