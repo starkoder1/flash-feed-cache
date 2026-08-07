@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-07T16:40:08.759Z",
+  "last_updated": "2026-08-07T20:27:52.087Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1e215bd25fcbd6c3d470c09bdd8fb363",
+      "title": "Get ready for 'meteor Christmas' with an added bonus: a partial solar eclipse",
+      "description": "Every August we are treated to one of the best meteor showers of the year: the Perseids. But this year, during the day of the peak, much of Canada will also get a partial solar eclipse.",
+      "url": "https://www.cbc.ca/news/science/perseid-meteor-shower-eclipse-9.7298490?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/12108cd6-061e-4e19-93f3-473cf189a413,1786038609007/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C16%2C860%2C483%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-08-07 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7f9a9f5f5415aa756685444ab71b17fe",
+      "title": "US firm takes on backyard mosquitoes—with 600,000 mosquitoes",
+      "description": "Todd Montgomery pops the lid off a small tube and taps out hundreds of mosquitoes into the backyard of a suburban home outside Washington.",
+      "url": "https://phys.org/news/2026-08-firm-backyard-mosquitoes.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/wolbachia-bacteria-is.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-07 07:20:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a7d862504708ed05c3c58cf679c29c57",
+      "title": "China unveils refined lunar map to advance future moon exploration",
+      "description": "BEIJING: A Chinese research team has completed an updated geologic map of the entire Moon featuring a scale of 1:5 million, the Institute of Geology, Chinese Academy of Geological Sciences (IGCAGS), said on Thursday.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/07/china-unveils-refined-lunar-map-to-advance-future-moon-exploration",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/08/07/4048571.jpeg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-08-07 07:11:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b2f7ac5c3b32e5e1b8516026909e97fb",
+      "title": "Protein linked to autoimmune diseases could be trained to fight cancer, scientists say",
+      "description": "Researchers say ‘auto-antibodies’ could play a major role in how cancer develops",
+      "url": "https://www.independent.co.uk/news/science/lifelong-cancer-risk-immune-system-b3029091.html",
+      "image_url": "https://static.independent.co.uk/2026/08/07/5/21/A-close-up-view-of-a-hand-holding-a-lit-cigarette.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://n.bytvi.com/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-08-07 06:49:31",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c3a2178197d6c7aef593b6f782f3a1d4",
+      "title": "See the list of companies sponsoring Nigerians for work visas in the UK",
+      "description": "The UK has expanded its Global Talent visa to over 100 research firms, offering new opportunities for Nigerian scientists and engineers in key sectors like AI.",
+      "url": "https://www.legit.ng/business-economy/industry/1723677-uk-expands-global-talent-visa-100-companies-opens-opportunities-nigerians/",
+      "image_url": "https://cdn.legit.ng/images/1200x675/3c2794c1e9448ff4.jpeg?v=1",
+      "source_icon": "https://n.bytvi.com/legit.png",
+      "source": "Legit Nigeria",
+      "published_at": "2026-08-07 06:45:18",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8e873ae9486300c571f657f0e15a9059",
+      "title": "Would you drink 162-year-old Guinness?",
+      "description": "Samples from the bottle have been sent for analysis, with researchers hoping to learn more about what the stout would have tasted like.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kx9zkd90o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ecb/live/f14145b0-91de-11f1-b2ab-0dd01740f9f6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-07 05:59:49",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6245e550b5a1200f196025f9914ca436",
+      "title": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
+      "description": "The president has called the extreme heat a \"national disaster\" and ordered agencies to mobilise all resources.",
+      "url": "https://www.bbc.co.uk/news/articles/cr597m1vm96o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a2/live/79a5d0e0-9213-11f1-bf8c-0bf413e80e7b.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-07 04:49:18",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "fb698e78ab467ae2004cc33af83ceb64",
+      "title": "AI models design viruses not found in nature for first time",
+      "description": "Researchers from Stanford University have synthesised brand-new, self-replicating viruses using genomes designed by artificial intelligence for the first time, raising the possibility of significant medical advancements but also prompting concerns the technology could be misused.",
+      "url": "https://www.abc.net.au/news/2026-08-07/ai-models-design-viruses-not-found-in-nature-for-first-time/107007854",
+      "image_url": "https://live-production.wcms.abc-cdn.net.au/cd51806f0434c9fe6c5425677a28b8dd?impolicy=wcms_crop_resize&cropH=1224&cropW=2176&xPos=0&yPos=76&width=862&height=485",
+      "source_icon": "https://n.bytvi.com/abc_net.png",
+      "source": "Abc",
+      "published_at": "2026-08-07 04:48:47",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "6423a3af693ac82657142a43f69be3ff",
       "title": "AI used to create viruses not found in nature for first time",
@@ -506,102 +602,6 @@
       "published_at": "2026-08-06 12:10:18",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "46f09fe383c5c2d2bb6a9e636c77bb80",
-      "title": "Songbirds may have developed sharper senses to de-husk seeds",
-      "description": "Songbirds, birds belonging to the Passeriformes order, are best known for their ability to produce complex musical sounds. Yet some songbird species also have another remarkable skill: They can easily remove the tough layer covering seeds (i.e., the husk) before swallowing their nutritious interiors.",
-      "url": "https://phys.org/news/2026-08-songbirds-sharper-de-husk-seeds.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/songbirds-developed-sh-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-06 12:00:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f8fa5a7bead7c8c2b9ffe79539f6f2f4",
-      "title": "Educational psychologists warn of growing pressure on children's services",
-      "description": "Growing backlogs in Education, Health and Care Needs Assessments (EHCNAs) are making it difficult for educational psychologists to prioritize early intervention because they are weighed down by statutory assessments.",
-      "url": "https://phys.org/news/2026-08-psychologists-pressure-children.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/child-psychologist.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-06 12:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fdff8c08a4be908a7f73568ec82c2e76",
-      "title": "45th St. Jude Runs Crosses $100 Million Milestone",
-      "description": "MEMPHIS, Tenn.--(BUSINESS WIRE)--St. Jude Runs reached a historic milestone last week of $101 million raised for St. Jude Children’s Research Hospital® since the event’s founding in 1982. More than 200 runners departed from the St. Jude campus in Memphis to complete a 465-mile journey to Peoria, Illinois, where they were joined by participants from 32 community runs across Illinois and Missouri. Together, the 2,550 runners gathered to cheer each community’s fundraising efforts, leading to the a",
-      "url": "http://www.businesswire.com/news/home/20260806834592/en/45th-St.-Jude-Runs-Crosses-100-Million-Milestone/",
-      "image_url": "https://mms.businesswire.com/media/20260806834592/en/2868526/21/Quick_turn_2.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-08-06 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "09865a221909e6bfb489778f72a61cf9",
-      "title": "Improving oats for growers and consumers",
-      "description": "Heart-healthy oats are finding their way into a wider variety of products and recipes as consumer demand grows. Although oats are grown on far fewer acres than other U.S. crops, farmers are able to keep up with demand through genetic gains in yield and other important agronomic traits.",
-      "url": "https://phys.org/news/2026-08-oats-growers-consumers.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/oats.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-06 11:40:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4afabb6f2357da1ca97b370aa48e0ced",
-      "title": "New video of Sun’s surface shows swirling plasma patterns in never-before-seen detail",
-      "description": "New footage of the Sun ’s visible surface shows tiny swirling, vortex-like patterns in never-before-seen detail.",
-      "url": "https://www.independent.co.uk/tv/news/space-sun-surface-plasma-video-b3028590.html",
-      "image_url": "https://static.independent.co.uk/2026/08/06/11/08/rx2KgLma-720.jpg?width=1200&auto=webp&trim=0%2C56%2C0%2C56",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-08-06 11:15:45",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "7b57208df978f07eab07b1376993a032",
-      "title": "Most detailed images taken of sun's surface revealed: \"Major step forward\"",
-      "description": "Researchers were able to peek at the sun's scorching surface with the help of the National Science Foundation's Daniel K. Inouye Solar Telescope​, located on the island of Maui in Hawaii.",
-      "url": "https://www.cbsnews.com/news/sun-surface-images-inouye-solar-telescope/",
-      "image_url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/05/dc2c4ecd-e439-4186-9572-f5989f6026be/thumbnail/1200x630/f85c25571ecef63f832e09f10cb539d2/ap26216740532718.jpg",
-      "source_icon": "https://n.bytvi.com/cbsnews.png",
-      "source": "Cbs News",
-      "published_at": "2026-08-06 00:55:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "29f1fe8ede7a3c704a0bf21e7fc3a3b2",
-      "title": "Archeologists uncover incredible relic from 1854 during Melbourne sewer upgrade",
-      "description": "Workers in the CBD stopped, so experts could examine the find.",
-      "url": "https://au.news.yahoo.com/archeologists-uncover-incredible-relic-from-1854-during-melbourne-sewer-upgrade-002953067.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/157e4135ac30d97ae93cc45d73d316281e3d9f83b35bfb79036448f6eb9f6181/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Farcheologists_0920.png",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-08-06 00:29:53",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b8272197ded2d1559c7fd8353e260521",
-      "title": "Giant mirrors in space to give sun on demand, but project raises concerns",
-      "description": "It sounds like science fiction – a giant mirror launched into space to illuminate the night sky. But this could be a reality later this year, and it’s raising concerns.",
-      "url": "https://www.ctvnews.ca/winnipeg/article/giant-mirrors-in-space-to-give-sun-on-demand-but-project-raises-concerns/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/R2ABHODS2FEURFMUVZHR7ZU5SM.jpeg?auth=e44e16844959ae224fec82f242473ce05d66cd17a823fc3ac10ee51c9cc4180e&smart=true&width=1920&height=1080",
-      "source_icon": "https://n.bytvi.com/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-08-05 23:47:29",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
