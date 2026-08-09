@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-09T12:25:12.872Z",
+  "last_updated": "2026-08-09T16:20:13.684Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "869bc9372e557363b36f9c4ccb2cfd4c",
+      "title": "Pakistan bags three medals at Nuclear Science Olympiad",
+      "description": "ISLAMABAD: A Pakis­tan team has won one gold and two silver medals at the 3rd International Nuclear Science Olympiad (INSO-2026), held in Jeddah, Saudi Arabia from Aug 2 to 8. Supported by the Inter­national Atomic Energy Agency (IAEA), the competition brought together around 120 students and experts from 19 countries, including China, Japan, Russia, Turkiye, Malaysia, Indonesia, and Saudi Arabia. The team was selected and trained by the Pakis­tan Institute of Engi­neer­ing and Applied Sciences (PIEAS), under the auspi­ces of the Pakistan Atomic Energy Commission (PAEC). Muhammad Ali from Govt College University, Lahore, won a gold medal, while Muhammad Usman from F.G. Sir Syed College, The Mall, Rawalpindi, and Seerat Fatima from Nixor College, Karachi, secured silver medals. Syed Shuja Haider from Sundar STEM School, Lahore, also represented Pakistan at the Olympiad. The students were selec­­ted through the Pakis­tan Nuclear Science Olymp­ia­­­d, an initiative of PAEC ai­­m­ed at identifying and nurturing young scientific talent for participation in the International Nuclear Science Olympiad. In another developme­­nt, Pakistan was annou­n­ced as the host of the 4th In­­ternational Nuclear Sci­ence Olympiad in 2027. On the occasion, Dr Mu­­hammad Maqsood from the PAEC Directorate of Edu­cation and Dr Sajjad Tahir from PIEAS received a commemorative memento. Published in Dawn, August 9th, 2026",
+      "url": "https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad",
+      "image_url": "https://i.dawn.com/large/2026/08/09082047ea1847a.webp",
+      "source_icon": "https://n.bytvi.com/dawn.png",
+      "source": "Dawn",
+      "published_at": "2026-08-09 03:21:28",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "caf29c4332fc114e6dbcf35a9c8fdff9",
+      "title": "What it's like to chase solar eclipses around the world",
+      "description": "For many, a total solar eclipse is a once-in-a-lifetime experience. But for a dedicated few, it's a deep passion.",
+      "url": "https://www.bbc.co.uk/news/articles/cd69wn5ny3eo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a4/live/22637860-9271-11f1-a7ab-8b30adf0800a.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 01:31:41",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "b7eabbb37a004bdf3488e402b7378fda",
       "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-08-07 21:40:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cf85e4e3da6fc73d176f7377049aef59",
-      "title": "Why Fundamental Analysis Remains the Most Powerful Tool in Any Investor’s Arsenal",
-      "description": "In markets flooded with algorithmic trading, social media momentum, and viral stock tips, one discipline continues to separate disciplined investors from reactive speculators: fundamental analysis. It is not glamorous. It does not promise overnight returns. But it has quietly powered some of the most legendary wealth-building strategies in financial history — and its relevance has... The post Why Fundamental Analysis Remains the Most Powerful Tool in Any Investor’s Arsenal appeared first on Equity Insider .",
-      "url": "https://equity-insider.com/why-fundamental-analysis-remains-the-most-powerful-tool-in-any-investors-arsenal/",
-      "image_url": "https://equity-insider.com/wp-content/uploads/2026/08/fundamental-analysis-7.jpg",
-      "source_icon": "https://n.bytvi.com/equity_insider.png",
-      "source": "Equity Insider",
-      "published_at": "2026-08-07 21:37:44",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "390b377e842474e608c786be70c1d699",
-      "title": "Laser spectroscopy helps reveal hidden nuclear properties in fermium",
-      "description": "For the first time, researchers have determined the shape of the actinide nucleus of fermium-255 and measured its structure with high precision and resolution.",
-      "url": "https://phys.org/news/2026-08-laser-spectroscopy-reveal-hidden-nuclear.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/laser-spectroscopy-hel.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 21:20:01",
       "language": "english",
       "category": "science"
     }
