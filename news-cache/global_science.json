@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-09T16:20:13.684Z",
+  "last_updated": "2026-08-09T20:18:32.962Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7c2cbd6d912ee855faf548f2b9e147a6",
+      "title": "Scientists watch electrons assemble and reassemble to help decode complex quantum phenomena",
+      "description": "Physicists at MIT have managed to watch such electronic phases emerge and reassemble in real time.",
+      "url": "https://interestingengineering.com/science/scientists-watch-electrons-assemble-and-reassemble",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/quantum-rays-.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-09 08:15:57",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "37b09543b45f1cb495676c75adce2369",
+      "title": "1999: Solar eclipse experienced from Alderney",
+      "description": "Footage of people in Alderney catching the best view in the British Isles of the solar eclipse.",
+      "url": "https://www.bbc.co.uk/news/videos/c1e1v0q257jo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca3a/live/15cdea30-9263-11f1-b2ab-0dd01740f9f6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 06:30:43",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b124f727f9af9b2871d987c00f20612c",
+      "title": "Man fathered baby despite never being born due to astonishing rare syndrome",
+      "description": "A man managed to father a baby even though he was never born.",
+      "url": "https://www.express.co.uk/news/science/2236316/man-fathered-baby-never-being",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/237x141/2236316_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-08-09 06:08:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "08df2b63102fd39866be0ef80ad31eaa",
+      "title": "'If we worry about erosion, we will never get any sleep'",
+      "description": "Derrick Bowler says even if he won the lottery he knows he would not be able to stop nature.",
+      "url": "https://www.bbc.co.uk/news/articles/c8dnyqnz4yqo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2246/live/fd655340-90c1-11f1-b8f3-bf6a2c059a9b.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 05:41:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a3dc01c19f5d8fc9f5fc190f0ba4a75a",
+      "title": "Most of sun to be eclipsed across island of Ireland",
+      "description": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
+      "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 05:19:17",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "70e02656e42e58edae462a96647c6eea",
+      "title": "'I am a woman in a man's rubbish world'",
+      "description": "A woman who runs a waste collection firm says she was warned not to get involved in the industry.",
+      "url": "https://www.bbc.co.uk/news/articles/c89n8vde8n3o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a21/live/6328d020-90dc-11f1-9bd2-e326e95c9722.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 05:09:47",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3ae268184975fd94365c88db5538b3e6",
+      "title": "Israeli study: Viagra may help prevent the spread of cancerous tumors",
+      "description": "The study found a new, previously unknown biological mechanism, and even identified a link between the use of the drug Viagra and better survival among cancer patients.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-904219",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732236",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-09 05:01:39",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "869bc9372e557363b36f9c4ccb2cfd4c",
       "title": "Pakistan bags three medals at Nuclear Science Olympiad",
@@ -518,90 +602,6 @@
       "published_at": "2026-08-08 03:00:11",
       "language": "english",
       "category": "politics"
-    },
-    {
-      "id": "5c6f411435b1450eb0e22eb622ede737",
-      "title": "Pentagon releases fifth batch of UAP files",
-      "description": "Avi Loeb, head of the UAP Science Council for the White House, joins Stay Tuned NOW to discuss key takeaways from the latest batch of files on unidentified aerial phenomena.",
-      "url": "https://www.nbcnews.com/video/pentagon-releases-fifth-batch-of-uap-files-267979333691",
-      "image_url": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2026_08/1786154254592_now_staytuned_loeb_uap_260807_S3_1920x1080-7dlwdr.jpg",
-      "source_icon": "https://n.bytvi.com/nbcnews.png",
-      "source": "Nbc News",
-      "published_at": "2026-08-08 01:57:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a1bdde4fe01d106adc9f458742d72164",
-      "title": "Reflecting pool connection to a Trump hospitality manager, says New York Times",
-      "description": "New York Times investigative reporter David Fahrenthold says they've connected the dots between the failed reflecting pool restoration, a manager at one of President Trump's golf courses and no-bid government contracts.",
-      "url": "https://www.cnn.com/2026/08/07/politics/video/ac360-pool-update",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/still-22875537-3471994-8290000004-thumb-20260808010502848.jpg?c=original",
-      "source_icon": "https://n.bytvi.com/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-08-08 01:09:06",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "f54261d1200567363434fc25672d562c",
-      "title": "One million years without sex fails to erase stick insects' unused biological system",
-      "description": "Scientists have made a surprising finding about how an asexually reproducing stick insect has evolved. Research led by Dr. Darren Parker, lecturer in evolutionary biology at Bangor University, studied the genes of several species of Timema (a type of stick insect), which have not engaged in sexual reproduction for 1 million years—the longest known asexual period for any insect.",
-      "url": "https://phys.org/news/2026-08-million-years-sex-erase-insects.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/scientists-make-surpri.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 23:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7acda434d47aded3ad0a038604ddb3a7",
-      "title": "New AI model reveals the volume of the world's glaciers",
-      "description": "How much ice is stored in the world's glaciers? And where exactly is it located? A new study led by Ca' Foscari University of Venice, in collaboration with the Institute of Polar Sciences of the National Research Council of Italy (CNR-ISP), provides an updated global map of glacier ice volume.",
-      "url": "https://phys.org/news/2026-08-ai-reveals-volume-world-glaciers.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-ai-model-reveals.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 22:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "78ecc586cc3fa7dee5cb108ecad3d00a",
-      "title": "Creating cleaner chemical reactions that run on oxygen and produce only water as waste",
-      "description": "Oxygen provides the driving force for many vital chemical reactions. Two well-known examples include respiration, the process that allows living things to break down food to release its energy, and combustion, reactions that produce heat and light. But oxygen has an unusual electronic configuration that tends to slow reactions with organic matter, so reactions often need help to get started. In nature, specialized proteins called enzymes can activate oxygen on demand by first rearranging its electrons.",
-      "url": "https://phys.org/news/2026-08-cleaner-chemical-reactions-oxygen.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/creating-chemical-reac-1.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 22:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e63f771b3005bf9180fb7cd563c106ae",
-      "title": "Researchers unlock high-res view of 2D materials by doing a microscopic twist",
-      "description": "By rapidly twisting a microscopically small tip back and forth, researchers at the University of Maryland (UMD) have unlocked a new way to detect subtle changes on the surface of a material flexing in response to infrared light.",
-      "url": "https://phys.org/news/2026-08-high-res-view-2d-materials.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-unlock-hig.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 22:00:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9c1d86cfa516acab6eced29af5bdae79",
-      "title": "Hidden anatomy of clouds reveals how rain may begin without ice crystals",
-      "description": "The initiation of rain in clouds without ice remains one of the largest unsolved mysteries in atmospheric science.",
-      "url": "https://phys.org/news/2026-08-hidden-anatomy-clouds-reveals-ice.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-hidden-anatomy-of.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-07 21:40:02",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
