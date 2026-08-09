@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-09T08:28:37.493Z",
+  "last_updated": "2026-08-09T12:25:12.872Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b7eabbb37a004bdf3488e402b7378fda",
+      "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
+      "description": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e81/live/4851bbe0-9249-11f1-a7ab-8b30adf0800a.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-08 20:52:22",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "037abbbc9c20c344f8d2fa585c870066",
       "title": "Time Magazine Now Running Ads Meant Specifically to Influence AI Agents",
@@ -588,18 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-08-07 21:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "fec9f12690f375702b41daf0facab110",
-      "title": "Ancient Roman Firefighters May Have Waited for Alarms Among Lavish Mosaics",
-      "description": "Learn how archaeologists uncovered a building with mosaics and frescoes near Rome’s Colosseum that may have served as barracks for ancient Roman firefighters.",
-      "url": "https://www.discovermagazine.com/ancient-roman-firefighters-may-have-waited-for-alarms-among-lavish-mosaics-49510",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60130/roman-mosaic-floors-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-08-07 21:15:00",
       "language": "english",
       "category": "science"
     }
