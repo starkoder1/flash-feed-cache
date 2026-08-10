@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-10T05:14:56.063Z",
+  "last_updated": "2026-08-10T09:05:26.186Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "fe265311d12f1545133d5fda33cdefe4",
+      "title": "Generative AI has changed mathematics forever. Where to from here?",
+      "description": "AI-powered breakthroughs are raising big questions about how to do mathematics – and why we do it in the first place.",
+      "url": "https://theconversation.com/generative-ai-has-changed-mathematics-forever-where-to-from-here-288954",
+      "image_url": "https://images.theconversation.com/files/752487/original/file-20260806-50-d5v1wl.jpg?ixlib=rb-4.1.1&rect=0%2C333%2C4897%2C2448&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-09 20:11:30",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4fd4ecdf6047cc34247ba115df1a0b61",
+      "title": "Volunteers Tracking Lost Dog Baffled When Locals Trash Thermal Imaging Drone",
+      "description": "\"One of the most valuable rescue tools we've ever owned.\" The post Volunteers Tracking Lost Dog Baffled When Locals Trash Thermal Imaging Drone appeared first on Futurism .",
+      "url": "https://futurism.com/robots-and-machines/animal-dog-rescue-volunteers-drone-trashed-vandalism",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/animal-dog-rescue-volunteers-drone-trashed-vandalism.jpg?quality=85&w=2048",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-08-09 20:01:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5ef3c480a9bee83a55ad44a037a7d3f6",
+      "title": "Is cyberbullying hiding in your child's group chat?",
+      "description": "Cyberbullying often hides inside jokes, group chats and AI deepfakes. These 15 tips help parents and grandparents start the conversation early.",
+      "url": "https://www.foxnews.com/tech/cyberbullying-hiding-child-group-chat",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/931/523/sad-boy-on-phone.jpg?ve=1&tl=1",
+      "source_icon": "https://n.bytvi.com/foxnews.jpg",
+      "source": "Fox News",
+      "published_at": "2026-08-09 20:00:07",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "6d9baaefaa63e169afccd8ae62b1e286",
+      "title": "Scammers Tremble as AI Comes for Their Jobs",
+      "description": "\"They just had absolutely no idea.\" The post Scammers Tremble as AI Comes for Their Jobs appeared first on Futurism .",
+      "url": "https://futurism.com/future-society/scammer-pig-butcher-ai-chatbot-fraud",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/scammer-pig-butcher-ai-chatbot-fraud.jpg?quality=85&w=2048",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-08-09 19:01:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3f5e4cd02036ff72fd588629161edf3a",
+      "title": "Scientists Genetically Engineer High-Protein Lettuce",
+      "description": "Shredded lettuce? We've got jacked lettuce now, kid. The post Scientists Genetically Engineer High-Protein Lettuce appeared first on Futurism .",
+      "url": "https://futurism.com/future-society/scientists-genetically-engineer-high-protein-lettuce",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/08/scientists-genetically-engineer-high-protein-lettuce.jpg?quality=85&w=2048",
+      "source_icon": "https://n.bytvi.com/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-08-09 18:01:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b1bc02121d0647d3a83dce58d39a0d1f",
+      "title": "New catalyst with 75% less platinum promises to reduce the cost of hydrogen fuel cells",
+      "description": "The high cost of platinum is one of the main barriers to the wider adoption of hydrogen fuel cells. Now, researchers at IMDEA Materials Institute have developed a catalyst that delivers the same performance while using 75% less of this expensive metal. The study, published in Electrochimica Acta, demonstrates a breakthrough made possible by applying controlled mechanical compression to the catalyst. This modifies its atomic-scale structure, enabling it to achieve energy efficiency comparable to that of pure platinum.",
+      "url": "https://phys.org/news/2026-08-catalyst-platinum-hydrogen-fuel-cells.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-catalyst-with-75-l.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-09 18:00:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "4ba8fe532f9daf849aad2006ae35d344",
       "title": "French ‘smart bra’ could help detect early signs of breast cancer",
@@ -530,78 +602,6 @@
       "published_at": "2026-08-08 14:01:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "ae28a5e7e104848500123cbfcc1b2755",
-      "title": "JWST Revealed the Early Universe — The Roman Space Telescope Will Help Us Understand How It Evolved",
-      "description": "With a field of view 100 times larger than Hubble’s, NASA’s newest mission will scour the universe for distant worlds and clues about dark energy. Learn about what sets it apart from other space telescopes.",
-      "url": "https://www.discovermagazine.com/jwst-revealed-the-early-universe-the-roman-space-telescope-will-help-us-understand-how-it-evolved-49511",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60125/nancy-grace-roman-telescope-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-08-08 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3d90dff68dc8dd0c3697211c1fb28607",
-      "title": "On this day in space! Aug. 8, 1977: Soviet Union's Salyut 5 reconnaissance space station burns up in Earth's atmosphere",
-      "description": "Salyut 5 was a Soviet space station and part of the highly-secretive Almaz military space station program.",
-      "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-8-2026",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ko9qET2gL6DH3zyGgQ68v4-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-08-08 14:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e2409ff26f26ecb1d951f2326ace8d68",
-      "title": "The Sharpest Image Ever Taken of the Sun Reveals a Hidden Phenomenon",
-      "description": "The photograph, taken in visible light, made it possible to observe for the first time the tiny plasma vortices that had been predicted for more than a century.",
-      "url": "https://www.wired.com/story/the-sharpest-image-ever-taken-of-the-sun-reveals-a-beautiful-hidden-phenomenon/",
-      "image_url": "https://media.wired.com/photos/6a763d9eaaeaaaadb9031470/master/pass/fotografia%20del%20sol.jpg",
-      "source_icon": "https://n.bytvi.com/wired.png",
-      "source": "Wired",
-      "published_at": "2026-08-08 13:30:38",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0f98f10024f4ed6461e1d47c9f184856",
-      "title": "See 2026 WAEC result of boy who wants to study cybersecurity",
-      "description": "A science student who wants to study cybersecurity displays his 2026 WAEC result. Many reacted as he asked whether his grades were strong enough for admission.",
-      "url": "https://www.legit.ng/people/1723957-science-student-posts-waec-result-asks-study-cybersecurity/",
-      "image_url": "https://cdn.legit.ng/images/1200x675/d1060712cd6e852a.jpeg?v=1",
-      "source_icon": "https://n.bytvi.com/legit.png",
-      "source": "Legit Nigeria",
-      "published_at": "2026-08-08 13:30:21",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "be83dabaa15ae10780fd2ae8a8d7384f",
-      "title": "Reduced gravity pushes people toward simpler movement patterns, experiments suggest",
-      "description": "From reaching for a cup of coffee to tying your shoelaces, gravity shapes nearly all human movement. So how do our bodies react when that familiar force begins to change? Texas A&M University researchers are exploring the answer through a multiphase project supported by NASA.",
-      "url": "https://phys.org/news/2026-08-gravity-people-simpler-movement-patterns.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-explore-ho-3.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-08 13:20:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ecc85aba5438d7001ba81527afdac588",
-      "title": "US backs autonomous stroke treatment robot from MIT spinout with $32 million funding",
-      "description": "Magnendo has secured up to $32 million from ARPA-H to develop a magnetic robotic system designed to automate endovascular stroke interventions.",
-      "url": "https://interestingengineering.com/ai-robotics/us-backs-autonomous-stroke-treatment-robot",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/image-1920x1080-2026-08-07T232539.177.png",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-08 12:44:25",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
