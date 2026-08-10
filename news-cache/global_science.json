@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-10T12:41:01.820Z",
+  "last_updated": "2026-08-10T16:41:14.819Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "492ac74897a5ccbb9e1c3f8af123636a",
+      "title": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
+      "description": "We’re answering some questions about the solar eclipse on Aug. 12, and providing a place for you to ask more of them.",
+      "url": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
+      "image_url": "https://static01.nyt.com/images/2026/08/10/multimedia/10SCI-ECLIPSE-EXPLAINER-01-cjhm/10SCI-ECLIPSE-EXPLAINER-01-cjhm-mediumSquareAt3X.jpg",
+      "source_icon": "https://n.bytvi.com/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-08-10 04:01:06",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "daf1eb5d204d06b2434e395a5018eee6",
+      "title": "MIT researchers tackle the economic realities of fusion power",
+      "description": "Their new study aims to give budding industry a framework for understanding how fusion can be profitable.",
+      "url": "https://news.mit.edu/2026/mit-researchers-tackle-economic-realities-fusion-power-0810",
+      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-FusionEconomics-01-press_1.jpg?itok=tXuhPoKt",
+      "source_icon": "https://n.bytvi.com/mit.jpg",
+      "source": "Massachusetts Institute Of Technology",
+      "published_at": "2026-08-10 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d9790ecada56f307bf063ec34f1f67d0",
+      "title": "Tick, tick ... boom",
+      "description": "IN hindsight, revolutions are easy to predict. Years, decades and even centuries after such events, scholars will write volumes explaining how prevailing conditions made such violent action inevitable, with the most common preconditions being extreme economic inequality and injustice along with an oppressive state which is not only prone to overreaction but is also so wedded to using force that it has forgotten all other means of conflict reduction and resolution. What is next to impossible to predict is the single spark that sets off the explosion, the final straw that breaks the back of the ancient regime. And all too often, that spark is so small as to be insignificant and the straw is almost weightless compared to the existing burden accumulated over years. In Bangladesh, the issue of job reservations led to the swift end of Hasina Wajed’s 15-year reign and resulted in her fleeing the country, but how many jobs were actually reserved this way? According to most calculations, they were no more than 1,000 at most and given Bangladesh’s population and relative economic prosperity one would imagine that this would have been a relatively minor issue. Certainly, Hasina Wajed — with the overconfidence and isolation that absolute power breeds — thought it would blow over. Instead, it blew her regime away. Similarly, in Nepal, while anger over widespread political corruption, high unemployment and extreme economic inequality and frustration was the norm, the spark that led ‘Gen Z’ to riot was the government’s September 2025 ban on 26 social media platforms. While the government framed this as a regulatory measure, the protesters were convinced that the real reason for the ban was to block a social media trend that focused on the privileges and wealth of the children and close relatives of Nepal’s ruling class. The economic divide had always been a reality, but now, for the first time, a poor unemployed youngster in Nepal could see the sons and daughters of ministers live it up on Instagram, spending more on a single purchase than that youth could hope to earn in a lifetime. By the time states get around to addressing the spark, the fire has spread. In Bangladesh, Hasina Wajed got the supreme court to reduce the reservation quota to seven per cent but it was too little, too late; the fuse had already been lit and the protests had become an uprising against authoritarianism and the loss of life during the government crackdown. Ensconced in her palace, one imagines that Hasina simply didn’t understand what had hit her. A single spark can set off an explosion. In Nepal the government lifted the social media ban just a few days after imposing it but by that time several dozen protesters had been killed and government buildings set on fire. Four days after the ban was imposed, and one day after it was lifted, the prime minister had to resign. India’s ‘cockroach’ movement was milder in comparison. However, it represented not just anger at exam leaks but a deeper frustration with a system seemingly fully captured by the Sangh agenda and networks. Despite the state’s surprise that time-tested heavy-handed tactics and media smears no longer seemed to work, it acted with far more foresight than its neighbours by addressing the central demands before the movement spread out of control and by not resorting to deadly force. The final fate of the movement remains to be decided, but for now, it seems the crisis has passed even though it exposed the chinks in Narendra Modi’s hitherto impenetrable armour. Often, state overreaction to a movement or protest causes that protest to balloon into rebellion and revolution even if that was not the original intention of the demonstrators. Case in point: a large but mostly peaceful procession of peasant workers led by Orthodox priest Father Georgy Gapon on Jan 9, 1905. Gapon was no revolutionary and nor were revolutionary elements prominent in the crowd. In fact, anti-tsar parties like the Bolsheviks had disapproved of the march due to its lack of political demands. Carrying icons and portraits of the tsar, the crowd regarded Nicholas II as their benevolent ‘little father’ whom, they hoped, would listen to their pleas and save them from exploitation. Instead, the crowd was fired upon by panicked imperial troops resulting in hundreds of deaths. Distraught and dismayed, surrounded by the dead and wounded, the previously pro-tsar Gapon was heard to shout: “There is no God any longer. There is no tsar.” And from here on, the days of imperial Russia were numbered. Here then are lessons for all states, inc­luding our own: address concerns before they metastasize beyond treatment and just because a strategy has worked in the past there is no guarantee that it will not backfire in the present. Finally, never use a hacksaw when a scalpel is required. The writer is a journalist. X: @zarrarkhuhro Published in Dawn, August 10th, 2026",
+      "url": "https://www.dawn.com/news/2021794/tick-tick-boom",
+      "image_url": "https://i.dawn.com/large/2026/08/10053325dfea4e0.webp",
+      "source_icon": "https://n.bytvi.com/dawn.png",
+      "source": "Dawn",
+      "published_at": "2026-08-10 03:16:31",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8e6d59773583f70beb59dac33ceaf6e0",
+      "title": "Chilling detail in popular new tech device",
+      "description": "Calls are growing for a regulatory crackdown on smart glasses after new research revealed the devices are being used to secretly film women and share these footage online without their consent.",
+      "url": "https://www.news.com.au/technology/gadgets/wearables/smart-glasses-pose-new-harassment-risks-for-women-expert-and-advocates-warn/news-story/e148ff78f62eca92e2e3851c422eacbe",
+      "image_url": "https://content.api.news/v3/images/bin/cf1674698479a2719b253f8ba6916e29",
+      "source_icon": "https://n.bytvi.com/news.sk.png",
+      "source": "News",
+      "published_at": "2026-08-10 02:03:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e8c9c4cbc6dbfd41aef57bae6c4e0716",
+      "title": "Sheep-herding robot dogs put to the test at the Ekka Royal Queensland show — video",
+      "description": "The University of the Sunshine Coast student project is trialling the use of robotic dogs to herd sheep, with public demonstrations of the units at the Brisbane Showgrounds. Dr David Alonso-Caneiro, a senior lecturer in mechatronics, says the long-term view is to establish the feasibility of one day using similar machines as fully autonomous tools on farms Continue reading...",
+      "url": "https://www.theguardian.com/technology/video/2026/aug/10/sheep-herding-robot-dogs-put-to-the-test-at-the-ekka-royal-queensland-show-video",
+      "image_url": "https://i.guim.co.uk/img/media/50dfda0ced4d6b1fbf6a964ec67233eb202686bd/0_655_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a340e67020744827680e8ef6407a886e",
+      "source_icon": "https://n.bytvi.com/theguardian.jpg",
+      "source": "The Guardian",
+      "published_at": "2026-08-10 01:51:35",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "91b44d54e9a8f249a9dea05d296c76ea",
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "description": "Typhoon Dolphin made landfall on Sunday evening, affecting Shanghai and other parts of eastern China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-10 01:44:05",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "1fc8fb3dbdac8b82a26ea40579e7f0fa",
       "title": "US lab’s new technique could accelerate production of critical nuclear isotope",
@@ -530,78 +602,6 @@
       "published_at": "2026-08-08 19:02:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "3f972723ea74dc51cff7a63a44a9cac2",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c811/live/dbfff410-90b9-11f1-a7ab-8b30adf0800a.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-08 19:00:22",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "27ffd3e4f8daced8a969da5fa29f1d21",
-      "title": "Vatican may know scripture describes alien beings... and Bible expert reveals the hidden clues",
-      "description": "A former Bible translator has said that his research hints that the original Hebrew Bible texts refer to groups of alien beings, not one God.",
-      "url": "https://www.dailymail.com/sciencetech/article-15996411/vatican-bible-aliens-mauro-biglino.html",
-      "image_url": "https://i.dailymail.com/1s/2026/07/31/20/110376229-0-image-a-6_1785527980759.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-08-08 18:24:27",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1e57bedc8058b3fd93ef973a243edd40",
-      "title": "US scientists develop new tech that can help speed up new materials’ discovery",
-      "description": "A research team from the United States developed an AI framework that automates atomistic simulations from start to finish.",
-      "url": "https://interestingengineering.com/innovation/ai-agents-accelerate-material-discovery",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/ai-tech-new.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-08 18:23:26",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4e2271b0e01727429211d58a191e0766",
-      "title": "Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI",
-      "description": "Reddit is looking to fight bots with bots. The post Reddit Finally Found a Way to Make Its Mods Even Worse: Replace Them With AI appeared first on Futurism .",
-      "url": "https://futurism.com/artificial-intelligence/reddit-mods-worse-replace-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/reddit-mods-worse-replace-ai.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-08 18:01:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "4b91dfd48fa8256b9b4be5630b5043ab",
-      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach",
-      "description": "A global analysis of range-shift records for 1,758 butterfly species—10% of known butterfly species—found that 80% had expanded their range and that 79% of all recorded range shifts were linked to climate change and extreme weather events. The new study, published in Nature Ecology & Evolution, also reports range contractions for 27% of species, and 22% of species showed a change in elevation. Because many species exhibited multiple types of range shifts, the percentages for expansions, contractions and elevation changes are above 100%.",
-      "url": "https://phys.org/news/2026-08-butterfly-ranges-shift-worldwide-climate.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/butterfly.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-08 17:40:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "77692d8335837efc9a7d435cee3d4116",
-      "title": "AI Data Centers Are Causing Unfathomable Amounts of Air Pollution, and It Gets Worse With Each New One They Build",
-      "description": "The tech industry is showing no signs of slowing down. The post AI Data Centers Are Causing Unfathomable Amounts of Air Pollution, and It Gets Worse With Each New One They Build appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/ai-data-centers-air-pollution-generators-worse",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/ai-data-centers-air-pollution-generators-worse.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-08 17:02:00",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
