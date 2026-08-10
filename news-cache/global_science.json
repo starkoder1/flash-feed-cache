@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-10T09:05:26.186Z",
+  "last_updated": "2026-08-10T12:41:01.820Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1fc8fb3dbdac8b82a26ea40579e7f0fa",
+      "title": "US lab’s new technique could accelerate production of critical nuclear isotope",
+      "description": "Researchers at Oak Ridge National Laboratory found a way to cut a week or more from the production of californium-252, a rare isotope used to start nuclear reactors.",
+      "url": "https://interestingengineering.com/energy/us-lab-produce-critical-nuclear-isotope",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/image-1920x1080-2026-08-09T182158.075.png",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-10 00:39:19",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "3f2bf0a17d9f3f1f9b3f5f2a94be14ab",
+      "title": "Drones and machine learning team up to map forest soil health | Folio",
+      "description": "Technique cuts down on costly hands-on field sampling, covers more ground for soil conservation.",
+      "url": "https://www.ualberta.ca/en/folio/2026/08/drones-machine-learning-team-up-to-map-forest-soil-health.html",
+      "image_url": "https://www.ualberta.ca/en/folio/media-library/2026/08/260810-ai-soil-monitoring-teaser-16x9-1600.jpg",
+      "source_icon": "https://n.bytvi.com/ualberta_ca.png",
+      "source": "University Of Alberta",
+      "published_at": "2026-08-10 00:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "492b425b816364846a82800fdb3f6dc7",
+      "title": "Ben Jones, Actor Turned Politician Who Played Cooter Davenport in ‘The Dukes of Hazzard,’ Dies at 84",
+      "description": "Ben Jones, the actor turned politician best known for playing Cooter Davenport on “The Dukes of Hazzard,” died on Sunday from a heart attack, according to his wife Alma Viator. He was 84. Viator announced her husband’s death in a Facebook post on Sunday afternoon. With a photo of Jones holding his dog, she wrote, [...]",
+      "url": "https://variety.com/2026/tv/obituaries-people-news/ben-jones-dead-cooter-davenport-the-dukes-of-hazzard-1236831024/",
+      "image_url": "https://variety.com/wp-content/uploads/2026/08/MixCollage-09-Aug-2026-04-41-PM-5057.jpg",
+      "source_icon": "https://n.bytvi.com/variety.png",
+      "source": "Variety",
+      "published_at": "2026-08-09 23:50:25",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6c0456ef4b9c18a4b6706cdb54fec450",
+      "title": "How dogs evolved differently across the globe to match human traits",
+      "description": "We call them \"man's best friend,\" and the evidence supports it. Dogs have been found buried alongside humans in graves dating back 14,000 years. They appear in ancient art from every continent, and they feature in the mythology, religion and folklore of virtually every culture. Archaeological evidence shows they have helped us hunt, protected our homes, hauled our possessions, herded our livestock and provided companionship through the entirety of recorded history.",
+      "url": "https://phys.org/news/2026-08-dogs-evolved-differently-globe-human.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/dog-1.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-09 23:10:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5160ad8c8983431319bf5478aca81db0",
+      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
+      "description": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e45d/live/3a16cf80-90e5-11f1-bad1-37f8e0c246e3.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-09 23:02:39",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "fe265311d12f1545133d5fda33cdefe4",
       "title": "Generative AI has changed mathematics forever. Where to from here?",
@@ -542,66 +602,6 @@
       "published_at": "2026-08-08 17:02:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "2151b4a627aa835373488d6a9aa11b68",
-      "title": "Pulsed radiofrequency magnetic fields may disorient migratory birds, experiments suggest",
-      "description": "Every year, millions of migratory birds travel between different geographical regions on Earth to find food, escape cold weather or reach safe environments to raise chicks. To determine which direction to fly, these birds rely on various types of sensory cues and information, including the magnetic field surrounding our planet, known as the geomagnetic field.",
-      "url": "https://phys.org/news/2026-08-pulsed-radiofrequency-magnetic-fields-disorient.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-clues-about-how-ma.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-08 16:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "643ea450ac87a1e6c48899338d853941",
-      "title": "Texas Avoids Blackout by the Grace of Solar Power",
-      "description": "\"We hit an all time peak, and we had no issue hitting that peak.\" The post Texas Avoids Blackout by the Grace of Solar Power appeared first on Futurism .",
-      "url": "https://futurism.com/science-energy/texas-blackout-ercot-solar-power-generation",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/texas-blackout-ercot-solar-power-generation_fc0522.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-08 16:02:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "c862aa41db0da501eaabdb1f78593d8d",
-      "title": "Scientist Reveals Plan to Save Earth From Destruction by the Sun",
-      "description": "It's worth a shot! The post Scientist Reveals Plan to Save Earth From Destruction by the Sun appeared first on Futurism .",
-      "url": "https://futurism.com/space/plan-save-earth-destruction-by-sun",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/plan-save-earth-destruction-by-sun.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-08 15:01:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "b0f3c2ef253763e7ee1cfbe0a33c8fb4",
-      "title": "Mysterious 'cloaked UFO' spotted hiding inside cloud over North America",
-      "description": "A mysterious 'cloaked UFO ' hiding inside a cloud appeared over a quiet mountain town. Locals spotted what looked like a glowing, saucer-shaped formation in the sky.",
-      "url": "https://www.dailymail.com/sciencetech/article-16031619/ufo-cloud-canmore-alberta.html",
-      "image_url": "https://i.dailymail.com/1s/2026/08/07/16/110501391-0-image-a-24_1786115735432.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-08-08 14:17:23",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6f023a67be6c21271c4a47c4d108120d",
-      "title": "VC-Funded Startups Linked to Persistent Fraud",
-      "description": "Go figure? The post VC-Funded Startups Linked to Persistent Fraud appeared first on Futurism .",
-      "url": "https://futurism.com/future-society/vc-funded-tech-startups-fraud-research-ai",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/08/vc-funded-tech-startups-fraud-research-ai.jpg?quality=85&w=2048",
-      "source_icon": "https://n.bytvi.com/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-08-08 14:01:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
