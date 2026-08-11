@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-11T12:38:07.059Z",
+  "last_updated": "2026-08-11T16:44:32.036Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "cf2883a42330fa39005770aa11eba934",
+      "title": "Major warning issued to people with smartphones ahead of solar eclipse",
+      "description": "People hoping to capture this week's spectacular event on their phones are being urged to take care.",
+      "url": "https://www.express.co.uk/news/science/2237772/nasa-warning-smartphones-pictures-solar-eclipse",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/237x141/2237772_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-08-11 04:16:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c155b8c5ffc2e4629927155a52752e7c",
+      "title": "Colombia earthquake has killed at least 132. My research helps explain why it was so destructive",
+      "description": "Many buildings in Colombia have thin concrete walls, which makes them extremely vulnerable to collapse.",
+      "url": "https://theconversation.com/colombia-earthquake-has-killed-at-least-132-my-research-helps-explain-why-it-was-so-destructive-289478",
+      "image_url": "https://images.theconversation.com/files/753212/original/file-20260811-60-hrwid5.jpg?ixlib=rb-4.1.1&rect=0%2C604%2C5033%2C2516&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-11 04:16:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "b27623a9b6db37f60a9dfdccb9dedd81",
+      "title": "The great silence: why haven’t we found any aliens yet?",
+      "description": "Given the size and age of the universe, it should be full of species with technology far more advanced than our own. So where are they? • The summer issue of the Long Read magazine is out now. Click here to order During a visit to the Los Alamos National Laboratory in 1950, Enrico Fermi, one of the architects of the Manhattan Project, was having lunch with other physicists when the conversation turned to flying saucers. At one point during the discussion, Fermi blurted out: “Where is everybody?” – or, as another participant remembered it, “Don’t you ever wonder where everybody is?” If aliens exist, in other words, why have we never encountered them? The episode has become famous, marking the moment when extraterrestrial life went from a theme for philosophical speculation to a serious scientific problem. For centuries, people had wondered whether life exists on the moon or Mars, but they accepted that we would never know for certain, since making contact with another planet was impossible. By the 1950s, those limits no longer seemed so fixed. In addition to space flight, researchers were developing tools to detect the radio signals that reach us from stars many light years away. These developments were still in their infancy, but it was already clear that humanity was no longer bound to Earth the way it always had been. Continue reading...",
+      "url": "https://www.theguardian.com/news/2026/aug/11/the-great-silence-why-havent-we-found-any-aliens-yet",
+      "image_url": "https://i.guim.co.uk/img/media/c42bd6a72d410220a91e2a2a39ac3bc69e06af9a/802_0_3797_3038/master/3797.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f150399ce0e9ff0f7d1c97671bbbccef",
+      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
+      "source": "Theguardiantheguardian",
+      "published_at": "2026-08-11 04:00:04",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "9c1e1b8cacbe1953c0973a6b273e7fca",
+      "title": "Brain scans provide world-first evidence dogs can distinguish between human fear and sadness",
+      "description": "Think your dog can tell when you’re angry rather than sad? New research inside dogs’ brains suggests the answer might be more complicated than you think.",
+      "url": "https://theconversation.com/brain-scans-provide-world-first-evidence-dogs-can-distinguish-between-human-fear-and-sadness-288916",
+      "image_url": "https://images.theconversation.com/files/752986/original/file-20260810-50-ibqoi3.jpg?ixlib=rb-4.1.1&rect=0%2C521%2C6240%2C3120&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-11 02:48:32",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "66ba831e29f6ae41c8d71c07c2d6b81f",
+      "title": "Perseid meteor shower reaches peak: When and where to catch a glimpse",
+      "description": "On Wednesday night the Perseids will peak offering the best chance of seeing a 'shooting star'.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3kn216yzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ef1/live/10392c10-94c0-11f1-adb5-bd19050a74a5.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-11 01:59:24",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "443943b11f37c341675e4dbdeabc489c",
       "title": "Disabled in a heatwave: 'We're talking about survival'",
@@ -542,66 +602,6 @@
       "published_at": "2026-08-10 06:43:54",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "16caa1943fef9de38583ba77a9706b9e",
-      "title": "AB Science capta 14,2 millones de euros",
-      "description": "Tome las riendas de su éxito bursátil. Maximice sus ganancias bursátiles desbloqueando nuestras herramientas, consejos y análisis de expertos. Nuestras suscripciones de pago le guiarán hacia el éxito en bolsa. Elija una de nuestras suscripciones y saque el máximo partido a MarketScreener",
-      "url": "https://es.marketscreener.com/noticias/ab-science-capta-14-2-millones-de-euros-ce7f50d3df8ff526",
-      "image_url": "https://es.marketscreener.com/images/twitter_MS_fdgris.png",
-      "source_icon": "https://n.bytvi.com/marketscreener.png",
-      "source": "Marketscreenerc",
-      "published_at": "2026-08-10 06:11:20",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "314cc1fe4529905d415f1afe568185a2",
-      "title": "Innate Pharma Enters Strategic Partnership With Sobi to License Lacutamab in T-cell Lymphoma",
-      "description": "MARSEILLE, France--(BUSINESS WIRE)---- $IPH #ADC--Regulatory News: Innate Pharma SA (Euronext Paris: IPH; Nasdaq: IPHA) (\"Innate\" or the \"Company\") and Swedish Orphan Biovitrum AB (publ) (Sobi®) today announced that they have entered a strategic partnership to enable initiation of the TELLOMAK-3 confirmatory Phase 3 study in cutaneous T-cell lymphoma (CTCL), a key step toward filing for accelerated approval of lacutamab in Sézary syndrome, a subtype of CTCL. Under the agreement, Innate will conduct the TELLO",
-      "url": "http://www.businesswire.com/news/home/20260809916851/en/Innate-Pharma-Enters-Strategic-Partnership-With-Sobi-to-License-Lacutamab-in-T-cell-Lymphoma/",
-      "image_url": "https://mms.businesswire.com/media/20260809916851/en/1245155/21/INNATEvertnoirDS.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-08-10 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2d0e4fd6239f147b881fc68e45c29a7f",
-      "title": "Almirall Enters Collaboration With CrystalO for the Discovery and Development of Novel Small Molecules in Medical Dermatology",
-      "description": "BARCELONA, Spain--(BUSINESS WIRE)--Almirall, S.A. (ALM), a global biopharmaceutical company dedicated to medical dermatology based in Barcelona, today announced a collaboration and licensing agreement with Shenzhen CrystalO Biopharma Technology Co., Ltd. (\"CrystalO\") to jointly initiate an R&D collaboration for drug discovery in medical dermatology. The collaboration will combine CrystalO's scientific expertise in ion channels with Almirall's experience in medical dermatology research and c",
-      "url": "http://www.businesswire.com/news/home/20260809965150/en/Almirall-Enters-Collaboration-With-CrystalO-for-the-Discovery-and-Development-of-Novel-Small-Molecules-in-Medical-Dermatology/",
-      "image_url": "https://mms.businesswire.com/media/20260809965150/en/1637877/21/ALM_LOGO.jpg",
-      "source_icon": "https://n.bytvi.com/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-08-10 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b07aa176c04db11f70730a8858b049f7",
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "description": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside people to wildly different environments and needs, from powerful Arctic sled dogs and agile rainforest hunters to high-altitude dogs with genetic traits for surviving thin air. Some were even bred for wool, while others played important spiritual or ceremonial roles.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/man-and-wolf.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-10 05:57:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d549342db1ff63e8996c2122e819edfe",
-      "title": "Cassini reveals a surprising twist in Saturn’s magnetic shield",
-      "description": "Cassini data has revealed a surprising twist in Saturn’s magnetic shield: the planet’s rapid rotation appears to drag a key opening in its magnetosphere far toward the afternoon side instead of keeping it near noon, as happens on Earth. The finding confirms that giant planets like Saturn operate under a fundamentally different magnetic regime, where fast spin and charged material from moons such as Enceladus can overpower the Sun’s influence.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260807035153.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/saturn-asymmetric-temperature-structure.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-10 05:56:34",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
