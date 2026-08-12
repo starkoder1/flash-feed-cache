@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-12T12:40:45.621Z",
+  "last_updated": "2026-08-12T16:44:28.784Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f9cfaa580bd5eb1cb11a1acb27033615",
+      "title": "The Trump administration claims oil is flowing normally again. There’s just one problem",
+      "description": "Energy Secretary Chris Wright said Tuesday that oil exports from the Middle East rose above pre-war levels on Sunday and have been right around normal for a week — a highly dubious claim that does not appear to be backed up by observable shipping traffic.",
+      "url": "https://www.cnn.com/2026/08/12/business/strait-of-hormuz-traffic-trump",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2289259890.jpg?c=original/w_800",
+      "source_icon": "https://n.bytvi.com/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-08-12 04:01:29",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "02aa4bc187b91ee847d994d4c41931ae",
+      "title": "‘A mouse can’t tell us what works’: UK scientists to grow miniature human organs for drug testing",
+      "description": "Organoids and tissues grown from human cells promise more accurate results, with £20m Cambridge project to create standardised models Miniature human organs and other tissues are to be grown from NHS patients’ cells in a drive to improve medicine testing and reduce the number of animals used in drug development. Scientists will use the clumps of tissue to learn how diseases vary between patients, helping them identify which treatments are best for different people based on the particular pathology underlying their condition. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/aug/12/organoids-human-organs-cambridge-shift-drug-testing-medicines-animals",
+      "image_url": "https://i.guim.co.uk/img/media/33749e50f5177ebb7f227231916bfefa76d284dc/0_116_1024_819/master/1024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7637d373f2421a740643e5d42413c73f",
+      "source_icon": "https://n.bytvi.com/theguardiantheguardian.png",
+      "source": "Theguardiantheguardian",
+      "published_at": "2026-08-12 04:00:19",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "24116b5c2df81a4f88dc61f8fa5d7139",
+      "title": "Today's Mediterranean diet leans on olive oil, veggies and fish—But the ancients mainly ate bread",
+      "description": "The Roman emperor Julian (332–363 CE) called bread the food that \"among us is thought to be the most nourishing.\"",
+      "url": "https://phys.org/news/2026-08-today-mediterranean-diet-olive-oil.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/todays-mediterranean-d.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-12 01:40:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0abd3449000de547f1bb9c661ac731a3",
+      "title": "World youth unemployment rate rose last year, U.N. agency says",
+      "description": "Some of the steepest increases were seen in high-income countries as artificial intelligence begins to change the jobs market.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/12/un-youth-unemployment/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/12/556670.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-08-12 00:57:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "f907601cdddd22d64b8e1b7a37f15355",
       "title": "Just 1% strain exposes hidden magnetism, opening new way to control electrical signals",
@@ -554,54 +602,6 @@
       "published_at": "2026-08-11 07:33:52",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "368200d2c9e23934e62ad43d6bd4aae8",
-      "title": "Weather prediction hits a theoretical 129-day ceiling",
-      "description": "Prediction is the goal and test of all science, one might argue. Meteorologists have been curious about the inherent limits of weather forecasting ever since the dawn of numerical weather prediction in the late 1950s.",
-      "url": "https://phys.org/news/2026-08-weather-theoretical-day-ceiling.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/weather-prediction-hit.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-11 06:32:13",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "cf7c76d95081cb785e9c0631a0e4131a",
-      "title": "Scientists make diamond five times tougher without losing any of its hardness",
-      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
-      "url": "https://interestingengineering.com/science/diamond-carbon-nanotube-five-times-tougher",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-11 06:30:43",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "7f9a47cbfb47e980f1b26960dfb791b9",
-      "title": "Your dog can spot when you are happy or scared, scientists find",
-      "description": "Brain scans revealed dogs can interpret different facial expressions",
-      "url": "https://www.independent.co.uk/news/uk/home-news/dog-tell-emotion-human-face-b3030357.html",
-      "image_url": "https://static.independent.co.uk/2026/08/10/10/11/aSCEiyUA.png?width=1200&auto=webp&trim=0%2C33%2C0%2C85",
-      "source_icon": "https://n.bytvi.com/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-08-11 06:07:18",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "73b7f21eef28af5d25f9dafa4e74eed1",
-      "title": "Isle of Man 'very well placed' for solar eclipse",
-      "description": "The island is particularly well placed to see the celestial spectacle, sitting just outside the path of totality.",
-      "url": "https://www.bbc.co.uk/news/articles/c89n5lxp84wo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ba4/live/0155afe0-94aa-11f1-a4b1-4525e6527cc2.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-11 05:13:46",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
