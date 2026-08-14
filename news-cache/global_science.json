@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-14T16:39:23.598Z",
+  "last_updated": "2026-08-14T20:20:40.027Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "09b6a8bb1d488b2bf8699465a621d40f",
+      "title": "Why fossilized feces from ancestors of modern animals help us understand Earth’s early ecosystems",
+      "description": "A study of fossilized feces, known as coprolites, from 540 million years ago found fecal matter likely played a significant role in an explosion of biodiversity in the early Cambrian period. Paleontologists say these fossils can tell us a lot about ancient animals and the ecosystems they inhabited.",
+      "url": "https://www.cbc.ca/news/science/fossil-feces-cambrian-ocean-ecosystems-9.7305871?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/f38c525e-7510-4993-b292-9adacb6dda58,1786564586320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C183%2C1024%2C576%29%3B",
+      "source_icon": "https://n.bytvi.com/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-08-14 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4d4beac355a2c902011dc36fb2cb6206",
+      "title": "Your child’s GPS watch tells everyone where they are",
+      "description": "Two researchers took over millions of children’s GPS watches at DEF CON. The real finding is the supply chain: 39 brand names sit on a single server in China, several of them sold across Europe. You can check it yourself in the Play Store. The badge on the strap says nothing about where your child’s location data goes.",
+      "url": "https://www.notebookcheck.net/Your-child-s-GPS-watch-tells-everyone-where-they-are.1367794.0.html",
+      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kinder-GPS-Uhr-Teaser-Ron-Lach.jpg",
+      "source_icon": "https://n.bytvi.com/notebookcheck.png",
+      "source": "Notebookcheck",
+      "published_at": "2026-08-14 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "37cd4cf94f39d7f4e3d8e1c674402fb8",
+      "title": "US scientists identify geometric design rule that could help build ultralow-energy computing systems",
+      "description": "An Argonne-led study has uncovered a geometric rule that determines whether clusters of nanomagnets behave predictably or probabilistically as they relax toward a stable state.",
+      "url": "https://interestingengineering.com/science/us-scientists-ultralow-energy-computing-geometric-design",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/computing-new.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-14 07:09:13",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e2594cf6e982ef93780c394c8448813a",
+      "title": "'Squashed poo' a sign of water voles' success",
+      "description": "Signs suggest the water vole population on the Hogsmill River in Surrey has been reestablished.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1097w45no",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-14 04:57:09",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "d7b4b73aeac04ababf23ec3e60ba4ce2",
       "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
@@ -554,54 +602,6 @@
       "published_at": "2026-08-13 12:00:05",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "b44aa35cb79d481818429aab6457ec89",
-      "title": "Early hardship may shape how oxytocin influences altruism",
-      "description": "While humans are inherently social beings, they can interact and connect with others in very different ways. For instance, while some people tend to be more altruistic, others are less prone to helping their friends, acquaintances or even complete strangers, particularly when it comes at a personal cost.",
-      "url": "https://phys.org/news/2026-08-early-hardship-oxytocin-altruism.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/childhood-adversity-co.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-13 12:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "31e03d4a6c9cd79c118e5a49d5fbcfeb",
-      "title": "When is the next solar eclipse? Mark your calendar for an upcoming 'ring of fire' and the 'eclipse of the century'",
-      "description": "You thought 2026 was a good year for solar eclipses? Just wait until 2027...",
-      "url": "https://www.space.com/stargazing/solar-eclipses/when-is-the-next-solar-eclipse-mark-your-calendar-for-an-upcoming-ring-of-fire-and-the-eclipse-of-the-century",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/7h4agfK5fWTzFVcnpp8z4g-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-08-13 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b7f27a8eb73911ad62f488a92e99dac7",
-      "title": "Eclipse warning: The key signs you may have damaged your eyes",
-      "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
-      "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad44/live/68ec8ad0-9701-11f1-b72c-211ea4e0afc4.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-13 11:57:28",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "25e78a5ff4885159e6898b61cd5bc753",
-      "title": "Researchers build 3D-printed rubber that resists shock and fatigue 15 times over",
-      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
-      "url": "https://interestingengineering.com/science/epfl-3d-printable-rubber-fracture-resistant",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-13 08:27:55",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
