@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-15T16:11:14.257Z",
+  "last_updated": "2026-08-15T20:09:42.283Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "f2e441c01b639a86e40d9401ada707cd",
+      "title": "Diamond melting breakthrough could deliver 3x energy gain in laser-driven nuclear fusion",
+      "description": "Applying the findings to inertial confinement fusion could triple energy gain, and the new understanding of diamond’s high-pressure phases could reshape models of planetary interiors.",
+      "url": "https://interestingengineering.com/energy/diamond-melting-breakthrough-nuclear-fusion",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/diamond-new.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-15 08:08:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5614e012a897dc6c954dd9c034d8405b",
+      "title": "Gut viruses are evolving new tricks to beat bacteria — and could help fight superbugs",
+      "description": "Scientists have found that some viruses can deliberately generate genetic diversity to evade bacterial defences, offering a potential new clue for developing treatments when antibiotics fail.",
+      "url": "http://www.euronews.com/health/2026/08/15/gut-viruses-are-evolving-new-tricks-to-beat-bacteria-and-could-help-fight-superbugs",
+      "image_url": "https://images.euronews.com/articles/stories/09/87/45/07/1440x810_cmsv2_dfbaca11-1bb3-5cd6-9488-34f9b56655c1-9874507.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-08-15 06:29:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e6b5d9ba9e6e1bf52afb802cef61db23",
+      "title": "Solar eclipse inspires talk of Pac-man and Shinto myths",
+      "description": "Thousands turned out to watch the solar eclipse in the South West; here's what they made of it.",
+      "url": "https://www.bbc.co.uk/news/articles/c33020jgyllo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6f4/live/bd078d30-9707-11f1-b72c-211ea4e0afc4.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-15 06:08:29",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ad81fc7b8c85487fe30e2e4ce717aff2",
+      "title": "Europe's scorched landscapes seen from space after summer heatwaves",
+      "description": "BBC Verify examines the impact of drought and extreme heat on western European rivers, fields and mountains.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b95/live/1efcbb90-97f4-11f1-870d-5d08c49babb2.png",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-15 05:01:13",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "fa376ee1e55cbc6bae2922c91d129ac5",
       "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
@@ -38,6 +86,18 @@
       "published_at": "2026-08-15 02:31:16",
       "language": "english",
       "category": "health"
+    },
+    {
+      "id": "1c4cf1fa98d6514ad15cdc5d8fa826c0",
+      "title": "Foundation: Galactic Frontier codes (August 2026) - Fill up on Water and Metal",
+      "description": "Updated on August 15th, 2026 - checked for codes Created by FunPlus, Foundation: Galactic Frontier lets you dive into the universe of Isaac Asimov's Foundation novels. In this game, the Galactic Empire has fallen, new factions have arisen, and the fate of humanity is in your hands. ... [ MORE ]",
+      "url": "https://www.pocketgamer.com/foundation-galactic-frontier/codes/",
+      "image_url": "https://media.pocketgamer.com/artwork/na-36182-1752244266/foundation-galactic-frontier-newkv.jpg",
+      "source_icon": "https://n.bytvi.com/pocketgamer.jpg",
+      "source": "Pocketgamer",
+      "published_at": "2026-08-15 01:38:00",
+      "language": "english",
+      "category": "science"
     },
     {
       "id": "31e7e5f5c5261a0b389a7640ba693c19",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/independentuk.png",
       "source": "The Independent",
       "published_at": "2026-08-14 11:06:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e1c96f2b81ed3ba561ba7fea5be9c842",
-      "title": "DWP confirms 'next stage' of PIP reforms coming in September and October",
-      "description": "The first phase of the Timms Review \"focused on understanding people’s experiences and gathering evidence about how the current system operates\"",
-      "url": "https://www.birminghammail.co.uk/news/cost-of-living/dwp-confirms-next-stage-pip-34459006",
-      "image_url": "https://i2-prod.birminghammail.co.uk/news/midlands-news/article34458945.ece/ALTERNATES/s615/0_disabled.jpg",
-      "source_icon": "https://n.bytvi.com/birminghammail.png",
-      "source": "Birmingham Live",
-      "published_at": "2026-08-14 10:45:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "09b6a8bb1d488b2bf8699465a621d40f",
-      "title": "Why fossilized feces from ancestors of modern animals help us understand Earth’s early ecosystems",
-      "description": "A study of fossilized feces, known as coprolites, from 540 million years ago found fecal matter likely played a significant role in an explosion of biodiversity in the early Cambrian period. Paleontologists say these fossils can tell us a lot about ancient animals and the ecosystems they inhabited.",
-      "url": "https://www.cbc.ca/news/science/fossil-feces-cambrian-ocean-ecosystems-9.7305871?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/f38c525e-7510-4993-b292-9adacb6dda58,1786564586320/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C183%2C1024%2C576%29%3B",
-      "source_icon": "https://n.bytvi.com/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-08-14 08:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4d4beac355a2c902011dc36fb2cb6206",
-      "title": "Your child’s GPS watch tells everyone where they are",
-      "description": "Two researchers took over millions of children’s GPS watches at DEF CON. The real finding is the supply chain: 39 brand names sit on a single server in China, several of them sold across Europe. You can check it yourself in the Play Store. The badge on the strap says nothing about where your child’s location data goes.",
-      "url": "https://www.notebookcheck.net/Your-child-s-GPS-watch-tells-everyone-where-they-are.1367794.0.html",
-      "image_url": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Kinder-GPS-Uhr-Teaser-Ron-Lach.jpg",
-      "source_icon": "https://n.bytvi.com/notebookcheck.png",
-      "source": "Notebookcheck",
-      "published_at": "2026-08-14 08:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "37cd4cf94f39d7f4e3d8e1c674402fb8",
-      "title": "US scientists identify geometric design rule that could help build ultralow-energy computing systems",
-      "description": "An Argonne-led study has uncovered a geometric rule that determines whether clusters of nanomagnets behave predictably or probabilistically as they relax toward a stable state.",
-      "url": "https://interestingengineering.com/science/us-scientists-ultralow-energy-computing-geometric-design",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/computing-new.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-14 07:09:13",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e2594cf6e982ef93780c394c8448813a",
-      "title": "'Squashed poo' a sign of water voles' success",
-      "description": "Signs suggest the water vole population on the Hogsmill River in Surrey has been reestablished.",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1097w45no",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a36c/live/005dde40-917c-11f1-b59e-3d7a9337129d.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-14 04:57:09",
       "language": "english",
       "category": "science"
     }
