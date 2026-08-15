@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-15T12:14:56.349Z",
+  "last_updated": "2026-08-15T16:11:14.257Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "fa376ee1e55cbc6bae2922c91d129ac5",
+      "title": "After commercial whaling nearly erased them, blue and fin whales are slowly reclaiming the southeast Atlantic",
+      "description": "More than 40 years after the end of commercial whaling, new research reveals a recent increase in sightings of the world's two largest whale species in the southeastern Atlantic. The findings, published in the African Journal of Marine Science, compiled more than 60 years of confirmed sightings and strandings from Namibia and South Africa's west coast. Although overall numbers remain low, sightings of both species have increased markedly in recent years—with 95% of observations recorded since 2012.",
+      "url": "https://phys.org/news/2026-04-commercial-whaling-erased-blue-fin.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blue-and-fin-whale-sig.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-15 04:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0e97f0ef06b0307845e18da4ac6838cb",
+      "title": "Nancy Cartwright, philosopher: ‘People distrust science because they feel the system has abandoned them’",
+      "description": "The thinker reflects on evidence-based science and advocates for combining methods to put research to good use in economics or public health",
+      "url": "https://english.elpais.com/science-tech/2026-08-15/nancy-cartwright-philosopher-people-distrust-science-because-they-feel-the-system-has-abandoned-them.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/WM2WDJYICRDNLBLWMKT5O7Q2J4.jpeg?auth=fcb037fc1347e29917346fa1d5350fe9b0a7b89d1fb98865be80c73d13d91fb2",
+      "source_icon": "https://n.bytvi.com/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-08-15 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d7f5c4dc80315a452df1afa3a4110e70",
+      "title": "BioRestorative Therapies suspende los envíos de ExoCR y BioX para revisión",
+      "description": null,
+      "url": "https://es.investing.com/news/sec-filings/biorestorative-therapies-suspende-los-envios-de-exocr-y-biox-para-revision-93CH-3797907",
+      "image_url": "https://content-media.investing.com/news/moved_LYNXMPEM40318_1200_L.jpg",
+      "source_icon": "https://n.bytvi.com/esinvesting.png",
+      "source": "Investing",
+      "published_at": "2026-08-15 02:31:16",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "31e7e5f5c5261a0b389a7640ba693c19",
+      "title": "'Starwashing': How space companies use the greenwashing playbook while causing environmental damage",
+      "description": "From launchpads to low Earth orbit and beyond, space companies and their affiliates are deploying a familiar marketing tactic—with a new twist. In a space economy projected to reach US$1.8 trillion by 2035, they sell space exploration narratives by appealing to a desire to expand humankind beyond Earth—while downplaying or omitting the negative repercussions for Earth and the space environment. Welcome to the age of starwashing.",
+      "url": "https://phys.org/news/2026-08-starwashing-space-companies-greenwashing-playbook.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/space-launch.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-15 01:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ba967c66350674314b808718cc1eded4",
+      "title": "The Brightened Night Sky Nobody Actually Wanted",
+      "description": "A new study modelling Reflect Orbital's proposed constellation of giant orbital mirrors finds their light pollution would be severe. A single 54 metre satellite would appear four magnitudes brighter than the full moon to anyone in its beam, and its scattered glow would outshine moonlight across the sky from 14 kilometres away, remaining visible from over 30 kilometres out. With the pilot satellite already approved by the FCC despite astronomer objections, and up to 50,000 mirrors planned by the mid-2030s, the research puts hard numbers on a fight over who controls the night sky, and who answers for what's lost when it disappears.",
+      "url": "https://www.universetoday.com/articles/the-brightened-night-sky-nobody-actually-wanted",
+      "image_url": "https://www.universetoday.com/article_images/324350main_11_full_20260815_001115.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-08-15 00:22:31",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d3839d53fcfe088c1874457a97c55c2f",
+      "title": "The false and the furious: We aren't just bothered by different beliefs—we're bothered when we think others are wrong",
+      "description": "Why do disagreements about vaccines, climate change or elections often feel so personal? Our research suggests it is not simply because other people have different beliefs. It is because we think those beliefs are mistaken.",
+      "url": "https://phys.org/news/2026-08-false-furious-bothered-beliefs-wrong.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/debate-2.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-15 00:20:02",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "706ababdc45809fc51cbf910e21f7161",
       "title": "‘Fool’s gold’: Dirty iron ore becomes semiconductor material in surprise breakthrough",
@@ -530,78 +602,6 @@
       "published_at": "2026-08-14 04:57:09",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "d7b4b73aeac04ababf23ec3e60ba4ce2",
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "description": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in the presence of liquid water—yet the moons themselves show no obvious water ice. The material likely came from deep inside much larger icy moons that were shattered when Triton was captured by Neptune, destroying much of the planet’s original satellite system.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/neptune-rings-and-inner-moons.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-14 04:35:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "825f7027eefa05fdae1aa21089fa7323",
-      "title": "A massive new cosmic map is revealing black holes, rare stars, and hidden gas",
-      "description": "Astronomers have released more than three million new spectra in a sweeping expansion that, for the first time, brings SDSS-V optical observations to the Southern Hemisphere. The data reveal everything from rare stars and glowing nebulae to hundreds of thousands of X-ray sources and supermassive black holes changing over time.",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045541.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/sloan-dss-galaxies.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-08-14 04:21:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "303e6e36ca69684f4a0001fbdfdec003",
-      "title": "Crocodiles can’t fly. Birds can. Scientists have finally figured out why",
-      "description": "New research suggests crocodiles used to have hot blood and fast metabolisms, but gave it all up to lurk underwater waiting for prey.",
-      "url": "https://theconversation.com/crocodiles-cant-fly-birds-can-scientists-have-finally-figured-out-why-288832",
-      "image_url": "https://images.theconversation.com/files/754023/original/file-20260814-60-81xqjs.jpg?ixlib=rb-4.1.1&rect=0%2C652%2C4366%2C2183&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-08-14 03:52:41",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f4b556a5ac383e6eeffd8eff8456c1cb",
-      "title": "UK Scientists To Grow Miniature Human Organs For Drug Testing",
-      "description": "An anonymous reader quotes a report from The Guardian: Miniature human organs and other tissues are to be grown from NHS patients' cells in a drive to improve medicine testing and reduce the number of animals used in drug development. Scientists will use the clumps of tissue to learn how diseases vary between patients, helping them identify which treatments are best for different people based on the particular pathology underlying their condition. The move marks a shift away from the traditional use of animals as models for human disease, towards what researchers believe will be more accurate and reliable tests based directly on human tissues. Researchers have been growing tiny clumps of human organs, known as organoids, for more than a decade. Tests show that pieces smaller than a millimeter can mirror key features of full-scale organs and tissues, including how they falter with disease and respond to drugs. Armed with organoids grown from diseased human tissues, scientists can investigate whether new drug candidates reverse pathological changes in all or a subset of patients, and quickly identify ineffective drugs early in the process. Historically, more than 90% of drugs that clear animal testing go on to fail in human trials, raising questions about the value of the tests. US and European medicines regulators now encourage other approaches if available. \"It's going to have a major impact on the numbers of animals used and the way we develop new drugs in the future,\" said Matthias Zilbauer, a clinical professor of paediatric gastroenterology at the Cambridge Stem Cell Institute. \"We're not saying there won't be any animal use in the near or foreseeable future, because there are still certain issues that cannot be tested in these new models, but the reduction is very real.\" \"A lot of human diseases either do not occur in animals or occur in a different way because they're not human,\" added Zilbauer. \"We want tests and models that can tell us which treatments work, and in what patients, and a mouse cannot tell us that.\" Read more of this story at Slashdot.",
-      "url": "https://science.slashdot.org/story/26/08/13/2120250/uk-scientists-to-grow-miniature-human-organs-for-drug-testing",
-      "image_url": "https://a.fsdn.com/sd/topics/medicine_64.png?refresh=now",
-      "source_icon": "https://n.bytvi.com/slashdot_org.png",
-      "source": "Slashdot",
-      "published_at": "2026-08-14 03:30:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "14c364877eb26aae1d59552787c3c4c1",
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/70033380-90be-11f1-b8f3-bf6a2c059a9b.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-14 02:13:27",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6468e16195c19bbbd4a16591c60690b6",
-      "title": "Mengapa saham Semiconductor Manufacturing International melonjak hari ini?",
-      "description": "Mengapa saham Semiconductor Manufacturing International melonjak hari ini?",
-      "url": "https://ms.investing.com/news/stock-market-news/mengapa-saham-semiconductor-manufacturing-international-melonjak-hari-ini-93CH-773767",
-      "image_url": "https://content-media.investing.com/news/LYNXNPEB6J0AJ_M.jpg",
-      "source_icon": "https://n.bytvi.com/investing_ms.png",
-      "source": "Investing",
-      "published_at": "2026-08-14 01:59:06",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
