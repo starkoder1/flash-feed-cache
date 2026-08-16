@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-16T12:15:59.493Z",
+  "last_updated": "2026-08-16T16:11:31.577Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "8b14e075dcdc77f28832408f2e7e8e48",
+      "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
+      "description": "COVID-19 can reactivate dormant viruses hiding in the body, including Epstein-Barr, cytomegalovirus, and several herpes viruses. One poorly understood viral family was strongly associated with long COVID and lasting disability, offering a potentially important clue to why some patients struggle to recover.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011034.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/mutating-coronavirus-concept.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-16 03:03:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9524408977a08848d6bc9456d2150fc6",
+      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
+      "description": "SpaceX launched two of its Falcon 9 rockets just 38 minutes apart on Saturday evening (Aug. 15), setting a new spaceflight record.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/TvTpwCiPAHoX4vAxwy3t7B-1280-80.jpg",
+      "source_icon": "https://n.bytvi.com/space.png",
+      "source": "Space",
+      "published_at": "2026-08-16 02:54:47",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "1c5f3d49bd990e2b852b41331b4f2e58",
       "title": "The influencers getting bitten while chasing the perfect shark shot",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/dailymailuk.png",
       "source": "Mail Online",
       "published_at": "2026-08-14 23:57:48",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9c93ccc9d4be248690c7e4ea5a58cf63",
-      "title": "The Tarantula That Lost Its Fire",
-      "description": "A new composite image combining data from Chandra, Hubble, Webb and the retired Spitzer telescope has helped astronomers solve a long standing puzzle in the Tarantula Nebula, a star forming region 160,000 light years away. Young, massive stars there should be heating enough gas to emit X-rays, but observations showed far less X-ray emission than predicted.",
-      "url": "https://www.universetoday.com/articles/the-tarantula-that-lost-its-fire",
-      "image_url": "https://www.universetoday.com/article_images/30dor_20260814_232917.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-08-14 23:41:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d5795ea1658087e708ff0b107f5b6586",
-      "title": "Hopes 'mini guts' will help researchers treat inflammatory bowel disease",
-      "description": "Melbourne researchers create 3D models to study treatments for Crohn's and ulcerative colitis.",
-      "url": "https://www.abc.net.au/news/2026-08-15/monash-researchers-create-intestine-model-to-research-ibd/107036880",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/bd2b60dda25e7243d636dbd12c4d1e88?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=120&width=862&height=485",
-      "source_icon": "https://n.bytvi.com/abc_net.png",
-      "source": "Abc",
-      "published_at": "2026-08-14 22:44:55",
       "language": "english",
       "category": "science"
     }
