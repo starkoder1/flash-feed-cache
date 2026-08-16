@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-16T16:11:31.577Z",
+  "last_updated": "2026-08-16T20:09:20.013Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "58c5e8d81ab520000ea2ee30f75454d0",
+      "title": "Patient held in isolation in Soroka Hospital tests negative for Ebola after returning from DRC",
+      "description": "The Health Ministry emphasized that currently there have been no confirmed cases of Ebola in Israel.",
+      "url": "https://www.jpost.com/health-and-wellness/article-905619",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/727898",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-16 07:01:47",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "b051b2dfb9a4d1405c0fff8a9d302463",
+      "title": "Artificial intelligence is changing medicine – but who will pay for the next mistake?",
+      "description": "About two-thirds of countries in the World Health Organization's European Region are already operating AI systems in medical diagnosis, and half of them offer medical chatbots to patients.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-904413",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/732509",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-16 05:05:07",
+      "language": "english",
+      "category": "health"
+    },
+    {
+      "id": "3965a936b47f0ab631a71cf1265de500",
+      "title": "Copper's Surprising Melting Behavior Provides Insights for Future Fusion Power Plant Design",
+      "description": "Phys.org reports: Future fusion power plants aim to recreate the heart of a star here on Earth to power our future energy needs. While the core fusion plasma will burn at hundreds of millions of degrees, the surrounding structural components must handle sudden, punishing heat loads that rival the extreme temperatures faced by spacecraft upon reentry into Earth's atmosphere. Copper and its alloys are primary candidates for handling these intense heat fluctuations, making it vital to understand exactly how the metal behaves when pushed to its melting point. Now, researchers at the Department of Energy's SLAC National Accelerator Laboratory and collaborators have captured a detailed, step-by-step look at copper atoms as they underwent extreme heating. Published in Nature Communications, the results revealed a key parameter that allowed copper's crystal lattice to melt steadily rather than collapse instantaneously, as earlier simulations predicted. \"These results greatly improve the simulations we use to predict which materials have the best shot at surviving the extreme conditions of future fusion reaction chambers,\" said Mianzhen Mo, a SLAC staff scientist who led the research. \"They also demonstrate the incredible, atomic-scale resolution imaging we can achieve at SLAC's electron camera....\" Researchers use computer simulations, aided by AI and machine learning, to sift through innumerable combinations of elements and identify promising candidate materials for real-world testing. \"Whether the copper melts slowly or suddenly collapses, by the time the researchers look, the sample resembles nothing more than a metallic brown puddle,\" the article points out. But SLAC's powerful electron camera captures atomic and molecular movements down to the femtosecond — a millionth of a billionth of a second — and revealed that at around 1,424 degreesC (2,595 degreesF) there was still gradual melting as the temperature rose beyond the superheating limit, with real-world conditions showing the atoms shifted and retained some order. \"It's a straightforward solution,\" said Mianzhen Mo, a SLAC staff scientist who led the research. \"But molecular dynamics simulations had been overlooking it for years. When you have complex simulations attempting to capture every aspect of reality, down to individual atoms, it takes real-world data to show you what's missing from the calculations.\" Read more of this story at Slashdot.",
+      "url": "https://science.slashdot.org/story/26/08/16/0227237/coppers-surprising-melting-behavior-provides-insights-for-future-fusion-power-plant-design",
+      "image_url": "https://a.fsdn.com/sd/topics/science_64.png",
+      "source_icon": "https://n.bytvi.com/slashdot_org.png",
+      "source": "Slashdot",
+      "published_at": "2026-08-16 04:45:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "8b14e075dcdc77f28832408f2e7e8e48",
       "title": "COVID-19 awakens dormant viruses — and one is linked to long COVID",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/interestingengineering.png",
       "source": "Interesting Engineering",
       "published_at": "2026-08-15 00:04:15",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e0e626d6f9b30d3b64e95d57665c81f7",
-      "title": "Online peptide education programs for medical providers",
-      "description": "The healthcare industry keeps evolving toward personalized treatment, preventive care and advanced medical solutions. Peptide therapy has drawn attention among clinicians for its potential role in supporting biological processes and improving patient outcomes. As interest grows, providers need reliable resources to expand their knowledge and clinical skills. Online learning platforms make it easier for doctors,",
-      "url": "https://usa.inquirer.net/206430/online-peptide-education",
-      "image_url": "https://usa.inquirer.net/files/2026/08/image1-3.png",
-      "source_icon": "https://n.bytvi.com/inquirer.png",
-      "source": "Inquirer",
-      "published_at": "2026-08-15 00:01:47",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4c65344569bd8ab8d30c04bd5118772e",
-      "title": "Hubble Reveals that Star Formation is Slowing Down in the Andromeda Galaxy",
-      "description": "A team of scientists led by the University of Washington has studied how star formation is declining in the Andromeda galaxy using highly detailed Hubble surveys.",
-      "url": "https://www.universetoday.com/articles/hubble-reveals-that-star-formation-is-slowing-down-in-the-andromeda-galaxy",
-      "image_url": "https://www.universetoday.com/article_images/hs-2015-02-a-hires_jpg-jpg_20260814_234854.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-08-14 23:58:06",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d983e44336663aad130dcb9e25499ac0",
-      "title": "DR PHIL: There are crystal clear secret UFO videos the government's hidden in plain sight. And that's just the tip of the iceberg. What I've heard... and the terrifying reason for the cover-up may be more damaging than a PANDEMIC",
-      "description": "'There's not any context to this. There's very seldom any follow-up information,' Dr Phil said. 'Is that an accident? The pattern suggests that it's not really an accident.'",
-      "url": "https://www.dailymail.com/sciencetech/article-16051245/UFO-videos-government-hidden-DR-PHIL.html",
-      "image_url": "https://i.dailymail.com/1s/2026/08/14/20/110647407-0-image-a-9_1786734875730.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-08-14 23:57:48",
       "language": "english",
       "category": "science"
     }
