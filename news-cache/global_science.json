@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-17T12:19:16.161Z",
+  "last_updated": "2026-08-17T16:14:06.221Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7cdcd8126629cc276828042c03b946f8",
+      "title": "Spanish nanomaterial cools surfaces by 12.9°C without electricity",
+      "description": "Researchers at Spain's CSIC have developed a polymer nanostructure that dissipates heat into space using solar radiation, a technique that could reduce dependence on air conditioning in buildings, vehicles and electronic devices.",
+      "url": "http://www.euronews.com/next/2026/08/17/spanish-nanomaterial-cools-surfaces-by-129c-without-electricity",
+      "image_url": "https://images.euronews.com/articles/stories/09/86/99/68/1440x810_cmsv2_896e96d1-4a61-5636-991e-3c5773cc4857-9869968.jpg",
+      "source_icon": "https://n.bytvi.com/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-08-17 03:52:58",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "2c80cdd5826fe30486e6b9e01077b706",
+      "title": "Hybrid material based on nanosheets 500x thinner than a human hair can produce hydrogen peroxide",
+      "description": "Scientists have developed innovative hybrid material that can produce hydrogen peroxide more efficiently.",
+      "url": "https://interestingengineering.com/science/hybrid-material-nanosheets-hydrogen-peroxide",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/08/hydrogen-ll.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-17 02:53:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a9519a26d65adb5bbad4e4eaf242959d",
+      "title": "Giant crocodylians dominated the food chain in Miocene South America, fossil evidence suggests",
+      "description": "South America was a frightening place during the Miocene. More than 10 million years ago, a vast lake covered much of the continent, home to giant turtles and crocodylians.",
+      "url": "https://phys.org/news/2026-08-giant-crocodylians-dominated-food-chain.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/giant-crocodylians-dom.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-17 01:00:04",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "0fc3521369681300171366d2d01ada65",
       "title": "Australia needs more people who think like scientists. Here’s what that means",
@@ -564,42 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-08-15 18:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3374e03ecafcb16225fa97d5a7065a70",
-      "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
-      "description": "The fire burning through the major park was described as the country's worst in recent years.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa32/live/1695a180-98ba-11f1-9a0b-ef36d15fc6b3.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-15 17:47:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "007a3d3c9b7459cac075f2393dbecc18",
-      "title": "Topical clove oil for canine sarcoptic mange promises faster, plant-based treatment",
-      "description": "Canine sarcoptic mange (scabies) is a skin condition in which microscopic mites (Sarcoptes scabiei) infest dogs' skin. The condition is contagious and zoonotic and can be difficult to detect. If left untreated, it can cause bleeding sores, malnutrition, emaciation and secondary bacterial infections that may eventually lead to a dog's death.",
-      "url": "https://phys.org/news/2026-08-topical-clove-oil-canine-sarcoptic.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/topical-clove-oil-for.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-15 17:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "361cbedc63b8933aa375b838115ab0fe",
-      "title": "Early-universe plasma may have stopped dark photons from heating cosmos",
-      "description": "A new paper published in Physical Review Letters reveals that a leading dark matter candidate—the hypothetical \"dark photon\"—would not have heated the early universe as previously thought. The finding opens a vast region for experimental searches and could change the hunt for dark matter.",
-      "url": "https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2025/early-universe.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-15 16:40:01",
       "language": "english",
       "category": "science"
     }
