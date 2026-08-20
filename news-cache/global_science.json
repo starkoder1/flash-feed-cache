@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-20T16:20:47.193Z",
+  "last_updated": "2026-08-20T20:16:24.042Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ffebb08443c4391ccb0a78fb282c0562",
+      "title": "FairJourney Bio Delivers Antibody Engineering for Novel Tumor-Conditional IL-12 Therapeutic Approach That Unlocks the Potential of Localized Cytokine Activation",
+      "description": "PORTO, Portugal--(BUSINESS WIRE)--FairJourney Bio (“FJBio”), a global antibody discovery expert, today announced the publication of a peer-reviewed study in mAbs describing a novel approach with the potential to improve the therapeutic window of IL-12, a potent anti-tumor cytokine1. FJBio delivered the end-to-end antibody discovery and engineering campaign for the venture-backed oncology program across its sites in Porto, Portugal, and Cambridge, UK. IL-12 is one of the most potent anti-tumor c",
+      "url": "http://www.businesswire.com/news/home/20260820841800/en/FairJourney-Bio-Delivers-Antibody-Engineering-for-Novel-Tumor-Conditional-IL-12-Therapeutic-Approach-That-Unlocks-the-Potential-of-Localized-Cytokine-Activation/",
+      "image_url": "https://mms.businesswire.com/media/20260820841800/en/2879520/21/FairJourneyBio-Logo%2BClaim_RGB_NEW_2026.jpg",
+      "source_icon": "https://n.bytvi.com/businesswire.png",
+      "source": "Businesswire",
+      "published_at": "2026-08-20 08:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "14bd713e908193142f51c7aa75b5d5ca",
+      "title": "Astronomers discover fastest known star orbiting our galaxy’s black hole",
+      "description": "Check latest news on Astronomy, Space Exploration, Planets, Earth, Mars, NASA news, Asteroid news and more on Interesting Engineering",
+      "url": "https://interestingengineering.com/space/s301-fastest-star-milky-way-sagittarius-a",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://n.bytvi.com/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-08-20 06:45:31",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f4088e6aa7f97c9a109d8ab7d1c25f68",
+      "title": "Roblox has been put on notice yet again over child safety concerns. What do parents need to know?",
+      "description": "The Roblox saga is a reminder that parents can’t leave children’s online safety to platforms.",
+      "url": "https://theconversation.com/roblox-has-been-put-on-notice-yet-again-over-child-safety-concerns-what-do-parents-need-to-know-290148",
+      "image_url": "https://images.theconversation.com/files/755125/original/file-20260820-50-fdhz10.jpg?ixlib=rb-4.1.1&rect=0%2C684%2C8192%2C4096&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-20 05:37:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4697f8265ef8c89b49fad7ad54699caf",
+      "title": "Zoo boss calls pipeline plan on site 'unacceptable'",
+      "description": "Proposals for a pipeline to transport carbon emissions to the coast would cut through the zoo.",
+      "url": "https://www.bbc.co.uk/news/articles/c0rdl5zg208o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b1/live/ce162330-9bb1-11f1-ae8a-8d57110c5ba6.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-20 05:21:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "1829bec968dd1efe27b0fe7c7637b827",
+      "title": "The common mistake most of us make right after the sea or the pool",
+      "description": "Sea water and chlorine can damage the skin’s protective barrier in different ways. Pola Blick Dayan explains who is more sensitive and how to reduce dryness and irritation during the summer.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-905052",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733311",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-20 05:02:03",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "eb195b351f8f1dc8e01a986f113935d7",
       "title": "A ‘living GLP-1 drug’ could revolutionize diabetes treatment",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-08-19 12:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "173a83c370e3ab336c120146c57a3030",
-      "title": "Archeologists used to think women in prehistory wielded no power. Genetic data is upending that idea.",
-      "description": "For more than 150 years, leading archaeologists have assumed that women of the past never assumed roles of power. New genetic data shows how flawed that interpretation is, says Dr. Rachel Popey .",
-      "url": "https://www.livescience.com/archaeology/archeologists-used-to-think-women-in-prehistory-wielded-no-power-genetic-data-is-upending-that-idea",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2f5KnbtoPgYYk5ZuskdrKC-1280-80.png",
-      "source_icon": "https://n.bytvi.com/livescience.png",
-      "source": "Livescience",
-      "published_at": "2026-08-19 12:00:00",
-      "language": "english",
-      "category": "politics"
-    },
-    {
-      "id": "620fc17a36dc5ef47527ac8b064357d2",
-      "title": "Don’t Buy a Leaf Blower Based on Specs Alone. Our Exclusive Lab Data Shows Why",
-      "description": "We’ve tested more than a dozen leaf blowers over the years with our custom air cannon and discovered some interesting results.",
-      "url": "https://www.cnet.com/home/yard-and-outdoors/dont-buy-leaf-blower-specs-alone-our-lab-data-shows-why/",
-      "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/image-17-2.png",
-      "source_icon": "https://n.bytvi.com/cnet.png",
-      "source": "Cnet",
-      "published_at": "2026-08-19 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f884905ed95dc683900bcf42104ed9c8",
-      "title": "Before and after pictures show new 60ft-wide crater after SpaceX rocket slammed into Moon at 5,4000mph",
-      "description": "FRESH Nasa images show the Moon's newest crater after a SpaceX rocket hit at hypersonic speed. Earlier this month, Elon Musk's Falcon slammed into the Moon at 5,400mph - the equivalent power of three tonnes of TNT. On Tuesday, the space agency released before-and-after photos of the impact area, taken from a spacecraft encompassing the...",
-      "url": "https://www.thesun.co.uk/tech/40104176/new-60ft-wide-crater-spacex-rocket-moon/",
-      "image_url": "https://www.thesun.co.uk/wp-content%2Fuploads%2F2026%2F08%2F2026-nasa-august-18-released-1102018374.jpg?quality%3D90%26strip%3Dall",
-      "source_icon": "https://n.bytvi.com/thesun.png",
-      "source": "The Sun",
-      "published_at": "2026-08-19 11:58:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "3fb9148b7a6b94d30df7a3c84f44a308",
-      "title": "British festivalgoers are being forced to wear face masks after the record dry summer sparks 'apocalyptic' plumes of dust",
-      "description": "Festivals across the country have seen huge clouds of dust kicked up by crowds - with attendees complaining of itchy throats, sore eyes and difficulty breathing.",
-      "url": "https://www.dailymail.com/sciencetech/article-16063363/British-festivalgoers-face-masks-apocalyptic-dust.html",
-      "image_url": "https://i.dailymail.com/1s/2026/08/19/10/110724673-0-image-a-25_1787132397332.jpg",
-      "source_icon": "https://n.bytvi.com/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-08-19 11:25:23",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "61634cddebca80ce13b021eb8e2b095a",
-      "title": "Volatile weekly work hours may have adverse effects on health, employment",
-      "description": "Workers who juggle volatile work hours that change from week to week may experience adverse health effects that affect their ability to work, although the limitations vary by gender, say researchers at the University of Illinois Urbana-Champaign who conducted a recent study.",
-      "url": "https://phys.org/news/2026-08-volatile-weekly-hours-adverse-effects.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/volatile-weekly-work-h.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-19 11:05:29",
       "language": "english",
       "category": "science"
     }
