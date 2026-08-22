@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-22T16:10:56.030Z",
+  "last_updated": "2026-08-22T20:10:23.921Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1875ec332fb8a18582339c654637ce6e",
+      "title": "QuickCheck: Is food developed using nuclear technology radioactive?",
+      "description": "NUCLEAR technology conjures images of reactors, fallout and glowing materials, so it is perhaps unsurprising that food developed using nuclear techniques raises alarm bells for many consumers.",
+      "url": "https://www.thestar.com.my/news/true-or-not/2026/08/22/quickcheck-is-food-developed-using-nuclear-technology-radioactive",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4072711.jpg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-08-22 07:33:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e87c7f47f43ef3282191ae3e166b6c6e",
+      "title": "How often should you change your tea towels? Microbiologist finally settles the debate - so, are you doing it enough?",
+      "description": "From mopping up spills to wiping down plates, a tea towel or dishcloth is an essential in any kitchen. But just how often should you be changing your tea towels?",
+      "url": "https://www.dailymail.com/sciencetech/article-16067263/How-frequent-change-tea-towels.html",
+      "image_url": "https://i.dailymail.com/1s/2026/08/20/16/110755239-0-image-a-40_1787241553365.jpg",
+      "source_icon": "https://n.bytvi.com/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-08-22 07:09:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3a107a268d0df531f9f1747ba719fa3c",
+      "title": "Being religious is better for your mental health, Israeli rabbi scientist-led study reveals",
+      "description": "Study shows strong sense of purpose, healthier digital habits lower risks for addiction, depression.",
+      "url": "https://www.jpost.com/science/article-906142",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734698",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-22 05:04:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "12925b88f56176816233d264856b126b",
+      "title": "Is AI clairvoyant? ChatGPT can make personality tests and predict responses, Israeli study finds",
+      "description": "Hebrew University of Jerusalem (HUJI) scientists have developed a method for generating personality assessment questionnaires with ChatGPT from any source text in English.",
+      "url": "https://www.jpost.com/science/article-906137",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/734691",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-22 05:04:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "99673f813e3242a9294aebead30c1936",
+      "title": "Dry Martian Meteorite Reveals Early Water in Mars's Crust",
+      "description": "Billions of years ago, Mars was hypothesized to have been a habitable world with flowing liquid water and the potential for life. But directly studying its ancient past is currently limited to orbiters and rovers, as scientists have yet to obtain direct samples from Mars. However, meteorites have been found on Earth to have potentially originated from Mars during large impacts that flung chunks of the Red Planet into space, eventually being grabbed by Earth’s gravity and crashing into the Earth’s surface.",
+      "url": "https://www.universetoday.com/articles/dry-martian-meteorite-reveals-early-water-in-marss-crust",
+      "image_url": "https://www.universetoday.com/article_images/MarsMeteorite-NWA7034-716969main_black_beauty_full.jpg_750_20260822_042904.jpg",
+      "source_icon": "https://n.bytvi.com/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-08-22 04:37:04",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "4e1323454486bdc3a18ed78a7bdcb788",
       "title": "Reading Thucydides in the wolf world",
@@ -540,66 +600,6 @@
       "source_icon": "https://n.bytvi.com/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-08-21 11:40:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5239ba01d64973767a62353b4bcb64e5",
-      "title": "New Solar System Models Show Earth Is No Fluke",
-      "description": "Astrobiologists use new starting points to produce ‘organic’ models of our solar system’s formation.",
-      "url": "https://www.universetoday.com/articles/new-solar-system-models-show-earth-is-no-fluke",
-      "image_url": "https://www.universetoday.com/article_images/The_Blue_Marble_AS17-148-22727_20260821_070011.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-08-21 07:12:12",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dca7e440f18162f41f74a1611a44dfb7",
-      "title": "China’s ‘ultra-light soft battery’ solar wing for satellites packs 35 times its size",
-      "description": "Get news on the latest new innovations in technology, health, Robotics, AI and more on Interesting Engineering.",
-      "url": "https://interestingengineering.com/innovation/rollable-perovskite-solar-wing",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://n.bytvi.com/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-08-21 05:53:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e94265553f1862456f5bede3e42a05b5",
-      "title": "Experts battling extinctions after record heat",
-      "description": "Scientists are studying the plight of six species of butterfly and plant affected by the heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0y0pxvnvo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c09/live/0f3c3df0-9ca1-11f1-a5a0-114ca9d4a1bc.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-21 05:24:23",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "73eddea7b97d5f33380e7248428d455f",
-      "title": "Wildlife and ancient trees destroyed by A31 wildfire",
-      "description": "A Forestry England survey finds dead trees and wildlife, scorched bogs and areas devoid of plants.",
-      "url": "https://www.bbc.co.uk/news/articles/c9v4zw822d7o",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bc2/live/ad13b690-9c90-11f1-bd28-a9dd56c45ed7.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-21 05:09:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "62f37b1281023cd0f0414dd59bdd8713",
-      "title": "CAO points system cannot be used to measure intelligence",
-      "description": "People possess distinct intelligences, not just one or two that can be captured by an IQ test or examination",
-      "url": "https://www.irishtimes.com/ireland/education/2026/08/21/cao-points-system-cannot-be-used-to-measure-intelligence-2/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/ERZOE6GAABGK7PMBZK7UEWV6XQ.jpg?auth=063248fc11ca6a64f4eb80e9af7906d38e1af9dd14dd1181e791bccf35df6404&smart=true&width=630&height=350",
-      "source_icon": "https://n.bytvi.com/irishtimes.png",
-      "source": "The Irish Times",
-      "published_at": "2026-08-21 05:01:00",
       "language": "english",
       "category": "science"
     }
