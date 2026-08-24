@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-24T12:23:05.998Z",
+  "last_updated": "2026-08-24T16:22:28.883Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "8b79f95592a78d518fa17e1630461424",
+      "title": "Rewiring Democracy: Citizen Science Leads to Civic AI in Scotland",
+      "description": "This is the fourth in a multi-part series by Sanders and Schneier going into depth on real-world examples of democratic technologies from their book, Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship . Their first piece was about the Japanese digital democracy party “Team Mirai,” their second was about the Swiss Public AI model “Apertus,” and the third was about the civic technologists of Open Knowledge Brazil. A generation ago, only a select few—a scientific elite—got to participate directly in the discovery of new astrophysical phenomena like exotic galaxy types or new worlds around other stars using the latest data from space telescopes or powerful observatories. This work was rarefied because the mechanics of astronomical observation were complex, the ability (and willingness) of scientists to distribute that data was low, and the capability of non-experts to understand and provide meaningful input to the science was thought to be very limited...",
+      "url": "https://www.schneier.com/essays/archives/2026/08/rewiring-democracy-citizen-science-leads-to-civic-ai-in-scotland.html",
+      "image_url": "https://www.schneier.com/wp-content/uploads/2026/08/renovator4-1-650w.jpg",
+      "source_icon": "https://n.bytvi.com/schneier.jpg",
+      "source": "Schneier On Security",
+      "published_at": "2026-08-24 03:29:14",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "c587eb1f63d07bd4dd5df24cf651ca8f",
+      "title": "An AI job boom? Here’s what the tedious, temporary work in data labelling is actually like",
+      "description": "Interviews with data workers in China and Australia reveal the precarious, exploitative conditions of this new branch of the gig economy.",
+      "url": "https://theconversation.com/an-ai-job-boom-heres-what-the-tedious-temporary-work-in-data-labelling-is-actually-like-289234",
+      "image_url": "https://images.theconversation.com/files/754264/original/file-20260817-50-wl2go6.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2560%2C1280&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://n.bytvi.com/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-08-24 00:25:22",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "92d38b8a3b49837900000c5cc14141c2",
       "title": "Scientists explain what dogs actually learn when sniffing each other's pee",
@@ -576,30 +600,6 @@
       "source_icon": "https://n.bytvi.com/spokesman.png",
       "source": "Spokesman",
       "published_at": "2026-08-22 21:48:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0f1492b96a34b46142b557607c2e23d2",
-      "title": "Computer models pinpoint catalysts for replacing fossil-fueled ammonia production",
-      "description": "Ammonia is one of the most important chemicals produced in the world, ranking second only to sulfuric acid in the total volume produced each year. It is used mostly to make fertilizer, which is essential to feeding the world's population. Yet its production accounts for up to 2% of the world's energy consumption and about 1.5% of greenhouse gas emissions, so the search has been underway for ways to produce ammonia more sustainably.",
-      "url": "https://phys.org/news/2026-08-catalysts-fossil-fueled-ammonia-production.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/computer-models-pinpoi.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-22 21:00:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6bb7eaec30ae26ef0574f1b3792a4399",
-      "title": "Half the world could be nearsighted by 2050. UAB researchers may have found a way to help",
-      "description": "UAB researchers say a type of light commonly found in sunlight but largely absent indoors may help prevent childhood nearsightedness, a condition projected to affect nearly half the world's population by 2050.",
-      "url": "https://www.al.com/news/2026/08/half-the-world-could-be-nearsighted-by-2050-uab-researchers-may-have-found-a-way-to-help.html",
-      "image_url": "https://www.al.com/resizer/v2/5LFDBG64GBF4XANQ7IBXB5PRXY.jpeg?auth=9992930b4b28d54e57598666cf22a3ad71a5aa107e66b7b8a13062cdb210a806&smart=true&height=1200",
-      "source_icon": "https://n.bytvi.com/al.png",
-      "source": "Alabama Local News",
-      "published_at": "2026-08-22 20:56:03",
       "language": "english",
       "category": "science"
     }
