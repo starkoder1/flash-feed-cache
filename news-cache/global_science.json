@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-25T16:22:57.880Z",
+  "last_updated": "2026-08-25T20:15:44.468Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "230e700fe39bf82b64316b951b99d364",
+      "title": "Shortage of engineers creates opportunities to advance in Ukrainian defense tech",
+      "description": "Some specialties are so scarce that recruiters say they effectively know all available candidates.",
+      "url": "https://www.japantimes.co.jp/news/2026/08/25/world/society/ukraine-engineer-shortage-defense-tech/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/25/559363.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-08-25 08:14:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "31b90861184403bafed0e4b563d03794",
+      "title": "Exploring regenerative medicine and ongoing stem cell research",
+      "description": "Stem cell therapy is an evolving area of medical research. Some stem cell treatments are established for specific medical uses, while many other applications remain under investigation. This paid-for content reflects information provided by Swiss Medica and does not necessarily reflect the views of The Scotsman.",
+      "url": "https://www.scotsman.com/sponsored/swiss-medica-stem-cell-therapy-regenerative-medicine-8939638",
+      "image_url": "https://www.scotsman.com/jpim-static/image/2026/08/25/6/46/clinic.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://n.bytvi.com/scotsman.png",
+      "source": "The Scotsman",
+      "published_at": "2026-08-25 06:57:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "265697ea4a4efd0e32e2543aaa9f2d96",
+      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+      "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
+      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4cb/live/47d438f0-9c85-11f1-98a7-0f0ed51e02be.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-25 06:27:24",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "405ba77961e7dc525a58eca257a6af79",
+      "title": "Depression may shut down the brain’s ability to make new neurons",
+      "description": "A major study found that adults with depression show disrupted production of new neurons in the hippocampus, potentially weakening the brain’s ability to separate new experiences from painful memories. The researchers also identified broad molecular changes that could open the door to new treatments tailored to different biological forms of depression.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823094135.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/neuroscience-new-brain-cell-formation.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-25 05:06:08",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f9e5fb2e68823d444e2d54fb9ecdac55",
+      "title": "This is the city that will subsidize the installation of defibrillators in residential buildings",
+      "description": "After similar moves in Rishon Lezion, Rehovot, Herzliya, Ra'anana, and additional authorities, Givatayim is also subsidizing defibrillators for residential buildings.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-905521",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733905",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-25 05:04:52",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4b8818bc2e22f1eceafcf6f1f694a05f",
+      "title": "Goat sanctuary purchases 16.9 acres of more land",
+      "description": "The land purchased by Buttercups Sanctuary for Goats will enable it to house up to 160 goats.",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze0xel30o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a33c/live/dd3e5520-9fdb-11f1-b1e7-f78d213f1364.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-25 05:02:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "d990fdba9d23b5df9a6612f26e7afb61",
+      "title": "Firms tap AI and sensors to boost indoor farming as Japan faces farmer shortage",
+      "description": "The government is promoting the adoption in agriculture of advanced technologies, with a target of ¥4.6 trillion in public and private investment by fiscal 2040.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/25/companies/ai-indoor-farming/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/25/559246.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-08-25 04:51:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "7a35da1cfc6eb886d5db39f596ec07c1",
       "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
@@ -518,90 +602,6 @@
       "published_at": "2026-08-24 12:00:29",
       "language": "english",
       "category": "sports"
-    },
-    {
-      "id": "810713003406301f5d423131cb2c61dd",
-      "title": "Book Week is not just for big kids—how to engage babies and toddlers at story time",
-      "description": "Book Week is a great opportunity for parents and caregivers to inspire a love of reading in babies and toddlers.",
-      "url": "https://phys.org/news/2026-08-week-big-kids-engage-babies.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/-babies-and-toddlers-s.jpg",
-      "source_icon": "https://n.bytvi.com/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-08-24 12:00:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "adce004911da7421fd2e7a1cb0d5d141",
-      "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
-      "description": "Follow NASA's Nancy Grace Roman Space Telescope and its launch aboard a SpaceX Falcon Heavy rocket to begin its mission to explore the universe.",
-      "url": "https://www.space.com/space-exploration/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/ziu2wrUcA74BrYYY9rVBvF-1280-80.jpg",
-      "source_icon": "https://n.bytvi.com/space.png",
-      "source": "Space",
-      "published_at": "2026-08-24 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f7ce684ea2a12a1faaab1d23e51b1791",
-      "title": "What Does It Really Mean to Have a Pisces Moon?",
-      "description": null,
-      "url": "https://www.elle.com/horoscopes/profile/a73337372/pisces-moon-astrology-explained/",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/9c700e79-5f1c-4830-b27b-2f7c8d354042.png",
-      "source_icon": "https://n.bytvi.com/elle.png",
-      "source": "Elle",
-      "published_at": "2026-08-24 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "307a41bb61b45763c0f9b0ce54a13823",
-      "title": "Austin's bat bridge gets upgrade with new educational experience",
-      "description": "Thousands of people visit Austin's Congress Avenue Bridge each year to watch the nightly bat emergence. A new educational experience aims to teach visitors more about the colony while they wait.",
-      "url": "https://www.kxan.com/news/local/austin/austins-bat-bridge-gets-upgrade-with-new-educational-experience/",
-      "image_url": "https://www.kxan.com/wp-content/uploads/sites/40/2019/12/800px-Austin_-_bats_watching_3.jpg?w=800",
-      "source_icon": "https://n.bytvi.com/kxan.png",
-      "source": "Kxan",
-      "published_at": "2026-08-24 12:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "acde6571a1e386a3a7580e233535cf8a",
-      "title": "STAT+: FDA pauses Regenxbio gene therapy trial again for safety concerns",
-      "description": "The FDA put a hold on a Regenxbio gene therapy trial again after new safety concerns emerged.",
-      "url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2025/09/GettyImages-1227710420-1024x576.jpg",
-      "source_icon": "https://n.bytvi.com/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-08-24 11:59:48",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0a32f3a20a32c5ce28b390ca485fdf56",
-      "title": "Lunar eclipse August 2026 — Everything you need to know about the 96% 'blood moon'",
-      "description": "A deep partial lunar eclipse on August 27-28, 2026, will be visible in North America and will be the best lunar eclipse anywhere on Earth until New Year's Ev...",
-      "url": "https://www.yahoo.com/news/science/articles/august-2026-lunar-eclipse-everything-190000513.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/b3eda9e75207940a30855fe8b5ad681c2f2b58f93d1f4da7f93564ae3f2b3ff3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fspace_311%2F449d0767a161548b3deef57e4aada8d7.jpg",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-08-24 07:17:24",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "75fe27270ec24077b521a0de0eab6b6e",
-      "title": "NASA Starshade Would Enable Astronomers To Directly Image Rocky Exoworlds",
-      "description": "Innovative NASA-funded orbital starshade could help capture first direct images from extrasolar earths.",
-      "url": "https://www.universetoday.com/articles/nasa-starshade-would-enable-astronomers-to-directly-image-rocky-exoworlds",
-      "image_url": "https://www.universetoday.com/article_images/Starshade_Artists_Concept_2_PIA20911_20260122_162947.jpg",
-      "source_icon": "https://n.bytvi.com/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-08-24 07:16:54",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
