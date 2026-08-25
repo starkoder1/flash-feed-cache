@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-25T12:23:44.674Z",
+  "last_updated": "2026-08-25T16:22:57.880Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "7a35da1cfc6eb886d5db39f596ec07c1",
+      "title": "Data Centers Are Driving an Alarming Gas Power Expansion in the US",
+      "description": "There’s no clearer sign of the data center boom than rampant gas projects that have been proposed or that are already under construction.",
+      "url": "https://www.wired.com/story/us-data-centers-drive-gas-power-expansion/",
+      "image_url": "https://media.wired.com/photos/6a8ce07d60f23f7c6261c515/master/pass/AP26092141058357.jpg",
+      "source_icon": "https://n.bytvi.com/wired.png",
+      "source": "Wired",
+      "published_at": "2026-08-25 04:01:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "653c6e52b7d4bdb5691e2d26500d1fea",
+      "title": "Massachusetts lost biotech jobs for first time in 2025, new report shows",
+      "description": "Nonetheless, industry experts say the sector is recovering.",
+      "url": "https://www.bostonglobe.com/2026/08/25/business/massachusetts-lost-biotech-jobs-first-time-2025-new-report-shows/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/CEJZ2XB32BBNBXQ5FJH6DFUIM4.jpg?auth=ae2b84bae340fa7bf00183697a92c10110cb094256ed7b634fc4b23f6d160d78&smart=true&width=3999&height=2680",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-08-25 04:01:00",
+      "language": "english",
+      "category": "business"
+    },
+    {
+      "id": "cfb7edf8213250eb6434f6619a267ff7",
+      "title": "Access to bilingual education lags behind in Andalusia's rural areas, study reveals",
+      "description": "Over the past two decades, bilingual education programs have significantly expanded within the Spanish education system, with the aim of improving foreign language learning—primarily English—while making it more accessible for all. Although more and more schools are offering bilingual education, they are unevenly distributed across the country, generating inequalities among students.",
+      "url": "https://phys.org/news/2026-08-access-bilingual-lags-andalusia-rural.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/andalusia-children.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-25 03:40:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ec3e01c5fda94ece50ce32aea8e4f209",
+      "title": "Process doubles the size of PFAS molecules, making them easy to destroy",
+      "description": "Ask a chemist to name the strongest single bond in organic chemistry, and they'll likely say carbon-fluorine. It's that bond, repeated dozens of times over, that gives per- and polyfluoroalkyl substances (PFAS) their nickname: forever chemicals. Manufacturers prize PFAS for the same reason regulators dread them. The bonds barely break down, which is exactly why the compounds are so good at repelling water, oil and heat in everything from semiconductor fabrication to nonstick cookware. This is also why PFAS persist in soil, water and living tissue long after serving their industrial purpose.",
+      "url": "https://phys.org/news/2026-08-size-pfas-molecules-easy-destroy.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/making-pfas-too-big-to.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-25 02:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "000386b1f2d63e8b01ce1d82297252c4",
+      "title": "Newton’s 300-year-old law just passed its biggest test yet",
+      "description": "A massive test of gravity across the cosmos found that it behaves almost exactly as Newton and Einstein predicted, even across galaxy clusters hundreds of millions of light-years apart. The result weakens some modified-gravity explanations and strengthens the case that dark matter is behind the universe’s mysterious missing mass.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823015019.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/pairwise-galaxy-motion.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-25 01:49:06",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "79129fca427d62cb7345572a09da93b5",
+      "title": "Satellite data used to boost cabbage sales in Japan",
+      "description": "The initiative will use satellite data on cabbage color and size to forecast shipment volumes eight weeks in advance.",
+      "url": "https://www.japantimes.co.jp/news/2026/08/25/japan/satellite-data-cabbage-sales/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/25/559202.jpg",
+      "source_icon": "https://n.bytvi.com/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-08-25 01:34:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "786052dd2751709bb9839b05008d974f",
+      "title": "Tornado tears through French village leaving dozens injured",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/940f/live/15a64300-a00e-11f1-9bf0-5f4ec548648d.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-25 01:27:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "16eccdf3c6b648be0600a4a4e0056df1",
+      "title": "What would happen to human interaction if AI could read our emotions?",
+      "description": "AI systems are increasingly being developed to recognize emotions by analyzing facial expressions, voices, body language and other physiological signals. Although the scientific validity of many of these systems remains contested, they are already being tested in health care and security settings.",
+      "url": "https://phys.org/news/2026-08-human-interaction-ai-emotions.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-and-emotions.jpg",
+      "source_icon": "https://n.bytvi.com/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-08-25 01:00:02",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "2d5a0081a8ad1f9c1c9763d355bb4175",
       "title": "Hoover Dam's horror threat to 40 million Americans: As 'tipping point' is reached... expert warns residents in THREE states to brace",
@@ -506,102 +602,6 @@
       "published_at": "2026-08-24 07:16:54",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "8c25e9d1b4172fdd029167050e36306f",
-      "title": "Beijing Robot Games: humanoids take on sprints, football and tai chi",
-      "description": "More than 2,000 robots compete in races, football and tai chi at the Beijing Robot Games, testing the movement and stability of humanoid machines.",
-      "url": "http://www.euronews.com/video/2026/08/24/beijing-robot-games-humanoids-take-on-sprints-football-and-tai-chi",
-      "image_url": "https://images.euronews.com/articles/stories/09/88/57/69/1200x675_cmsv2_e4eb28cb-2fd4-5f83-9dc7-d8308f413296-9885769.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-08-24 07:09:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "70f61bc7673e900aa2afd76d0893bfc7",
-      "title": "Quantum Helium advances Sagebrush testing, identifies new targets",
-      "description": "Quantum Helium advances Sagebrush testing, identifies new targets",
-      "url": "https://uk.investing.com/news/stock-market-news/quantum-helium-advances-sagebrush-testing-identifies-new-targets-93CH-4843777",
-      "image_url": "https://content-media.investing.com/news/LYNXMPEM4K17E_1200_L.jpg",
-      "source_icon": "https://n.bytvi.com/investing_uk.jpg",
-      "source": "Investing Uk",
-      "published_at": "2026-08-24 06:10:08",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ea58c26260b75d1e53fef93473584e70",
-      "title": "2,000-year-old 'Jesus boat' found in groundbreaking discovery",
-      "description": "A remarkable piece of Sea of Galilee archaeology, the so-called 'Jesus Boat' - a 2,000-year-old Biblical artefact unearthed during a 1986 drought.",
-      "url": "https://www.express.co.uk/news/science/2240942/2-000-year-old-jesus-boat-directly-proves-bible-s-sea-galilee-story",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/237x141/2240942_1.jpg",
-      "source_icon": "https://n.bytvi.com/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-08-24 06:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "05c437a56f31bbe43b3ed7202e45bf2a",
-      "title": "Agency says forest campsite could 'risk life'",
-      "description": "The Environment Agency is objecting to plans in Hamsterley Forest due to flooding danger to campers.",
-      "url": "https://www.bbc.co.uk/news/articles/cgljrge0wreo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b390/live/24b0b450-9d54-11f1-aac2-870643eea2ac.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-24 05:04:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "08c310e1323ff57b47c4befe8c7348dc",
-      "title": "Want to lose weight? This supplement won't do the job for you",
-      "description": "L-carnitine is marketed as a natural fat burner, but evidence for weight loss is limited. Its breakdown in the gut may also produce a substance linked to increased heart risk.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-905058",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733322",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-08-24 05:04:14",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "13259cc2f508f9981f1c468fa4840095",
-      "title": "AI trial aims to detect depression in new mothers",
-      "description": "Researchers have developed an app which uses AI technology to determine women's mood and behaviours.",
-      "url": "https://www.bbc.co.uk/news/articles/ckge72vegwxo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9641/live/02b81e50-9bb6-11f1-ae8a-8d57110c5ba6.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-24 04:57:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "8b79f95592a78d518fa17e1630461424",
-      "title": "Rewiring Democracy: Citizen Science Leads to Civic AI in Scotland",
-      "description": "This is the fourth in a multi-part series by Sanders and Schneier going into depth on real-world examples of democratic technologies from their book, Rewiring Democracy: How AI Will Transform Our Politics, Government, and Citizenship . Their first piece was about the Japanese digital democracy party “Team Mirai,” their second was about the Swiss Public AI model “Apertus,” and the third was about the civic technologists of Open Knowledge Brazil. A generation ago, only a select few—a scientific elite—got to participate directly in the discovery of new astrophysical phenomena like exotic galaxy types or new worlds around other stars using the latest data from space telescopes or powerful observatories. This work was rarefied because the mechanics of astronomical observation were complex, the ability (and willingness) of scientists to distribute that data was low, and the capability of non-experts to understand and provide meaningful input to the science was thought to be very limited...",
-      "url": "https://www.schneier.com/essays/archives/2026/08/rewiring-democracy-citizen-science-leads-to-civic-ai-in-scotland.html",
-      "image_url": "https://www.schneier.com/wp-content/uploads/2026/08/renovator4-1-650w.jpg",
-      "source_icon": "https://n.bytvi.com/schneier.jpg",
-      "source": "Schneier On Security",
-      "published_at": "2026-08-24 03:29:14",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c587eb1f63d07bd4dd5df24cf651ca8f",
-      "title": "An AI job boom? Here’s what the tedious, temporary work in data labelling is actually like",
-      "description": "Interviews with data workers in China and Australia reveal the precarious, exploitative conditions of this new branch of the gig economy.",
-      "url": "https://theconversation.com/an-ai-job-boom-heres-what-the-tedious-temporary-work-in-data-labelling-is-actually-like-289234",
-      "image_url": "https://images.theconversation.com/files/754264/original/file-20260817-50-wl2go6.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2560%2C1280&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://n.bytvi.com/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-08-24 00:25:22",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
