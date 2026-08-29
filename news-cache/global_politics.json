@@ -1,8 +1,128 @@
 {
   "category": "global_politics",
-  "last_updated": "2026-08-29T15:52:55.276Z",
-  "article_count": 41,
+  "last_updated": "2026-08-29T18:58:52.048Z",
+  "article_count": 50,
   "articles": [
+    {
+      "id": "99f455f6084f09b30eb60d7ee51f89fd",
+      "title": "Icelanders vote in referendum on whether to resume EU membership talks",
+      "description": "Iceland will vote in a tight referendum on Saturday on whether to reopen membership negotiations with the European Union. Reykjavik applied for EU membership in 2009, following a financial crisis that devastated its economy but a eurosceptic government suspended the process in 2013.",
+      "url": "https://www.france24.com/en/europe/20260829-icelanders-vote-in-referendum-on-whether-to-resume-eu-membership-talks",
+      "image_url": "https://s.france24.com/media/display/3c3d8ef4-a376-11f1-8a6e-005056bfb2b6/w:1024/p:16x9/AP26239717725586.jpg",
+      "source_icon": "https://n.bytvi.com/france24.png",
+      "source": "France 24",
+      "published_at": "2026-08-29 06:56:50",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "a5d6424e9728921f88a3365dd2097475",
+      "title": "Norway mourns King Harald as crowds gather at royal palace",
+      "description": "OSLO, ⁠Aug 29 (Reuters) - Norwegians were gathering on Saturday to say goodbye to King Harald in ⁠front of the royal palace, where he lies in state, with many well-wishers remembering ‌his sense of inclusiveness and tolerance.",
+      "url": "https://www.thestar.com.my/news/world/2026/08/29/norway-mourns-king-harald-as-crowds-gather-at-royal-palace",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/08/29/4083888.jpg",
+      "source_icon": "https://n.bytvi.com/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-08-29 06:54:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6a6152ac56c586075a68b192df202d42",
+      "title": "Donald Trump issues fresh threat to Britain over Falklands",
+      "description": "The US is officially neutral over sovereignty of the islands but recognises that Britain administers them.",
+      "url": "https://www.express.co.uk/news/world/2243617/donald-trump-fresh-threat-falkland-islands",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/78/237x141/2243617_1.jpg",
+      "source_icon": "https://n.bytvi.com/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-08-29 06:52:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "e4f4bd7890d658e3601fe5aed37af475",
+      "title": "US diplomats, families begin return to Middle East embassies",
+      "description": "State Department lifts some staffing limits, allowing US diplomats’ families back to key Middle East posts amid ongoing tensions with Iran.",
+      "url": "https://gulfnews.com/world/mena/us-diplomats-families-begin-return-to-middle-east-embassies-1.500656158",
+      "image_url": "https://media.assettype.com/gulfnews/2026-08-29/djh6awpr/embassy.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "source_icon": "https://n.bytvi.com/gulfnews.png",
+      "source": "Gulf News",
+      "published_at": "2026-08-29 06:42:01",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "dc6bbea3e70bb43b545481bb49fa060d",
+      "title": "JBC opens applications for next chief justice",
+      "description": "MANILA, Philippines — The Judicial and Bar Council (JBC) on Saturday opened applications and nominations for the next Supreme Court chief justice ahead of Alexander Gesmundo’s compulsory retirement on November 6. In a notice issued on Saturday, the JBC said the deadline for the submission of applications, along with the necessary documentary requirements, is on",
+      "url": "https://newsinfo.inquirer.net/2294697/jbc-opens-applications-for-next-chief-justice",
+      "image_url": "https://newsinfo.inquirer.net/files/2020/06/jbc-logo.png",
+      "source_icon": "https://n.bytvi.com/inquirer.png",
+      "source": "Inquirer",
+      "published_at": "2026-08-29 06:33:23",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "f1b1fbc938375c256930f71b968844a3",
+      "title": "‘The whole point’: Farmer runs luxe retreat",
+      "description": "Writing a travel story is about as foreign to me as taking time off. My day job is heavy - I spend my weeks covering breaking crime, tracking crisis stories as they happen, and reporting on mental health and suicide.",
+      "url": "https://www.news.com.au/travel/australian-holidays/nsw-act/how-to-find-a-mental-reset-near-sydney-and-a-bath/news-story/3e44af933d5876d14649456db50d5e1d",
+      "image_url": "https://content.api.news/v3/images/bin/b8a3fbc8e476db9c269a284b6adec681",
+      "source_icon": "https://n.bytvi.com/news.sk.png",
+      "source": "News",
+      "published_at": "2026-08-29 06:25:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "88918a762fd31c4377a4e188450a74f5",
+      "title": "‘America lost a friend’: Dolly Parton’s impact was widespread",
+      "description": "She avoided supporting political candidates or parties and strived for unity in our diversity.",
+      "url": "https://www.bostonglobe.com/2026/08/29/opinion/letters-dolly-parton-remembered/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/ZK7GCRJXZNBCTETYB52ZVD64TI.jpg?auth=71796ae85479157e2e1ce81013bb865612948de5e45d17dd5c7a0bf4d56568d3&smart=true&width=2702&height=1802",
+      "source_icon": "https://n.bytvi.com/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-08-29 06:20:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "68e33c9b3718193e2eba03fa70a47e55",
+      "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+      "description": "Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.",
+      "url": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging",
+      "image_url": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a765965-1786141029.jpg?resize=1920%2C1440",
+      "source_icon": "https://n.bytvi.com/aljazeera_us.png",
+      "source": "Al Jazeera",
+      "published_at": "2026-08-29 06:11:58",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "62a361b4e14a870e6231650577f98322",
+      "title": "Patel’s FBI Lowers the Bar for Applicants With Checkered Pasts",
+      "description": "ALEX WROBLEWSKI / AFP via Getty Images Under Kash Patel, some past misdeeds are no longer automatic FBI dealbreakers. The bureau quietly loosened its hiring rules in June in an effort to boost recruitment after a wave of firings, resignations, and retirements during President Donald Trump’s second term, CBS News reported . Under the new guidelines, applicants who have hired a prostitute, stolen from an employer, or engaged in bestiality or animal cruelty may still be eligible for FBI jobs—depending on when and under what circumstances the conduct occurred. Read more at The Daily Beast.",
+      "url": "https://www.thedailybeast.com/kash-patels-fbi-eases-hiring-rules-on-theft-prostitution-and-bestiality/",
+      "image_url": "https://thedailybeast-thedailybeast-prod.web.arc-cdn.net/resizer/v2/TWTYCUCU3NET5NRTVY6RCZXFPY.jpg?auth=9abe0e00094ae96722718912baf37efa023effb54a337e1d7a73aef5427770aa&smart=true&width=886&height=498",
+      "source_icon": "https://n.bytvi.com/thedailybeast.png",
+      "source": "The Daily Beast",
+      "published_at": "2026-08-29 06:09:06",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "2ffc7c99088e3a61fb3ae51d2a1484f5",
+      "title": "Low voter turnout expected in Dasmariñas City special polls due to rain",
+      "description": "DASMARIÑAS CITY, Philippines — A low voter turnout is expected in Dasmariñas City’s special election due to the effects of the southwest monsoon, the Commission on Elections (Comelec) said Saturday. The prediction came as heavy rain poured over the city as residents cast their votes for a new congressional representative to replace former lawmaker Francisco “Kiko” Barzaga. READ: LOOK: Dasmariñas City holds special election to replace Kiko Barzaga “Yes, kapag talaga namang ganiyan, siyempre ‘yung iba mas iniingatan nila ‘yung kanilang kalusugan lalo na ‘yung may mga nararamdaman lalo o may mga comorbidities so hindi na lang sila lumalabas sa mga [...]... Keep on reading: Low voter turnout expected in Dasmariñas City special polls due to rain",
+      "url": "https://www.inquirer.net/486629/low-voter-turnout-expected-in-dasmarinas-city-special-polls-due-to-rain/",
+      "image_url": "https://www.inquirer.net/wp-content/uploads/2024/10/UPDATED-COMELEC-LOGO-1-11182022-620x352.jpg",
+      "source_icon": "https://n.bytvi.com/inquirer.png",
+      "source": "Inquirer",
+      "published_at": "2026-08-29 06:09:03",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "402e0084c80f0bae299fdce58580b938",
       "title": "Trump Launches Vile Attack on Female Reporter for Revealing His 9/11 Diva Fit",
@@ -482,18 +602,6 @@
       "published_at": "2026-08-28 03:30:46",
       "language": "english",
       "category": "politics"
-    },
-    {
-      "id": "e5850e08cbf6f92691f0b7cef6be5d88",
-      "title": "Canada sees progress in dispute over French language in U.S. trade talks",
-      "description": "A top Canadian official said the U.S. might not make French language and cultural provisions a sticking point in trade talks, a potential sign of de-escalation between the nations.",
-      "url": "https://www.washingtontimes.com/news/2026/aug/27/canada-sees-progress-dispute-french-language-us-trade-talks/",
-      "image_url": "https://twt-thumbs.washtimes.com/media/image/2026/08/24/AP26234607122032_s1440x948.jpg?3e977002f3ac6acb32c4734f00e8b13c26138df2",
-      "source_icon": "https://n.bytvi.com/washingtontimes.png",
-      "source": "The Washington Times",
-      "published_at": "2026-08-27 15:53:00",
-      "language": "english",
-      "category": "top"
     }
   ]
 }

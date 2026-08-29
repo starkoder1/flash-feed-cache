@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-29T15:52:55.273Z",
-  "article_count": 40,
+  "last_updated": "2026-08-29T18:58:52.044Z",
+  "article_count": 42,
   "articles": [
+    {
+      "id": "3896caf4b10957fe32dd527d09b310fe",
+      "title": "Israel is failing to provide food security, leaving thousands of NGOs to fill the gaps - study",
+      "description": "A new study reveals a vast but fragmented food-aid system, raising questions about the government’s responsibility to ensure food security.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-906933",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735639",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-29 05:02:50",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "54f68878710a853ab3732fa51590d80b",
+      "title": "How much should you reveal on a dating profile? Israeli study finds the sweet spot - study",
+      "description": "Too little information can signal a lack of effort, while oversharing can backfire. Reichman University researchers found that moderation may be the key to attracting a serious partner.",
+      "url": "https://www.jpost.com/health-and-wellness/article-906934",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735640",
+      "source_icon": "https://n.bytvi.com/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-08-29 05:02:50",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "a317f30b2f23bfd614e6acca36a6f852",
       "title": "Your sleep may be hiding an early clue to Alzheimer’s",
