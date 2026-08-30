@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-08-30T15:38:30.972Z",
+  "last_updated": "2026-08-30T18:54:40.442Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "4f74a9288d5bc337f1cdfca3e964ec96",
+      "title": "Charity thanks inmates for work to save hedgehogs",
+      "description": "Prisoners in HMP La Moye make feeding and nesting boxes for Jersey Hedgehog Preservation Group.",
+      "url": "https://www.bbc.co.uk/news/articles/cly4v6qr5e9o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6279/live/cc2bdc30-a300-11f1-80b3-bf1a174ac193.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-30 06:12:56",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8f0334e8bbb037f42a46ff0e916ab995",
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "description": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with conventional Spirulina, which mainly contains a form of B12 the human body cannot use. The carbon-neutral system could provide a more sustainable source of the essential vitamin.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/vitamin-b12-chemical-formula.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-30 05:17:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "70ea6366d4e02ee59d8ee0d8172393ad",
+      "title": "Nature reserves spot rare species during heatwaves",
+      "description": "A wildlife trust says unusually hot weather and increased monitoring has led to interesting finds.",
+      "url": "https://www.bbc.co.uk/news/articles/cpve2123v71o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/551b/live/c7f237d0-a158-11f1-92f3-2381193e5eb4.jpg",
+      "source_icon": "https://n.bytvi.com/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-08-30 05:08:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ca5b9e9a33b85d23ebacd217ed04de32",
+      "title": "The next Cascadia megaquake could hit Oregon harder than expected",
+      "description": "The Juan de Fuca plate beneath northern Oregon appears to be shallower than previously estimated, potentially making shaking from a future Cascadia megathrust earthquake significantly stronger. Scientists also found a deep basin beneath Tillamook that could trap seismic waves and intensify the shaking even further.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082350.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/high-tech-earthquake-fault-map.webp",
+      "source_icon": "https://n.bytvi.com/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-08-30 04:12:10",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "a12d16c7f287f6c67e8264212ba0ea3f",
       "title": "Some signs of quantum gravity may be an illusion",
@@ -552,54 +600,6 @@
       "source_icon": "https://n.bytvi.com/bbc.jpg",
       "source": "The Bbc",
       "published_at": "2026-08-29 00:51:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "73209616b66f06c1adb52fcc7fc1a425",
-      "title": "Indigenous and Northern led research groups receive more than $9M boost",
-      "description": "13 Indigenous and Northern-led research groups are receiving new funding. ArcticNet is investing $9.3 million through its North-by-North program. CBC's To...",
-      "url": "https://ca.news.yahoo.com/indigenous-northern-led-research-groups-005002388.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/e608f64177e45d366fe99aa52be9d5a36bfe8f3cf3f76877b1bb8391164c6717/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbc_videos_73%2F1a4b62991202d383871c77edf3b658b4.jpg",
-      "source_icon": "https://n.bytvi.com/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-08-29 00:50:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e30e53790721907afb11f40f8c95db4d",
-      "title": "The race to stop England running out of water",
-      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ed1/live/17fc92d0-a2f2-11f1-aed2-8d6da8d75094.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-29 00:46:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9072f43c767ac4bb12b47245a925690a",
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "description": "Lured by millions of new research funding from the Carney government, 48 US researchers in fields like climate and medicine will soon be moving north.",
-      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f782/live/25abd190-a304-11f1-80b3-bf1a174ac193.png",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-08-28 23:47:38",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "84392a5d7215f1025e5933d4e66a93a2",
-      "title": "Cannabis, Cocaine, and Amphetamines Linked to Up to 174 Percent Higher Stroke Risk in Adults Younger Than 55",
-      "description": "Learn about a study of over 100 million people that found a direct causal link between recreational drug use and stroke risk, even in younger populations.",
-      "url": "https://www.discovermagazine.com/cannabis-cocaine-and-amphetamines-linked-to-up-to-174-percent-higher-stroke-risk-in-adults-younger-than-55-49609",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60326/recreational-drug-use-stroke-risk-brain-scans-t.jpg",
-      "source_icon": "https://n.bytvi.com/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-08-28 22:30:00",
       "language": "english",
       "category": "science"
     }
