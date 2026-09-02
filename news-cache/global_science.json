@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-02T15:30:04.009Z",
+  "last_updated": "2026-09-02T19:02:49.095Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "25ca587d15a4dc3dc2d114919aede9ae",
+      "title": "State Psilocybin Program Opens Permitting Applications for Psychedelic Mushroom Producers",
+      "description": "State officials previously committed to opening the program to patients by the end of 2026",
+      "url": "http://sfreporter.com/news/state-psilocybin-program-opens-permitting-applications-for-p/",
+      "image_url": "http://sfreporter.com/downloads/16831/download/Cover%20Shrooms%20MAIN.jpg?cb=032458c53963c14516c278e7ecd468cb",
+      "source_icon": "https://i.newsdata.io/sfreporter.png",
+      "source": "Santa Fe Reporter",
+      "published_at": "2026-09-02 06:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "0b5561b02484a597cc868dca7391c1a7",
+      "title": "A search for one exotic particle uncovered two strange new structures",
+      "description": "A search for one mysterious particle unexpectedly revealed evidence for two different structures that may belong to the bizarre family of exotic subatomic particles known as XYZ states. The findings could help physicists uncover new ways that quarks and gluons combine to create matter.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015147.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/photon-beam-interacting-with-proton.webp",
+      "source_icon": "https://i.newsdata.io/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-09-02 05:28:30",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "8c6290d3398cea7194f30ca8c3bf5785",
+      "title": "Persistent cough that won't go away: Symptoms, causes, and warning signs",
+      "description": "A cough can persist even after a cold has passed, and it is sometimes caused by respiratory tract sensitivity, post-nasal drip, asthma, reflux or smoking.",
+      "url": "https://www.jpost.com/health-and-wellness/health-and-wellness-around-the-world/article-905534",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733922",
+      "source_icon": "https://i.newsdata.io/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-09-02 05:00:44",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f9dfa537ce1499b7eb4a29ee46e376e7",
+      "title": "Engineers develop single-element speaker that beams audio to specific listeners",
+      "description": "Researchers at Pohang University of Science and Technology (POSTECH) designed this low-cost, single-element speaker called MiPAL.",
+      "url": "https://interestingengineering.com/innovation/speaker-beams-audio-to-specific-listeners",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/IE-96.jpg",
+      "source_icon": "https://i.newsdata.io/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-09-02 04:16:20",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "ba146fb3f93f88750dd9dbc1fd726b12",
+      "title": "Scientists discover the key ingredients that make birdsong pretty",
+      "description": "What makes birdsong beautiful? Answering this question could help us understand how soundscapes make the natural world relaxing for humans, opening the door to improving parks, upgrading the design of stressful places like waiting rooms and promoting conservation through birds with especially lovely songs.",
+      "url": "https://phys.org/news/2026-08-scientists-key-ingredients-birdsong-pretty.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/blackbird-singing.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-09-02 04:00:01",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "86e25cca3fc1606f52a46b7c9ce10527",
+      "title": "Wednesday Mini (09/02/2026)",
+      "description": null,
+      "url": "https://www.jhunewsletter.com/article/2026/09/wednesday-mini-09022026",
+      "image_url": "https://d2f4bygimmhsdf.cloudfront.net/c4089729fe60a24f898189f35d3ad0f2/dist/img/fb-hidden-icon.png",
+      "source_icon": "https://i.newsdata.io/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-09-02 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "dcc808248de2e687f02fe8508693c4ea",
+      "title": "Caterina Biscari",
+      "description": "Caterina Biscari ha sido la directora más longeva del Sincrotrón ALBA, la instalación de aceleración de partículas que ha marcado un antes y un después en la producción científica catalana.",
+      "url": "https://cronicaglobal.elespanol.com/examen-protagonistas/20260902/caterina-biscari/1003742791120_0.html",
+      "image_url": "https://a2.elespanol.com/k/imgp/cms/asociados/564896.jpg?p=w:1706/h:960&h=TAXDx_xg",
+      "source_icon": "https://i.newsdata.io/cronicaglobal_elespanol.png",
+      "source": "Crónica Global",
+      "published_at": "2026-09-02 04:00:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "508c521304847a8edade9205e65730c0",
       "title": "Scientists Intrigued by a Surprising Result in the Search for Dark Matter",
@@ -518,90 +602,6 @@
       "published_at": "2026-09-01 05:49:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "27fa05e9fc2b1061c476ecf461c7e44e",
-      "title": "NASA’s Swift telescope is back, but time is running out",
-      "description": "NASA has brought two of Swift’s telescopes back online after technical problems derailed a commercial mission intended to rescue the aging observatory by raising its orbit. With atmospheric drag pulling the spacecraft downward faster than expected, scientists may have only another month or two before Swift falls below a critical operating altitude.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010702.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/nasa-swift-telescope-in-orbit.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-09-01 05:43:54",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5c477de84cafb100fd0018d00a3a17ae",
-      "title": "Warriors of Israel rebrands as over 90,000 wounded Israeli veterans need lifelong care, community",
-      "description": "The organization is the official US branch of the Zahal Disabled Veterans Organization, established after the War of Independence with the goal of rehabilitating wounded soldiers.",
-      "url": "https://www.jpost.com/health-and-wellness/article-907108",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/735875",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-09-01 05:33:42",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d6de4176952c0c3e8d5b79200feed963",
-      "title": "NASA delays Crew-13 launch after leak found on SpaceX Dragon",
-      "description": "NASA and SpaceX have delayed Crew-13 after finding an oxidizer leak in the Dragon spacecraft’s propulsion system during prelaunch preparations. Engineers are investigating the problem before the four-person crew can begin its journey to the International Space Station.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010705.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/spacex-crew-13-members-inside-dragon-spacecraft.webp",
-      "source_icon": "https://n.bytvi.com/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-09-01 05:33:37",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7e358ef579e4787e01da00203ad39cd1",
-      "title": "Ponder This Challenge - September 2026 - Loeschian Arithmetic Progressions",
-      "description": null,
-      "url": "https://research.ibm.com/blog/ponder-this-september-2026",
-      "image_url": "https://research-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud/ponder_This_september_26_red_04_250aca4bab.png",
-      "source_icon": "https://n.bytvi.com/ibm.png",
-      "source": "International Business Machines Corporation",
-      "published_at": "2026-09-01 05:30:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "9335ee662665e382bb59a0789c11d5d4",
-      "title": "Heathland plan to support two rare species of ant",
-      "description": "Devon Wildlife Trust says it will improve the heathland homes of the narrow-headed and erratic ants.",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zgw0nnk2o",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a2/live/46833670-a13c-11f1-9311-09d4e1fc9016.jpg",
-      "source_icon": "https://n.bytvi.com/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-09-01 05:27:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0f4dec6ee784f34eba911bfccf04badf",
-      "title": "Cancer and virus-free: Bats' longevity genes could hold clues for human health",
-      "description": "Scientists are studying the mechanisms behind bats' immune systems to uncover what they could teach about human longevity.",
-      "url": "http://www.euronews.com/health/2026/09/01/cancer-and-virus-free-bats-longevity-genes-could-hold-clues-for-human-health",
-      "image_url": "https://images.euronews.com/articles/stories/09/89/59/08/1440x810_cmsv2_17947fbf-2a84-50b6-87cc-6df43552e437-9895908.jpg",
-      "source_icon": "https://n.bytvi.com/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-09-01 05:15:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c46babaae052a74b0de84aa137245f48",
-      "title": "Many combine cheese, but does the vegetable steal calcium? | Dr. Maya Rosman",
-      "description": "Spinach with cheese seems like a healthy combination, but does it harm calcium absorption, and what happens when several cheeses are combined together? Dr. Maya Rosman dispels myths.",
-      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-905530",
-      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/733918",
-      "source_icon": "https://n.bytvi.com/jpost.png",
-      "source": "Jpost",
-      "published_at": "2026-09-01 05:01:52",
-      "language": "english",
-      "category": "health"
     }
   ]
 }
