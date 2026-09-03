@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-03T15:23:50.347Z",
+  "last_updated": "2026-09-03T18:58:08.165Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "b65ef90261168263252d0778e096e473",
+      "title": "UN warns of 'supersized' El Nino as countries prepare for impact",
+      "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-03 06:01:54",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6d594a9520908d0634fb75d50aba8dca",
+      "title": "The 2026 El Niño Is Being ‘Supersized’ as Impacts Worsen",
+      "description": "The World Meteorological Organization is warning that the climate phenomenon that has the Pacific running a fever will last until at least February, with dire consequences for weather worldwide.",
+      "url": "https://www.wired.com/story/2026-supersized-el-nino-impacts-worsen/",
+      "image_url": "https://media.wired.com/photos/6a98858ac297aad3e21d602c/master/pass/GettyImages-2289573784.jpg",
+      "source_icon": "https://i.newsdata.io/wired.png",
+      "source": "Wired",
+      "published_at": "2026-09-03 06:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "8099a552a7990320d8eff9b1bf0c692a",
+      "title": "Paraborgs: the cyborg cockroaches coming to the rescue",
+      "description": "The insects can locate people and deploy injections",
+      "url": "https://theweek.com/science/paraborgs-the-cyborg-cockroaches-coming-to-the-rescue",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/9YAgg5vG3qKaZ7H3RbmG76-1280-80.jpg",
+      "source_icon": "https://i.newsdata.io/theweek.png",
+      "source": "The Week",
+      "published_at": "2026-09-03 06:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6497ffb8567a815b4f6ad12280a86ba3",
+      "title": "With education technology, engagement is not the same as learning",
+      "description": "A new report from the American Psychological Association warns that student engagement with educational technology is not the same as learning—and that generative AI tools pose particular risks by improving students' immediate performance without building their underlying knowledge or skills.",
+      "url": "https://phys.org/news/2026-09-technology-engagement.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/education-technology.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-09-03 04:00:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e94abb68f95b04d452b5e14b6151a2b7",
+      "title": "ADHD may have a surprising creative advantage",
+      "description": "Some of the attention patterns that make ADHD challenging may also help spark creativity by allowing the brain to explore more ideas and unexpected connections. Researchers think creative activities could potentially channel this “defocused attention” while helping strengthen the brain systems involved in focus and self-control.",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015150.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/colorful-creativity-brain-explosion.webp",
+      "source_icon": "https://i.newsdata.io/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-09-03 03:44:06",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "7aafd4aa85fad1197828e56df7f0087b",
       "title": "Study reveals distinct patterns across single-, multi-, and mass homicides",
@@ -540,66 +600,6 @@
       "source_icon": "https://i.newsdata.io/jhu.png",
       "source": "Johns Hopkins University",
       "published_at": "2026-09-02 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dcc808248de2e687f02fe8508693c4ea",
-      "title": "Caterina Biscari",
-      "description": "Caterina Biscari ha sido la directora más longeva del Sincrotrón ALBA, la instalación de aceleración de partículas que ha marcado un antes y un después en la producción científica catalana.",
-      "url": "https://cronicaglobal.elespanol.com/examen-protagonistas/20260902/caterina-biscari/1003742791120_0.html",
-      "image_url": "https://a2.elespanol.com/k/imgp/cms/asociados/564896.jpg?p=w:1706/h:960&h=TAXDx_xg",
-      "source_icon": "https://i.newsdata.io/cronicaglobal_elespanol.png",
-      "source": "Crónica Global",
-      "published_at": "2026-09-02 04:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "508c521304847a8edade9205e65730c0",
-      "title": "Scientists Intrigued by a Surprising Result in the Search for Dark Matter",
-      "description": "Dark matter is the invisible stuff that accounts for roughly 85% of the mass in the universe, and for decades, physicists have been trying to figure out what it's made of. Now an experimental facility located nearly a mile below ground in South Dakota has recorded a single interaction between subatomic particles that doesn't match what's expected from normal matter. Has a dark-matter particle been detected at last? It's too early to say, but the anomaly is definitely attracting attention from dark-matter detectives.",
-      "url": "https://www.universetoday.com/articles/scientists-intrigued-by-a-surprising-result-in-the-search-for-dark-matter",
-      "image_url": "https://www.universetoday.com/article_images/260901-lz_20260902_003825.jpg",
-      "source_icon": "https://i.newsdata.io/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-09-02 03:16:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "923d2a843003a94657a3ea4b26008795",
-      "title": "Cellular atlas offers clues to childhood Crohn’s treatment response",
-      "description": "Researchers have created a detailed map of childhood Crohn's disease before and after treatment to help understand progression of the disease.",
-      "url": "https://www.news-medical.net/news/20260901/Cellular-atlas-offers-clues-to-childhood-Crohne28099s-treatment-response.aspx",
-      "image_url": "https://www.news-medical.net/image-handler/picture/2017/6/Anatomical_structure_of_biological_animal_cell_with_organelles-eranicle_1d73b50575dc4546875a4a2fc7d429a6-620x480.jpg",
-      "source_icon": "https://i.newsdata.io/news-medical.png",
-      "source": "Medical News",
-      "published_at": "2026-09-02 03:00:59",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a8f73c7cc4b5c7c28ff67f370d997ce1",
-      "title": "Distant Quasars Provide Crucial Link In Understanding Earliest Supermassive Black Holes",
-      "description": "Extreme quasars near the dawn of time are giving astrophysicists clues to the formation of supermassive black holes.",
-      "url": "https://www.universetoday.com/articles/distant-quasars-provide-crucial-link-in-understanding-earliest-supermassive-black-holes",
-      "image_url": "https://www.universetoday.com/article_images/Artists_rendering_ULAS_J11200641_20260902_023156.jpg",
-      "source_icon": "https://i.newsdata.io/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-09-02 02:47:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7590cfa2ef10a9a79e38540b59918832",
-      "title": "Children's picture books reflect changing attitudes to languages and can support revitalization",
-      "description": "We know from a wealth of research that children's picture books support language learning.",
-      "url": "https://phys.org/news/2026-09-children-picture-attitudes-languages-revitalization.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/childrens-picture-book.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-02 02:00:04",
       "language": "english",
       "category": "science"
     }
