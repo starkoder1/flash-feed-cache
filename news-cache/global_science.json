@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-05T14:08:24.526Z",
+  "last_updated": "2026-09-05T17:46:57.884Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "4a4a4d418eeb373956782dcbef584189",
+      "title": "Newly reviewed: Robert Ris' FritzTrainers on openings, calculation and strategic thinking (Part 1)",
+      "description": "Calculating variations, assessing positions accurately and finding the best move at the critical moment: few aspects of practical chess pose a greater challenge to players than concrete calculation. Robert Ris first addressed this topic in his 2018 Fritz Trainer, \"Calculation Training\", laying the foundations for a series of further courses. Lukas Koepl has taken a closer look at the various training programmes and, in this multipart overview, explains the main focus of each course and who they are particularly suited to.",
+      "url": "https://en.chessbase.com/post/review-ris-fritztrainers-2026-part-1",
+      "image_url": "https://en.chessbase.com/Portals/all/thumbs/132/132117.jpeg",
+      "source_icon": "https://i.newsdata.io/chessbase.png",
+      "source": "Chessbase",
+      "published_at": "2026-09-05 05:30:48",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7c3007b208c7ea6127ae1981a41880b0",
+      "title": "The five personality traits you have that scientists can tell before you're born... including some linked to PSYCHOPATHS",
+      "description": "Scientists have discovered over 1,200 genes which can tell if you may be at risk for mental illness in the future.",
+      "url": "https://www.dailymail.com/sciencetech/article-16103889/personality-traits-dna-psychopaths-research.html",
+      "image_url": "https://i.dailymail.com/1s/2026/09/04/22/111063293-0-image-a-45_1788557047743.jpg",
+      "source_icon": "https://i.newsdata.io/dailymailuk.png",
+      "source": "Mail Online",
+      "published_at": "2026-09-05 04:42:48",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "b0dddcad46f60f743a2c17e9d42e28f1",
+      "title": "Quantum oscillations defy expectations in this exotic material",
+      "description": "Scientists have uncovered an unusual form of electron behavior in zirconium pentatelluride, a quantum material that can act as both an insulator and a conductor. Under temperatures near absolute zero and magnetic fields reaching 60 tesla, electrons produced quantum oscillations that continued even after conventional physics predicted they should disappear.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901010715.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/quantum-magnetic-material-atomic-stacked-layers.webp",
+      "source_icon": "https://i.newsdata.io/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-09-05 04:18:12",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "c098f77b331b22b0e733f3562fc30f17",
       "title": "2026 NH Democratic U.S. Senate Debate: Lithium oxide mining",
@@ -566,42 +602,6 @@
       "published_at": "2026-09-04 05:11:45",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "2845c5274c76c81cfe6fcfb66db6a67c",
-      "title": "How brainless sea sponges use sunset as a cue to prepare for metamorphosis",
-      "description": "Sea sponges are some of the world’s simplest animals – but even so, the rhythm of night and day kicks off a crucial stage of their life cycle.",
-      "url": "https://theconversation.com/how-brainless-sea-sponges-use-sunset-as-a-cue-to-prepare-for-metamorphosis-290731",
-      "image_url": "https://images.theconversation.com/files/757947/original/file-20260904-50-6nf3s1.jpg?ixlib=rb-4.1.1&rect=59%2C0%2C1476%2C738&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://i.newsdata.io/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-09-04 05:01:13",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "6b51571f90e16c25850d0a0fc85d596d",
-      "title": "Britain launches first terror-proof, high-security robotics lab to fight the next pandemic",
-      "description": "EXCLUSIVE: UK-first laboratory launched in Liverpool which is encased in steel and where robots have taken over the roles of scientists - and work 24/7",
-      "url": "https://www.mirror.co.uk/news/health/robotic-laboratory-liverpool-terror-pandemic-37624557",
-      "image_url": "https://i2-prod.mirror.co.uk/incoming/article37624584.ece/ALTERNATES/s615/0_Lab-image-Mirror-tech-2.jpg",
-      "source_icon": "https://i.newsdata.io/mirroruk.png",
-      "source": "Mirror",
-      "published_at": "2026-09-04 04:31:46",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0f3baf4738fdd56dcb454495159ce26f",
-      "title": "Friday Mini (09/04/2026)",
-      "description": "6-Across: With 3-Down, a period of time that ended last week",
-      "url": "https://www.jhunewsletter.com/article/2026/09/friday-mini-09042026",
-      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
-      "source_icon": "https://i.newsdata.io/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-09-04 04:00:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
