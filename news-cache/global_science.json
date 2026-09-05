@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-05T11:27:38.420Z",
+  "last_updated": "2026-09-05T14:08:24.526Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c098f77b331b22b0e733f3562fc30f17",
+      "title": "2026 NH Democratic U.S. Senate Debate: Lithium oxide mining",
+      "description": "U.S. Senate candidates Karishma Manzur and Chris Pappas share they would support efforts to develop lithium oxide mining in New Hampshire.",
+      "url": "https://www.wmur.com/article/new-hampshire-senate-dem-debate-lithium-oxide-mining/73620151",
+      "image_url": "https://kubrick.htvapps.com/vidthumb/1629e072-6702-483b-b8a3-2eba7925ea54/ae06322a-7730-4b47-96c7-2914b89d4561.jpg",
+      "source_icon": "https://i.newsdata.io/wmur.png",
+      "source": "Wmur",
+      "published_at": "2026-09-05 00:54:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "56b2a7899f2a56660da2722ce2b00a31",
+      "title": "Graphene superconductivity switched off, showing electron interactions drive it",
+      "description": "Researchers switched off superconductivity in magic-angle graphene by weakening electron interactions at distances as small as 0.3 nm.",
+      "url": "https://interestingengineering.com/science/graphene-superconductivity-switched-off-electron-interactions",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T054514.828.jpg",
+      "source_icon": "https://i.newsdata.io/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-09-05 00:20:50",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "54fc33263a728ef2a36f80ba2ffeac40",
+      "title": "Superconductor showdown: Two fusion magnet rivals face intense radiation test",
+      "description": "Researchers compared two superconductors under identical radiation conditions, revealing a sharp difference in their structural stability.",
+      "url": "https://interestingengineering.com/energy/superconductors-fusion-magnets-radiation-test",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/Untitled-design-2026-09-05T035644.243.jpg",
+      "source_icon": "https://i.newsdata.io/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-09-05 00:05:34",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "afcfb7801e81d64993a1c90dd2b2a33d",
+      "title": "Prescott Elementary students help choose colors for new Parkrose mural",
+      "description": "School leaders hope the finished mural will become a source of pride for students and the broader community.",
+      "url": "https://www.kgw.com/article/news/education/prescott-elementary-students-help-choose-colors-new-parkrose-mural/283-e1ee8366-c50d-46c8-b6a1-16470dcde252",
+      "image_url": "https://media.tegna-media.com/assets/KGW/images/b8e0e1d8-b71e-4f65-882c-211bef94d931/20260904T235318/b8e0e1d8-b71e-4f65-882c-211bef94d931_750x422.jpg",
+      "source_icon": "https://i.newsdata.io/kgw.jpg",
+      "source": "Kgw",
+      "published_at": "2026-09-04 23:53:44",
+      "language": "english",
+      "category": "education"
+    },
     {
       "id": "440d912f4ac2b4cb4ad3599a8a71f992",
       "title": "Hawaiʻi Students Help Name a Pair of Merging Galaxies More Than 200 Million Light-Years Away",
@@ -554,54 +602,6 @@
       "published_at": "2026-09-04 04:00:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "0d41a17f0b96e1139c39b9ed0f6da493",
-      "title": "Governor Healey, MIT President Kornbluth to Kick Off Festivities at MIT Future Fest",
-      "description": "The five-day festival will explore the future of science, technology, art and design from Wednesday, Sept. 30 to Sunday, Oct. 4",
-      "url": "https://news.mit.edu/2026/governor-healey-mit-president-kornbluth-kick-festivities-mit-future-fest",
-      "image_url": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/MIT-aerial-4-EmilyDahl.jpg?itok=czyYeh8I",
-      "source_icon": "https://i.newsdata.io/mit.jpg",
-      "source": "Massachusetts Institute Of Technology",
-      "published_at": "2026-09-04 04:00:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "dfcae9d86d17170d6826cc86e2f12a98",
-      "title": "UNSW experts awarded Eureka Prizes for sustainability and medical research",
-      "description": "UNSW Sydney academics have been recognised for their exceptional contributions to sustainability and medical research.",
-      "url": "https://www.unsw.edu.au/newsroom/news/2026/09/UNSW-researchers-win-at-the-2026-Eureka-Prizes",
-      "image_url": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/news/2026/2026-09-eureka/2026-09-eureka.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
-      "source_icon": "https://i.newsdata.io/unsw_edu.png",
-      "source": "Unsw Sydney",
-      "published_at": "2026-09-04 02:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "1243f6b68f3bf11c72b879472091ffea",
-      "title": "Robotics@UNSW connects researchers, industry and government",
-      "description": "A new initiative launched to advance robotics research and innovation at UNSW Sydney and beyond.",
-      "url": "https://www.unsw.edu.au/newsroom/news/2026/09/robotics-unsw-connects-researchers-industry-and-government",
-      "image_url": "https://www.unsw.edu.au//content/dam/images/unsw-wide/general/events/2026-09-robotics/dscf3836.jpg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
-      "source_icon": "https://i.newsdata.io/unsw_edu.png",
-      "source": "Unsw Sydney",
-      "published_at": "2026-09-04 01:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "872d8c2895383a1359db8fd1a920d144",
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-      "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
-      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aa3/live/7c9c7810-a7be-11f1-aed2-8d6da8d75094.jpg",
-      "source_icon": "https://i.newsdata.io/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-09-04 00:46:54",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
