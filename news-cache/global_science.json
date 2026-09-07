@@ -1,8 +1,128 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-07T16:46:56.760Z",
-  "article_count": 42,
+  "last_updated": "2026-09-07T22:22:04.303Z",
+  "article_count": 47,
   "articles": [
+    {
+      "id": "024c7f55ae5f7d2d5d769b30fc2e4e99",
+      "title": "Labor Day in space: NASA astronauts get the holiday off",
+      "description": "Like their compatriots here on Earth, the three NASA astronauts living aboard the International Space Station will get a well-deserved rest on Labor Day.",
+      "url": "https://www.space.com/space-exploration/international-space-station/labor-day-in-space-nasa-astronauts-get-the-holiday-off",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Spxe46VmhwYPHBus7TjDyD-1280-80.jpg",
+      "source_icon": "https://i.newsdata.io/space.png",
+      "source": "Space",
+      "published_at": "2026-09-07 10:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "bc4e595d2c2cd25859e4a77655781ad0",
+      "title": "Science, pigs and money: the race between the US and China to make animal-to-human transplants viable",
+      "description": "Techniques such as the gene-editing tool CRISPR already make survivals approaching a year possible, something unheard of until recently",
+      "url": "https://english.elpais.com/health/2026-09-07/science-pigs-and-money-the-race-between-the-us-and-china-to-make-animal-to-human-transplants-viable.html",
+      "image_url": "https://images.english.elpais.com/resizer/v2/IJZMNQCQPRGQPL2XYSTDA3OT54.jpg?auth=5deab8ff8de461b7bf8fb50c741e3fe77017f05a92498d95281478517100ae1e",
+      "source_icon": "https://i.newsdata.io/elpais.png",
+      "source": "El Pais",
+      "published_at": "2026-09-07 09:45:01",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "94245a63d739564fa6de50b7023f2b80",
+      "title": "Europe's crops mature earlier due to climate change, data shows",
+      "description": "By Tristan Veyet Sept 7 (Reuters) - Maize, rapeseed and winter wheat matured and were harvested in Europe much earlier in 2026 than at the turn of the centur...",
+      "url": "https://www.yahoo.com/news/articles/europes-crops-mature-earlier-due-094049324.html",
+      "image_url": "https://s.yimg.com/lo/mysterio/api/e899f68f018dc735345332f8668015f0eb8c54c4c1656b329b0b332fe600a418/lightyear_networkapi/resizefill_w800_h546%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2Fdb2d765ebc16846385147e0ed0a60747.jpg",
+      "source_icon": "https://i.newsdata.io/yahoo.png",
+      "source": "Yahoo! News",
+      "published_at": "2026-09-07 09:40:49",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "69c5d5a412450f359abc6ae58026c223",
+      "title": "Treat education as infrastructure during wartime, say researchers in Ukraine",
+      "description": "War destroys laboratories and instruments. It also severs the human networks through which science reproduces itself. It disrupts mentorship, collaborations and informal ties that turn students into researchers.",
+      "url": "https://phys.org/news/2026-09-infrastructure-wartime-ukraine.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/treat-education-as-inf.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-09-07 09:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "6f83dcc467565ef076f90ec9c52019f5",
+      "title": "Plastics Companies Are Writing Lesson Plans. What Could Go Wrong?",
+      "description": "The science curriculum the industry is offering to schools casts plastics as safe, recyclable, and a source of good jobs. Critics say it’s propaganda.",
+      "url": "https://www.wired.com/story/plastics-companies-writing-lesson-plans-what-could-go-wrong/",
+      "image_url": "https://media.wired.com/photos/6a9953fe35fd9ea6d6a8e832/master/pass/GettyImages-1998844554.jpg",
+      "source_icon": "https://i.newsdata.io/wired.png",
+      "source": "Wired",
+      "published_at": "2026-09-07 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "844b2293dfd3875bf8b48f19c2c23cc5",
+      "title": "Hong Kong university engineers breakthrough in microelectronics",
+      "description": "A research team at The Hong Kong Polytechnic University has engineered a novel tunnelling field-effect transistor utilising 2D nanomaterials.",
+      "url": "https://www.scotsman.com/must-read/university-engineer-microelectronics-8969979",
+      "image_url": "https://www.scotsman.com/jpim-static/image/2026/09/07/8/28/9e336381-af74-49f9-bae2-e37c0b275129.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://i.newsdata.io/scotsman.png",
+      "source": "The Scotsman",
+      "published_at": "2026-09-07 08:23:37",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "6e3a528218f6e63177ff4d9478dbd439",
+      "title": "Paleo raises €2m for heme protein scale-up",
+      "description": "Belgian food-tech company Paleo has secured €2 million to support the commercial scale-up of its animal-free heme proteins. The company uses precision fermentation with yeast to produce non-GMO myoglobins, proteins [...]",
+      "url": "https://www.fdiforum.net/mag/featured/paleo-raises-e2m-for-heme-protein-scale-up/",
+      "image_url": "https://www.fdiforum.net/mag/wp-content/uploads/2021/09/shutterstock_1244098963.jpg",
+      "source_icon": "https://i.newsdata.io/fdiforum_net.png",
+      "source": "Food & Drink International",
+      "published_at": "2026-09-07 07:43:53",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "3e7dc1a5419dc0549a6f11e19a49456f",
+      "title": "Scientists found 66-million-year-old wound still healing inside a T. rex’s rib",
+      "description": null,
+      "url": "https://interestingengineering.com/science/ornl-neutron-imaging-t-rex-scotty-blood-vessels",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
+      "source_icon": "https://i.newsdata.io/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-09-07 06:17:29",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "09e14cff9deb9fc02abb51f21c5170bb",
+      "title": "Pioneering fossil hunter recognised with blue plaque",
+      "description": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b0/live/47c3aa50-aa7f-11f1-a14b-7d9bc9f3336b.png",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-07 06:01:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "836c7a01e39809f7c131cd0a988de00e",
+      "title": "Unexpected detail in photo from World War Two 'proves' time travel is real",
+      "description": "A man believes he has uncovered evidence of time travel in a long-forgotten photograph of his grandfather",
+      "url": "https://www.dailystar.co.uk/news/weird-news/unexpected-detail-photo-world-war-37627307",
+      "image_url": "https://i2-prod.dailystar.co.uk/news/weird-news/article37627306.ece/ALTERNATES/s615/1_Internet-sleuths-find-prove-of-time-travel-as-WW2-soldier-spotted-holding-iPhone.jpg",
+      "source_icon": "https://i.newsdata.io/dailystar.png",
+      "source": "Dailystar Co Uk",
+      "published_at": "2026-09-07 06:00:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "47fcdb710b90a3d073a6dd2742676f08",
       "title": "Our planet has a time problem – and it may be about to get weirder",
@@ -446,66 +566,6 @@
       "published_at": "2026-09-06 02:00:00",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "fa2548b6b19e1d90e56c10a23e477298",
-      "title": "Too round and it bends, too flat and it snaps: The physics behind a rose thorn",
-      "description": "Stay updated with daily science news articles from Interesting Engineering. Find the most recent news on scientific discoveries, inventions, and developments.",
-      "url": "https://interestingengineering.com/science/rose-prickle-oval-shape-mechanics-study",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2025/12/Interesting-Enginnering.jpg",
-      "source_icon": "https://i.newsdata.io/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-09-05 19:36:21",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "1a4f3a7e6694193be3e26b8a00ff8c0a",
-      "title": "FAST finds two mysterious hydrogen clouds with no visible stars",
-      "description": "Astronomers have found two clouds of hydrogen near the Whirlpool galaxy that appear to contain almost no stars. The clouds, discovered with China's FAST radio telescope, each contain roughly 3 million times the mass of the sun in hydrogen but have no detectable optical counterpart. Their properties are outlined in a new paper published in the Astronomy & Astrophysics journal on Aug. 4.",
-      "url": "https://phys.org/news/2026-09-fast-mysterious-hydrogen-clouds-visible.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/fast-finds-two-mysteri.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-05 18:40:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "a4ba54cef7435ba75e73d20f0df96588",
-      "title": "A laser that breaks repeating patterns could reshape semiconductor design",
-      "description": "By embedding tiny dielectric structures inside the semiconductor, researchers created a laser that can control light in a new way.",
-      "url": "https://interestingengineering.com/science/laser-breaks-repeating-patterns-semiconductor-design",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/laser-patterns.jpg",
-      "source_icon": "https://i.newsdata.io/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-09-05 17:56:40",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "71fb28578809b83b40c6f73662ee5ea3",
-      "title": "The CDC Is Now Denying That Specific Children Died From Measles, in a Scandal Potentially Beyond Anything in Its History",
-      "description": "It's a virtually unprecedented move by the CDC. The post The CDC Is Now Denying That Specific Children Died From Measles, in a Scandal Potentially Beyond Anything in Its History appeared first on Futurism .",
-      "url": "https://futurism.com/health-medicine/newborn-died-measles-rfks-cdc-denies",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/09/newborn-died-measles-rfks-cdc-denies.jpg?quality=85&w=2048",
-      "source_icon": "https://i.newsdata.io/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-09-05 17:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b351ce5c066715d8e87497a09457037b",
-      "title": "A black hole as light as 40 tons can exist inside a star if dark matter helps",
-      "description": "In 1974, Stephen Hawking made a prediction that transformed our understanding of black holes. Black holes, he showed, are not truly black: They slowly lose energy through a quantum process now known as Hawking radiation. The lighter the black hole, the faster it evaporates.",
-      "url": "https://phys.org/news/2026-09-black-hole-tons-star-dark.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-hole-as-light.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-05 17:00:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
