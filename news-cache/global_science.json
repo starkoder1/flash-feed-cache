@@ -1,8 +1,104 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-11T15:25:37.482Z",
+  "last_updated": "2026-09-11T18:50:37.846Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "67f0a6df503539634e2503c519e4e064",
+      "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
+      "description": "A warmer and wetter-than-normal autumn is in store for the UK, according to the latest Met Office forecasts.",
+      "url": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1828/live/df0abbc0-ad44-11f1-8a01-6d097895aae4.png",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-11 06:27:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "55b4827e32322cb3ec55c3a7513ce58f",
+      "title": "Parent body of asteroid Ryugu formed early in solar system history, study finds",
+      "description": "Until now, the timing of the formation of the asteroid, as well as the parent body, itself, had remained uncertain.",
+      "url": "https://www.japantimes.co.jp/news/2026/09/11/japan/science-health/ryugu-parent-body-history/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/562554.jpg",
+      "source_icon": "https://i.newsdata.io/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-09-11 05:24:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "f4bff73a00b22e557567e4e895fd4c26",
+      "title": "Physicists just found a tiny glitch in time itself",
+      "description": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/a-twitch-in-time.webp",
+      "source_icon": "https://i.newsdata.io/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-09-11 05:18:44",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "132e238a52c4b79e84fb1a8eceade543",
+      "title": "‘We really do earnestly believe AI could kill all humans’: if AI labs are so worried about AI doom, why don’t they stop?",
+      "description": "A powerful mix of hopes, fears and arms-race dynamics means AI companies won’t slow down unless they’re forced.",
+      "url": "https://theconversation.com/we-really-do-earnestly-believe-ai-could-kill-all-humans-if-ai-labs-are-so-worried-about-ai-doom-why-dont-they-stop-291595",
+      "image_url": "https://images.theconversation.com/files/759257/original/file-20260911-50-hweewd.jpg?ixlib=rb-4.1.1&rect=0%2C640%2C5576%2C2788&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source_icon": "https://i.newsdata.io/theconversation.png",
+      "source": "The Conversation",
+      "published_at": "2026-09-11 04:13:03",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "4d7a9d84709fc5ffce2529e35c402c97",
+      "title": "Anthropic warns Claude misuse may have led to biological weapons development",
+      "description": "Unnamed actors attempted to use Claude to write a grant proposal for genetically altering the chikungunya virus",
+      "url": "https://www.independent.co.uk/tech/anthropic-claude-bioweapons-development-ai-misuse-b3048341.html",
+      "image_url": "https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source_icon": "https://i.newsdata.io/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-09-11 04:04:44",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "15b6af5974419c88e695afdc85f1519a",
+      "title": "Most domestic violence now involves tech – but support is missing",
+      "description": "A new study reveals the pervasive role of technology in domestic and family violence – and the concerning lack of support available to victims navigating digital abuse.",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/09/most-domestic-violence-now-involves-tech-but-support-is-missing",
+      "image_url": "https://www.unsw.edu.au//content/dam/images/canberra/unsw-canberra/ifcyber/websites/2026-09-stock/tech-abuse-1.jpeg/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
+      "source_icon": "https://i.newsdata.io/unsw_edu.png",
+      "source": "Unsw Sydney",
+      "published_at": "2026-09-11 04:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "b7e27ce7ba458329924d25d58eeb6b77",
+      "title": "2026 Cover Letter Magazine Mini",
+      "description": "Constructed by Karthik Ramanathan and Eric Zeng with the free crossword maker from Amuse Labs",
+      "url": "https://www.jhunewsletter.com/article/2026/09/2026-cover-letter-magazine-mini",
+      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
+      "source_icon": "https://i.newsdata.io/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-09-11 04:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "69f2df1c65dfd4d34317edd8aa09196f",
+      "title": "Friday Mini (09/11/2026)",
+      "description": "Constructed by Eric Zeng and Karthik Ramanathan using the online crossword puzzle builder from Amuse Labs",
+      "url": "https://www.jhunewsletter.com/article/2026/09/friday-mini-09112026",
+      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
+      "source_icon": "https://i.newsdata.io/jhu.png",
+      "source": "Johns Hopkins University",
+      "published_at": "2026-09-11 04:00:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "cce89f4193b98b8cc573eeed4cd122f0",
       "title": "DRC's cobalt exports contain unreported uranium—our study estimates the global nuclear risk",
@@ -506,102 +602,6 @@
       "published_at": "2026-09-10 05:03:40",
       "language": "english",
       "category": "health"
-    },
-    {
-      "id": "c836e6fe8ab5d2a98307f032d8a9c745",
-      "title": "Centuries after China started exporting tea to the world, it’s taking a new tea culture global",
-      "description": "For over 2,000 years, tea has been consumed in China, today the country is revitalizing its tea tradition for a new generation, with brands like Mixue and Chagee transforming tea into a customizable beverage and taking this contemporary tea culture overseas.",
-      "url": "https://www.cnn.com/sponsor/edition/xinhua/chinese-tea-culture",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2167178713.jpg?c=original/w_800",
-      "source_icon": "https://i.newsdata.io/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-09-10 04:41:15",
-      "language": "english",
-      "category": "sports"
-    },
-    {
-      "id": "ec85fa1a10dda35d4989d6b7e69c3e57",
-      "title": "Fossil bones and tools from mysterious ancient human unearthed in China",
-      "description": "A rare combination of tools and fossils found in a Chinese cave could help scientists learn more about our mysterious extinct cousins, the Denisovans.",
-      "url": "https://www.abc.net.au/news/science/2026-09-10/ancient-denisovan-tools-and-bone-find-in-china-hunting/107133470",
-      "image_url": "https://live-production.wcms.abc-cdn.net.au/a961fe2b5e93ed2b2568e016a3b34d27?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=167&width=862&height=485",
-      "source_icon": "https://i.newsdata.io/abc_net.png",
-      "source": "Abc",
-      "published_at": "2026-09-10 04:04:14",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "0c87cc6997b478292a21eea59d01811c",
-      "title": "Graduate programme: ‘It’s very eye-opening, not what I expected at all, in a good way’",
-      "description": "Reshma Thomas, a biotechnology graduate, is based at Pfizer’s Newbridge site",
-      "url": "https://www.irishtimes.com/ireland/education/2026/09/10/graduate-programme-its-very-eye-opening-not-what-i-expected-at-all-in-a-good-way/",
-      "image_url": "https://www.irishtimes.com/resizer/v2/HJ2RS2YGPVBIDG5GNDQILC3NUY.png?auth=6938514ac6f4e7535c9b45395294da62d78e78076f7f0d8c4f7bac5421b060e2&smart=true&width=630&height=350",
-      "source_icon": "https://i.newsdata.io/irishtimes.png",
-      "source": "The Irish Times",
-      "published_at": "2026-09-10 04:01:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "37c1484514e212e059431a94fa917e80",
-      "title": "New Revelations About the Origin of Interstellar Comet 3I/ATLAS",
-      "description": "UK astronomers have uncovered new clues about the origin of 3I/Atlas – only the third known object from beyond our Solar System ever spotted in our cosmic neighbourhood.",
-      "url": "https://www.universetoday.com/articles/new-revelations-about-the-origin-of-interstellar-comet-3iatlas",
-      "image_url": "https://www.universetoday.com/article_images/3I-ATLAS_noirlab2532b_20260910_022356.jpg",
-      "source_icon": "https://i.newsdata.io/universetoday.png",
-      "source": "Universe Today",
-      "published_at": "2026-09-10 02:24:37",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d8661fb901c5bb2f14db8a1c51d6c100",
-      "title": "OpenAI claims another huge mathematical result amid fights over credit, ethics and privacy",
-      "description": "OpenAI found a solution to the long-standing Navier-Stokes problem. Not everyone is happy about how they did it.",
-      "url": "https://theconversation.com/openai-claims-another-huge-mathematical-result-amid-fights-over-credit-ethics-and-privacy-291575",
-      "image_url": "https://images.theconversation.com/files/759008/original/file-20260910-50-7lw4zs.jpg?ixlib=rb-4.1.1&rect=0%2C628%2C7000%2C3500&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://i.newsdata.io/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-09-10 02:07:46",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "97013ca81941932d1468718d399998a3",
-      "title": "August was joint hottest month on record, says European climate agency",
-      "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
-      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eae1/live/3afbb100-ac5f-11f1-be57-03729df1d736.jpg",
-      "source_icon": "https://i.newsdata.io/bbc.jpg",
-      "source": "The Bbc",
-      "published_at": "2026-09-10 02:05:47",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ba65610556e0787dfa98a3943992084d",
-      "title": "X-ray photoelectron spectroscopy reveals the surface chemistry of bio-based hybrid materials",
-      "description": "Just a few atomic layers at the surface can strongly influence how effectively a material binds pollutants from water or how efficiently a photocatalyst responds to light. Researchers at the Fraunhofer Institute for Applied Polymer Research IAP use X-ray photoelectron spectroscopy (XPS) to investigate the chemical states and interactions at the surfaces and interfaces of bio-based carbon materials and organic-inorganic hybrid materials. Their insights can support the targeted development of functional materials for future industrial applications.",
-      "url": "https://phys.org/news/2026-09-ray-photoelectron-spectroscopy-reveals-surface.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/xps-reveals-the-surfac.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-10 02:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d5451018cdf02569c78b5113cbd14b41",
-      "title": "Luck or merit? Not all inequality is equally acceptable",
-      "description": "Do you think it's fair that some people are better off financially than others? Does it perhaps matter whether those earnings stem from a lottery win or hard work? These are the kinds of questions economist Ingvild Almås of the University of Zurich is exploring.",
-      "url": "https://phys.org/news/2026-09-luck-merit-inequality-equally.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2023/inequality.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-10 01:40:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
