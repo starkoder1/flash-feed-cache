@@ -1,8 +1,44 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-12T17:57:21.823Z",
+  "last_updated": "2026-09-12T21:47:15.941Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "1b2c579b666a488cd6827e73dc7263f3",
+      "title": "Bears, caribou and other animals are messing with this researcher's equipment, and he's got photos to prove it",
+      "description": "Lucas Brehaut was hoping there’d be a lot of interest in his research, though it might be a case of “be careful what you wish for.” Caribou, moose, black bears, wolves, rabbits and owls have been messing with his research equipment.",
+      "url": "https://www.cbc.ca/radio/quirks/fire-forest-research-animals-destroy-equipment-9.7331035?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/67d492df-4171-49b9-8f6d-092a711c610e,1788886600133/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C855%2C2316%2C1302%29%3B",
+      "source_icon": "https://i.newsdata.io/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-09-12 08:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "f0086d2d0db0b0143a56e4d573b6e26e",
+      "title": "A million dollar math problem may just be the beginning for OpenAI",
+      "description": "OpenAI made waves this week for announcing it had solved a mathematics problem with roots going back 200 years. But almost immediately, two other mathematicians (one of whom works at competitor Anthropic) announced the results might have taken from their own work.",
+      "url": "https://www.cbc.ca/news/science/open-ai-navier-stokes-millenium-prize-mathematics-9.7341293?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/715ec9b9-8605-4f58-acbf-0b6730c158de,1789163513511/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C291%2C5579%2C3138%29%3B",
+      "source_icon": "https://i.newsdata.io/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-09-12 08:00:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "022dde635e45b740933d6e8b54961f4c",
+      "title": "The slow, muddy work of saving ancient bogs",
+      "description": "Sarah Hickey and her team help keep nearly 20,000 acres of upland in the Isle of Man healthy.",
+      "url": "https://www.bbc.co.uk/news/articles/czjzvdjl0plo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8c/live/0caa1b40-ad11-11f1-826f-933990eae6f0.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-12 06:27:18",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "760fff04495823695290fec44782c16d",
       "title": "Town gets in a flap over High Street pigeon mess",
@@ -564,42 +600,6 @@
       "source_icon": "https://i.newsdata.io/japantimes.jpg",
       "source": "The Japan Times",
       "published_at": "2026-09-11 05:24:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "f4bff73a00b22e557567e4e895fd4c26",
-      "title": "Physicists just found a tiny glitch in time itself",
-      "description": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it could reveal a hidden connection between quantum mechanics, gravity, and spacetime.",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/a-twitch-in-time.webp",
-      "source_icon": "https://i.newsdata.io/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-09-11 05:18:44",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "132e238a52c4b79e84fb1a8eceade543",
-      "title": "‘We really do earnestly believe AI could kill all humans’: if AI labs are so worried about AI doom, why don’t they stop?",
-      "description": "A powerful mix of hopes, fears and arms-race dynamics means AI companies won’t slow down unless they’re forced.",
-      "url": "https://theconversation.com/we-really-do-earnestly-believe-ai-could-kill-all-humans-if-ai-labs-are-so-worried-about-ai-doom-why-dont-they-stop-291595",
-      "image_url": "https://images.theconversation.com/files/759257/original/file-20260911-50-hweewd.jpg?ixlib=rb-4.1.1&rect=0%2C640%2C5576%2C2788&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://i.newsdata.io/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-09-11 04:13:03",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "4d7a9d84709fc5ffce2529e35c402c97",
-      "title": "Anthropic warns Claude misuse may have led to biological weapons development",
-      "description": "Unnamed actors attempted to use Claude to write a grant proposal for genetically altering the chikungunya virus",
-      "url": "https://www.independent.co.uk/tech/anthropic-claude-bioweapons-development-ai-misuse-b3048341.html",
-      "image_url": "https://static.independent.co.uk/2026/09/09/19/Anthropic_Researcher_Resignation_85781.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source_icon": "https://i.newsdata.io/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-09-11 04:04:44",
       "language": "english",
       "category": "top"
     }
