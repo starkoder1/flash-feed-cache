@@ -1,8 +1,32 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-13T15:13:05.070Z",
+  "last_updated": "2026-09-13T18:24:25.647Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "041a8991327a253de9c64d3fda537b53",
+      "title": "Insap: Pisa 2025 report shows Malaysia’s 2030 talent target is unreachable without urgent action",
+      "description": "From DATUK DR PAMELA YONG, Institute of Strategic Analysis and Policy Research (Insap) Chairman.",
+      "url": "https://www.thestar.com.my/opinion/letters/2026/09/13/insap-pisa-2025-report-shows-malaysias-2030-talent-target-is-unreachable-without-urgent-action",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/09/13/4108040.jpg",
+      "source_icon": "https://i.newsdata.io/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-09-13 05:53:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "078a2209db0c9398513e6c3c3433ad3e",
+      "title": "At Harvard and Northeastern, different approaches to speech — with different results",
+      "description": "Administrators at Harvard and Northeastern have confronted a thorny challenge during the Trump administration: how to get students and professors to speak freely about issues when they have reason to fear the consequences.",
+      "url": "https://www.bostonglobe.com/2026/09/13/metro/harvard-northeastern-different-approaches-speech-with-different-results/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/NKO62UF6NTDP77R7G7U5MTUT4U.jpg?auth=3fa6aa1dd20a51ae4f039f0bf5830e19ba0d26eebc37e8455f5bba329f3fa4c7&smart=true&width=2952&height=2214",
+      "source_icon": "https://i.newsdata.io/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-09-13 04:01:00",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "186822bfb8873287f2daa84c3def76f4",
       "title": "A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy",
@@ -576,30 +600,6 @@
       "source_icon": "https://i.newsdata.io/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-09-11 19:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "7f6f4263dc25c035e9581a5a05fce5dc",
-      "title": "Rocket Lab launches mystery satellite to orbit for secret customer (photo)",
-      "description": "Rocket Lab launched an Earth-observation satellite to orbit for a confidential customer on Thursday night (Sept. 10), without providing a livestream or many details about the mission.",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-mystery-satellite-to-orbit-for-secret-customer-photo",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kBheuqMF5cYky7WQbB2oyD-1280-80.jpg",
-      "source_icon": "https://i.newsdata.io/space.png",
-      "source": "Space",
-      "published_at": "2026-09-11 19:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6c5ac64b4fdef2b0b6e570402b8c5a3f",
-      "title": "A human set a new mathematical record. Then AI came for it",
-      "description": "OpenAI is at the center of another controversy over machines tackling big math problems. This one’s about the twin prime conjecture.",
-      "url": "https://www.sciencenews.org/article/human-math-record-twin-primes-openai",
-      "image_url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091026_DM_prime-gaps_featsocial.jpg?w=800",
-      "source_icon": "https://i.newsdata.io/sciencenews.png",
-      "source": "Science News",
-      "published_at": "2026-09-11 19:00:00",
       "language": "english",
       "category": "science"
     }
