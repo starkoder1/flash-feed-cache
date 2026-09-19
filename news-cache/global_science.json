@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-19T18:16:40.634Z",
+  "last_updated": "2026-09-19T21:53:20.034Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "ddea9ef17271a75a2502bc516b78d31c",
+      "title": "Creating a Kill Switch to Shut Down a Rogue A.I. Is Harder Than It Sounds",
+      "description": "A bipartisan group in Congress and Gov. Gavin Newsom of California have floated ideas for building a mechanism that would instantly power down an A.I. system. Only no one really knows how.",
+      "url": "https://www.nytimes.com/2026/09/19/science/creating-a-kill-switch-to-shut-down-a-rogue-ai-is-harder-than-it-sounds.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/19/science/19sci-ai-killswitch/19sci-ai-killswitch-mediumSquareAt3X.jpg",
+      "source_icon": "https://i.newsdata.io/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-09-19 09:03:05",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "712b0ac57bc3cfba2a06a1ba58b3615a",
+      "title": "How Trump Has Disrupted National Parks",
+      "description": "Maintenance projects have been put off around the country and resources diverted to the president’s favored projects in Washington.",
+      "url": "https://www.nytimes.com/2026/09/19/climate/trump-national-park-service-budget-cuts.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/19/multimedia/19cli-national-parks-01-jvgk/19cli-national-parks-01-jvgk-mediumSquareAt3X.jpg",
+      "source_icon": "https://i.newsdata.io/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-09-19 09:02:21",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "73b37eb63d7dde759b4dcb226b3d254c",
+      "title": "AI could make medicine more human",
+      "description": "Medical education should focus on what machines can’t: understanding and caring for patients.",
+      "url": "https://www.bostonglobe.com/2026/09/19/opinion/artificial-intelligence-medical-education/",
+      "image_url": "https://bostonglobe-bostonglobe-prod.web.arc-cdn.net/resizer/v2/T3LE3NW5FRDW3ENJ22RVRJ6N6A.jpg?auth=8b60d4ba380f68920f75cf55d8a87c858995063a75d506522a0de99908c0dd11&smart=true&width=1800&height=1800",
+      "source_icon": "https://i.newsdata.io/bostonglobe.jpg",
+      "source": "The Boston Globe",
+      "published_at": "2026-09-19 07:00:03",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "f9fa850fe2e3ff42748691d92abc5fc5",
+      "title": "Have you seen the hummingbird hawk moth?",
+      "description": "Hummingbird hawk moths - often mistaken for small birds - are being spotted in the West Midlands.",
+      "url": "https://www.bbc.co.uk/news/articles/cvzez0lpnn3go",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9607/live/20ecfd20-b36f-11f1-8221-55f46abc274f.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-19 06:27:28",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "f56b636fd787a59d9b925f97facafc8b",
       "title": "Modern human men evolved unique hip 'spring' for efficient walking, Israeli-led study finds",
@@ -552,54 +600,6 @@
       "source_icon": "https://i.newsdata.io/bostonglobe.jpg",
       "source": "The Boston Globe",
       "published_at": "2026-09-18 06:20:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "f694878cbe3c4f93412069d748045e6e",
-      "title": "DWP PIP could be cut for millions as 'means testing an option'",
-      "description": "New research from the Institute for Fiscal Studies sets out a series of controversial options for reforming Personal Independence Payment (PIP)",
-      "url": "https://www.mirror.co.uk/money/dwp-pip-could-cut-millions-37673407",
-      "image_url": "https://i2-prod.mirror.co.uk/money/article37673405.ece/ALTERNATES/s615/0_Worried-mature-woman-about-home-finances.jpg",
-      "source_icon": "https://i.newsdata.io/mirroruk.png",
-      "source": "Mirror",
-      "published_at": "2026-09-18 06:09:12",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "104e55074e8c696b404a72a209084621",
-      "title": "New wild cat species identified for the first time in more than a century",
-      "description": "Known to local communities as the Tilcayo, the cat was found in Bolivia's lush Yungas forest",
-      "url": "https://www.independent.co.uk/news/science/wild-cat-new-species-bolivia-tilcayo-b3052265.html",
-      "image_url": "https://static.independent.co.uk/2026/09/18/06/2026-09-17T154146Z_238128909_RC2KANAC4Y4W_RTRMADP_3_SCIENCE-CAT.JPG?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "source_icon": "https://i.newsdata.io/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-09-18 06:00:19",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "dc2cdeb2d629e1070c942f4aa6317c00",
-      "title": "Global leaders urged to join initiative to fight extreme inequality",
-      "description": "More than 1,500 academics and economists sign letter, calling growing gap between richest and poorest ‘a policy choice that can be reversed’ More than 1,500 academics and economists from 100-plus countries are urging global leaders to join an initiative against extreme inequality, calling current unfairness “a policy choice that can be reversed”. Before the UN general assembly in New York next week, the experts have signed an open letter backing the International Panel on Inequality (IPI). Continue reading...",
-      "url": "https://www.theguardian.com/inequality/2026/sep/18/global-leaders-urged-to-join-initiative-to-fight-extreme-inequality",
-      "image_url": "https://i.guim.co.uk/img/media/e962bf2cde6b95a690e12930286e88b929c54ca5/440_0_3336_2670/master/3336.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0406fd79b7a7ac8eb9a407b9dcac626",
-      "source_icon": "https://i.newsdata.io/theguardiantheguardian.png",
-      "source": "Theguardiantheguardian",
-      "published_at": "2026-09-18 06:00:11",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "d2109eb4bf7f580edbdc659fb1d470ab",
-      "title": "NASA's Curiosity rover finds mysterious 'footprints' on Mars with scientists baffled",
-      "description": "The Curiosity rover has been exploring the surface of Mars since 2012, sending back more than 700,000 images to Earth",
-      "url": "https://www.express.co.uk/news/weird/2249619/nasa-s-curiosity-rover-finds-mysterious-footprints-mars-baffling-scientists",
-      "image_url": "https://cdn.images.express.co.uk/img/dynamic/80/237x141/2249619_1.jpg",
-      "source_icon": "https://i.newsdata.io/expresscouk.png",
-      "source": "Express",
-      "published_at": "2026-09-18 05:55:00",
       "language": "english",
       "category": "top"
     }
