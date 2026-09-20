@@ -1,8 +1,20 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-20T15:01:34.230Z",
+  "last_updated": "2026-09-20T18:21:52.169Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "38317d30a6a61694226181e4d42e4f73",
+      "title": "When did grey squirrels start posing a threat to reds?",
+      "description": "A pair of grey squirrels was reportedly brought to the United Kingdom by a Cheshire banker in 1876.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyzglny0xyo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fe/live/0d59fa10-4565-11f1-a66d-a173f5fb620e.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-20 06:13:36",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "e71b97559368a051f28a796603fe3dea",
       "title": "MIT Research Could Lead to Refueling Depots on Mars",
@@ -588,18 +600,6 @@
       "source_icon": "https://i.newsdata.io/universetoday.png",
       "source": "Universe Today",
       "published_at": "2026-09-18 19:16:32",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "78e03d3a9ca889b79b94fc7480234870",
-      "title": "Huge wildlife corridor project is 1st Canadian finalist for Earthshot Prize",
-      "description": "What if wolves, caribou and other wildlife could roam through protected lands from Yellowstone National Park in the U.S. to Canada's Yukon? A project to create such a massive habitat corridor has become the first Canadian finalist for Prince William's annual environmental prizes.",
-      "url": "https://www.cbc.ca/news/science/y2y-earthshot-prize-finalist-9.7349898?cmp=rss",
-      "image_url": "https://i.cbc.ca/ais/0f497340-c69b-4f05-8bcc-4780b90b68a1,1789755241688/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1200%2C675%29%3B",
-      "source_icon": "https://i.newsdata.io/cbc.jpg",
-      "source": "Cbc",
-      "published_at": "2026-09-18 19:00:04",
       "language": "english",
       "category": "science"
     }
