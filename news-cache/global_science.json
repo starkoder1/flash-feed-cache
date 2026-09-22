@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-22T15:53:04.364Z",
+  "last_updated": "2026-09-22T19:20:47.170Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "52e8529b42f25e805358a616b8ea5568",
+      "title": "Divers spend six hours clearing river of waste",
+      "description": "Divers from the Northampton Scuba School team up with other local organisations for a clean-up.",
+      "url": "https://www.bbc.co.uk/news/articles/ckj06p16q2eyo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55bf/live/88f99fb0-b647-11f1-86fb-87849d077614.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-22 05:37:20",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "79275dbe4b9721d5991bbbb256d4e5fd",
+      "title": "\"Blockbuster\" new video of blazar launched from black hole",
+      "description": "A team of astrophysicists at Caltech released a high-resolution video showing a powerful jet of plasma launching from a supermassive black hole millions of light-years away. It marks a major breakthrough in technology that can give us a clearer view of the universe.",
+      "url": "https://www.kcra.com/article/blockbuster-new-video-of-blazar-launched-from-black-hole/73829900",
+      "image_url": "https://kubrick.htvapps.com/vidthumb/a0cfb63a-4069-4b1e-af6a-1d5d53b41cb2/de398c99-fbc3-4a7c-9028-26b9b81fdf4a.jpg",
+      "source_icon": "https://i.newsdata.io/kcra.png",
+      "source": "Kcra",
+      "published_at": "2026-09-22 05:33:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "2413062309f11fea1bcfca1bd6d223c5",
+      "title": "UNSW Sydney establishes China–Australia Green Iron research platform",
+      "description": "Academic and industry leaders gathered in Shanghai to advance green iron technologies and support the transition to a lower-carbon iron and steel industry.",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/09/unsw-sydney-establishes-china-australia-green-iron-research-plat",
+      "image_url": "https://www.unsw.edu.au//content/dam/images/engineering/chemical-eng/2026-09-green-iron-shanghai/2026-09-green-iron-shanghai.JPG/jcr:content/renditions/cq5dam.web.1920.1920.jpeg",
+      "source_icon": "https://i.newsdata.io/unsw_edu.png",
+      "source": "Unsw Sydney",
+      "published_at": "2026-09-22 05:28:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "56208b10618e0fab4650e79faf829ad2",
+      "title": "The lifelong habit that could slow ageing",
+      "description": "Study probes usefulness of health parameter called ‘vitality capacity’ to understand ageing",
+      "url": "https://www.independent.co.uk/news/science/slow-ageing-lifelong-exercise-habit-b3053952.html",
+      "image_url": "https://static.independent.co.uk/2026/09/22/3/33/A-90-year-old-bodybuilder-trains-in-his-gym-in-Hiroshima-Japan.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source_icon": "https://i.newsdata.io/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-09-22 05:03:29",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f1947ecb834b97547b941fb18deec3fa",
+      "title": "Princeton Is No Longer No. 1 in the U.S. News Rankings",
+      "description": "The Massachusetts Institute for Technology pulled ahead on a set of criteria that are as contentious as they are influential.",
+      "url": "https://www.nytimes.com/2026/09/22/us/us-news-college-rankings-princeton-mit.html",
+      "image_url": "https://static01.nyt.com/images/2026/09/22/multimedia/22nat-college-rankings-lgfj/22nat-college-rankings-lgfj-mediumSquareAt3X.jpg",
+      "source_icon": "https://i.newsdata.io/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-09-22 04:01:04",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "eb27116b31a5a4b6f4e76ff1b8ce8af1",
       "title": "A Rare, Distant Clump of Early Galaxies Reveals Ancient Cosmic Secrets",
@@ -542,66 +602,6 @@
       "published_at": "2026-09-21 04:00:00",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "62bc05f8d0646074502cea1792b8a3eb",
-      "title": "Migration to keep Australia growing as population turning point approaches",
-      "description": "Australia faces major demographic, economic and technological changes, the latest Intergenerational Report has forecast.",
-      "url": "https://www.sbs.com.au/news/article/australia-intergenerational-report-findings-and-predictions/ecqruywd0",
-      "image_url": "https://assets.sbs.com.au/dims4/default/20cb882/2147483647/strip/false/crop/6720x3088+0+696/resize/1234x567!/format/jpeg/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8a%2F38%2F41dfb6544d54a21680e01521b489%2Fgettyimages-1496800862.jpg",
-      "source_icon": "https://i.newsdata.io/sbs.png",
-      "source": "Sbs News",
-      "published_at": "2026-09-21 02:30:03",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "3c6ac52117204d9c84c3d988ab951ea8",
-      "title": "UVJC to Launch NovaJet at WESEMiBAY as Semiconductor Industry Looks Beyond Traditional Scaling",
-      "description": "SINGAPORE--(BUSINESS WIRE)---- $OLED #OLED--UVJC, a wholly owned subsidiary of UDC, today announced it will introduce NovaJet at WESEMiBAY 2026 in Shenzhen, China.",
-      "url": "http://www.businesswire.com/news/home/20260920318239/en/UVJC-to-Launch-NovaJet-at-WESEMiBAY-as-Semiconductor-Industry-Looks-Beyond-Traditional-Scaling/",
-      "image_url": "https://mms.businesswire.com/media/20260920318239/en/2905913/21/UVJC_Logo_-_Transparent_Background.jpg",
-      "source_icon": "https://i.newsdata.io/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-09-21 01:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "69a727692d23b5a0a4f90127d906cbf8",
-      "title": "British food was complex, multicultural and flavorful in the 18th century—despite what you might think",
-      "description": "The stereotype of bland British food is notorious, and people mock the horrors of jellied eels and overcooked vegetables. Even roast beef and pudding are seen as uninspired compared with the cuisines of other nations. But British food is and has historically been complex, multicultural and flavorful.",
-      "url": "https://phys.org/news/2026-09-british-food-complex-multicultural-flavorful.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/painting-of-fruit-and.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-21 00:30:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2a21390fd6d1f0101b7f34447e66b357",
-      "title": "Scientists create world's first floating titanium",
-      "description": "They say a drowning man is willing to grasp onto just about anything to stay afloat, but he would most likely think twice if you offered a titanium ...",
-      "url": "https://newatlas.com/materials/floating-titanium/",
-      "image_url": "https://ic-cdn.flipboard.com/newatlas.com/2673a7aa4fd4d22fa58cef3c557c09dd720d0ec7/_xlarge.jpeg",
-      "source_icon": "https://i.newsdata.io/newatlas.png",
-      "source": "New Atlas",
-      "published_at": "2026-09-20 23:03:00",
-      "language": "english",
-      "category": "crime"
-    },
-    {
-      "id": "9a227d98f900db776d66bea145209410",
-      "title": "Dementia drugs research on 'cusp of a revolution' but could stall due to critical shortage of trial participants",
-      "description": "For the first time, the pipeline of innovative diagnostic tests and treatments for Alzheimer's disease and other dementias is rapidly expanding.",
-      "url": "https://www.dailymail.com/news/article-16146603/Dementia-drugs-research-cusp-revolution-stall-critical-shortage-trial-participants.html",
-      "image_url": "https://i.dailymail.com/1s/2026/09/20/20/111362433-0-image-a-12_1789931724022.jpg",
-      "source_icon": "https://i.newsdata.io/dailymailuk.png",
-      "source": "Mail Online",
-      "published_at": "2026-09-20 23:01:56",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
