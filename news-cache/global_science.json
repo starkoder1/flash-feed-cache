@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-22T19:20:47.170Z",
+  "last_updated": "2026-09-22T22:29:06.203Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "d9c9e6a7394e513403854537aa94be33",
+      "title": "A huge Pokémon shop and trail is coming to the Science Museum next month – with exclusive merch",
+      "description": "The museum’s new Pokémon Space Trail has been created in collaboration with European Space Agency",
+      "url": "https://www.timeout.com/london/news/huge-pokemon-shop-trail-science-museum-next-month-092226",
+      "image_url": "https://media.timeout.com/images/106449459/image.jpg",
+      "source_icon": "https://i.newsdata.io/timeout.png",
+      "source": "Time Out",
+      "published_at": "2026-09-22 10:00:26",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "16d759ebc7da7d7715708c389df98622",
+      "title": "Spain battles climate change on several fronts",
+      "description": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-22 09:11:48",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "47495db315ea6c408caf004992c18069",
+      "title": "Iron complex breaks down stubborn pollutant using light-powered reaction",
+      "description": "The molecular culprit behind harmful algal blooms and some groundwater contamination is the same thing that has kept civilization fed for millennia: a stable form of nitrogen called nitrate.",
+      "url": "https://phys.org/news/2026-09-iron-complex-stubborn-pollutant-powered.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/algal-bloom-1.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-09-22 09:00:02",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "32b12863e82a1745a972281553626bca",
+      "title": "A 42-light-year X-ray tail links a pulsar to previously 'orphan' gamma rays",
+      "description": "Understanding the origin, acceleration and propagation of high-energy cosmic rays has been a century-old mystery in astrophysics. Recently, joint observations from China's Einstein Probe (EP) satellite and the Large High Altitude Air Shower Observatory (LHAASO) showed an extraordinarily long X-ray tail near a pulsar about 4,600 light-years (27 quadrillion miles) from Earth—one that had never before been seen in full. The tail extends about 42 light-years (250 trillion miles) and stretches in the same direction as ultrahigh-energy gamma-ray emission detected by LHAASO, with the two showing a close spatial match.",
+      "url": "https://phys.org/news/2026-09-year-ray-tail-links-pulsar.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/einstein-probe-and-lha.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-09-22 07:57:28",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "090521f509b993b49221f1c00c34ca26",
+      "title": "DNA study confirms Thomas Jefferson fathered children with enslaved Sally Hemings",
+      "description": "America’s third president and one of its founding fathers kept more than 600 slaves",
+      "url": "https://www.independent.co.uk/news/science/thomas-jefferson-sally-hemings-children-b3053988.html",
+      "image_url": "https://static.independent.co.uk/2026/09/22/6/11/Thomas-Jefferson-third-President-of-the-United-States.jpeg?width=1200&auto=webp&trim=238%2C0%2C954%2C0",
+      "source_icon": "https://i.newsdata.io/independentuk.png",
+      "source": "The Independent",
+      "published_at": "2026-09-22 07:21:14",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "52e8529b42f25e805358a616b8ea5568",
       "title": "Divers spend six hours clearing river of waste",
@@ -542,66 +602,6 @@
       "published_at": "2026-09-21 09:04:32",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "a1dfb5a812f163d2e41567136cd00796",
-      "title": "Cancer found capable of triggering blood clots and stroke",
-      "description": "Stroke is the most common neurological complication in cancer patients after brain metastasis",
-      "url": "https://www.independent.co.uk/news/science/cancer-triggers-blood-clotting-stroke-b3053313.html",
-      "image_url": "https://static.independent.co.uk/2026/09/21/3/38/A-nurse-holds-hands-with-a-patient-while-tending-to-them-in-the-palliative-care.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "source_icon": "https://i.newsdata.io/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-09-21 05:03:53",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "63bb7ed055bf49c3c690ed17d602c0dc",
-      "title": "Presley Gerber, Model and Son of Cindy Crawford and Rande Gerber, Dies at 27",
-      "description": "Presley Gerber, the model son of Cindy Crawford and Rande Gerber, died Sunday. He was 27. More to come...",
-      "url": "https://variety.com/2026/digital/obituaries-people-news/presley-gerber-dead-model-cindy-crawford-1236870840/",
-      "image_url": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2257387768_a285b0.jpg",
-      "source_icon": "https://i.newsdata.io/variety.png",
-      "source": "Variety",
-      "published_at": "2026-09-21 04:03:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e2b063200cc96c407cba439e37af187c",
-      "title": "Daily Horoscope: September 21, 2026",
-      "description": "Two new Mars aspects are pulling in opposite directions today. Mercury sextile Jupiter exact means big thinking is fully backed up. The post Daily Horoscope: September 21, 2026 appeared first on VICE .",
-      "url": "https://www.vice.com/en/article/daily-horoscope-september-21-2026/",
-      "image_url": "https://www.vice.com/wp-content/uploads/sites/2/2024/01/1652280357703-1aries.png",
-      "source_icon": "https://i.newsdata.io/vice.png",
-      "source": "Vice News",
-      "published_at": "2026-09-21 04:01:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "11206c7eccdce5ac74239d66a0f12ecf",
-      "title": "To watch and watch for: Week of Sept. 20",
-      "description": "The Arts & Entertainment Section congratulates everyone for surviving the first couple weeks of the fall semester. There's always more studying to come, but there's also always more media to check out! We hope that you can find some time in your busy schedules to check out these selections releasing this week. Both a movie to watch and a movie about watching, Lance Oppenheim's Primetime is a drama film inspired by To Catch a Predator , a reality TV series from the mid-2000s starring Chris Hansen. Robert Pattinson, of The Twilight Saga (2008-2012) , The Batman (2022) and The Drama (2026) fame, stars as Hansen in a thrilling reflection on the predatory nature of sting operations and the corrupting ambition to create ever more captivating spectacles at the price of human privacy. The film has garnered a lot of press for its exciting trailer , which uses split screens to play on the idea of mass media, and its negative reception by Hansen himself, who plans to take legal action against it. If you want to find out what's substantial at the center of all the controversy, check out the film when it releases Sept. 25. There are movies to watch about watching or books to read about listening. Penguin Random House's new edition of Palestinian American literary critic Edward W. Said's Musical Elaborations is set to publish Sept. 22. Famous for his works in Middle Eastern Studies such as Orientalism and The Question of Palestine , Said also wrote and taught extensively on Western music. Musical Elaborations is a collection of essays from Said's 1989 lectures at the University of California, Irvine, exploring the tension between music as \" an intensely solitary and subjective experience for the performer or listener \" and as \" public occurrence, fully implicated in the social and cultural world .\" The book uses the criticism of Theodor W. Adorno, Walter Benjamin and Paul de Man in discussion about Ludwig van Beethoven, Richard Wagner and Richard Strauss. While the great canonical musicians might've prompted solitary reflection, R&B pop artist Tinashe's new album Popstar seems to be destined for those ego-death crowded moments at the club. Coming off the success of her hit single \" Nasty \" on Quantum Baby (2024), Popstar will be Tinashe's eighth album. Its singles include \" Crash Out ,\" \" Too Easy \" and \" Pillow Fight ,\" all with sparse yet catchy beats to accompany and emphasize her voice. Starry-eyed, Popstar 's cover features Tinashe herself in headphones with stars across her irises. Can't wait to be starry-eyed yourself? Give the album a listen when it releases on Sept. 25. Looking to combine a love for music with an appreciation of the visual arts? The Walters Art Museum is hosting \" Art / Sound / Now with Love Groove ,\" an event that combines the experience of the museum's galleries with live music. John Tyler, the organizer of Baltimore's Love Groove Festival , will curate the live performances for a night of food, drink, art, music and community. The event, taking place Sept. 24 from 6:00-7:30 p.m., is free and requires registration. To watch: Primetime , directed by Lance Oppenheim - Sept. 25 The Incomer , directed by Louis Paxton - Sept. 25 Heart of the Beast , directed by David Ayer - Sept. 25 Never After Dark , directed by Nebâ Afutâ Dâku - Sept. 25 The Stunt Driver , directed by Michael Dowse - Sept. 25 To read: Musical Elaborations , written by Edward W. Said - Sept. 22 Hollywood, Ending , written by John Green - Sept. 22 Bad Bad Girl , written by Gish Jen - Sept. 22 Blood Money , written by Anna Seghers - Sept. 22 Playing Wolf , written by Zuzana Ríhová - Sept. 22 To listen: Popstar , by Tinashe - Sept. 25 All My Demons Greeting Me as a Friend (The Moth Tapes) , by AURORA - Sept. 25 The Gem , by Julia Jacklin - Sept. 25 Hotel Usona , by Protomartyr - Sept. 25 Leave on a Light , by Max McNown - Sept. 25 Live events: Distinguished Artist Chamber Music Master Class Series - Sept. 21, 7:30-9:30 p.m. at the Cohen-Davison Family Theatre This event is free. AGHI New Book Lunch (Teresa Bejan) - Sept. 23, 12-2 p.m. at Mergenthaler 431 This event is free and requires registration. The Walters Art Museum: Art / Sound / Now with Love Groove - Sept. 24, 6-7:30 p.m. at The Walters Art Museum This event is free and requires registration. An Evening of Flamenco - Sept. 24, 6-8 p.m. at Carriage House, Evergreen Museum and Library This event requires registration. Tickets cost $30-35. Acoustic Fridays at Bird in Hand - Sept. 25, 5-7 p.m. at Bird in Hand This event is free.",
-      "url": "https://www.jhunewsletter.com/article/2026/09/to-watch-and-watch-for-week-of-sept-20",
-      "image_url": "https://snworksceo.imgix.net/jhn/18df9693-f47c-4552-aa93-ba92cb2d9a0c.sized-1000x1000.png",
-      "source_icon": "https://i.newsdata.io/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-09-21 04:00:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "a19e9846f71c0f889eeceb6b30d93e99",
-      "title": "Monday Mini (09/21/2026)",
-      "description": "Created by Nikhil Subhas using the crossword puzzle maker from Amuse Labs",
-      "url": "https://www.jhunewsletter.com/article/2026/09/monday-mini-09212026",
-      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
-      "source_icon": "https://i.newsdata.io/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-09-21 04:00:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
