@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-09-27T09:37:58.790Z",
+  "last_updated": "2026-09-27T15:56:06.152Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "c015ea3a26c2c059d23e69212fa519ca",
+      "title": "Japan Defense Ministry to support startups in UAV development",
+      "description": "The three main research targets will be incorporating domestic components, increasing efficiency in supply warehouses and reducing aircraft noise.",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/japan-defense-uav-startup/",
+      "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/565225.jpg",
+      "source_icon": "https://i.newsdata.io/japantimes.jpg",
+      "source": "The Japan Times",
+      "published_at": "2026-09-27 01:20:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "76a54f433b1df1cf6e10f2231c65708b",
+      "title": "The young women guiding tourists through India's night sky",
+      "description": "Astronomy tourism is giving young women in Hanle income, confidence and a new role in their community.",
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d0nezkeko",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/4cf2d770-b0f7-11f1-9707-2187f52634c5.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-09-26 23:02:47",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "28fd55c3c0a2f7b0666c4ce2d468d6c8",
+      "title": "Carbon Rocks Deep Underground Could Hold the Evidence of Mars' Watery Past.",
+      "description": "A new geochemical modeling study led by researchers at JAXA and the University of Tokyo addresses Mars' \"missing\" stores of carbonate rocks.",
+      "url": "https://www.universetoday.com/articles/carbon-rocks-deep-underground-could-hold-the-evidence-of-mars-watery-past",
+      "image_url": "https://www.universetoday.com/article_images/PIA24092-MarsRoverPerseverance-AtWorkOnMars-Art-20200922_20250924_175007_20260926_225329.jpg",
+      "source_icon": "https://i.newsdata.io/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-09-26 22:53:33",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3742987ecf4a0128b518079ede9096f5",
+      "title": "Woolly mammoth to be resurrected with the help of AI: scientists",
+      "description": "Colossal Biosciences says its woolly mammoth de-extinction project is now targeting the early 2030s, not 2028 as first promised, after discovering it must edit over 150 genes -- not 60 using AI and other technologies to revive the ancient beast.",
+      "url": "https://nypost.com/2026/09/26/science/ai-enlisted-as-woolly-mammoth-revival-timeline-slips-to-2030s/",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fmammuthus-primigenius-bison-bison-bison-142540795.jpg?w%3D1024",
+      "source_icon": "https://i.newsdata.io/nypost.png",
+      "source": "New York Post",
+      "published_at": "2026-09-26 21:48:30",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "63c87069c1489895dc665dd94e194514",
       "title": "Black hole jets reach far beyond galaxies' visible edges, potentially deciding their fate",
@@ -552,54 +600,6 @@
       "source_icon": "https://i.newsdata.io/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-09-25 20:40:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "74601dd517aaa96d2d0977f4b01a8f5c",
-      "title": "Natural proteins can guide active ingredients to diseased cells",
-      "description": "After taking a pill, the drugs it contains are distributed throughout the body, reaching the tissues and cells affected by disease and performing their intended function. However, they also enter healthy cells, where they often cause more harm than good.",
-      "url": "https://phys.org/news/2026-09-natural-proteins-ingredients-diseased-cells.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-cellular-protein.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-25 20:20:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "f6639c20c7a67bfb0cd849eabf36c113",
-      "title": "How a century-old solvent can enable efficient amide synthesis",
-      "description": "Amide bonds are chemical linkages essential to biology, medicine and materials chemistry. Peptide bonds, a class of amide bonds, link amino acids to form proteins. Amide bonds are also important in medicines and polymers. Efficient synthesis of amide bonds remains a major focus in green chemistry.",
-      "url": "https://phys.org/news/2026-09-century-solvent-enable-efficient-amide.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/chonnam-university-res.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-09-25 20:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "bd540c6cbe1ba9f47de3a42bc8102ca2",
-      "title": "Yale’s Takamiya Collection helps solve mystery of medieval fragments",
-      "description": "Six long-lost parchment leaves from a rare 15th-century manuscript in Yale Library’s collection were found uncovered in an English archive. The location of the missing manuscript leaves had been a mystery for nearly a century.",
-      "url": "https://library.yale.edu/news/yale-librarys-digitized-takamiya-collection-helps-solve-mystery-medieval-fragments",
-      "image_url": "https://library.yale.edu/sites/default/files/styles/social_share/public/media-icons/generic/close-up-of-john-gage-signature.jpg.jpeg?h=e7f7be8c&itok=zQFx8HLM",
-      "source_icon": "https://i.newsdata.io/yale.png",
-      "source": "Yalenews",
-      "published_at": "2026-09-25 19:53:46",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "0b170480c53e31d60964bd5ef62ef3d3",
-      "title": "Is Friday the 13th unlucky? This university researcher did the math",
-      "description": "Jeffrey Rosenthal discovered he was born on Friday the 13th. This year, he published a study examining if there's any truth to the superstition.",
-      "url": "https://www.ctvnews.ca/sci-tech/article/is-friday-the-13th-unlucky-this-university-researcher-did-the-math/",
-      "image_url": "https://www.ctvnews.ca/resizer/v2/KS4BW3HK4VTAZEH4YQ6RXB4OBY.jpg?auth=48f11e934c0d2c33911ebe11a05d2adc1adbd043bc80ccb314f8586e1409f394&smart=true&width=620&height=348",
-      "source_icon": "https://i.newsdata.io/ctvnews.png",
-      "source": "Ctv News",
-      "published_at": "2026-09-25 19:43:31",
       "language": "english",
       "category": "science"
     }
