@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-03T15:21:00.878Z",
+  "last_updated": "2026-10-03T18:52:51.129Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "e89f1ec76222b0587c5a518d0b0f573f",
+      "title": "Island hosts inter-island environment summit",
+      "description": "The annual event brings together delegates to share ideas and develop joint projects.",
+      "url": "https://www.bbc.co.uk/news/articles/c8e361yqp0x2o",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2367/live/15617120-be73-11f1-babe-4199b0e7ccea.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-10-03 06:24:14",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "aa2e6283626bf1a9f2cbb73bc5dfd085",
+      "title": "Evergreen High School students demand AI regulation in classrooms from district: 'Pencils, not prompts'",
+      "description": "Students walked out of their sixth period class on Thursday to demand the district implement a policy over AI use, the district says one is in the works.",
+      "url": "https://www.kgw.com/article/news/education/evergreen-high-school-students-demand-ai-regulation-classrooms/283-fb6bb296-afad-493b-a9af-b5c52289f6d0",
+      "image_url": "https://media.tegna-media.com/assets/KGW/images/d66fbcf8-79f6-4b47-a51d-11a4d2576ab2/20261003T062017/d66fbcf8-79f6-4b47-a51d-11a4d2576ab2_750x422.jpg",
+      "source_icon": "https://i.newsdata.io/kgw.jpg",
+      "source": "Kgw",
+      "published_at": "2026-10-03 06:20:48",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b7636ba5372541d7a91abfa0270960fc",
+      "title": "Eating with someone you love could help your body regulate blood sugar, Israeli study finds",
+      "description": "A Hebrew University study finds that eating with someone close may reduce blood sugar spikes and help the body regulate itself more efficiently.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-910286",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740252",
+      "source_icon": "https://i.newsdata.io/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-10-03 05:04:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f3d5729af984dc3621fb46fb84002a3a",
+      "title": "Can young diabetics safely observe Jewish fasts? Insulin pump tweaks can help, Israeli study finds",
+      "description": "A first-of-its-kind Israeli study found that most young people with type 1 diabetes completed Jewish fasts safely, with insulin pump changes improving their chances of success.",
+      "url": "https://www.jpost.com/health-and-wellness/nutrition/article-910277",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/537329",
+      "source_icon": "https://i.newsdata.io/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-10-03 05:04:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "10030d65a7cbbba70785730fac53c9d0",
+      "title": "Washington universities release 2025 rape statistics",
+      "description": "New statistics reported by Washington universities reveal the extent of reported sexual assaults, although the majority of rapes go unreported.",
+      "url": "https://www.kgw.com/article/news/local/washington/washington-universities-release-2025-rape-statistics-data/281-a4a20106-2903-4ac1-8130-dadb2efa9962",
+      "image_url": "https://media.tegna-media.com/assets/KING/images/ce7a53d4-613c-4174-80bb-c3f156c00bc2/20261003T045132/ce7a53d4-613c-4174-80bb-c3f156c00bc2_750x422.jpg",
+      "source_icon": "https://i.newsdata.io/kgw.jpg",
+      "source": "Kgw",
+      "published_at": "2026-10-03 04:55:52",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "554c737750ad351ff463cfce01b97436",
       "title": "Why tenants choose to move out in connection with renovation",
@@ -542,66 +602,6 @@
       "published_at": "2026-10-02 01:31:03",
       "language": "english",
       "category": "technology"
-    },
-    {
-      "id": "e66b474a78166c8c652889352c258072",
-      "title": "Les transactions d’ARK de Cathie Wood incluent Rocket Lab et BWX Technologies",
-      "description": null,
-      "url": "https://fr.investing.com/news/company-news/les-transactions-dark-de-cathie-wood-incluent-rocket-lab-et-bwx-technologies-93CH-3618553",
-      "image_url": "https://content-media.investing.com/news/google_2_M_1440049078.jpg",
-      "source_icon": "https://i.newsdata.io/investingfr.png",
-      "source": "Investing French",
-      "published_at": "2026-10-02 00:31:20",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "b0825d8c316b8efd431be7a6b1bda8a0",
-      "title": "Las operaciones bursátiles de ARK de Cathie Wood incluyen Rocket Lab y BWX Technologies",
-      "description": null,
-      "url": "https://es.investing.com/news/company-news/las-operaciones-bursatiles-de-ark-de-cathie-wood-incluyen-rocket-lab-y-bwx-technologies-93CH-3858233",
-      "image_url": "https://content-media.investing.com/news/google_2_M_1440049078.jpg",
-      "source_icon": "https://i.newsdata.io/esinvesting.png",
-      "source": "Investing",
-      "published_at": "2026-10-02 00:31:12",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "7e3c7fcbac6009fb65befb4a4b3a5b4e",
-      "title": "As quantum’s presence grows on the southeast side, Chicago State University students eye future careers",
-      "description": "Chicago State University staked its claim in quantum research nearly a decade ago, aiming to attract research and talent to the Southeast Side.",
-      "url": "https://www.chicagotribune.com/2026/10/02/quantum-research-chicago-state-universwity-southeast-side-jobs/",
-      "image_url": "https://www.chicagotribune.com/wp-content/uploads/2026/10/ctc-l-quantum-csu010.jpg?w=1600&resize=1600,900",
-      "source_icon": "https://i.newsdata.io/chicagotribune.png",
-      "source": "Chicago Tribune",
-      "published_at": "2026-10-02 00:03:18",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "6bbdd0586a718c7be09200a0c71440a6",
-      "title": "Texas clears full-scale drilling test to bury spent nuclear fuel deep underground",
-      "description": "Texas approves a full-scale test of technology designed to bury spent nuclear fuel deep underground in boreholes",
-      "url": "https://interestingengineering.com/energy/texas-deep-borehole-nuclear-waste-disposal-pilot",
-      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/09/GettyImages-2263951109.jpg",
-      "source_icon": "https://i.newsdata.io/interestingengineering.png",
-      "source": "Interesting Engineering",
-      "published_at": "2026-10-01 23:45:41",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ca0307013d5df1b1f693229f0fd04a30",
-      "title": "Counteranions reshape molecular packing to tune magnetism in copper complexes",
-      "description": "Magnetic properties in molecular materials depend not only on the molecular components themselves but also on their solid-state organization. In charged π-electronic systems, electrostatic and dispersion forces can organize molecules into distinct ion-pairing structures.",
-      "url": "https://phys.org/news/2026-10-counteranions-reshape-molecular-tune-magnetism.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/counteranions-reshape.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-01 23:40:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
