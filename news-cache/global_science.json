@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-03T18:52:51.129Z",
+  "last_updated": "2026-10-03T22:30:49.565Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "38bbf809ef430a864ba0b576a781d766",
+      "title": "How AI helped bring an ancient tomb dating to before the Roman empire back to life",
+      "description": "Pairing artificial intelligence with acoustic technology helped reveal an Erturian tomb in new light",
+      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
+      "image_url": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+      "source_icon": "https://i.newsdata.io/scientificamerican.png",
+      "source": "Scientificamerican",
+      "published_at": "2026-10-03 10:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "5af7d60086a0e49627589343867dd005",
+      "title": "Not chemically reactive Crossword Clue",
+      "description": "Answer help for Fast-Moving, featuring one of today's clues: Not chemically reactive, from USA TODAY Daily Crossword Puzzle creators.",
+      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/10/03/not-chemically-reactive-crossword-clue/92074328007/",
+      "image_url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png?crop=1319,743,x0,y68&width=1319&height=659&format=pjpg&auto=webp",
+      "source_icon": "https://i.newsdata.io/usatoday.jpg",
+      "source": "Usa Today",
+      "published_at": "2026-10-03 09:32:34",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3e79f36fb8e27c70e835ad8a3a125255",
+      "title": "Faculty-led archaeological dig on USC’s Horseshoe unearthed history of early campus",
+      "description": "A faculty-led archeological dig on the USC’s Horseshoe brought to the surface some of the history of the university.",
+      "url": "https://www.postandcourier.com/news/usc-archeological-dig-history-horseshoe/article_9803fdcd-18f0-4e48-a42c-86d6bc3eebd8.html",
+      "image_url": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/b/36/b3624cfd-3568-43d0-b4a6-d3ee1b4aa935/6a4d3b0746287.image.jpg?resize=300%2C200",
+      "source_icon": "https://i.newsdata.io/postandcourier.png",
+      "source": "Postandcourier",
+      "published_at": "2026-10-03 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "ab1db950c4b4afe57e597ad439b02640",
+      "title": "Could we ever create artificial gravity on a spaceship?",
+      "description": "Microgravity poses severe health risks for astronauts. But could there be a solution?",
+      "url": "https://www.livescience.com/space/space-exploration/could-we-ever-create-artificial-gravity-on-a-spaceship",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/E3k4LCxfyfNdUEkvYaYizj-1920-80.jpg",
+      "source_icon": "https://i.newsdata.io/livescience.png",
+      "source": "Livescience",
+      "published_at": "2026-10-03 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "0500cc47341408157869620923ed430f",
+      "title": "Choosing life, building hope: Former hostage turns to disability advocacy to honor wife, daughters",
+      "description": "Eli Sharabi partners with Shalva to create an Ashkelon center honoring his wife and daughters, while providing disability services and trauma care for the South.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-910265",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/740046",
+      "source_icon": "https://i.newsdata.io/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-10-03 08:04:09",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f45834d54cf40f0f597eac5335e49731",
+      "title": "I’m a marine biologist - if one creature had evolved differently we’d be in fish tanks",
+      "description": "EXCLUSIVE: Tom Hird also highlighted the extraordinary lifecycle of the deep-sea hairy anglerfish.",
+      "url": "https://www.express.co.uk/news/science/2253758/tom-hird-marine-biologist-ocean-octopus",
+      "image_url": "https://cdn.images.express.co.uk/img/dynamic/151/237x141/2253758_1.jpg",
+      "source_icon": "https://i.newsdata.io/expresscouk.png",
+      "source": "Express",
+      "published_at": "2026-10-03 07:30:00",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "e89f1ec76222b0587c5a518d0b0f573f",
       "title": "Island hosts inter-island environment summit",
@@ -530,78 +602,6 @@
       "published_at": "2026-10-02 10:00:00",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "7e60de15b831ad4cabbec61965cd8faa",
-      "title": "Mathematicians Name 50 of the Highest-Stakes Problems in Math",
-      "description": "Mathematicians have a new bucket list of open questions to chase",
-      "url": "https://www.scientificamerican.com/article/mathematicians-name-50-of-the-highest-stakes-problems-in-math/",
-      "image_url": "https://static.scientificamerican.com/dam/asset/4219313a-ab13-4ba8-b094-ca78c78ba3f7/Math-equations.jpeg?m=1790885669.864&w=1200",
-      "source_icon": "https://i.newsdata.io/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-10-02 10:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "1357de8ee9e7ca66d8f8010eb312994c",
-      "title": "Daily Trivia 10/2 — Science/History",
-      "description": "Test your knowledge of science and history! View Entire Post ›",
-      "url": "https://www.buzzfeed.com/harrisonberger/daily-trivia-october-2-2026",
-      "image_url": "https://img.buzzfeed.com/buzzfeed-static/static/2026-09/30/20/thumb/8il7bycsa.jpg?crop=1245%3A830%3B2%2C0",
-      "source_icon": "https://i.newsdata.io/buzzfeeduk.png",
-      "source": "Buzzfeed",
-      "published_at": "2026-10-02 04:01:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e11831324d91640cd0af79859d26ec7d",
-      "title": "Underwater umbrellas for coral reefs could help protect against heat damage",
-      "description": "High sea temperatures driven by the climate crisis damage corals, bleaching them ghostly white and killing them. While restoration of dead reefs is possible, it's difficult and expensive, and restored corals are vulnerable to future heat waves. Finding ways to stop or slow the damage to existing reefs is crucial.",
-      "url": "https://phys.org/news/2026-10-underwater-umbrellas-coral-reefs.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/underwater-umbrellas-f.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-02 04:00:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ea1f64f15e5aebfea3683abcebd7ee05",
-      "title": "Cosmic-ray particles help probe powerful electric fields inside thunderstorms",
-      "description": "An instrument built to study cosmic rays has turned out to be a powerful tool for investigating thunderstorms. Earlier observations with the GRAPES-3 muon telescope revealed that thunderclouds can develop electrical potential differences far greater than those ever measured directly. But they also uncovered a puzzle: the instrument detected many more thunderstorm events in the eastern part of its field of view than in the western part. A new study by the same team, published in the Journal of Cosmology and Astroparticle Physics, has now explained why.",
-      "url": "https://phys.org/news/2026-10-cosmic-ray-particles-probe-powerful.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/from-the-cosmos-to-thu-2.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-02 04:00:02",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "5e5a276f4a9751b4df0acf4d2e04ef77",
-      "title": "Friday Mini (10/02/2026)",
-      "description": "Built by Karthik Ramanathan and Eric Zeng using PuzzleMe's cross word maker",
-      "url": "https://www.jhunewsletter.com/article/2026/10/friday-mini-10022026",
-      "image_url": "https://snworksceo.imgix.net/jhn/c5eccdc0-1190-45f2-bd3a-d718dd9b5fea.sized-1000x1000.png",
-      "source_icon": "https://i.newsdata.io/jhu.png",
-      "source": "Johns Hopkins University",
-      "published_at": "2026-10-02 04:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "c918b3366f0ab94bba7d9ee4e051540d",
-      "title": "Chinese AI model investigated after researcher says it provided instructions for bioweapons, assassinations",
-      "description": "Researcher Peter Garrigan says Moonshot AI's Kimi model was manipulated into providing instructions for biological weapons and assassination plans.",
-      "url": "https://www.foxnews.com/tech/chinese-ai-model-investigated-researcher-says-provided-instructions-bioweapons-assassinations",
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/moonshot-ai-kimi-k3-chinese-ai-model.jpg?ve=1&tl=1",
-      "source_icon": "https://i.newsdata.io/foxnews.jpg",
-      "source": "Fox News",
-      "published_at": "2026-10-02 01:31:03",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
