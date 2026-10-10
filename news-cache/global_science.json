@@ -1,8 +1,68 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-10T10:12:05.194Z",
+  "last_updated": "2026-10-10T16:30:54.706Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "79568c91b78322c9f56891061689c4e4",
+      "title": "Moon phase today: What the Moon will look like on October 10, 2026",
+      "description": "See the Moon phase expected for October 10, 2026 as well as when the next Full Moon is expected.",
+      "url": "https://mashable.com/science/moon-phase-today-oct-10-2026",
+      "image_url": "https://helios-i.mashable.com/imagery/articles/03pyxQcUfPM8gE8ypSxoyM7/hero-image.fill.size_1200x675.v1791196779.jpg",
+      "source_icon": "https://i.newsdata.io/mashable_us.jpeg",
+      "source": "Mashable",
+      "published_at": "2026-10-10 04:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "e2fc952a4a0573d2fd1e52fcc95b69fa",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-10-10 01:58:56",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "3d1916fd2aaf84dbee9244ce1792ac0b",
+      "title": "Parents demand safety changes at Portland preschool after employee arrested",
+      "description": "Parents at Childswork Learning Center want stronger safeguards after a former employee was arrested on sexual abuse charges.",
+      "url": "https://www.kgw.com/article/news/crime/parents-demand-safety-changes-portland-preschool-employee-arrested/283-85afc1cd-3143-4203-9bbf-a5f428698313",
+      "image_url": "https://media.tegna-media.com/assets/KGW/images/e5135f67-b973-4dac-9c9e-f01d923e65f0/20261005T190609/e5135f67-b973-4dac-9c9e-f01d923e65f0_750x422.jpg",
+      "source_icon": "https://i.newsdata.io/kgw.jpg",
+      "source": "Kgw",
+      "published_at": "2026-10-09 23:19:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7da6af5754195e36a87cf43c63fbe68b",
+      "title": "US, Toyota researchers develop water-based binder to ease lithium-ion battery recycling",
+      "description": "US researchers develop a fluorine-free battery binder that replaces toxic solvents and simplifies lithium-ion recycling.",
+      "url": "https://interestingengineering.com/energy/us-water-based-binder-lithium-ion-battery-recycling",
+      "image_url": "https://cms.interestingengineering.com/wp-content/uploads/2026/10/battery-binder.jpg",
+      "source_icon": "https://i.newsdata.io/interestingengineering.png",
+      "source": "Interesting Engineering",
+      "published_at": "2026-10-09 23:15:57",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "efb734d4c31dd686415e0ddc13635d18",
+      "title": "Salem-Keizer Public Schools announces plan to close six elementary schools",
+      "description": "Oregon's second-largest district cited declining enrollment as a factor in the decision, which comes days after a similar announcement from Portland Public Schools.",
+      "url": "https://www.kgw.com/article/news/education/salem-keizer-public-schools-announces-plan-close-six-elementary-schools/283-da625148-7fde-42ec-8f69-69b06ca20bff",
+      "image_url": "https://media.tegna-media.com/assets/KGW/images/c9be3e25-0ccf-48a9-8c82-e97fa513b155/20251106T145919/c9be3e25-0ccf-48a9-8c82-e97fa513b155_750x422.jpg",
+      "source_icon": "https://i.newsdata.io/kgw.jpg",
+      "source": "Kgw",
+      "published_at": "2026-10-09 23:03:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "07cc63807f8eb30049e34c9b6577dc0c",
       "title": "Microsoft, other firms suspended from ‘PERM’ green card program",
@@ -540,66 +600,6 @@
       "source_icon": "https://i.newsdata.io/phys.jpg",
       "source": "Phys.org",
       "published_at": "2026-10-08 22:20:11",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "ca3f47751278e057bf961ca4b180e05a",
-      "title": "New framework links digital technology and mineral processing to support Africa's economic growth",
-      "description": "Research published in the International Journal of Business Innovation and Research (IJBIR) suggests that African economies need to move beyond fragmented development strategies. This might be done by uniting digital technology, startup networks, resource processing and cross-sector partnerships into a single societal innovation ecosystem, the researchers explain.",
-      "url": "https://phys.org/news/2026-10-framework-links-digital-technology-mineral.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2022/map-africa.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-08 22:20:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b754f422b8f17ab397533a617571dc40",
-      "title": "Mars' Odd 1,100 Mile Long Cloud Forms in Mysterious Ways — a New Model May Reveal How",
-      "description": "Learn more about the AMEC, a strange, recurring cloud on Mars that has long baffled scientists, until now.",
-      "url": "https://www.discovermagazine.com/mars-odd-1-100-mile-long-cloud-forms-in-mysterious-ways-a-new-model-may-reveal-how-49791",
-      "image_url": "https://cdn.discovermagazine.com/assets/image/60657/amec-on-mars-t.jpg",
-      "source_icon": "https://i.newsdata.io/discovermagazine.png",
-      "source": "Discover Magazine",
-      "published_at": "2026-10-08 22:15:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "d9f0f9dcf551444c57ed40aeaa598b54",
-      "title": "New 'computational microscope' simulates DNA packaging at more than ten times previous scale",
-      "description": "The DNA in our cells wraps around proteins called histones to form nucleosomes, which organize into chromatin. This organization helps pack genetic material into the nucleus and influences how easily genes can be read and DNA damage repaired. Understanding how chromatin changes requires studying molecular movements and interactions that are difficult to capture experimentally.",
-      "url": "https://phys.org/news/2026-10-microscope-simulates-dna-packaging-ten.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-computational-mi.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-08 22:10:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "b7b546e804839c578b393c4fbfa33982",
-      "title": "Chemists uncover the true active surface of nickel catalysts",
-      "description": "Nickel is a promising, cost-effective and robust catalyst for alkaline water electrolysis—a key technology for the climate-neutral production of hydrogen. However, the actual structure of the active surface of such nickel electrodes under reaction conditions had not yet been conclusively determined. A research team at Ulm University has now refuted a decades-old assumption: The catalytically active surface does not consist of nickel oxyhydroxide (NiOOH), as was previously widely assumed, but is nickel dioxide (NiO₂). The findings have been published in the journal Nature Catalysis.",
-      "url": "https://phys.org/news/2026-10-chemists-uncover-true-surface-nickel.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-schematic-illustrati.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-08 22:00:07",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "76a2f171f9df58e43d9806582cc69943",
-      "title": "Bavaria's ancestral languages: Resisting linguistic genocide",
-      "description": "My ancestral languages, Boarisch (Bavarian) and Schwäbisch (Swabian), are routinely described as German dialects. That might sound like a technical linguistic distinction. For me, a Boarisch-Schwob scholar and community member, it raises a practical question: What happens to a people when their ancestral language, which carries their identity and \"Weltanschauung\" (worldview), is excluded from protection under a European language treaty because the modern state and dominant culture reduce it to a dialect?",
-      "url": "https://phys.org/news/2026-10-bavaria-ancestral-languages-resisting-linguistic.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/bavarias-ancestral-lan.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-08 22:00:01",
       "language": "english",
       "category": "science"
     }
