@@ -1,8 +1,92 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-17T18:01:14.597Z",
+  "last_updated": "2026-10-17T21:49:57.867Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "53097938d8d9a36703809dc2fece7fc8",
+      "title": "AI and Digital Biology Is Accelerating Drug Discovery. Can Manufacturing Keep Up?",
+      "description": "AI has changed the pace of biological discovery. The next test for industrial biotechnology is whether manufacturing can keep pace. Photo courtesy of: eXoZymes For much of the past decade, biotechnology has been defined by an extraordinary acceleration in discovery. Artificial intelligence can now predict protein structures, suggest enzyme modifications and identify promising biological pathways at a pace that would have seemed almost unimaginable only a few …",
+      "url": "https://nl.mashable.com/ai-1/13484/ai-and-digital-biology-is-accelerating-drug-discovery-can-manufacturing-keep-up",
+      "image_url": "https://sm.mashable.com/mashable_nl/photo/default/blob_fuj2.jpg",
+      "source_icon": "https://i.newsdata.io/mashable_nl.png",
+      "source": "Mashable Benelux",
+      "published_at": "2026-10-17 09:03:39",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "9ad90309e52a0deaa98cdb5e20fc200c",
+      "title": "For a Mere $2 Million, You Could Own Three Books That Unlocked the Universe",
+      "description": "At Sotheby’s, a feast of rare science books includes volumes from Copernicus, Galileo and Newton that together revolutionized human understanding of the cosmos.",
+      "url": "https://www.nytimes.com/2026/10/17/science/sothebys-science-books-auction.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/17/multimedia/17SCI-RARE-BOOKS-01-lpjt/17SCI-RARE-BOOKS-01-lpjt-mediumSquareAt3X.jpg",
+      "source_icon": "https://i.newsdata.io/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-10-17 09:01:50",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "7d9b2fa444f8dd73c6141b0cf778b8bb",
+      "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+      "description": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+      "image_url": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
+      "source_icon": "https://i.newsdata.io/wired.png",
+      "source": "Wired",
+      "published_at": "2026-10-17 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "484c24f749730d3acfa07eeea5d9c111",
+      "title": "Jury hears forensic expert detail evidence in 30-year cold case sex assault trial",
+      "description": "Investigators screened roughly 310 persons of interest over three decades before genetic genealogy tied Richard Neil to three southern Ontario park attacks.",
+      "url": "https://www.cbc.ca/news/canada/toronto/richard-neil-sex-assault-cold-case-9.7384836?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/de3d3020-2d70-47a3-a8a6-58c7701f1207,1792191663491/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C396%2C7613%2C4282%29%3B",
+      "source_icon": "https://i.newsdata.io/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-10-17 08:00:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "aa271921bb55278f9f4946225fca6bff",
+      "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+      "description": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
+      "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+      "image_url": "https://www.universetoday.com/article_images/Mercury_Mariner_20250624_121012.jpeg",
+      "source_icon": "https://i.newsdata.io/universetoday.png",
+      "source": "Universe Today",
+      "published_at": "2026-10-17 07:47:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f356ca85e2daa082f52c9c4eadf5d694",
+      "title": "Vietnam advances in complex multi-organ and domino transplantation",
+      "description": "HANOI: Vietnam's organ transplant sector has advanced from single-organ procedures to more complex techniques, including multi-organ and domino transplantation, and related research is being considered for the Ho Chi Minh Prize for Science and Technology",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/17/vietnam-advances-in-complex-multi-organ-and-domino-transplantation",
+      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/10/17/4166604.png",
+      "source_icon": "https://i.newsdata.io/thestar_my.png",
+      "source": "The Star",
+      "published_at": "2026-10-17 07:33:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "f5f547b99f19c8b31a04aa5e79eb9615",
+      "title": "'The emotional cost has been unbelievable': How three years of war have changed Israelis - study",
+      "description": "ERAN is hearing from Israelis who never entered the formal mental-health system but are desperate for help.",
+      "url": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-911838",
+      "image_url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/742294",
+      "source_icon": "https://i.newsdata.io/jpost.png",
+      "source": "Jpost",
+      "published_at": "2026-10-17 06:04:08",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "1481c2c985b0b13ca2b2a32da8dc1bff",
       "title": "Israel faces a nationwide mental health crisis post-October 7, Clalit experts warn - study",
@@ -518,90 +602,6 @@
       "published_at": "2026-10-16 09:35:45",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "096ae4b4cd8be355721820fd5376f854",
-      "title": "The eye condition that may signal dementia years before memory begins to fail",
-      "description": "Researchers find retinopathy can’t simply coexist with cognitive decline but must precede it",
-      "url": "https://www.independent.co.uk/news/science/diabetic-retinopathy-dementia-signal-memory-loss-b3067878.html",
-      "image_url": "https://static.independent.co.uk/2026/10/16/6/34/Sixty-two-year-old-patient-with-diabetes-receives-laser-treatment-for-diabetic-retinopathy.jpeg?width=1200&auto=webp&trim=45%2C0%2C45%2C0",
-      "source_icon": "https://i.newsdata.io/independentuk.png",
-      "source": "The Independent",
-      "published_at": "2026-10-16 09:29:34",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "31eea7fc829b7e0aad40a2e08894e711",
-      "title": "Some telescopes have these at both ends Crossword Clue",
-      "description": "Answer help for Second Thoughts, featuring one of today's clues: Some telescopes have these at both ends, from USA TODAY Daily Crossword Puzzle creators.",
-      "url": "https://www.usatoday.com/story/entertainment/puzzles/crosswords/2026/10/16/some-telescopes-have-these-at-both-ends-crossword-clue/92278329007/",
-      "image_url": "https://www.gannett-cdn.com/authoring/authoring-images/2025/04/21/NAUR/83199050007-crossword-clues-article.png",
-      "source_icon": "https://i.newsdata.io/usatoday.jpg",
-      "source": "Usa Today",
-      "published_at": "2026-10-16 09:11:33",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "506aba34527d75c05dbe561713629ab9",
-      "title": "Citizen Science Groups Grapple With the Rise of A.I. Slop",
-      "description": "Facing a flood of A.I. slop, groups bent on democratizing science create new checks and balances.",
-      "url": "https://www.nytimes.com/2026/10/16/science/citizen-science-ai-slop.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/16/science/16SCI-AI-SLOP/16SCI-AI-SLOP-mediumSquareAt3X.jpg",
-      "source_icon": "https://i.newsdata.io/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-10-16 09:02:57",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "47c923893d62357406c28434afcbeacb",
-      "title": "‘I’m on a War Footing’: Terry Tao and the Crisis in Math",
-      "description": "The Fields Medalist and celebrated mathematician is on the front lines of a debate about artificial intelligence and the future of his field.",
-      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-      "image_url": "https://static01.nyt.com/images/2026/10/14/us/dc-tao/dc-tao-mediumSquareAt3X.jpg",
-      "source_icon": "https://i.newsdata.io/nytimes.png",
-      "source": "The New York Times",
-      "published_at": "2026-10-16 09:02:04",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "e9708763e4d19e37dd9293c82b427f28",
-      "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
-      "description": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?",
-      "url": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/",
-      "image_url": "https://www.statnews.com/wp-content/uploads/2026/10/AJ74LKZQKGEGSGMU6CJMHSR5QY-1024x576.avif",
-      "source_icon": "https://i.newsdata.io/statnews.png",
-      "source": "Stat",
-      "published_at": "2026-10-16 08:30:00",
-      "language": "english",
-      "category": "health"
-    },
-    {
-      "id": "9eb62a295102699b0b79d7b18f450a9f",
-      "title": "What exactly is a Hi-Fi listening bar?",
-      "description": "Forget shouting over the music. At a Hi-Fi listening bar, you’re actually there to listen. Born in Japan and now popping up around the world, the concept puts vinyl, carefully tuned sound systems and intimate, low-lit spaces at the heart of a night out. At Saikindō in Abu Dhabi, the experience doesn’t stop at what comes through the speakers. Its cocktail menu takes songs apart and translates them into flavors you can drink. We spend a day there with Beverage Director and DJ Marco Corallo to find out why the world is tuning into listening bars, and what a favorite song might taste like in a glass.",
-      "url": "https://www.cnn.com/2026/10/16/travel/video/abu-dhabi-saikindo-japanese-hi-fi-listening-bar-spc-digvid",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/bto-saikindo-hi-fi-bar-thumb-1.jpg?c=original",
-      "source_icon": "https://i.newsdata.io/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-10-16 06:53:06",
-      "language": "english",
-      "category": "sports"
-    },
-    {
-      "id": "ff7cbf7d9da5b5fb2294bf83c431ea4a",
-      "title": "NASA captures strange waves high above Hurricane Simon",
-      "description": "As Hurricane Simon unleashed destructive winds and flooding along Mexico’s coast, NASA satellites captured an extraordinary sight: massive atmospheric waves rippling high above the storm. The rare images reveal how powerful hurricanes can disturb the upper atmosphere, creating patterns that are usually invisible from space.",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261015073207.htm",
-      "image_url": "https://www.sciencedaily.com/images/1920/hurricane-simon.webp",
-      "source_icon": "https://i.newsdata.io/sciencedaily.png",
-      "source": "Science Daily",
-      "published_at": "2026-10-16 05:50:44",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
