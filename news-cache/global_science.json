@@ -1,8 +1,56 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-24T18:25:54.397Z",
+  "last_updated": "2026-10-24T22:04:48.134Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "5a0c214492da06084076a21be7c57120",
+      "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within 2 years",
+      "description": "NASA is moving fast on its plans to build a moon base and return astronauts to the lunar surface in as little as two years.",
+      "url": "https://phys.org/news/2026-10-nasa-apollo-urgency-moon-base.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-artemis-moon.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-10-24 09:28:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a32ecfc564b27952a4f9598efea3eb1b",
+      "title": "Some Buy Telescopes. These People Build Them From Scratch.",
+      "description": "For a century, amateur telescope makers have gathered at the Stellafane convention to celebrate their craft. Will the event last another 100 years?",
+      "url": "https://www.nytimes.com/2026/10/24/science/space/stellafane-telescopes-makers.html",
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm/24SCI-TELESCOPE-MAKERS-stillpromo-tzpm-mediumSquareAt3X.jpg",
+      "source_icon": "https://i.newsdata.io/nytimes.png",
+      "source": "The New York Times",
+      "published_at": "2026-10-24 09:00:26",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "64dee92637e200ab8b5b43644f7a5ff1",
+      "title": "Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’",
+      "description": "The Webb telescope sees tiny red dots everywhere. Astronomers can’t agree on what they are, but some believe they may be enormous stars with black holes inside.",
+      "url": "https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots/",
+      "image_url": "https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg",
+      "source_icon": "https://i.newsdata.io/wired.png",
+      "source": "Wired",
+      "published_at": "2026-10-24 09:00:00",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "f9e9f2529290d911fcb4ab0e87a5881c",
+      "title": "Can millions of people live on the moon? These scientists say yes — but not for very long",
+      "description": "Billionaires like Elon Musk and Jeff Bezos are claiming that we can expect big cities with millions of people on the moon, but a new study found that that may not be possible, so don’t start packing just yet.",
+      "url": "https://www.cbc.ca/news/science/moon-civilization-water-9.7393267?cmp=rss",
+      "image_url": "https://i.cbc.ca/ais/f64619e9-b719-4fb6-b343-0e577f122766,1792773302575/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C2880%2C1620%29%3B",
+      "source_icon": "https://i.newsdata.io/cbc.jpg",
+      "source": "Cbc",
+      "published_at": "2026-10-24 08:00:00",
+      "language": "english",
+      "category": "technology"
+    },
     {
       "id": "fed8466c1e838038321c3370ddd298fe",
       "title": "Project to restore rare native trees with DNA testing",
@@ -554,54 +602,6 @@
       "published_at": "2026-10-23 09:44:19",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "28c35fca84a7868c1da3bf2f1a758f26",
-      "title": "How autumn changes animal sexual behaviour – including that of humans",
-      "description": null,
-      "url": "https://theconversation.com/how-autumn-changes-animal-sexual-behaviour-including-that-of-humans-292486",
-      "image_url": "https://images.theconversation.com/files/765844/original/file-20261013-50-5zdfsl.jpg?ixlib=rb-4.1.1&rect=0%2C399%2C5250%2C2625&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://i.newsdata.io/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-10-23 09:18:17",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "7dfd99ec1773a63e5cbab3d7f965e2db",
-      "title": "Unlocking the secrets of the ‘Dragon Man’ skull – and what it reveals about human evolution",
-      "description": "Most of what we knew about early modern humans has been turned upside down in the past two decades – and many more questions remain.",
-      "url": "https://theconversation.com/unlocking-the-secrets-of-the-dragon-man-skull-and-what-it-reveals-about-human-evolution-291321",
-      "image_url": "https://images.theconversation.com/files/761221/original/file-20260921-60-pr752s.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
-      "source_icon": "https://i.newsdata.io/theconversation.png",
-      "source": "The Conversation",
-      "published_at": "2026-10-23 09:03:28",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "4036a0e6f403cde5b5cf629138a3c65c",
-      "title": "Why young men are losing faith in Trump’s economy",
-      "description": "On a recent crisp college football Saturday, Michigan State senior Zach Larson sat in a lawn chair sipping a can of Modelo that he said cost nearly twice as much as it did when he was a freshman.",
-      "url": "https://www.cnn.com/2026/10/23/politics/young-men-republicans-trump-michigan-senate",
-      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2300814829.jpg?c=original/w_800",
-      "source_icon": "https://i.newsdata.io/cnn.png",
-      "source": "Cnn",
-      "published_at": "2026-10-23 09:00:15",
-      "language": "english",
-      "category": "entertainment"
-    },
-    {
-      "id": "3cd145506eb6137e6389d3122e0b8ea2",
-      "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
-      "description": "A mother bat has one crucial challenge: find her own babies among hundreds of other bats in the colony. Making sure she cares for and nurses only her own offspring is important to ensuring their survival. Among Japanese house bats, mothers keep track of their pups using the babies' isolation calls.",
-      "url": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/mother-bats.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-23 04:00:01",
-      "language": "english",
-      "category": "science"
     }
   ]
 }
