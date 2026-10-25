@@ -1,8 +1,80 @@
 {
   "category": "global_science",
-  "last_updated": "2026-10-25T08:47:36.556Z",
+  "last_updated": "2026-10-25T15:11:17.328Z",
   "article_count": 50,
   "articles": [
+    {
+      "id": "54cf4c05c3e9c04c92e04e356972f96e",
+      "title": "Sound waves could help stop schizophrenic delusions: NYU study",
+      "description": "Scientists at NYU have conducted a successful experiment on 10 schizophrenic patients using sound waves directed into a tiny region deep inside the brain called the globus pallidus interna. The experiment resulted in a proven reduction of symptoms and causes new help for future treatments.",
+      "url": "https://nypost.com/2026/10/24/us-news/soung-waves-could-help-stop-delusions-in-schzophrenia-patients-nyu-study/",
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F146209125.jpg?w%3D1024",
+      "source_icon": "https://i.newsdata.io/nypost.png",
+      "source": "New York Post",
+      "published_at": "2026-10-25 02:57:24",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "7f53e4c02f1e39feb596f92ee0a384bc",
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "description": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assumptions and could explain why some superconductors outperform others.",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "image_url": "https://www.sciencedaily.com/images/1920/superconducting-material-hovering-over-magnets.webp",
+      "source_icon": "https://i.newsdata.io/sciencedaily.png",
+      "source": "Science Daily",
+      "published_at": "2026-10-25 02:19:07",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "884a93f11f3ea4d4e60a96b1d54912a2",
+      "title": "‘Start that conversation’: Saskatchewan Science Centre aiming to educate public on nuclear power",
+      "description": "As part of Nuclear Science Week, the Saskatchewan Science Centre set up various booths on Saturday to help educate the public on the topic.",
+      "url": "https://www.ctvnews.ca/regina/article/start-that-conversation-saskatchewan-science-centre-aiming-to-educate-public-on-nuclear-power/",
+      "image_url": "https://www.ctvnews.ca/resizer/v2/XVAZBYLMNNB2ZFOPGZ2ODR4MPQ.jpg?auth=170fc87c0d3a9d3f5a0efec397f6e4d1b1449cf2a590abddf00aaf81d4bd477f&smart=true&width=1920&height=1080",
+      "source_icon": "https://i.newsdata.io/ctvnews.png",
+      "source": "Ctv News",
+      "published_at": "2026-10-25 01:32:00",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "94fa1fd118c1e2a6f4ee87444b559ed0",
+      "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+      "description": "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward.",
+      "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d401/live/1df179f0-ce56-11f1-a166-e30097724580.png",
+      "source_icon": "https://i.newsdata.io/bbc.jpg",
+      "source": "The Bbc",
+      "published_at": "2026-10-24 23:02:51",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "b8a211d04c6f0641ac217d1c2023df6a",
+      "title": "Bell pepper colors reveal differences in sweetness, nutrients and ripeness",
+      "description": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.",
+      "url": "https://phys.org/news/2026-10-bell-pepper-reveal-differences-sweetness.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/-bell-peppers.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-10-24 21:00:07",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "71680b37eb97ddf63b8cd74826003eaa",
+      "title": "Tests reveal why titanium additions do not fully prevent pitting corrosion in stainless steel",
+      "description": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
+      "url": "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html",
+      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-does-pitting-cor.jpg",
+      "source_icon": "https://i.newsdata.io/phys.jpg",
+      "source": "Phys.org",
+      "published_at": "2026-10-24 21:00:01",
+      "language": "english",
+      "category": "science"
+    },
     {
       "id": "8588abfa8f00fe5396c18a8777957885",
       "title": "Hear Amelia Earhart's VOICE like never before: Scientists use AI to enhance a recording logged two years before the pilot's disappearance",
@@ -530,78 +602,6 @@
       "published_at": "2026-10-23 20:20:08",
       "language": "english",
       "category": "science"
-    },
-    {
-      "id": "b0727573902892bb642b7aa9d4f524a6",
-      "title": "NASA lays out a packed 14-day schedule for 2027’s Artemis III moon mission",
-      "description": "The mission, scheduled for the summer of 2027, will include be pivotal in deciding whether SpaceX or Blue Origin supplies the lunar lander for the first crewed trip to the lunar surface in decades",
-      "url": "https://www.scientificamerican.com/article/nasa-lays-out-a-packed-14-day-schedule-for-2027s-artemis-iii-moon-mission/",
-      "image_url": "https://static.scientificamerican.com/dam/m/3114b95c23267e01/original/orion_transfer.jpg?m=1792789627.921&w=1200",
-      "source_icon": "https://i.newsdata.io/scientificamerican.png",
-      "source": "Scientificamerican",
-      "published_at": "2026-10-23 20:20:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "34bbdc1da46c08fe833e3266d29c3268",
-      "title": "Tracking the labor market and jobs",
-      "description": "This data interactive allows users to explore trends in labor force participation, employment, and unemployment, among other key indicators.",
-      "url": "https://www.brookings.edu/articles/tracking-the-labor-market-and-jobs/",
-      "image_url": "https://www.brookings.edu/wp-content/uploads/2026/02/20250204_THP_LaborTracker_shutterstock_2449278151.jpg?quality=50",
-      "source_icon": "https://i.newsdata.io/brookings.png",
-      "source": "Brookings",
-      "published_at": "2026-10-23 20:06:09",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "2fde9ce19a2e56c29bfecd571f46b6b4",
-      "title": "Elections are more predictable than they look",
-      "description": "As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when individual races produce surprises.",
-      "url": "https://phys.org/news/2026-10-elections.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/elections-are-more-pre.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-23 20:00:05",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "77632b83155dcbcdadd5dd11e3e8aedd",
-      "title": "Bacteria reinvent their weapons through selection, chance and gene swapping",
-      "description": "Many of the most potent antibiotics originate from bacteria. A large proportion belong to a class of compounds known as nonribosomal peptides (NRP). They are produced by large bacterial enzyme machineries—the nonribosomal peptide synthetases, or NRPS for short. These function like molecular assembly lines: Similar to the stations in a car factory, where new parts are added to the car at each step, several specialized modules string together amino acid by amino acid to build a peptide.",
-      "url": "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html",
-      "image_url": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-constantly-re.jpg",
-      "source_icon": "https://i.newsdata.io/phys.jpg",
-      "source": "Phys.org",
-      "published_at": "2026-10-23 20:00:01",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "bc7da61d4cd5e9dd2852255e47edfa42",
-      "title": "GondolaBio and Children’s Tumor Foundation Announce Partnership to Advance GondolaBio’s Neurofibromatosis Type 1 Program",
-      "description": "PALO ALTO, Calif. & NEW YORK--(BUSINESS WIRE)--GondolaBio, a clinical-stage biopharmaceutical company developing novel medicines for patients living with genetic diseases, and the Children’s Tumor Foundation (CTF), NF’s global drug discovery engine focused on neurofibromatosis and schwannomatosis (collectively known as NF), today announced a partnership to advance GondolaBio’s preclinical neurofibromatosis type 1 (NF1) program. CTF will provide guidance as GondolaBio’s NF1 program advances thro",
-      "url": "http://www.businesswire.com/news/home/20261021539588/en/GondolaBio-and-Children%E2%80%99s-Tumor-Foundation-Announce-Partnership-to-Advance-GondolaBio%E2%80%99s-Neurofibromatosis-Type-1-Program/",
-      "image_url": "https://mms.businesswire.com/media/20261021539588/en/2942613/21/gondola_logo.jpg",
-      "source_icon": "https://i.newsdata.io/businesswire.png",
-      "source": "Businesswire",
-      "published_at": "2026-10-23 20:00:00",
-      "language": "english",
-      "category": "science"
-    },
-    {
-      "id": "60d17479103a83fad7ba8f93e8c2cbdf",
-      "title": "Wolves Descend on Finnish Villages After Google Hacked Down 1,300 Acres of Habitat to Make Room for AI Data Centers",
-      "description": "\"We had wolves coming into the village because all the wild animals moved out of the forest.\" The post Wolves Descend on Finnish Villages After Google Hacked Down 1,300 Acres of Habitat to Make Room for AI Data Centers appeared first on Futurism.",
-      "url": "https://futurism.com/future-society/wolves-finland-google-ai-data-centers",
-      "image_url": "https://futurism.com/wp-content/uploads/2026/10/wolves-finland-google-ai-data-centers.jpg?quality=85&w=2048",
-      "source_icon": "https://i.newsdata.io/futurism.png",
-      "source": "Futurism",
-      "published_at": "2026-10-23 19:57:06",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
