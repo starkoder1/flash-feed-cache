@@ -1,8 +1,128 @@
 {
   "category": "global_technology",
-  "last_updated": "2026-11-20T22:25:45.129Z",
-  "article_count": 40,
+  "last_updated": "2026-11-21T04:36:50.865Z",
+  "article_count": 47,
   "articles": [
+    {
+      "id": "00fc5f06a7135fc830514630e54c433f",
+      "title": "Mastercard and Visa data leaked in breach — ransomware hackers leak information in latest major attack",
+      "description": "N0n is making good on its promise to leak Visa and Mastercard data online, but the information can hardly be considered exclusive.",
+      "url": "https://www.techradar.com/pro/security/mastercard-and-visa-data-leaked-in-breach-ransomware-hackers-leak-information-in-latest-major-attack",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/nuG9eQPszPfG6t5xSrybfN-1920-80.jpg",
+      "source_icon": "https://i.newsdata.io/techradar_uk.jpg",
+      "source": "Techradar",
+      "published_at": "2026-11-20 16:35:00",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "7359647870d849a3c0e45dd66859bf76",
+      "title": "Apollo Dash review: A modestly priced scooter made for hills",
+      "description": "The Apollo Dash is an excellent midrange electric scooter with enough oomph to get you up some steep inclines, and it has a few nice other features, like turn signals and Apple FindMy.",
+      "url": "https://www.tomsguide.com/vehicle-tech/electric-scooters/apollo-dash-review",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/LE3VFkcsruEomRtXtRmmtm-1920-80.jpg",
+      "source_icon": "https://i.newsdata.io/tomsguide.png",
+      "source": "Tom's Guide",
+      "published_at": "2026-11-20 16:33:56",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "676df9113cd0c620762a5165805f9db4",
+      "title": "The Public Is Prepping for Disaster",
+      "description": "\"The system failures are fueling online speculation about a larger cyber threat.\" The post The Public Is Prepping for Disaster appeared first on Futurism.",
+      "url": "https://futurism.com/future-society/public-preparing-disaster-costco-tech-outages",
+      "image_url": "https://futurism.com/wp-content/uploads/2026/11/public-preparing-disaster-costco-tech-outages.jpg?quality=85&w=2048",
+      "source_icon": "https://i.newsdata.io/futurism.png",
+      "source": "Futurism",
+      "published_at": "2026-11-20 16:31:53",
+      "language": "english",
+      "category": "science"
+    },
+    {
+      "id": "a4d6ceff47b671e7336339085bf02d02",
+      "title": "Paid for an ExpressVPN auto-renewal you didn't want? Californians may be owed up to double that sum",
+      "description": "ExpressVPN has agreed to a $3.9 million settlement in a California auto-renewal lawsuit. Eligible users can claim pro rata cash payouts before January 12, 2027, while former subscribers also receive a free three-month voucher.",
+      "url": "https://www.techradar.com/vpn/vpn-services/paid-for-an-expressvpn-auto-renewal-you-didnt-want-californians-may-be-owed-up-to-double-that-sum",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tfoa5QT3Y7MX9zuUaUyePH-1920-80.png",
+      "source_icon": "https://i.newsdata.io/techradar_au.jpg",
+      "source": "Techradar Au",
+      "published_at": "2026-11-20 16:31:23",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "611c01a5f2f09cda11d3de79d7e09007",
+      "title": "Here's How Much $100 Invested In L3Harris Technologies 20 Years Ago Would Be Worth Today",
+      "description": "L3Harris Technologies (NYSE:LHX) has outperformed the market over the past 20 years by 1.01% on an annualized basis producing an average annual return of 9.49%. Currently, L3Harris Technologies has a market",
+      "url": "https://www.benzinga.com/news/26/11/63485570/here-s-how-much-100-invested-l3harris-technologies-20-years-ago-would-be-worth-today",
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/06/valuestock_2.jpg?crop=600:400,smart&optimize=medium",
+      "source_icon": "https://i.newsdata.io/benzinga.png",
+      "source": "Benzinga",
+      "published_at": "2026-11-20 16:31:14",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "1a7d7625089bfd395877d4941dfffefe",
+      "title": "Public land off market after $4M bid for possible data center is rejected near Jackson",
+      "description": "Leoni Township received an application to buy 152 acres of its property for the use of a data center or alternative energy facility. The township declined the sale.",
+      "url": "https://www.mlive.com/news/jackson/2026/11/public-land-off-market-after-4m-bid-for-possible-data-center-is-rejected-near-jackson.html",
+      "image_url": "https://www.mlive.com/resizer/v2/FPQ3YSSZ6BHP5IDH7TTAFFJBZU.jpg?auth=9ae7f4a1c1e180f4e6a64b7d9f46279d9b52624ec92209b11420eebb97383d96&smart=true&height=1200",
+      "source_icon": "https://i.newsdata.io/mlive.png",
+      "source": "Mlive",
+      "published_at": "2026-11-20 16:30:49",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "5c09e2153e509f9d551ba536146c200f",
+      "title": "How to Choose Which Line Gets the New Phone on T-Mix Loaded, T-Mix More and T-Mix Standard Plans",
+      "description": "With T-Mobile’s T-Mix Loaded, families can use Picks toward a new phone on the line that needs it most, while the rest of the account keeps its streaming and other benefits.",
+      "url": "https://www.cnet.com/paid-content/how-to-choose-which-line-gets-the-new-phone-on-t-mix-loaded-t-mix-more-and-t-mix-standard-plans/",
+      "image_url": "https://www.cnet.com/wp-content/uploads/sites/2/new-phone.jpg",
+      "source_icon": "https://i.newsdata.io/cnet.png",
+      "source": "Cnet",
+      "published_at": "2026-11-20 16:30:26",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "530b420608bb7e0757434f9956ed67e4",
+      "title": "Why Mr. Bezos, with these early Black Friday gaming chair deals you are really spoiling us",
+      "description": "There's an astonishing array of gaming chairs for well under $300 right now, though it's not just Amazon at it.",
+      "url": "https://www.pcgamer.com/hardware/gaming-chairs/why-mr-bezos-with-these-early-black-friday-gaming-chair-deals-you-are-really-spoiling-us/",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CkksKxnSfea8Tu7cmP8myj-1920-80.jpg",
+      "source_icon": "https://i.newsdata.io/pcgamer.png",
+      "source": "Pc Gamer",
+      "published_at": "2026-11-20 16:30:25",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "a44c531e382bc1b2625d59818ef25674",
+      "title": "Keeping secrets out of agent prompts: how Vault and DLP fit together",
+      "description": "Originally published on sandscale.dev. An agent that deploys code, queries a database or calls an API needs credentials. The usual shortcuts, a .env file in the repo, a key pasted into the prompt, a token in a shell history, put those credentials in places where they get copied. This post walks through how credentials leak in agent runs, what Sandscale's Vault and DLP each do about it, and which paths remain open. Everything about Sandscale below comes from sandscale.dev as of 20 November 2026. Where the docs are silent, we say so. How secrets leak in an agent run Think of the places a credential can end up: The prompt. A person pastes a key to help the agent along, or the agent reads a file that contains one and includes it in the next model call. From there it sits in a provider's logs and your own transcripts. Tool-call arguments. The agent builds a command or an API call that includes the key inline. Files and the repository. A .env file or a config with a token gets committed or copied. Command output. A tool prints the environment, or a debug log echoes a header. The output returns to the model as context. Logs and traces. Your own telemetry records the above. Lingering validity. The credential still works long after the run that needed it. No single control covers all six. Vault addresses the way a secret is delivered and how long it lasts. DLP addresses what leaves in prompts and tool calls. Neither inspects what the agent's own code does inside the box, and the end of this post is about that gap. Vault: deliver the secret without the model seeing it Sandscale's Vault works in three steps, as the site describes them: Store. You put a secret in Vault once, not in repos, prompts or environment files. Inject. It reaches the run in memory, never written to disk. End. It stops working when the run, session or lease ends. A run references a secret and Vault injects it at run time. Vault comes with every plan, Free included. Giving a sandbox a secret The step-by-step guide shows the flow. First store the secret in Vault (the guide shows the steps; the value is read without echoing it). Then reference it when you start a sandbox. With the TypeScript SDK: The sandbox gets DB_PASSWORD in its environment. Your code never handles the value. In the docs' words, the path is \"the mount, data, then the secret's path\". What the docs say happens to the value: Sandscale reads it as you, with your Vault permissions. If you may not read it, the start is refused with vault_env_refused and nothing starts. It goes to the sandbox only. It is never in the API's answer, a log, the run's record or the audit log. The audit entry names the variables, not the values. A start can name up to 50 values. Build host leases can carry secrets too, and they end with the lease. What an environment variable does and doesn't protect The secret reaches the sandbox as an environment variable. That keeps it out of your code, the API answer and the logs. It does not hide it from code running inside the sandbox: any process in the box can read its environment, including a command the agent runs. If the agent runs env or printenv, or a script prints its configuration, the value appears in that command's output. The agent over MCP When an agent connects over Sandscale's MCP server, it can list the names of your Vault secrets but cannot read their values. Every call runs as the signed-in person and lands in the audit log with the tool, region, outcome and app, never the arguments. An agent can know that app/db exists and ask for a sandbox that references it, without ever receiving the password. DLP: scan what leaves Vault handles the case where you do it right. DLP handles the case where someone does it wrong. Per the DLP page: Scan. Each prompt and MCP tool call is checked against built-in patterns and your own. Block. A credential or other sensitive value stops the call. Record. What was found, and where, goes into the audit log. The value itself does not. The headline claim on that page is that \"a credential pasted into a prompt never reaches the model.\" It applies on every plan. Two things worth being straight about. First, pattern matching can only catch what the patterns describe. The docs say checks use \"built-in and your own patterns\", so a secret in an unusual format, or one an agent has transformed, is outside what a pattern catches until someone adds one. Second, the page describes scanning of prompts and MCP tool calls. It does not say that output coming back from a command is scanned, or that files written to disk are scanned. Putting the two together Leak path What covers it, per the docs What is not stated Key pasted into a prompt DLP scan blocks the call Coverage for unusual formats: only through patterns Key built into a tool call DLP scans MCP tool calls Scope beyond MCP tool calls Secret in repo or .env Vault: store once, not in repos or environment files Nothing stops someone writing a secret to a file Secret echoed in command output Not stated Whether output is scanned Secret in logs Vault: values never in logs or run record; audit names variables only Your own application logs inside the sandbox Credential valid after the run Vault: \"stops working when the run, session or lease ends\" Habits that help, whatever the tooling Use short-lived credentials where the system you call supports them. A leaked token that expires within an hour is a smaller problem. Scope them narrowly. Give the agent a read-only database role for a read-only task. Do not put credentials in prompts. DLP is a safety net, not a plan. Review the audit log after the first few runs. It records what DLP found, where, never the value, and the variable names Vault injected. Assume anything the agent can read, it can print. Design for that: if a secret must never reach the model, ask whether the agent needs the secret at all, or whether a narrower service call would do. Route risky actions through approvals, so a person confirms before an agent uses a credential for something irreversible. See approvals and agent policy. Where this leaves you Vault keeps the secret out of your code, the API answer, the logs and the model's context in the normal path. DLP catches the abnormal path, a secret typed or built into a prompt or a tool call. Between them they cover the main leak paths that happen before code runs. They do not turn the agent's own commands into a safe place to hold a secret, so the sandbox boundary, narrow credentials and review still matter. For the isolation side, see our post on isolating agent-run code. The audit log ties it together: every action is in a hash-chained log that every plan can read. Pricing shows what each plan includes; Vault and DLP are on all of them.",
+      "url": "https://dev.to/sandscale/keeping-secrets-out-of-agent-prompts-how-vault-and-dlp-fit-together-1bd8",
+      "image_url": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fy4g7hadf7zygw4uw1op2.png",
+      "source_icon": "https://i.newsdata.io/devto.png",
+      "source": "Dev Community",
+      "published_at": "2026-11-20 16:30:24",
+      "language": "english",
+      "category": "technology"
+    },
+    {
+      "id": "e9a3a4e549fcd8e62fa708878bdaefa2",
+      "title": "I connected my NAS to Plex on my Nvidia Shield, and I’m ditching USB drives for media",
+      "description": "I combined media from external drives to a NAS, and ditches USB on my Shield.",
+      "url": "https://www.xda-developers.com/i-connected-my-nas-to-plex-on-my-nvidia-shield-and-im-ditching-usb-drives-for-media/",
+      "image_url": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/terramaster-nas-pixel-nvidia-shield-plexamp-on-pixel.JPEG",
+      "source_icon": "https://i.newsdata.io/xda_developers.png",
+      "source": "Xda-developers",
+      "published_at": "2026-11-20 16:30:23",
+      "language": "english",
+      "category": "top"
+    },
     {
       "id": "92e9f95dac1f252d5fe9054faf991b0d",
       "title": "Microsoft's agent-framework Package Was Hijacked on PyPI: What AI SaaS Teams Should Check",
@@ -446,42 +566,6 @@
       "published_at": "2026-11-19 04:42:11",
       "language": "english",
       "category": "top"
-    },
-    {
-      "id": "917c7a35e5154e582f2f07ca42a27576",
-      "title": "CAPITAL A SUBSIDIARY ADE EXPANDS INDONESIAN PRESENCE WITH TRANSNUSA MAINTENANCE DEAL",
-      "description": "JAKARTA: Malaysia-based Asia Digital Engineering (ADE), a wholly-owned subsidiary of Capital A Bhd, has expanded its presence in Indonesia after its Indonesian unit was selected to provide line maintenance services for TransNusa's Airbus A320 fleet operating from Jakarta and Bali.",
-      "url": "https://www.thestar.com.my/business/2026/11/19/capital-a-subsidiary-ade-expands-indonesian-presence-with-transnusa-maintenance-deal",
-      "image_url": "https://apicms.thestar.com.my/uploads/images/2026/11/19/4220529.png",
-      "source_icon": "https://i.newsdata.io/thestar_my.png",
-      "source": "The Star",
-      "published_at": "2026-11-19 04:35:00",
-      "language": "english",
-      "category": "top"
-    },
-    {
-      "id": "de7dd4bc36b59a00be37055e6df3310d",
-      "title": "World Architecture Festival 2026: Day One Winners Announced",
-      "description": "The first award winners of the 2026 World Architecture Festival (WAF) have been announced, following Day One of the world's largest international live-judged architectural event, being held at Broward County Convention Center, Fort Lauderdale, Florida.",
-      "url": "https://www.archdaily.com/1188890/world-architecture-festival-2026-day-one-winners-announced",
-      "image_url": "https://images.adsttc.com/media/images/6afe/a745/8074/f401/a193/bc90/medium_jpg/world-architecture-festival-2026-day-one-winners-announced_1.jpg?1795073875",
-      "source_icon": "https://i.newsdata.io/archdaily.png",
-      "source": "Archdaily",
-      "published_at": "2026-11-19 04:30:00",
-      "language": "english",
-      "category": "technology"
-    },
-    {
-      "id": "f9667e3667c027e50ab33b3e96bc8858",
-      "title": "What are data silos? Breaking down IT's visibility gap",
-      "description": "Data silos are where IT data gets locked up in isolated, disconnected systems, and you can't get a view across service management, security, and operations. They're the result of organizational boundaries, legacy tools, and poor data governance. For IT managers looking to tackle silos, the first step is to identify where data is currently stored... The post What are data silos? Breaking down IT's visibility gap appeared first on ManageEngine Blog.",
-      "url": "https://www.manageengine.com/blog/general/what-are-data-silos-breaking-down-its-visibility-gap.html",
-      "image_url": "https://blogscdn.manageengine.com/sites/meblogs/images/general/aublog/zohoconnect_1794904541854.jpg",
-      "source_icon": "https://i.newsdata.io/manageengine.png",
-      "source": "Manageengine",
-      "published_at": "2026-11-19 04:30:00",
-      "language": "english",
-      "category": "technology"
     }
   ]
 }
