@@ -1,8 +1,128 @@
 {
   "category": "global_environment",
-  "last_updated": "2026-11-27T23:48:41.763Z",
-  "article_count": 40,
+  "last_updated": "2026-11-28T05:19:21.851Z",
+  "article_count": 46,
   "articles": [
+    {
+      "id": "05cb5bf223382b29e18bd9b3f3e35907",
+      "title": "Rare Orcas Spotted + 2M Pounds Of Ice + Thanksgiving Feasts For Lions, Tigers And Bears: Saturday Smiles",
+      "description": "Disabled dog charity raises $100K; first responders hit the ice for charity; 'The Lion King' returns; and more nice SoCal news.",
+      "url": "https://patch.com/california/santee/rare-orcas-spotted-2m-pounds-ice-thanksgiving-feasts-lions-tigers-bears-saturday",
+      "image_url": "https://patch.com/img/cdn20/users/54855/20261127/121433/styles/patch_image/public/6k0a0693___27120954077.jpg",
+      "source_icon": "https://i.newsdata.io/patch.png",
+      "source": "Patch",
+      "published_at": "2026-11-27 17:14:35",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "3d252fe0b59d770193877d3adcd032a1",
+      "title": "Uzbek teacher turns school recycling problem into an award-winning green education project",
+      "description": "The initiative developed in Namangan has reached 25,000 people across 25 schools. It took first place in an international competition that attracted 369 applications from 94 countries.",
+      "url": "https://www.euronews.com/2026/11/27/uzbek-teacher-turns-school-recycling-problem-into-an-award-winning-green-education-project",
+      "image_url": "https://images.euronews.com/articles/stories/10/01/10/52/1440x810_cmsv2_a646628f-a291-591c-b1cf-f057bac3f5cb-10011052.jpg",
+      "source_icon": "https://i.newsdata.io/euronews.png",
+      "source": "Euronews",
+      "published_at": "2026-11-27 17:11:58",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "da5184606f8df38e0dc1b838d8ebed03",
+      "title": "Cost of Malahide-Donabate greenway jumps from €12m in 2020 to ‘touching on €50m’",
+      "description": "Cyclepath across estuary was due to open earlier this year but has been delayed to 2028",
+      "url": "https://www.irishtimes.com/ireland/dublin/2026/11/27/cost-of-malahide-donabate-greenway-jumps-from-12m-in-2020-to-touching-on-50m/",
+      "image_url": "https://www.irishtimes.com/resizer/v2/MB3X42FKOFFBHNVIG4O7S44TDA.JPG?auth=20529f0cca02b697ebb48b042cfcb243fcf558a7e077db83973b98d2fd5c5e27&smart=true&width=630&height=350",
+      "source_icon": "https://i.newsdata.io/irishtimes.png",
+      "source": "The Irish Times",
+      "published_at": "2026-11-27 17:11:16",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "291b5a9b65ae2a01ed5151190f1af523",
+      "title": "France is dealing with water insecurity – a new study shows it's a global problem",
+      "description": "Tens of thousands of people in France are living under water restrictions as the country deals with a drought despite recent rains, according to the environment ministry. But this is a global problem, as a new study released Wednesday revealed \"the largest global decline in surface water resources recorded\" since 1991, when data collection began.",
+      "url": "https://www.france24.com/en/environment/20261127-france-dealing-with-water-insecurity-%E2%80%93-new-study-shows-global-problem",
+      "image_url": "https://s.france24.com/media/display/34af910c-ea6e-11f1-8207-1991d4929b54/w:1024/p:16x9/AP26273445409241.jpg",
+      "source_icon": "https://i.newsdata.io/france24.png",
+      "source": "France 24",
+      "published_at": "2026-11-27 17:10:11",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "2038d488a6f1ed1bf4fdfa6b0dd5bd87",
+      "title": "Proposed 40-Acre Park In Ramona Could Bring Skatepark, Playground Near High School",
+      "description": "The proposed youth recreation park could receive state funding through a competitive grant program.",
+      "url": "https://patch.com/california/ramona/proposed-40-acre-park-ramona-could-bring-skatepark-playground-near-high-school",
+      "image_url": "https://patch.com/img/cdn20/shutterstock/27626949/20261127/120925/styles/patch_image/public/shutterstock-541145566___27120823969.jpg",
+      "source_icon": "https://i.newsdata.io/patch.png",
+      "source": "Patch",
+      "published_at": "2026-11-27 17:09:27",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "f5dc263bb1c99cff519e7181c66f0ecd",
+      "title": "Photographing the American West and capturing a 'Silence So Deep It Rings'",
+      "description": "Between the Rocky and Sierra Nevada mountains lies the Great Basin. It’s a vast, sparsely populated land of high desert, alpine ridges and geothermal hot springs.",
+      "url": "https://www.wbur.org/hereandnow/2026/11/27/silence-so-deep-it-rings",
+      "image_url": "https://media.wbur.org/wp/2026/11/Fig-49_NewEdit-1.jpg",
+      "source_icon": "https://i.newsdata.io/wbur_org.png",
+      "source": "Wbur",
+      "published_at": "2026-11-27 17:06:54",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "0dd3217d35e1917fadcf75cb44c9c4cc",
+      "title": "Invasive Species Removal Set For Early December In Doylestown",
+      "description": "The work will take place at Chapman Park and Veterans Memorial Park in the borough.",
+      "url": "https://patch.com/pennsylvania/doylestown/invasive-species-removal-set-early-december-doylestown",
+      "image_url": "https://patch.com/img/cdn20/users/26019821/20261127/120528/styles/patch_image/public/doylestown-borough-hall___27101942264.jpg",
+      "source_icon": "https://i.newsdata.io/patch.png",
+      "source": "Patch",
+      "published_at": "2026-11-27 17:05:29",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "e9797f783e1a78873d978cb47923a5e3",
+      "title": "Is it time to tear down Glen Canyon Dam at Lake Powell?",
+      "description": "A decadeslong drought is raising questions about the future of Glen Canyon Dam.",
+      "url": "https://www.wbur.org/hereandnow/2026/11/27/glen-canyon-dam-lake-powell",
+      "image_url": "https://media.wbur.org/wp/2026/11/AP26239684091406-1.jpg",
+      "source_icon": "https://i.newsdata.io/wbur_org.png",
+      "source": "Wbur",
+      "published_at": "2026-11-27 17:02:26",
+      "language": "english",
+      "category": "environment"
+    },
+    {
+      "id": "1a5b0339e3b38e25532af62c3d122f8d",
+      "title": "Draft-proof your home with these Black Friday weatherproofing deals",
+      "description": null,
+      "url": "https://www.cnn.com/cnn-underscored/deals/black-friday-weatherproofing-deals-2026-11-27",
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/weatherproof-home-cnnu-01.jpg?c=original&q=w_1200",
+      "source_icon": "https://i.newsdata.io/cnn.png",
+      "source": "Cnn",
+      "published_at": "2026-11-27 17:00:15",
+      "language": "english",
+      "category": "top"
+    },
+    {
+      "id": "25fc1c6978dfda90c5eefe86aa62bfec",
+      "title": "Grand Blanc Township receiving nearly $1.9M federal grant for pathway expansion",
+      "description": "The project will construct nearly a mile of separated pathway along the south side of Baldwin Road, from Dort Highway to Holly Road, connecting nearby neighborhoods and a retirement community to existing trails.",
+      "url": "https://www.mlive.com/news/flint/2026/11/grand-blanc-township-receiving-nearly-19m-federal-grant-for-pathway-expansion.html",
+      "image_url": "https://www.mlive.com/resizer/v2/HSNZFNN4W5GFDHPZK6UTZLXDUM.jpg?auth=6545e254560a79b6070a56637759b4c107464b33c7feef79a7114dba8702236b&smart=true&height=1200",
+      "source_icon": "https://i.newsdata.io/mlive.png",
+      "source": "Mlive",
+      "published_at": "2026-11-27 17:00:00",
+      "language": "english",
+      "category": "environment"
+    },
     {
       "id": "324325d7a17a4aee895d264ac2a1313b",
       "title": "UK weather: Exact date bitter cold snap will finally come to an end as Met Office predicts milder nights",
@@ -434,54 +554,6 @@
       "published_at": "2026-11-26 05:30:46",
       "language": "english",
       "category": "environment"
-    },
-    {
-      "id": "a3a324ded7da4a2cb2582ec5231b7572",
-      "title": "Waves pound Pacifica Municipal Pier after portion collapses during high surf and tides in California",
-      "description": "King tides combined with powerful waves destroyed part of a pier in Northern California on Wednesday, and officials warned more beachfront homes are at risk of flooding. Officials had closed the L-shaped, 1,140 feet-long (350 meters-long) pier in the summer after finding cracks in the structure. (AP video shot by Noah Berger.)",
-      "url": "https://ca.news.yahoo.com/waves-pound-pacifica-municipal-pier-051903448.html",
-      "image_url": "https://s.yimg.com/lo/mysterio/api/c31720ca0edcd93e5b9147b50ed76a8aca0fc1eb026b2eaaedd57c57a968c3e0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fvideo.canadianpress.com%2F8fb9705736980446e06507e55bd970e6.jpg",
-      "source_icon": "https://i.newsdata.io/yahoo.png",
-      "source": "Yahoo! News",
-      "published_at": "2026-11-26 05:19:03",
-      "language": "english",
-      "category": "crime"
-    },
-    {
-      "id": "2136fa1f2a47a265d67eb547e36f6dba",
-      "title": "Indonesia: rescuers race to find 13 miners trapped in flooded illegal gold mine",
-      "description": "Search for trapped miners increases after flooding kills 13 at Indonesia illegal gold mine",
-      "url": "https://www.euronews.com/2026/11/26/indonesia-rescuers-race-to-find-13-miners-trapped-in-flooded-illegal-gold-mine",
-      "image_url": "https://images.euronews.com/articles/stories/10/00/88/35/1440x810_cmsv2_6dec4e16-72c0-593d-9202-33ec17a07597-10008835.jpg",
-      "source_icon": "https://i.newsdata.io/euronews.png",
-      "source": "Euronews",
-      "published_at": "2026-11-26 05:14:01",
-      "language": "english",
-      "category": "crime"
-    },
-    {
-      "id": "09fd1ab0c7cbef340b2b87524a78f750",
-      "title": "Chad: DIEM-Monitoring emergency agriculture support brief, September 2026 (round 10)",
-      "description": "Please refer to the attached file. Synopsis (short abstract) This emergency agriculture support brief presents the results of the Data in Emergencies Monitoring (DIEM-Monitoring) survey conducted in Chad in July and August 2026. Data analysis estimated that 67 131 resident agricultural households (447 012 people) required emergency food security assistance in the six provinces covered by the survey. This brief provides humanitarian actors with a detailed analysis of the needs of agricultural households to better target interventions aimed at supporting their livelihoods, strengthening their resilience to future shocks and safeguarding the food security of rural populations. The Food and Agriculture Organization of the United Nations (FAO) established DIEM-Monitoring in June 2020. DIEM enumerators collect data several times a year across food-insecure countries, through computer-assisted telephone interviews and face-to-face surveys. These data cover shocks, agricultural livelihoods, food security and household needs, and are regularly updated and easily accessible on the DIEM Hub. DIEM products consist of dashboards, maps, briefs and aggregated data, enabling partners and stakeholders to activate mitigation measures and target vulnerable households.",
-      "url": "https://reliefweb.int/report/chad/chad-diem-monitoring-emergency-agriculture-support-brief-september-2026-round-10",
-      "image_url": "https://reliefweb.int/sites/default/files/styles/large/public/previews/dd/de/ddde17d7-c7f0-480a-a814-3516757c6eba.png",
-      "source_icon": "https://i.newsdata.io/reliefweb.jpg",
-      "source": "Reliefweb",
-      "published_at": "2026-11-26 05:13:51",
-      "language": "english",
-      "category": "environment"
-    },
-    {
-      "id": "ac5c76cba4330cc2c5cf3164c20c307b",
-      "title": "Maternal deaths decline sharply in Sierra Leone, but challenges remain",
-      "description": null,
-      "url": "https://apnews.com/article/sierra-leone-maternal-mortality-8b0dc69e28bd8221701dee11e7c7b4d2",
-      "image_url": "https://dims.apnews.com/dims4/default/a5fbfa9/2147483647/strip/false/crop/4778x3889+0+0/resize/1200x977!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc9%2F29%2Fffd38d648ba2927537c3f2fb28fe%2F3d5f67e5285b4672bd2a127188476b5d",
-      "source_icon": "https://i.newsdata.io/apnews.png",
-      "source": "Apnews",
-      "published_at": "2026-11-26 05:04:59",
-      "language": "english",
-      "category": "top"
     }
   ]
 }
